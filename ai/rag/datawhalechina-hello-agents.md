@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-11-03T00:02:17.750294+05:30'
-published_at: '2026-11-02T17:20:49Z'
+collected_at: '2026-11-03T17:35:12.844845+05:30'
+published_at: '2026-11-03T12:04:35Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 85781
+stars: 85893
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-10-13T22:28:54Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-11-03T00:02:17.750294+05:30'
-last_seen: '2026-11-03T00:02:17.750294+05:30'
-last_checked: '2026-11-03T00:02:17.750294+05:30'
+first_seen: '2026-11-03T17:35:12.844845+05:30'
+last_seen: '2026-11-03T17:35:12.844845+05:30'
+last_checked: '2026-11-03T17:35:12.844845+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-*   Python-based tutorial for foundational intelligent agent development, emphasizing principles and practical implementation.
-*   Covers LLM-driven agent architectures, providing a comprehensive guide from scratch.
-*   Integrates RAG (Retrieval Augmented Generation) as a core technique for enhancing agent capabilities.
+*   Comprehensive tutorial on foundational intelligent agent architecture and implementation.
+*   Explores
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 85781
-- Forks: 10678
+- Stars: 85893
+- Forks: 10698
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-11-02T17:20:49Z
+- Last Updated: 2026-11-03T12:04:35Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

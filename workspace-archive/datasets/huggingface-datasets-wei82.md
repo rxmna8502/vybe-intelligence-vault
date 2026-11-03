@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: wei82/precancer-omics-data (Likes: 23, Downloads: 1355048)
+Trending Hugging Face dataset: wei82/precancer-omics-data (Likes: 23, Downloads: 1396680)
 
 ## Use Cases
 

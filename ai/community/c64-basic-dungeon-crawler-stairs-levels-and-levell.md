@@ -13,13 +13,14 @@ collected_at: '2026-11-03T07:59:37.762996+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:c64-basic-dungeon-crawler-stairs-levels-and-levell
 first_seen: '2026-11-03T00:01:22.130431+05:30'
 last_seen: '2026-11-03T07:59:37.762996+05:30'
 last_checked: '2026-11-03T07:59:37.762996+05:30'
 health_score: 100
 ---
+
 
 # C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)
 

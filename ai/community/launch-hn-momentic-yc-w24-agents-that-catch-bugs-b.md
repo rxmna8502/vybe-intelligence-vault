@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://momentic.ai
 hn_url: https://news.ycombinator.com/item?id=50339913
-score: 128
+score: 146
 author: wuweiweiwu
-comments_count: 85
+comments_count: 97
 published_at: '2026-11-02T22:35:25+05:30'
-collected_at: '2026-11-03T07:59:36.196316+05:30'
+collected_at: '2026-11-03T17:33:19.267918+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-momentic-yc-w24-agents-that-catch-bugs-b
 first_seen: '2026-11-03T00:01:19.747261+05:30'
-last_seen: '2026-11-03T07:59:36.196316+05:30'
-last_checked: '2026-11-03T07:59:36.196316+05:30'
+last_seen: '2026-11-03T17:33:19.267918+05:30'
+last_checked: '2026-11-03T17:33:19.267918+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by wuweiweiwu. Score: 128, Comments: 85.
+Hacker News story by wuweiweiwu. Score: 146, Comments: 97.
 Original Link: https://momentic.ai/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: wuweiweiwu
-- Score: 128 Upvotes
-- Comments: 85 Discussions
+- Score: 146 Upvotes
+- Comments: 97 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50339913
 - Original Article: https://momentic.ai
 

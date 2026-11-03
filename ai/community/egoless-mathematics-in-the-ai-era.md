@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era
 hn_url: https://news.ycombinator.com/item?id=50341736
-score: 120
+score: 167
 author: smilelamp
-comments_count: 82
+comments_count: 124
 published_at: '2026-11-03T00:24:44+05:30'
-collected_at: '2026-11-03T07:59:36.911569+05:30'
+collected_at: '2026-11-03T17:33:20.183839+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:egoless-mathematics-in-the-ai-era
 first_seen: '2026-11-03T07:59:36.911569+05:30'
-last_seen: '2026-11-03T07:59:36.911569+05:30'
-last_checked: '2026-11-03T07:59:36.911569+05:30'
+last_seen: '2026-11-03T17:33:20.183839+05:30'
+last_checked: '2026-11-03T17:33:20.183839+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by smilelamp. Score: 120, Comments: 82.
+Hacker News story by smilelamp. Score: 167, Comments: 124.
 Original Link: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: smilelamp
-- Score: 120 Upvotes
-- Comments: 82 Discussions
+- Score: 167 Upvotes
+- Comments: 124 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50341736
 - Original Article: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era
 

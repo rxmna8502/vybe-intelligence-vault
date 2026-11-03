@@ -13,13 +13,14 @@ collected_at: '2026-11-03T07:59:36.549251+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-sec-should-block-anthropic-s-ipo-to-protect-th
 first_seen: '2026-11-03T07:59:36.549251+05:30'
 last_seen: '2026-11-03T07:59:36.549251+05:30'
 last_checked: '2026-11-03T07:59:36.549251+05:30'
 health_score: 100
 ---
+
 
 # The SEC Should Block Anthropic's IPO to Protect the Public
 

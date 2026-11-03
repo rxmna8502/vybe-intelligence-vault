@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-11-03T00:02:27.739924+05:30'
-published_at: '2026-11-02T02:42:36Z'
+collected_at: '2026-11-03T17:35:22.760541+05:30'
+published_at: '2026-11-03T07:43:40Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 115
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-11-03T00:02:27.739924+05:30'
-last_seen: '2026-11-03T00:02:27.739924+05:30'
-last_checked: '2026-11-03T00:02:27.739924+05:30'
+first_seen: '2026-11-03T17:35:22.760541+05:30'
+last_seen: '2026-11-03T17:35:22.760541+05:30'
+last_checked: '2026-11-03T17:35:22.760541+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG curriculum: 4 modules, 20 chapters, spanning foundational concepts to production deployment.
-*   Practical implementation focus: 17 Jupyter Notebooks and 6 enterprise-level case studies utilizing LangChain, LLMs, and vector databases.
-*   Systematic mastery objective: Equips users with end-to-end RAG development and deployment capabilities.
+*   Comprehensive RAG curriculum structured across 4 modules and 20 chapters, covering foundational concepts through to production deployment.
+*   Features 17 Jupyter Notebooks and 6 enterprise-grade practical cases for hands-on RAG system development.
+*   Leverages LangChain, LLMs, and vector databases as core technologies for implementing Retrieval-Augmented Generation.
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 21
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
-- Last Updated: 2026-11-02T02:42:36Z
+- Last Updated: 2026-11-03T07:43:40Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T16:43:21Z

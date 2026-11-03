@@ -7,379 +7,379 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Agent Framework
 
-* **[0xfreak0/sui-mcp](world/public/vault/daily-digests/2026-11-02/sui-mcp.md)** (`reference` | `reference` tier)
+* **[0xfreak0/sui-mcp](world/public/vault/daily-digests/2026-11-03/sui-mcp.md)** (`reference` | `reference` tier)
   * Summary: A read-only MCP server for investigating on-chain activity on the Sui blockchain, specializing in fund tracing, wallet attribution, and forensic analysis of transaction flows. It provides 60 tools for wallet overviews, DeFi positions, NFTs, and proto
   * Tags: `Sui blockchain`, `fund tracing`, `forensic analysis`, `MCP server`, `on-chain investigation`
 
-* **[4fuu/uri-agent](world/public/vault/daily-digests/2026-11-02/uri-agent.md)** (`reference` | `reference` tier)
+* **[4fuu/uri-agent](world/public/vault/daily-digests/2026-11-03/uri-agent.md)** (`reference` | `reference` tier)
   * Summary: URI Agent is a protocol-oriented terminal coding agent that enables dynamic tool loading via URI protocols, allowing models to interact with tools on-demand while keeping context minimal until needed. It supports extensible plugins, built-in MCP brid
   * Tags: `terminal agent`, `protocol-oriented`, `dynamic tool loading`, `MCP bridge`, `WASM plugins`
 
-* **[A1m1ng777888/super-brain](world/public/vault/daily-digests/2026-11-02/super-brain.md)** (`reference` | `reference` tier)
+* **[A1m1ng777888/super-brain](world/public/vault/daily-digests/2026-11-03/super-brain.md)** (`reference` | `reference` tier)
   * Summary: Super-Brain is an AI agent cognitive enhancement system designed to augment agents with persistent memory, knowledge graphs, SimHash semantic search, and self-repair mechanisms. It enables structured persona-based memory management and cross-project
   * Tags: `AI Agents`, `Memory Persistence`, `Knowledge Graphs`, `Semantic Search`, `Self-Repair`
 
-* **[AbhiVarde/tryeve](world/public/vault/daily-digests/2026-11-02/tryeve.md)** (`reference` | `reference` tier)
+* **[AbhiVarde/tryeve](world/public/vault/daily-digests/2026-11-03/tryeve.md)** (`reference` | `reference` tier)
   * Summary: tryeve is an agent runtime platform that generates, tests, and deploys AI agents in real-time using the eve framework. It automates the process of creating functional agents from plain English descriptions, validates them against a live runtime, and
   * Tags: `agent generation`, `real-time testing`, `eve framework`, `sandbox deployment`, `AI runtime`
 
-* **[AdenChenCoder/trade-compass-agent](world/public/vault/daily-digests/2026-11-02/trade-compass-agent.md)** (`reference` | `reference` tier)
+* **[AdenChenCoder/trade-compass-agent](world/public/vault/daily-digests/2026-11-03/trade-compass-agent.md)** (`reference` | `reference` tier)
   * Summary: A local-first AI research and trading workbench tailored for China's A-share market, integrating market data, technical and fundamental analysis, specialized agents, simulated portfolios, automated workflows, and long-term memory into a unified Web a
   * Tags: `AI trading assistant`, `A-share market analysis`, `workflow automation`, `multi-agent system`, `simulated trading`
 
-* **[adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent](world/public/vault/daily-digests/2026-11-02/smartreco-behavioral-ai-recommendation-agent.md)** (`reference` | `reference` tier)
+* **[adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent](world/public/vault/daily-digests/2026-11-03/smartreco-behavioral-ai-recommendation-agent.md)** (`reference` | `reference` tier)
   * Summary: SmartReco is an agentic AI recommendation platform that observes user behavior to dynamically generate personalized course recommendations using a dual-write vector database (ChromaDB) and NVIDIA Llama 3.1 70B LLM. It combines real-time RAG, behavior
   * Tags: `Recommendation Engine`, `RAG`, `Behavioral Analytics`, `Agentic AI`, `Course Recommendation`
 
-* **[Ahmed2797/smartreco-agentic-recommendation-system-2026](world/public/vault/daily-digests/2026-11-02/smartreco-agentic-recommendation-system-2026.md)** (`reference` | `reference` tier)
+* **[Ahmed2797/smartreco-agentic-recommendation-system-2026](world/public/vault/daily-digests/2026-11-03/smartreco-agentic-recommendation-system-2026.md)** (`reference` | `reference` tier)
   * Summary: A hybrid agentic recommendation system that combines behavioral analytics with RAG-based semantic search to deliver hyper-personalized product recommendations. It uses LangGraph for multi-step reasoning, Pinecone for vector search, and FastAPI for a
   * Tags: `recommendation system`, `RAG`, `agentic AI`, `personalization`, `behavioral analytics`
 
-* **[AIXP-Labs/SoulACP](world/public/vault/daily-digests/2026-11-02/soulacp.md)** (`reference` | `reference` tier)
+* **[AIXP-Labs/SoulACP](world/public/vault/daily-digests/2026-11-03/soulacp.md)** (`reference` | `reference` tier)
   * Summary: SoulACP is a Python client library for the Agent Client Protocol (ACP) that enables seamless interaction with various AI agent CLIs through a unified interface. It provides managed session handling, connection pooling, and async streaming for real-ti
   * Tags: `Agent Protocol`, `CLI Integration`, `Session Management`, `Async Streaming`, `Multi-Agent`
 
-* **[ajaxiis-rust/TrueNeverStory](world/public/vault/daily-digests/2026-11-02/trueneverstory.md)** (`reference` | `reference` tier)
+* **[ajaxiis-rust/TrueNeverStory](world/public/vault/daily-digests/2026-11-03/trueneverstory.md)** (`reference` | `reference` tier)
   * Summary: TrueNeverStory is an AI-powered interactive narrative engine that enables users to write stories by playing as characters in a living world. It uses a state-first architecture where every NPC remembers actions, outcomes are deterministic, and the sto
   * Tags: `interactive storytelling`, `deterministic simulation`, `multi-agent systems`, `narrative generation`, `RAG optimization`
 
-* **[alexar76/theoros](world/public/vault/daily-digests/2026-11-02/theoros.md)** (`reference` | `reference` tier)
+* **[alexar76/theoros](world/public/vault/daily-digests/2026-11-03/theoros.md)** (`reference` | `reference` tier)
   * Summary: THEOROS is a constitutional framework for agent sovereignty in AI systems, defining seven precepts for verified agency, gated tool access, and public amendment of rules. It operates as a persona within the DIOSCURI runtime, publishing weekly columns
   * Tags: `agent sovereignty`, `constitutional framework`, `DIOSCURI runtime`, `public governance`, `economic metaphors`
 
-* **[AndyOliverR/VassalOps](world/public/vault/daily-digests/2026-11-02/vassalops.md)** (`reference` | `reference` tier)
+* **[AndyOliverR/VassalOps](world/public/vault/daily-digests/2026-11-03/vassalops.md)** (`reference` | `reference` tier)
   * Summary: VassalOps is a local-first desktop agent for Windows that combines a pywebview-based control panel with LangGraph planning, Ollama for local inference, and pyautogui for automation. It requires human approval before executing any mouse or keyboard ma
   * Tags: `desktop automation`, `local inference`, `human-in-the-loop`, `privacy-first`, `agent framework`
 
-* **[ankush-poonia007/STARTUP-AI-AGENT](world/public/vault/daily-digests/2026-11-02/startup-ai-agent.md)** (`reference` | `reference` tier)
+* **[ankush-poonia007/STARTUP-AI-AGENT](world/public/vault/daily-digests/2026-11-03/startup-ai-agent.md)** (`reference` | `reference` tier)
   * Summary: BizRadar AI is an AI-powered startup intelligence agent that transforms startup ideas into structured business intelligence reports using a hand-built ReAct agent, parallel tool execution, real-time web search, and RAG-grounded document analysis. It
   * Tags: `ReAct agent`, `RAG`, `startup intelligence`, `parallel tool execution`, `hallucination prevention`
 
-* **[aolva/studio](world/public/vault/daily-digests/2026-11-02/studio.md)** (`reference` | `reference` tier)
+* **[aolva/studio](world/public/vault/daily-digests/2026-11-03/studio.md)** (`reference` | `reference` tier)
   * Summary: Aolva Studio is a source-available desktop agent workspace designed for everyday development, offering a local-first coding agent that integrates with Aolva's models and third-party providers for heavy reasoning tasks. It provides a unified workspace
   * Tags: `desktop agent`, `coding assistant`, `local-first`, `multi-model routing`, `workflow integration`
 
-* **[ArtificialAnalysis/Stirrup](world/public/vault/daily-digests/2026-11-02/stirrup.md)** (`reference` | `reference` tier)
+* **[ArtificialAnalysis/Stirrup](world/public/vault/daily-digests/2026-11-03/stirrup.md)** (`reference` | `reference` tier)
   * Summary: Stirrup is a lightweight Python framework designed to simplify the creation of AI agents by providing a flexible, model-centric foundation with built-in best practices for context management, tool integration, and execution environments. It emphasize
   * Tags: `agent-framework`, `model-centric`, `tool-integration`, `context-management`, `modular`
 
-* **[ArtJack/verdict](world/public/vault/daily-digests/2026-11-02/verdict.md)** (`reference` | `reference` tier)
+* **[ArtJack/verdict](world/public/vault/daily-digests/2026-11-03/verdict.md)** (`reference` | `reference` tier)
   * Summary: Verdict is a skeptical QA agent with memory that tracks changes in codebases by comparing current runs against a stored baseline. It classifies failures, quarantines flaky tests, and provides a defensible verdict on code quality with delta-based repo
   * Tags: `QA automation`, `delta testing`, `flaky test detection`, `release gating`, `AI-assisted testing`
 
-* **[Aseubel/yusi](world/public/vault/daily-digests/2026-11-02/yusi.md)** (`reference` | `reference` tier)
+* **[Aseubel/yusi](world/public/vault/daily-digests/2026-11-03/yusi.md)** (`reference` | `reference` tier)
   * Summary: Yusi is an open-source AI companion focused on long-term memory and privacy, designed to organize personal experiences, conversations, and life events into sustainable memory structures for deeper AI understanding and interaction.
   * Tags: `long-term memory`, `privacy-first`, `RAG`, `AI companion`, `multi-model routing`
 
-* **[aviskaar/zorp](world/public/vault/daily-digests/2026-11-02/zorp.md)** (`reference` | `reference` tier)
+* **[aviskaar/zorp](world/public/vault/daily-digests/2026-11-03/zorp.md)** (`reference` | `reference` tier)
   * Summary: zorp is a research agent framework designed for scientific discovery and evidence-based investigation. It transforms uncertain questions into defensible answers by structuring investigations, recording evidence, and ensuring traceability of claims to
   * Tags: `research automation`, `evidence-based reasoning`, `scientific discovery`, `agent framework`, `pre-registration`
 
-* **[axiomantic/spellbook](world/public/vault/daily-digests/2026-11-02/spellbook.md)** (`reference` | `reference` tier)
+* **[axiomantic/spellbook](world/public/vault/daily-digests/2026-11-03/spellbook.md)** (`reference` | `reference` tier)
   * Summary: Spellbook is a harness-augmentation layer for AI coding assistants that provides skills, commands, hooks, and a shared MCP server to enhance workflows across multiple platforms like Claude Code, Antigravity, and OpenCode. It standardizes and augments
   * Tags: `AI coding assistant`, `workflow automation`, `MCP server`, `multi-platform`, `quality gates`
 
-* **[bandageok/synapse-cli](world/public/vault/daily-digests/2026-11-02/synapse-cli.md)** (`reference` | `reference` tier)
+* **[bandageok/synapse-cli](world/public/vault/daily-digests/2026-11-03/synapse-cli.md)** (`reference` | `reference` tier)
   * Summary: Synapse CLI is a local-first terminal-based coding agent that maintains persistent project memory and enables seamless switching between LLM providers while enforcing strict tool isolation and safety boundaries. It connects to OpenAI/Anthropic-compat
   * Tags: `coding agent`, `provider portability`, `persistent memory`, `tool isolation`, `safety-first`
 
-* **[bcsongor/vc6ai](world/public/vault/daily-digests/2026-11-02/vc6ai.md)** (`reference` | `reference` tier)
+* **[bcsongor/vc6ai](world/public/vault/daily-digests/2026-11-03/vc6ai.md)** (`reference` | `reference` tier)
   * Summary: A minimalist AI agent framework written in C for legacy Windows systems (XP/2003) that interacts with LLMs via OpenRouter and executes commands through cmd.exe. It emphasizes simplicity with a single tool (command execution) and low resource usage.
   * Tags: `legacy systems`, `minimalist AI`, `command execution`, `OpenRouter`, `Windows XP`
 
-* **[Beige-superior870/synthcode](world/public/vault/daily-digests/2026-11-02/synthcode.md)** (`reference` | `reference` tier)
+* **[Beige-superior870/synthcode](world/public/vault/daily-digests/2026-11-03/synthcode.md)** (`reference` | `reference` tier)
   * Summary: synthcode is a Windows-based open-source application that acts as a coding assistant, enabling users to perform software development tasks through natural language commands. It integrates with various AI models to automate code reviews, edits, and pr
   * Tags: `coding assistant`, `agent-based workflow`, `Windows application`, `model-agnostic`, `local development`
 
-* **[Beyond-Horizons-Institute/symbio-basic](world/public/vault/daily-digests/2026-11-02/symbio-basic.md)** (`reference` | `reference` tier)
+* **[Beyond-Horizons-Institute/symbio-basic](world/public/vault/daily-digests/2026-11-03/symbio-basic.md)** (`reference` | `reference` tier)
   * Summary: Symbio Basic is a desktop AI companion application that integrates with AI providers or Hermes to create a 3D VRM avatar living on your desktop. It enables voice conversations, screen vision, persistent memory, and autonomous agent behavior with tool
   * Tags: `AI companion`, `3D avatar`, `desktop agent`, `autonomous agent`, `memory persistence`
 
-* **[Bredrumb/TomoriBot](world/public/vault/daily-digests/2026-11-02/tomoribot.md)** (`reference` | `reference` tier)
+* **[Bredrumb/TomoriBot](world/public/vault/daily-digests/2026-11-03/tomoribot.md)** (`reference` | `reference` tier)
   * Summary: TomoriBot is a self-hosted, customizable Discord AI assistant and role-playing system featuring long-term memory, multi-persona support, tool calling, multimodality, and API/local model integration. It enables agentic AI interactions, media generatio
   * Tags: `Discord AI`, `Self-hosted`, `Agentic AI`, `Multimodal`, `Persona Management`
 
-* **[cabbage2000-lab/textbook-writer-skills](world/public/vault/daily-digests/2026-11-02/textbook-writer-skills.md)** (`reference` | `reference` tier)
+* **[cabbage2000-lab/textbook-writer-skills](world/public/vault/daily-digests/2026-11-03/textbook-writer-skills.md)** (`reference` | `reference` tier)
   * Summary: A modular skill suite designed to integrate with AI coding agents (Claude Code, Codex, WorkBuddy) for structured textbook creation. It enforces backward instructional design (UbD) principles to ensure textbooks have clear learning objectives, Bloom's
   * Tags: `textbook generation`, `instructional design`, `UbD framework`, `Bloom's taxonomy`, `verifiable content`
 
-* **[caihu0916/taskforge](world/public/vault/daily-digests/2026-11-02/taskforge.md)** (`reference` | `reference` tier)
+* **[caihu0916/taskforge](world/public/vault/daily-digests/2026-11-03/taskforge.md)** (`reference` | `reference` tier)
   * Summary: TaskForge is an open-source AI Agent OS designed for solo entrepreneurs, offering a dual-mode LLM execution environment (local or remote), a workflow DSL for agent orchestration, and a Tauri-based desktop interface. It supports 12+ agent roles, PDCA
   * Tags: `AI Agent Orchestration`, `Workflow DSL`, `Local-First`, `Tauri Desktop`, `PDCA Pipeline`
 
-* **[chjm-ai/vococo](world/public/vault/daily-digests/2026-11-02/vococo.md)** (`reference` | `reference` tier)
+* **[chjm-ai/vococo](world/public/vault/daily-digests/2026-11-03/vococo.md)** (`reference` | `reference` tier)
   * Summary: Vococo is a personal AI assistant framework designed for single-user, voice-first interactions with multi-channel access (TUI, CLI, Web PWA). It supports real-time voice conversations, task automation, long-term memory, and multi-vendor model switchi
   * Tags: `personal AI assistant`, `voice-first interaction`, `multi-channel access`, `task automation`, `long-term memory`
 
-* **[chriswu727/sibyl](world/public/vault/daily-digests/2026-11-02/sibyl.md)** (`reference` | `reference` tier)
+* **[chriswu727/sibyl](world/public/vault/daily-digests/2026-11-03/sibyl.md)** (`reference` | `reference` tier)
   * Summary: Sibyl is a keyless deep-research agent that retrieves, scrapes, and cleans web content to provide structured evidence for AI models. It operates as an MCP server, CLI, or Python library, enabling both retrieval-only and full research pipeline workflo
   * Tags: `keyless retrieval`, `web research`, `evidence-based reasoning`, `MCP server`, `multi-LLM support`
 
-* **[CJackHwang/SunamAI](world/public/vault/daily-digests/2026-11-02/sunamai.md)** (`reference` | `reference` tier)
+* **[CJackHwang/SunamAI](world/public/vault/daily-digests/2026-11-03/sunamai.md)** (`reference` | `reference` tier)
   * Summary: Sunam is an open-source AI programming assistant that runs entirely in the browser, providing an isolated development environment with terminal, file system, and service preview capabilities via WebContainer. It communicates with LLMs through OpenAI-
   * Tags: `AI programming assistant`, `browser-based IDE`, `agent framework`, `WebContainer`, `multi-session isolation`
 
-* **[clabby/tact](world/public/vault/daily-digests/2026-11-02/tact.md)** (`reference` | `reference` tier)
+* **[clabby/tact](world/public/vault/daily-digests/2026-11-03/tact.md)** (`reference` | `reference` tier)
   * Summary: Tact is a terminal interface for Nanocodex, providing a TUI-based agent orchestration tool with features like subagents, memory management, session forking, and review capabilities for AI-driven workflows.
   * Tags: `terminal interface`, `agent orchestration`, `multi-agent systems`, `AI workflows`, `terminal UI`
 
-* **[Clean-Dust/worldwave](world/public/vault/daily-digests/2026-11-02/worldwave.md)** (`reference` | `reference` tier)
+* **[Clean-Dust/worldwave](world/public/vault/daily-digests/2026-11-03/worldwave.md)** (`reference` | `reference` tier)
   * Summary: Worldwave is a persistent cognitive entity framework that enables AI agents to maintain memory and identity across sessions, platforms, and time. It provides cross-platform continuity, self-editing knowledge graphs, and a state machine for persistent
   * Tags: `persistent memory`, `cross-platform agents`, `temporal knowledge graph`, `self-editing agents`, `state machine`
 
-* **[Clean-Dust/WorldWave-Agent](world/public/vault/daily-digests/2026-11-02/worldwave-agent.md)** (`reference` | `reference` tier)
+* **[Clean-Dust/WorldWave-Agent](world/public/vault/daily-digests/2026-11-03/worldwave-agent.md)** (`reference` | `reference` tier)
   * Summary: WorldWave-Agent is a persistent cognitive entity framework that enables a single agent to maintain a unified memory and identity across multiple platforms and restarts. It features self-editing knowledge graphs, temporal memory management, and a spir
   * Tags: `persistent memory`, `cross-platform agent`, `temporal knowledge graph`, `self-editing knowledge`, `federated learning`
 
-* **[cloudnewbie/SUBSENTRY](world/public/vault/daily-digests/2026-11-02/subsentry.md)** (`reference` | `reference` tier)
+* **[cloudnewbie/SUBSENTRY](world/public/vault/daily-digests/2026-11-03/subsentry.md)** (`reference` | `reference` tier)
   * Summary: SubSentry is an autonomous background agent built with the Strands Agents SDK that monitors bank and card statements to detect recurring payments, price hikes, zombie subscriptions, and late fees. It drafts and dispatches emails for bill management b
   * Tags: `autonomous agents`, `bill management`, `subscription monitoring`, `human-in-the-loop`, `deterministic detection`
 
-* **[CodeVinci8/vinci-ai-pilot](world/public/vault/daily-digests/2026-11-02/vinci-ai-pilot.md)** (`reference` | `reference` tier)
+* **[CodeVinci8/vinci-ai-pilot](world/public/vault/daily-digests/2026-11-03/vinci-ai-pilot.md)** (`reference` | `reference` tier)
   * Summary: Vinci AI Pilot is a self-hosted AI agent for marketing intelligence that automates competitor research by querying public web sources via Telegram, analyzing findings with Claude API, and delivering structured reports in Google Sheets and XLSX format
   * Tags: `marketing intelligence`, `self-hosted AI agent`, `competitor analysis`, `automated reporting`, `multi-source synthesis`
 
-* **[CrowPus/Zelyq](world/public/vault/daily-digests/2026-11-02/zelyq.md)** (`reference` | `reference` tier)
+* **[CrowPus/Zelyq](world/public/vault/daily-digests/2026-11-03/zelyq.md)** (`reference` | `reference` tier)
   * Summary: Zelyq is an open-source AI-powered agent framework that transforms natural language prompts into fully functional applications, including frontend, backend, and infrastructure components. It emphasizes engineering rigor, verification, and transparenc
   * Tags: `AI agent`, `prompt-to-app`, `full-stack development`, `verification-driven`, `engineering rigor`
 
-* **[CrypticDriver/stackchan-soul](world/public/vault/daily-digests/2026-11-02/stackchan-soul.md)** (`reference` | `reference` tier)
+* **[CrypticDriver/stackchan-soul](world/public/vault/daily-digests/2026-11-03/stackchan-soul.md)** (`reference` | `reference` tier)
   * Summary: A persistent consciousness loop for embodied devices that enables autonomous, curious behavior in desk robots. It runs a long-lived agent session that wakes, thinks, acts, and sleeps based on its inner state (mood, diary) and external inputs, without
   * Tags: `autonomous agents`, `embodied AI`, `persistent consciousness`, `agent runtime`, `embodied devices`
 
-* **[cryptoduke01/vector](world/public/vault/daily-digests/2026-11-02/vector.md)** (`reference` | `reference` tier)
+* **[cryptoduke01/vector](world/public/vault/daily-digests/2026-11-03/vector.md)** (`reference` | `reference` tier)
   * Summary: Vector is an autonomous trading agent for Bitget that uses a four-channel signal tribunal (technical, funding, news, on-chain) to vote independently before an LLM (Qwen) reconciles the decisions. It operates in dry-run paper trading mode by default,
   * Tags: `trading agent`, `signal tribunal`, `paper trading`, `LLM decision-making`, `Bitget integration`
 
-* **[cstroie/tusk](world/public/vault/daily-digests/2026-11-02/tusk.md)** (`reference` | `reference` tier)
+* **[cstroie/tusk](world/public/vault/daily-digests/2026-11-03/tusk.md)** (`reference` | `reference` tier)
   * Summary: Tusk is a minimal-dependency MCP (Model Context Protocol) server written in PHP 7.4, exposed over HTTP for remote connectivity. It provides six tools for web content fetching, search, and metadata extraction, designed to integrate seamlessly with MCP
   * Tags: `MCP server`, `PHP`, `web scraping`, `RAG tooling`, `HTTP transport`
 
-* **[Cyberphobialaxation2471/SkillClaw](world/public/vault/daily-digests/2026-11-02/skillclaw.md)** (`reference` | `reference` tier)
+* **[Cyberphobialaxation2471/SkillClaw](world/public/vault/daily-digests/2026-11-03/skillclaw.md)** (`reference` | `reference` tier)
   * Summary: SkillClaw is a Windows-based personal skill development tool that uses agentic AI to track progress, provide tailored recommendations, and refine guidance over time based on user interactions and feedback.
   * Tags: `skill development`, `personal AI coach`, `agent-based learning`, `local AI`, `Windows application`
 
-* **[cyzus/suzent](world/public/vault/daily-digests/2026-11-02/suzent.md)** (`reference` | `reference` tier)
+* **[cyzus/suzent](world/public/vault/daily-digests/2026-11-03/suzent.md)** (`reference` | `reference` tier)
   * Summary: SUZENT is an open-source, local-first AI agent framework designed for digital sovereignty, enabling users to own their agent's memory, intelligence, and runtime. It supports multi-model providers, portable skills, and explicit governance while ensuri
   * Tags: `sovereign AI`, `local-first`, `multi-model`, `portable memory`, `governance`
 
-* **[DanielTomaro13/sportsdata-agents](world/public/vault/daily-digests/2026-11-02/sportsdata-agents.md)** (`reference` | `reference` tier)
+* **[DanielTomaro13/sportsdata-agents](world/public/vault/daily-digests/2026-11-03/sportsdata-agents.md)** (`reference` | `reference` tier)
   * Summary: A modular agentic platform that transforms sports data into customizable trading desks, analytics teams, or fantasy systems using 32+ specialized LLM agents over a shared data backbone. It supports live odds ingestion, arbitrage detection, backtestin
   * Tags: `sports analytics`, `agentic AI`, `arbitrage detection`, `betting automation`, `data ingestion`
 
-* **[david-srp/totem-mascot](world/public/vault/daily-digests/2026-11-02/totem-mascot.md)** (`reference` | `reference` tier)
+* **[david-srp/totem-mascot](world/public/vault/daily-digests/2026-11-03/totem-mascot.md)** (`reference` | `reference` tier)
   * Summary: Totem is a standalone builder for creating pixel-art mascot logos from a given subject, deployed as a managed agent on ZooWork with a custom web frontend. It enables users to iteratively refine designs through multi-turn conversations and provides a
   * Tags: `logo generation`, `multi-turn agent`, `pixel art`, `managed agents`, `ZooWork`
 
-* **[davidmosiah/wellness-cycle-coach](world/public/vault/daily-digests/2026-11-02/wellness-cycle-coach.md)** (`reference` | `reference` tier)
+* **[davidmosiah/wellness-cycle-coach](world/public/vault/daily-digests/2026-11-03/wellness-cycle-coach.md)** (`reference` | `reference` tier)
   * Summary: A stateless Model Context Protocol (MCP) server that provides phase-aware wellness guidance for AI agents, focusing on menstrual cycle tracking without storing sensitive data. It offers nutrition, training, and hydration recommendations tailored to t
   * Tags: `menstrual cycle tracking`, `phase-aware AI guidance`, `PCOS support`, `stateless MCP`, `wellness automation`
 
-* **[denisotree/veles](world/public/vault/daily-digests/2026-11-02/veles.md)** (`reference` | `reference` tier)
+* **[denisotree/veles](world/public/vault/daily-digests/2026-11-03/veles.md)** (`reference` | `reference` tier)
   * Summary: Veles is a minimal CLI agent framework designed to maintain compounding project memory across sessions, enabling AI agents to become more useful over time by accumulating insights, rules, and curated knowledge. It supports pluggable content layouts,
   * Tags: `compounding memory`, `project-specific knowledge`, `modular agent`, `multi-provider`, `local-first`
 
-* **[devthayron/whatsapp-ai-agent](world/public/vault/daily-digests/2026-11-02/whatsapp-ai-agent.md)** (`reference` | `reference` tier)
+* **[devthayron/whatsapp-ai-agent](world/public/vault/daily-digests/2026-11-03/whatsapp-ai-agent.md)** (`reference` | `reference` tier)
   * Summary: A WhatsApp AI agent system that integrates with Evolution API and OpenAI to process messages, store conversation history, and generate contextual responses. It automatically identifies users, retrieves conversation context, and ensures persistent sto
   * Tags: `WhatsApp automation`, `conversational AI`, `contextual memory`, `multi-model integration`, `chatbot`
 
-* **[dinglebear-ai/unraid](world/public/vault/daily-digests/2026-11-02/unraid.md)** (`reference` | `reference` tier)
+* **[dinglebear-ai/unraid](world/public/vault/daily-digests/2026-11-03/unraid.md)** (`reference` | `reference` tier)
   * Summary: A monorepo providing MCP servers (Python and Rust) and Unraid OS plugins for managing and querying Unraid servers via GraphQL API. Includes agent integrations for Claude/Codex and supports system operations like Docker/VM management, array control, a
   * Tags: `Unraid management`, `MCP server`, `GraphQL API`, `AI agent integration`, `system monitoring`
 
-* **[dxn1-UBUNTU/sonderr](world/public/vault/daily-digests/2026-11-02/sonderr.md)** (`reference` | `reference` tier)
+* **[dxn1-UBUNTU/sonderr](world/public/vault/daily-digests/2026-11-03/sonderr.md)** (`reference` | `reference` tier)
   * Summary: Sonderr is an agentic coding engine designed for building complex systems like OS kernels, game engines, and compilers. It operates as a terminal-first, editor-integrated, and desktop-wrapped AI coding agent with a model-agnostic architecture, allowi
   * Tags: `AI coding agent`, `model-agnostic`, `complex systems`, `BYOK (Bring Your Own Key)`, `self-verification`
 
-* **[dylanneve1/talon](world/public/vault/daily-digests/2026-11-02/talon.md)** (`reference` | `reference` tier)
+* **[dylanneve1/talon](world/public/vault/daily-digests/2026-11-03/talon.md)** (`reference` | `reference` tier)
   * Summary: Talon is a multi-platform agentic AI harness that runs on Telegram, Discord, Microsoft Teams, Terminal, and a cross-platform Desktop/Mobile companion app (Flutter). It supports pluggable backends (Claude, Kilo, OpenCode, Codex, OpenAI Agents) and pro
   * Tags: `multi-platform`, `agentic AI`, `MCP tools`, `backend-agnostic`, `persistent agents`
 
-* **[ememndon/tess_console](world/public/vault/daily-digests/2026-11-02/tess_console.md)** (`reference` | `reference` tier)
+* **[ememndon/tess_console](world/public/vault/daily-digests/2026-11-03/tess_console.md)** (`reference` | `reference` tier)
   * Summary: Tess Console is a self-hosted operations platform where an AI agent (Tess) autonomously manages marketing, content, SEO, support, and site health for a portfolio of live websites under human oversight. Built with TypeScript/Next.js, it integrates an
   * Tags: `AI agent`, `self-hosted`, `RBAC`, `LLM integration`, `autonomous operations`
 
-* **[Enoch666/suanming-mcp](world/public/vault/daily-digests/2026-11-02/suanming-mcp.md)** (`reference` | `reference` tier)
+* **[Enoch666/suanming-mcp](world/public/vault/daily-digests/2026-11-03/suanming-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that provides traditional Chinese divination services, including Bazi (八字) analysis, Liu Yao (六爻) divination, fortune-telling, name evaluation, and a programmer-themed almanac. It generates visually rich, ink-was
   * Tags: `MCP Server`, `Chinese Divination`, `Agent Tools`, `Ink-Wash HTML`, `Programmer Utilities`
 
-* **[epicsagas/wishket-radar](world/public/vault/daily-digests/2026-11-02/wishket-radar.md)** (`reference` | `reference` tier)
+* **[epicsagas/wishket-radar](world/public/vault/daily-digests/2026-11-03/wishket-radar.md)** (`reference` | `reference` tier)
   * Summary: A multi-host agent plugin for Wishket (wishket.com) that enables project search, analysis, and technical profile matching across AI coding assistants like Claude Code, Codex, Antigravity, and Hermes. It includes a Rust-based MCP server for reverse-en
   * Tags: `AI Agent Integration`, `Technical Profile Matching`, `Wishket API`, `MCP Server`, `Project Scouting`
 
-* **[equationalapplications/sqlite-s3-agent-tutorial](world/public/vault/daily-digests/2026-11-02/sqlite-s3-agent-tutorial.md)** (`reference` | `reference` tier)
+* **[equationalapplications/sqlite-s3-agent-tutorial](world/public/vault/daily-digests/2026-11-03/sqlite-s3-agent-tutorial.md)** (`reference` | `reference` tier)
   * Summary: A tutorial repository demonstrating a serverless agent architecture using SQLite as a state store, rehydrated from S3, with AWS Lambda and Amazon Bedrock for LLM interactions. The example includes a Discord bot that fetches weather and Bitcoin data,
   * Tags: `serverless`, `agent`, `sqlite`, `aws-bedrock`, `discord-bot`
 
-* **[erekola/turva-mcp](world/public/vault/daily-digests/2026-11-02/turva-mcp.md)** (`reference` | `reference` tier)
+* **[erekola/turva-mcp](world/public/vault/daily-digests/2026-11-03/turva-mcp.md)** (`reference` | `reference` tier)
   * Summary: A public, read-only Model Context Protocol (MCP) server for turva.dev that exposes agent-readiness audits, security scans, and service catalogs as structured JSON. It enables AI agents to query public data without scraping HTML.
   * Tags: `MCP Server`, `Agent Readiness`, `Security Scanning`, `Cloudflare Workers`, `Public Data`
 
-* **[Eternal-Wanderer-Vegetable/Stella_project](world/public/vault/daily-digests/2026-11-02/stella_project.md)** (`reference` | `reference` tier)
+* **[Eternal-Wanderer-Vegetable/Stella_project](world/public/vault/daily-digests/2026-11-03/stella_project.md)** (`reference` | `reference` tier)
   * Summary: Stella is a memory-augmented QQ group chatbot designed for private deployments, focusing on converting group chat interactions into persistent, retrievable memories. It leverages local small language models (SLMs) for memory processing, summarization
   * Tags: `Memory Augmentation`, `RAG`, `Local LLM`, `QQ Bot`, `Contextual Retrieval`
 
-* **[eugen-goebel/smart-doc-qa](world/public/vault/daily-digests/2026-11-02/smart-doc-qa.md)** (`reference` | `reference` tier)
+* **[eugen-goebel/smart-doc-qa](world/public/vault/daily-digests/2026-11-03/smart-doc-qa.md)** (`reference` | `reference` tier)
   * Summary: A Retrieval-Augmented Generation (RAG) system that enables users to upload and chat with documents (PDF, DOCX, TXT) using AI-powered question answering. Answers are grounded in document content with source references, and the system supports both API
   * Tags: `RAG`, `Document Q&A`, `Vector Search`, `Streamlit`, `ChromaDB`
 
-* **[extensiondev/skill](world/public/vault/daily-digests/2026-11-02/skill.md)** (`reference` | `reference` tier)
+* **[extensiondev/skill](world/public/vault/daily-digests/2026-11-03/skill.md)** (`reference` | `reference` tier)
   * Summary: A specialized Agent Skill for AI coding agents that enables them to build, debug, and publish cross-browser extensions for Chrome, Edge, Firefox, Safari, and other Chromium- or Gecko-based browsers using the open Agent Skills format.
   * Tags: `browser extensions`, `AI agents`, `cross-browser development`, `MCP tools`, `debugging automation`
 
-* **[fahmiwol/sidix](world/public/vault/daily-digests/2026-11-02/sidix.md)** (`reference` | `reference` tier)
+* **[fahmiwol/sidix](world/public/vault/daily-digests/2026-11-03/sidix.md)** (`reference` | `reference` tier)
   * Summary: SIDIX is a free, open-source, self-hosted AI agent framework designed for self-learning, self-evolving, and autonomous operation without vendor API dependencies. It integrates a local LLM (Qwen2.5-7B with LoRA) and a distributed knowledge-preservatio
   * Tags: `self-hosted AI`, `autonomous agent`, `distributed knowledge`, `local LLM`, `epistemological architecture`
 
-* **[FelixIsaac/whatsapp-mcp-extended](world/public/vault/daily-digests/2026-11-02/whatsapp-mcp-extended.md)** (`reference` | `reference` tier)
+* **[FelixIsaac/whatsapp-mcp-extended](world/public/vault/daily-digests/2026-11-03/whatsapp-mcp-extended.md)** (`reference` | `reference` tier)
   * Summary: An extended Model Context Protocol (MCP) server for WhatsApp that provides a comprehensive toolset for messaging, media handling, group management, presence tracking, and real-time webhooks. It builds upon prior forks to offer 26 default tools, inclu
   * Tags: `WhatsApp integration`, `MCP server`, `real-time messaging`, `agent tooling`, `webhooks`
 
-* **[FerroxLabs/wayland-core](world/public/vault/daily-digests/2026-11-02/wayland-core.md)** (`reference` | `reference` tier)
+* **[FerroxLabs/wayland-core](world/public/vault/daily-digests/2026-11-03/wayland-core.md)** (`reference` | `reference` tier)
   * Summary: Wayland Core is a self-evolving, terminal-first AI agent engine written in Rust that dynamically combines multiple rival models to solve complex problems, rewrites its own prompts for continuous improvement, and operates securely with sandboxed execu
   * Tags: `multi-provider`, `self-evolving`, `MCP-native`, `sandboxed execution`, `terminal-first`
 
-* **[freema/vellum](world/public/vault/daily-digests/2026-11-02/vellum.md)** (`reference` | `reference` tier)
+* **[freema/vellum](world/public/vault/daily-digests/2026-11-03/vellum.md)** (`reference` | `reference` tier)
   * Summary: vellum is a lightweight, self-hosted MCP server designed to manage a folder of markdown files as a personal or team knowledge vault. It provides a static Go binary with an embedded web UI and MCP capabilities, enabling agents to interact with markdow
   * Tags: `MCP server`, `markdown vault`, `self-hosted`, `knowledge management`, `agent integration`
 
-* **[fruggr/zendesk-mcp-server](world/public/vault/daily-digests/2026-11-02/zendesk-mcp-server.md)** (`reference` | `reference` tier)
+* **[fruggr/zendesk-mcp-server](world/public/vault/daily-digests/2026-11-03/zendesk-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that integrates Zendesk into AI assistants, enabling natural language interactions with Zendesk Support and Help Center. It allows users to search knowledge base articles, manage tickets, draft and update article
   * Tags: `MCP server`, `Zendesk integration`, `AI assistant`, `OAuth authentication`, `ticket management`
 
-* **[geoffmcc/sidekick](world/public/vault/daily-digests/2026-11-02/sidekick.md)** (`reference` | `reference` tier)
+* **[geoffmcc/sidekick](world/public/vault/daily-digests/2026-11-03/sidekick.md)** (`reference` | `reference` tier)
   * Summary: Sidekick is a self-hosted autonomous AI agent platform that provides persistent memory, 96 built-in MCP tools, and a knowledge base. It enables remote execution, autonomous task planning, and self-extension capabilities, running on a user's remote ma
   * Tags: `autonomous agents`, `persistent memory`, `MCP tools`, `self-hosted`, `remote execution`
 
-* **[ghdtjdwn/ssuAgent](world/public/vault/daily-digests/2026-11-02/ssuagent.md)** (`reference` | `reference` tier)
+* **[ghdtjdwn/ssuAgent](world/public/vault/daily-digests/2026-11-03/ssuagent.md)** (`reference` | `reference` tier)
   * Summary: ssuAgent is a LangGraph-based multi-agent system designed to connect to the 숭실대학교 MCP server (ssuMCP) for campus AI services. It routes user queries to domain-specific agents (academic, library, LMS) and streams responses via SSE, enabling real-time
   * Tags: `multi-agent`, `campus AI`, `LangGraph`, `MCP integration`, `SSE streaming`
 
-* **[Ghost-White-Guy/Universal-LLM-Agent](world/public/vault/daily-digests/2026-11-02/universal-llm-agent.md)** (`reference` | `reference` tier)
+* **[Ghost-White-Guy/Universal-LLM-Agent](world/public/vault/daily-digests/2026-11-03/universal-llm-agent.md)** (`reference` | `reference` tier)
   * Summary: A lightweight CLI/TUI agent that connects LLMs to system tools, files, network, memory, and automation with real tool calling capabilities. Supports both native and prompt-based tool invocation modes, runs locally or in the cloud, and features a Text
   * Tags: `LLM agent`, `tool calling`, `TUI`, `local-first`, `automation`
 
-* **[gintasz/unigent](world/public/vault/daily-digests/2026-11-02/unigent.md)** (`reference` | `reference` tier)
+* **[gintasz/unigent](world/public/vault/daily-digests/2026-11-03/unigent.md)** (`reference` | `reference` tier)
   * Summary: Unigent is a TypeScript SDK for building stateful, cross-session agent workflows with typed outputs, reusable tools, and session forks. It enables developers to create agent-based applications using ordinary TypeScript while supporting multiple AI ba
   * Tags: `agent-sdk`, `stateful-workflows`, `typescript`, `ai-backends`, `tool-integration`
 
-* **[gitaarik/telecoder](world/public/vault/daily-digests/2026-11-02/telecoder.md)** (`reference` | `reference` tier)
+* **[gitaarik/telecoder](world/public/vault/daily-digests/2026-11-03/telecoder.md)** (`reference` | `reference` tier)
   * Summary: TeleCoder bridges Telegram to a local Claude Code agent, enabling users to interact with a full-featured AI assistant via their phone. It supports real-time file editing, web browsing, voice transcription, and multi-model routing with failover capabi
   * Tags: `Claude Code`, `Telegram bot`, `agentic AI`, `voice interaction`, `multi-model routing`
 
-* **[gogoingai/wenqu-skills](world/public/vault/daily-digests/2026-11-02/wenqu-skills.md)** (`reference` | `reference` tier)
+* **[gogoingai/wenqu-skills](world/public/vault/daily-digests/2026-11-03/wenqu-skills.md)** (`reference` | `reference` tier)
   * Summary: A comprehensive AI Agent workflow for Chinese article creation, integrating traditional writing methodologies with modern AI capabilities. It consists of six specialized skills covering material accumulation, writing, review, image generation, transl
   * Tags: `AI content creation`, `multi-agent workflow`, `Chinese language processing`, `article generation`, `publishing automation`
 
-* **[haya-inc/wasmhatch](world/public/vault/daily-digests/2026-11-02/wasmhatch.md)** (`reference` | `reference` tier)
+* **[haya-inc/wasmhatch](world/public/vault/daily-digests/2026-11-03/wasmhatch.md)** (`reference` | `reference` tier)
   * Summary: WasmHatch is a browser-native AI assistant that performs real-time data transformations, document creation, and report generation directly in the user's browser without requiring a server or external storage. It emphasizes transparency, user control,
   * Tags: `browser-native`, `local-first`, `AI agent`, `data transformation`, `sandboxed execution`
 
-* **[heathjuice/yiyou-agent](world/public/vault/daily-digests/2026-11-02/yiyou-agent.md)** (`reference` | `reference` tier)
+* **[heathjuice/yiyou-agent](world/public/vault/daily-digests/2026-11-03/yiyou-agent.md)** (`reference` | `reference` tier)
   * Summary: A lightweight AI agent framework designed for Yiyou Furniture's order management system, offering conversational AI and task automation with a functional architecture and immutable state management.
   * Tags: `AI Agent`, `Functional Architecture`, `Order Management`, `Task Automation`, `Immutable State`
 
-* **[heathjuice/yiyou-oms](world/public/vault/daily-digests/2026-11-02/yiyou-oms.md)** (`reference` | `reference` tier)
+* **[heathjuice/yiyou-oms](world/public/vault/daily-digests/2026-11-03/yiyou-oms.md)** (`reference` | `reference` tier)
   * Summary: Hermes Agent is a self-improving AI agent framework developed by Nous Research that autonomously learns, creates, and improves skills from experience. It supports multi-platform deployment, integrates with over 200 LLM providers, and offers a termina
   * Tags: `self-improving agent`, `multi-platform deployment`, `skill learning`, `LLM integration`, `autonomous memory`
 
-* **[HH-SpringAI-Agent-Starter/spring-ai-mcp-enterprise](world/public/vault/daily-digests/2026-11-02/spring-ai-mcp-enterprise.md)** (`reference` | `reference` tier)
+* **[HH-SpringAI-Agent-Starter/spring-ai-mcp-enterprise](world/public/vault/daily-digests/2026-11-03/spring-ai-mcp-enterprise.md)** (`reference` | `reference` tier)
   * Summary: A Java Spring Boot framework implementing the Model Context Protocol (MCP) for enterprise AI agents to securely invoke tools like database queries, web searches, and system monitoring. Designed for Java-centric enterprises with SPI-based extensibilit
   * Tags: `MCP Server`, `Java Enterprise`, `AI Agent Integration`, `Spring Boot`, `Tool Framework`
 
-* **[HillolPias/taskapi-backend](world/public/vault/daily-digests/2026-11-02/taskapi-backend.md)** (`reference` | `reference` tier)
+* **[HillolPias/taskapi-backend](world/public/vault/daily-digests/2026-11-03/taskapi-backend.md)** (`reference` | `reference` tier)
   * Summary: A FastAPI-based backend for a task/project manager powered by a LangGraph-orchestrated ReAct AI agent. It integrates 17 tools, ChromaDB for RAG, and LangSmith for tracing, enabling real-time task management and AI-driven responses grounded in live da
   * Tags: `ReAct agent`, `RAG`, `LangGraph`, `FastAPI`, `AI task manager`
 
-* **[htg-pro/zoc_ai](world/public/vault/daily-digests/2026-11-02/zoc_ai.md)** (`reference` | `reference` tier)
+* **[htg-pro/zoc_ai](world/public/vault/daily-digests/2026-11-03/zoc_ai.md)** (`reference` | `reference` tier)
   * Summary: Zoc AI is a local-first agentic coding desktop application powered by llama.cpp, built as a Tauri v2 binary with a bundled FastAPI sidecar for agentic workflows. It combines Rust, Python, and TypeScript in a multi-process architecture for efficient l
   * Tags: `local-first`, `agentic coding`, `multi-language`, `desktop app`, `RAG-ready`
 
-* **[huanmengyishi/work](world/public/vault/daily-digests/2026-11-02/work.md)** (`reference` | `reference` tier)
+* **[huanmengyishi/work](world/public/vault/daily-digests/2026-11-03/work.md)** (`reference` | `reference` tier)
   * Summary: A project-centric CLI agent for DeepSeek that operates as a tool within a workspace, enabling adaptive reasoning, resumable sessions, memory management, and safe tool execution for coding and analysis tasks in WSL environments.
   * Tags: `CLI agent`, `DeepSeek integration`, `resumable sessions`, `adaptive reasoning`, `project-centric`
 
-* **[HumphreySun98/Smart-Study-Agent](world/public/vault/daily-digests/2026-11-02/smart-study-agent.md)** (`reference` | `reference` tier)
+* **[HumphreySun98/Smart-Study-Agent](world/public/vault/daily-digests/2026-11-03/smart-study-agent.md)** (`reference` | `reference` tier)
   * Summary: SmartStudy Agent is an adaptive AI study assistant that personalizes learning by maintaining a persistent belief state about a student's knowledge. It uses reinforcement learning policies, FSRS spaced repetition, and LLM-generated quizzes to dynamica
   * Tags: `Adaptive Learning`, `Reinforcement Learning`, `Spaced Repetition`, `POMDP`, `Personalized Education`
 
-* **[hututuQQQ/sigma](world/public/vault/daily-digests/2026-11-02/sigma.md)** (`reference` | `reference` tier)
+* **[hututuQQQ/sigma](world/public/vault/daily-digests/2026-11-03/sigma.md)** (`reference` | `reference` tier)
   * Summary: Sigma Code is an open-source coding agent designed to handle long-running tasks with state persistence, interruption recovery, and evidence-backed completion. It executes commands in a native sandbox, persists sessions for recovery, and ensures chang
   * Tags: `coding agent`, `sandbox execution`, `durable sessions`, `evidence-backed completion`, `interruption recovery`
 
-* **[IDNSIDNS/tenderapi-mcp](world/public/vault/daily-digests/2026-11-02/tenderapi-mcp.md)** (`reference` | `reference` tier)
+* **[IDNSIDNS/tenderapi-mcp](world/public/vault/daily-digests/2026-11-03/tenderapi-mcp.md)** (`reference` | `reference` tier)
   * Summary: TenderAPI MCP server exposes French (BOAMP) and EU (TED) public procurement data as MCP tools for AI agents like Claude Desktop, Cursor, and Continue. It provides a hosted server for quick access and a local Python-based server for full functionality
   * Tags: `public procurement`, `MCP server`, `AI agents`, `data retrieval`, `tender search`
 
-* **[iduyuhe/zhiyan-evolviq](world/public/vault/daily-digests/2026-11-02/zhiyan-evolviq.md)** (`reference` | `reference` tier)
+* **[iduyuhe/zhiyan-evolviq](world/public/vault/daily-digests/2026-11-03/zhiyan-evolviq.md)** (`reference` | `reference` tier)
   * Summary: An open-source AI-native industrial agent platform designed for electronics manufacturing and semiconductors, featuring 20 pre-built agents, multi-agent orchestration, and self-learning capabilities for enterprise decision-making and shop-floor opera
   * Tags: `industrial agents`, `multi-agent orchestration`, `manufacturing automation`, `self-learning AI`, `MCP tools`
 
-* **[iiishop/StratumCode](world/public/vault/daily-digests/2026-11-02/stratumcode.md)** (`reference` | `reference` tier)
+* **[iiishop/StratumCode](world/public/vault/daily-digests/2026-11-03/stratumcode.md)** (`reference` | `reference` tier)
   * Summary: StratumCode is a local-first software engineering agent that follows a rigorous, evidence-driven workflow for code changes, ensuring every step is auditable, reversible, and transparent. It breaks down tasks into structured phases like investigation,
   * Tags: `evidence-driven`, `auditable workflow`, `local-first`, `code agent`, `contract-first`
 
-* **[imberZsk/visual-worktree-backend](world/public/vault/daily-digests/2026-11-02/visual-worktree-backend.md)** (`reference` | `reference` tier)
+* **[imberZsk/visual-worktree-backend](world/public/vault/daily-digests/2026-11-03/visual-worktree-backend.md)** (`reference` | `reference` tier)
   * Summary: A FastAPI backend service for the Visual Worktree AI intelligent assistant, enabling model interactions via LangChain's ChatOpenAI and Deep Agents. It provides chat interfaces, health checks, and model configuration with OpenAI API compatibility.
   * Tags: `FastAPI`, `LangChain`, `Deep Agents`, `OpenAI`, `AI Assistant`
 
-* **[inbharatai/UnoOne-Local-Agent](world/public/vault/daily-digests/2026-11-02/unoone-local-agent.md)** (`reference` | `reference` tier)
+* **[inbharatai/UnoOne-Local-Agent](world/public/vault/daily-digests/2026-11-03/unoone-local-agent.md)** (`reference` | `reference` tier)
   * Summary: UnoOne V2 is an offline-first Android AI agent that integrates local Gemma 4 planning, offline speech processing, accessibility-based phone control, and a secure browser (Alibaba PageAgent) for hands-free device interaction. It prioritizes safety, of
   * Tags: `offline AI agent`, `Android accessibility`, `local LLM`, `voice control`, `secure browser`
 
-* **[indigokarasu/taste](world/public/vault/daily-digests/2026-11-02/taste.md)** (`reference` | `reference` tier)
+* **[indigokarasu/taste](world/public/vault/daily-digests/2026-11-03/taste.md)** (`reference` | `reference` tier)
   * Summary: Taste builds personalized recommendation models by extracting and analyzing real-world consumption signals from email and calendar data, such as food delivery, travel bookings, and shopping receipts. It enriches venue entities, deduplicates signals,
   * Tags: `recommendation engine`, `consumption signals`, `personalization`, `behavioral modeling`, `data enrichment`
 
-* **[industrix-com-br/tia-portal-code-agent](world/public/vault/daily-digests/2026-11-02/tia-portal-code-agent.md)** (`reference` | `reference` tier)
+* **[industrix-com-br/tia-portal-code-agent](world/public/vault/daily-digests/2026-11-03/tia-portal-code-agent.md)** (`reference` | `reference` tier)
   * Summary: A local AI-assisted engineering interface for Siemens TIA Portal that integrates contextual Add-In actions with interchangeable coding-agent runtimes via the Model Context Protocol (MCP), enabling engineers to explain, review, and propose changes to
   * Tags: `PLC engineering`, `Siemens TIA Portal`, `AI-assisted coding`, `Model Context Protocol`, `Add-In integration`
 
-* **[ivan-magda/swift-claw](world/public/vault/daily-digests/2026-11-02/swift-claw.md)** (`reference` | `reference` tier)
+* **[ivan-magda/swift-claw](world/public/vault/daily-digests/2026-11-03/swift-claw.md)** (`reference` | `reference` tier)
   * Summary: swift-claw is a pure-Swift daemon that deploys a private Telegram bot as a personal AI assistant, running on local hardware with durable memory, proactive scheduling, and strict security policies. It integrates with any OpenAI-compatible LLM while ke
   * Tags: `personal AI assistant`, `local-first`, `Telegram integration`, `LLM orchestration`, `privacy-focused`
 
-* **[jabidhasan327/standardbeagle-xray](world/public/vault/daily-digests/2026-11-02/standardbeagle-xray.md)** (`reference` | `reference` tier)
+* **[jabidhasan327/standardbeagle-xray](world/public/vault/daily-digests/2026-11-03/standardbeagle-xray.md)** (`reference` | `reference` tier)
   * Summary: Agentic CLI Toolkit v2.0 is a unified command-line toolkit that transforms terminals into autonomous browser agents, AI-powered code intelligence engines, and developer tool orchestrators. It enables multi-step research, codebase analysis, and web au
   * Tags: `AI agents`, `browser automation`, `code intelligence`, `terminal tools`, `LLM integration`
 
-* **[JanSzewczyk/szumrak](world/public/vault/daily-digests/2026-11-02/szumrak.md)** (`reference` | `reference` tier)
+* **[JanSzewczyk/szumrak](world/public/vault/daily-digests/2026-11-03/szumrak.md)** (`reference` | `reference` tier)
   * Summary: Szumrak is an autonomous agent engine that integrates with the Claude Agent SDK to perform tasks on a target repository, commit changes, and open a reviewed pull request. It emphasizes safety with env-validated configuration, bounded execution, and h
   * Tags: `autonomous agent`, `Claude integration`, `pull request automation`, `safety-hardened`, `CI/CD`
 
-* **[JasonColapietro/suede-creator-skills](world/public/vault/daily-digests/2026-11-02/suede-creator-skills.md)** (`reference` | `reference` tier)
+* **[JasonColapietro/suede-creator-skills](world/public/vault/daily-digests/2026-11-03/suede-creator-skills.md)** (`reference` | `reference` tier)
   * Summary: A 24-skill toolkit for Claude Code and OpenAI Codex that enables multi-agent orchestration, code review with A-F ship grades, AI evaluation, and workflow automation. It includes specialized skills for agent teams, Codex worker fleets, design systems,
   * Tags: `multi-agent orchestration`, `code review automation`, `AI evaluation`, `workflow automation`, `MCP server`
 
-* **[JavaLyHn/wraith](world/public/vault/daily-digests/2026-11-02/wraith.md)** (`reference` | `reference` tier)
+* **[JavaLyHn/wraith](world/public/vault/daily-digests/2026-11-03/wraith.md)** (`reference` | `reference` tier)
   * Summary: Wraith is a mature Java-based AI agent framework that evolves from a CLI tool to a desktop application and IM gateway (QQ/Feishu bots). It supports multi-agent collaboration, RAG, MCP integration, and advanced features like TUI, LSP diagnostics, and
   * Tags: `AI agents`, `multi-agent systems`, `RAG`, `MCP integration`, `Java framework`
 
-* **[jhondados/vertex-ai-multi-agent-framework](world/public/vault/daily-digests/2026-11-02/vertex-ai-multi-agent-framework.md)** (`reference` | `reference` tier)
+* **[jhondados/vertex-ai-multi-agent-framework](world/public/vault/daily-digests/2026-11-03/vertex-ai-multi-agent-framework.md)** (`reference` | `reference` tier)
   * Summary: A production-grade framework for building autonomous multi-agent AI systems on Google Vertex AI, enabling orchestrated collaboration between specialized agents (e.g., research, analyst, executor) to solve complex tasks with high efficiency and reliab
   * Tags: `multi-agent systems`, `autonomous agents`, `Vertex AI`, `agent orchestration`, `production AI`
 
-* **[joshuatochinwachi/Yield-Sage](world/public/vault/daily-digests/2026-11-02/yield-sage.md)** (`reference` | `reference` tier)
+* **[joshuatochinwachi/Yield-Sage](world/public/vault/daily-digests/2026-11-03/yield-sage.md)** (`reference` | `reference` tier)
   * Summary: YieldSage is an autonomous AI agent ecosystem built on Solana that continuously tracks real-time liquidity pool APYs and TVLs, generates risk-adjusted yield recommendations via a multi-provider LLM cascade, and anchors all advisory decisions on-chain
   * Tags: `AI agent`, `Solana`, `yield optimization`, `on-chain verifiability`, `defi`
 
-* **[Kavyrocom/smartplan](world/public/vault/daily-digests/2026-11-02/smartplan.md)** (`reference` | `reference` tier)
+* **[Kavyrocom/smartplan](world/public/vault/daily-digests/2026-11-03/smartplan.md)** (`reference` | `reference` tier)
   * Summary: Smartplan is a Hermes Agent skill designed to generate structured, non-code process plans for business workflows, automation setups, data migrations, and operational rollouts. It ensures plans include context, sequenced execution steps, GO gates for
   * Tags: `process planning`, `workflow automation`, `business operations`, `rollback strategy`, `GO gates`
 
-* **[KazKozDev/WebOperator](world/public/vault/daily-digests/2026-11-02/weboperator.md)** (`reference` | `reference` tier)
+* **[KazKozDev/WebOperator](world/public/vault/daily-digests/2026-11-03/weboperator.md)** (`reference` | `reference` tier)
   * Summary: WebOperator is an AI-powered browser automation agent and MCP server for Chrome that enables goal-driven task execution via plain English commands. It combines a Chrome extension with a local or cloud LLM backend to automate multi-step workflows, sch
   * Tags: `browser automation`, `MCP server`, `AI agent`, `Chrome extension`, `task scheduling`
 
-* **[keliihall/suxiaoyou](world/public/vault/daily-digests/2026-11-02/suxiaoyou.md)** (`reference` | `reference` tier)
+* **[keliihall/suxiaoyou](world/public/vault/daily-digests/2026-11-03/suxiaoyou.md)** (`reference` | `reference` tier)
   * Summary: 苏小有是一个本地优先的AI工作助理，专为电脑端办公场景设计，能够处理Word、Excel、PPT、PDF等多种办公文件，并自动生成报告、纪要、分析、计划等工作成果。它强调数据安全性，支持本地模型或自定义云端模型，适合需要高效处理本地文件的知识工作者。
   * Tags: `本地优先`, `AI助理`, `办公自动化`, `文件处理`, `知识工作`
 
-* **[kondalavenkat/sql-agent](world/public/vault/daily-digests/2026-11-02/sql-agent.md)** (`reference` | `reference` tier)
+* **[kondalavenkat/sql-agent](world/public/vault/daily-digests/2026-11-03/sql-agent.md)** (`reference` | `reference` tier)
   * Summary: An AI-powered SQL analytics platform enabling natural language queries, voice-to-SQL conversion, and dynamic report generation. Supports multi-format file ingestion, semantic caching, and interactive visualizations with a focus on privacy and local p
   * Tags: `SQL analytics`, `voice-to-SQL`, `semantic caching`, `multi-format ingestion`, `local AI`
 
-* **[KPO-Tech/seshat](world/public/vault/daily-digests/2026-11-02/seshat.md)** (`reference` | `reference` tier)
+* **[KPO-Tech/seshat](world/public/vault/daily-digests/2026-11-03/seshat.md)** (`reference` | `reference` tier)
   * Summary: Seshat is an open-source Go agent runtime designed for governed, multi-provider, self-hostable execution of AI agents. It provides a headless engine for running autonomous agent workflows with built-in tools, MCP integration, and multi-provider routi
   * Tags: `agent runtime`, `multi-provider`, `self-hosted`, `go-sdk`, `go-grpc`
 
@@ -387,3637 +387,3637 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. By using a graph-based structure, it enables developers to define cyclic steps, state propagation, and branching logic,
   * Tags: `agents`, `state-management`, `orchestration`, `graph`
 
-* **[lao-tseu-is-alive/Talunor](world/public/vault/daily-digests/2026-11-02/talunor.md)** (`reference` | `reference` tier)
+* **[lao-tseu-is-alive/Talunor](world/public/vault/daily-digests/2026-11-03/talunor.md)** (`reference` | `reference` tier)
   * Summary: Talunor is a terminal-based, autonomous AI agent written in Go, featuring a multi-tier memory system backed by SQLite. It serves as both a functional agent and a pedagogical guide for building cognitive-loop agents with guardrails, emphasizing softwa
   * Tags: `autonomous agents`, `long-term memory`, `SQLite`, `pedagogical project`, `sandboxed tools`
 
-* **[LeeFly-cn/TripStar-Java](world/public/vault/daily-digests/2026-11-02/tripstar-java.md)** (`reference` | `reference` tier)
+* **[LeeFly-cn/TripStar-Java](world/public/vault/daily-digests/2026-11-03/tripstar-java.md)** (`reference` | `reference` tier)
   * Summary: TripStar is a multi-agent travel planning system built with Spring Boot 4 and Spring AI Alibaba, enabling AI-driven itinerary generation with real-time data from Xiaohongshu (Little Red Book), Amap, and weather services. It supports autonomous planni
   * Tags: `multi-agent`, `travel planning`, `AI workflow`, `multimodal understanding`, `real-time data integration`
 
-* **[Leisure-Auf1/Terence-Agent](world/public/vault/daily-digests/2026-11-02/terence-agent.md)** (`reference` | `reference` tier)
+* **[Leisure-Auf1/Terence-Agent](world/public/vault/daily-digests/2026-11-03/terence-agent.md)** (`reference` | `reference` tier)
   * Summary: Terence-Agent is a multi-agent system designed for personalized resource generation and learning, leveraging large language models to simulate student interactions and automate workflows. It includes a robust logging framework, sandboxed execution, a
   * Tags: `multi-agent systems`, `automated workflows`, `LLM orchestration`, `sandboxed execution`, `quality assurance`
 
-* **[Leo-sail/yunspire](world/public/vault/daily-digests/2026-11-02/yunspire.md)** (`reference` | `reference` tier)
+* **[Leo-sail/yunspire](world/public/vault/daily-digests/2026-11-03/yunspire.md)** (`reference` | `reference` tier)
   * Summary: Yunspire is a local-first, self-growing knowledge hub for individuals that integrates a controlled Agent runtime with Obsidian Vaults for durable knowledge storage and SQLite for runtime state management. It enables AI-assisted workflows for conversa
   * Tags: `local-first`, `knowledge management`, `agent framework`, `Obsidian integration`, `RAG pipeline`
 
-* **[leonlucc/tiny-agent](world/public/vault/daily-digests/2026-11-02/tiny-agent.md)** (`reference` | `reference` tier)
+* **[leonlucc/tiny-agent](world/public/vault/daily-digests/2026-11-03/tiny-agent.md)** (`reference` | `reference` tier)
   * Summary: Tiny Agent is a lightweight, educational AI agent framework designed to teach the core principles of building AI agents from scratch. It starts with a simple LLM call and progressively adds capabilities like memory, planning, tool usage, and RAG, all
   * Tags: `educational`, `lightweight`, `agent-framework`, `from-scratch`, `modular`
 
-* **[linearuncle/xharness](world/public/vault/daily-digests/2026-11-02/xharness.md)** (`reference` | `reference` tier)
+* **[linearuncle/xharness](world/public/vault/daily-digests/2026-11-03/xharness.md)** (`reference` | `reference` tier)
   * Summary: xharness is a TypeScript-based coding agent harness that autonomously reads, modifies, and validates code via CLI or macOS GUI. It integrates with Anthropic-compatible APIs (e.g., DeepSeek) for streaming model interactions, supports configurable 'thi
   * Tags: `coding agent`, `autonomous code modification`, `streaming LLM interactions`, `CLI/GUI dual-mode`, `Anthropic API`
 
-* **[liukai-code/xiaomo-investment-agent](world/public/vault/daily-digests/2026-11-02/xiaomo-investment-agent.md)** (`reference` | `reference` tier)
+* **[liukai-code/xiaomo-investment-agent](world/public/vault/daily-digests/2026-11-03/xiaomo-investment-agent.md)** (`reference` | `reference` tier)
   * Summary: 小墨（Xiaomo）是一个基于Spring AI构建的金融领域多用户AI Agent平台，支持自然语言投研、资产分析、用户管理与一键Docker部署。平台集成多源金融数据工具、深度分析工作流和用户持仓诊断功能，专注于Agent架构设计与工程化实践。
   * Tags: `AI Agent`, `金融投研`, `多用户平台`, `Workflow编排`, `Tool Calling`
 
-* **[lixiuyin/web-agent](world/public/vault/daily-digests/2026-11-02/web-agent.md)** (`reference` | `reference` tier)
+* **[lixiuyin/web-agent](world/public/vault/daily-digests/2026-11-03/web-agent.md)** (`reference` | `reference` tier)
   * Summary: An autonomous vision-language web agent that interprets natural-language instructions to drive a real Chromium browser, perform web searches, navigate pages, read and interpret PDFs, analyze figures, and generate cited reports. It combines Vision-Lan
   * Tags: `autonomous agents`, `vision-language models`, `web automation`, `PDF interpretation`, `RAG pipeline`
 
-* **[Louis830903/Super-Loong](world/public/vault/daily-digests/2026-11-02/super-loong.md)** (`reference` | `reference` tier)
+* **[Louis830903/Super-Loong](world/public/vault/daily-digests/2026-11-03/super-loong.md)** (`reference` | `reference` tier)
   * Summary: Super-Loong is a modular AI agent operating system designed as the next-generation agentic platform with 211 built-in expert agents, HRR vector memory, knowledge graph reasoning, A2A cross-process communication, and a 34-module self-evolution engine.
   * Tags: `modular AI agents`, `multi-agent collaboration`, `persistent memory`, `knowledge graph`, `self-evolution`
 
-* **[luchi2333/triz-worker-innovation-research](world/public/vault/daily-digests/2026-11-02/triz-worker-innovation-research.md)** (`reference` | `reference` tier)
+* **[luchi2333/triz-worker-innovation-research](world/public/vault/daily-digests/2026-11-03/triz-worker-innovation-research.md)** (`reference` | `reference` tier)
   * Summary: An evidence-based engineering innovation agent skill that transforms real-world engineering problems into a traceable, verifiable, and falsifiable research workflow using TRIZ methodology, deep research, FMEA, and validation experiments.
   * Tags: `TRIZ`, `engineering innovation`, `evidence-based research`, `FMEA`, `validation workflow`
 
-* **[lvillani/thing](world/public/vault/daily-digests/2026-11-02/thing.md)** (`reference` | `reference` tier)
+* **[lvillani/thing](world/public/vault/daily-digests/2026-11-03/thing.md)** (`reference` | `reference` tier)
   * Summary: Thing is an agent harness built from first principles, designed to demystify how agent loops function by implementing core functionality manually rather than relying on framework abstractions. It enables self-modification and tool integration through
   * Tags: `agent harness`, `self-modifying`, `bootstrapping`, `first principles`, `agent loops`
 
-* **[MadeOnSol/solana-agent-kit-plugin-madeonsol](world/public/vault/daily-digests/2026-11-02/solana-agent-kit-plugin-madeonsol.md)** (`reference` | `reference` tier)
+* **[MadeOnSol/solana-agent-kit-plugin-madeonsol](world/public/vault/daily-digests/2026-11-03/solana-agent-kit-plugin-madeonsol.md)** (`reference` | `reference` tier)
   * Summary: A Solana Agent Kit plugin for MadeOnSol that provides real-time Solana KOL intelligence, deployer analytics, and trading signals. It enables tracking of KOL wallets, deployer reputation, token surges, and on-chain wallet holdings with low-latency dat
   * Tags: `Solana`, `KOL intelligence`, `real-time analytics`, `trading signals`, `agent framework`
 
-* **[mainulBUBT/TierMux](world/public/vault/daily-digests/2026-11-02/tiermux.md)** (`reference` | `reference` tier)
+* **[mainulBUBT/TierMux](world/public/vault/daily-digests/2026-11-03/tiermux.md)** (`reference` | `reference` tier)
   * Summary: TierMux is a free, open-source VS Code AI coding assistant that intelligently routes requests across 22+ free-tier LLM providers, offering auto-failover, smart routing, and codebase learning. It eliminates the need for manual provider management whil
   * Tags: `AI coding assistant`, `multi-provider routing`, `VS Code extension`, `failover automation`, `codebase learning`
 
-* **[MASSIVEMAGNETICS/super-synthetic-general-intelligence](world/public/vault/daily-digests/2026-11-02/super-synthetic-general-intelligence.md)** (`reference` | `reference` tier)
+* **[MASSIVEMAGNETICS/super-synthetic-general-intelligence](world/public/vault/daily-digests/2026-11-03/super-synthetic-general-intelligence.md)** (`reference` | `reference` tier)
   * Summary: AetherForge is an execution-first AI platform that converts natural language intent into production-ready outputs and deploys persistent, self-evolving autonomous agents through a browser-based workspace. It bridges intent to action with versioned pr
   * Tags: `autonomous agents`, `agent deployment`, `constitutional AI`, `project workspaces`, `natural language intent`
 
-* **[mengrru/Spherse](world/public/vault/daily-digests/2026-11-02/spherse.md)** (`reference` | `reference` tier)
+* **[mengrru/Spherse](world/public/vault/daily-digests/2026-11-03/spherse.md)** (`reference` | `reference` tier)
   * Summary: Spherse is a local-first desktop application for building and running AI Agents with immersive world-building, role-playing, and personal record-keeping capabilities. It provides a framework for creating customizable agents with local data storage an
   * Tags: `AI Agents`, `Local-First`, `Electron App`, `World-Building`, `Customizable UI`
 
-* **[Mftrferdinand/Zerolinear](world/public/vault/daily-digests/2026-11-02/zerolinear.md)** (`reference` | `reference` tier)
+* **[Mftrferdinand/Zerolinear](world/public/vault/daily-digests/2026-11-03/zerolinear.md)** (`reference` | `reference` tier)
   * Summary: Zerolinear's Zeline is an open-source, agentic AI framework designed for building autonomous AI agents with flexible model, provider, and infrastructure integration. It supports multi-platform gateways (Telegram, WhatsApp, HTTP webhook) and provides
   * Tags: `agentic AI`, `multi-platform`, `model-agnostic`, `tool calling`, `autonomous agents`
 
-* **[mhajder/zabbix-mcp](world/public/vault/daily-digests/2026-11-02/zabbix-mcp.md)** (`reference` | `reference` tier)
+* **[mhajder/zabbix-mcp](world/public/vault/daily-digests/2026-11-03/zabbix-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Python-based Model Context Protocol (MCP) server that exposes Zabbix monitoring data and management features via a modern API, enabling programmable access to hosts, triggers, items, problems, events, and more for AI assistants, automation tools, a
   * Tags: `Zabbix`, `MCP Server`, `Monitoring Automation`, `API Integration`, `DevOps`
 
-* **[Mireinstein/TenantIQ](world/public/vault/daily-digests/2026-11-02/tenantiq.md)** (`reference` | `reference` tier)
+* **[Mireinstein/TenantIQ](world/public/vault/daily-digests/2026-11-03/tenantiq.md)** (`reference` | `reference` tier)
   * Summary: TenantIQ is an AI agent designed to automate the leasing process for office rentals, guiding renters from natural language search to a booked viewing. It combines LLM-driven conversation with deterministic business logic for matching, pre-qualificati
   * Tags: `AI agent`, `tenant screening`, `automated leasing`, `LLM guardrails`, `deterministic business logic`
 
-* **[miruamel/Xiaoyi](world/public/vault/daily-digests/2026-11-02/xiaoyi.md)** (`reference` | `reference` tier)
+* **[miruamel/Xiaoyi](world/public/vault/daily-digests/2026-11-03/xiaoyi.md)** (`reference` | `reference` tier)
   * Summary: Xiaoyi is an open-source AI agent framework designed for building autonomous agents capable of planning, reviewing, evaluating, and recovering from errors with minimal supervision. It features a Rust core for execution and provides Python and TypeScr
   * Tags: `autonomous agents`, `multi-language SDK`, `agent orchestration`, `LLM integration`, `error recovery`
 
-* **[miruamel/zhi](world/public/vault/daily-digests/2026-11-02/zhi.md)** (`reference` | `reference` tier)
+* **[miruamel/zhi](world/public/vault/daily-digests/2026-11-03/zhi.md)** (`reference` | `reference` tier)
   * Summary: Zhi is an autonomous terminal coding agent that automates the entire development cycle from goal intake to PR creation, using a state machine with 15 weighted critics and real toolchain verification (build, test, security scans). It operates as a Bun
   * Tags: `autonomous coding`, `state machine`, `multi-critic evaluation`, `bounded recovery`, `trunk-based development`
 
-* **[MissiaL/travel-search-ru](world/public/vault/daily-digests/2026-11-02/travel-search-ru.md)** (`reference` | `reference` tier)
+* **[MissiaL/travel-search-ru](world/public/vault/daily-digests/2026-11-03/travel-search-ru.md)** (`reference` | `reference` tier)
   * Summary: A lightweight AI agent skill for Russian travel search, enabling agents to query package tours, hotels, flights, and excursions via a Python CLI or MCP server. It integrates with production MCP endpoints to fetch real-time travel data and booking lin
   * Tags: `travel search`, `MCP server`, `AI agent skill`, `Russian travel data`, `real-time booking`
 
-* **[MuhammadMustafa18/WhatsAppLangraphAgent](world/public/vault/daily-digests/2026-11-02/whatsapplangraphagent.md)** (`reference` | `reference` tier)
+* **[MuhammadMustafa18/WhatsAppLangraphAgent](world/public/vault/daily-digests/2026-11-03/whatsapplangraphagent.md)** (`reference` | `reference` tier)
   * Summary: A teaching repository demonstrating how to build a WhatsApp-backed bot using LangGraph. The first iteration implements a simple echo bot that uppercases messages, showcasing core LangGraph concepts like state management and graph execution.
   * Tags: `LangGraph`, `WhatsApp bot`, `state management`, `tutorial`, `multi-agent`
 
-* **[MusadiqUrRahman/whaagent](world/public/vault/daily-digests/2026-11-02/whaagent.md)** (`reference` | `reference` tier)
+* **[MusadiqUrRahman/whaagent](world/public/vault/daily-digests/2026-11-03/whaagent.md)** (`reference` | `reference` tier)
   * Summary: WhaAgent is a multi-tenant WhatsApp AI platform that connects AI agents to WhatsApp users via a Go gateway and a Python FastAPI backend. It enables deployment of intelligent agents (e.g., general-purpose, developer, news) with support for 10+ LLM pro
   * Tags: `multi-tenant`, `WhatsApp integration`, `LangGraph`, `MCP tools`, `LLM orchestration`
 
-* **[Mxnrxjj/talk-to-my-repo](world/public/vault/daily-digests/2026-11-02/talk-to-my-repo.md)** (`reference` | `reference` tier)
+* **[Mxnrxjj/talk-to-my-repo](world/public/vault/daily-digests/2026-11-03/talk-to-my-repo.md)** (`reference` | `reference` tier)
   * Summary: TalkToMyRepo is an AI-powered assistant that enables semantic chat with public GitHub repositories. It indexes source code into vector embeddings, retrieves relevant code via vector search, and generates streaming responses with source-aware citation
   * Tags: `RAG`, `codebase assistant`, `semantic search`, `vector embeddings`, `GitHub integration`
 
-* **[n24q02m/wet-mcp](world/public/vault/daily-digests/2026-11-02/wet-mcp.md)** (`reference` | `reference` tier)
+* **[n24q02m/wet-mcp](world/public/vault/daily-digests/2026-11-03/wet-mcp.md)** (`reference` | `reference` tier)
   * Summary: WET-MCP is an open-source Model Context Protocol (MCP) server that provides AI agents with advanced web search, content extraction, and library documentation retrieval capabilities. It operates without requiring API keys by default, leveraging embedd
   * Tags: `web scraping`, `content extraction`, `documentation search`, `AI agents`, `MCP server`
 
-* **[Neltud/xArtists](world/public/vault/daily-digests/2026-11-02/xartists.md)** (`reference` | `reference` tier)
+* **[Neltud/xArtists](world/public/vault/daily-digests/2026-11-03/xartists.md)** (`reference` | `reference` tier)
   * Summary: xArtists is a full-stack dApp integrating AI-generated art, phygital NFTs, and RWA (Real World Assets) on the MultiversX blockchain. It combines generative AI agents, staking mechanisms, DAO governance, and a marketplace for trading NFTs and RWAs.
   * Tags: `AI Agents`, `NFT Marketplace`, `RWA`, `Blockchain`, `Generative Art`
 
-* **[netresearch/typo3-conformance-skill](world/public/vault/daily-digests/2026-11-02/typo3-conformance-skill.md)** (`reference` | `reference` tier)
+* **[netresearch/typo3-conformance-skill](world/public/vault/daily-digests/2026-11-03/typo3-conformance-skill.md)** (`reference` | `reference` tier)
   * Summary: A Claude Code skill for evaluating TYPO3 extensions against official TYPO3 coding standards, architecture patterns, and best practices. It acts as an orchestrator that delegates deep domain analysis to specialized skills for testing, documentation, a
   * Tags: `TYPO3`, `conformance-checker`, `extension-validation`, `agent-skill`, `PHP-standards`
 
-* **[nifontovoleg/telegram-pinecone-assistant](world/public/vault/daily-digests/2026-11-02/telegram-pinecone-assistant.md)** (`reference` | `reference` tier)
+* **[nifontovoleg/telegram-pinecone-assistant](world/public/vault/daily-digests/2026-11-03/telegram-pinecone-assistant.md)** (`reference` | `reference` tier)
   * Summary: A Telegram bot that provides long-term semantic memory for users by storing and retrieving messages in Pinecone. It uses OpenAI for embeddings and chat completion, enabling context-aware conversations without external document pipelines.
   * Tags: `Telegram bot`, `vector database`, `long-term memory`, `RAG`, `semantic search`
 
-* **[Noesis-Boss/zorro-template](world/public/vault/daily-digests/2026-11-02/zorro-template.md)** (`reference` | `reference` tier)
+* **[Noesis-Boss/zorro-template](world/public/vault/daily-digests/2026-11-03/zorro-template.md)** (`reference` | `reference` tier)
   * Summary: A one-shot installer and course materials for replicating the Zorro self-improving agent on a Zo Computer. It provides a zero-cost memory-augmented agent with three layers of memory, token compression, and free local LLMs via an OpenAI-compatible pro
   * Tags: `self-improving agent`, `memory-augmented`, `token compression`, `local LLM`, `Zo Computer`
 
-* **[nugget/thane-ai-agent](world/public/vault/daily-digests/2026-11-02/thane-ai-agent.md)** (`reference` | `reference` tier)
+* **[nugget/thane-ai-agent](world/public/vault/daily-digests/2026-11-03/thane-ai-agent.md)** (`reference` | `reference` tier)
   * Summary: Thane is an autonomous AI agent designed to understand and act on home automation data, such as sensors and device states, by learning routines, preferences, and context through natural conversation. It integrates with Home Assistant and runs locally
   * Tags: `autonomous agents`, `home automation`, `persistent memory`, `local AI`, `multi-model routing`
 
-* **[olgasafonova/tilbudstrolden-mcp](world/public/vault/daily-digests/2026-11-02/tilbudstrolden-mcp.md)** (`reference` | `reference` tier)
+* **[olgasafonova/tilbudstrolden-mcp](world/public/vault/daily-digests/2026-11-03/tilbudstrolden-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP-compatible server that aggregates and analyzes grocery deals across Nordic supermarkets (Denmark, Norway, Sweden, Finland) to optimize meal planning, shopping lists, and household budgeting through AI assistants.
   * Tags: `MCP server`, `Nordic grocery deals`, `meal planning`, `shopping optimization`, `AI assistant integration`
 
-* **[Om-Khode/TENKA](world/public/vault/daily-digests/2026-11-02/tenka.md)** (`reference` | `reference` tier)
+* **[Om-Khode/TENKA](world/public/vault/daily-digests/2026-11-03/tenka.md)** (`reference` | `reference` tier)
   * Summary: TENKA is a local-first Python voice agent for Windows that listens, thinks, remembers, and acts on the desktop without requiring code changes for new app or service integrations. It evolves by learning from user behavior and stores data in a knowledg
   * Tags: `voice agent`, `local-first`, `knowledge graph`, `desktop automation`, `multi-LLM routing`
 
-* **[onelpawarai/ZYRAXON-AI](world/public/vault/daily-digests/2026-11-02/zyraxon-ai.md)** (`reference` | `reference` tier)
+* **[onelpawarai/ZYRAXON-AI](world/public/vault/daily-digests/2026-11-03/zyraxon-ai.md)** (`reference` | `reference` tier)
   * Summary: ZYRAXON-AI is an all-in-one autonomous AI agent framework that provides full computer control for coding, automation, research, and system management. It operates as a desktop app or CLI tool with multi-model support, persistent memory, and self-evol
   * Tags: `autonomous agents`, `multi-model AI`, `computer control`, `automation`, `self-evolving`
 
-* **[oomol-lab/wanta](world/public/vault/daily-digests/2026-11-02/wanta.md)** (`reference` | `reference` tier)
+* **[oomol-lab/wanta](world/public/vault/daily-digests/2026-11-03/wanta.md)** (`reference` | `reference` tier)
   * Summary: Wanta is an open-source foundation for building desktop AI agents with OpenCode, providing a complete runtime, local tools, permission controls, and a cross-platform desktop interface. It enables developers to create production-ready AI agents withou
   * Tags: `desktop agents`, `AI runtime`, `OpenCode integration`, `local tools`, `cross-platform`
 
-* **[open-agent-ai-security/socxen](world/public/vault/daily-digests/2026-11-02/socxen.md)** (`reference` | `reference` tier)
+* **[open-agent-ai-security/socxen](world/public/vault/daily-digests/2026-11-03/socxen.md)** (`reference` | `reference` tier)
   * Summary: socxen is an agentic SOC analyst skill for Claude Code that automates the investigation and triage of Exabeam New-Scale alerts and cases. It integrates with Exabeam's MCP, applies safety guardrails, and provides end-to-end evidence gathering and deci
   * Tags: `SOC automation`, `Exabeam integration`, `AI agent`, `Security operations`, `Governance guardrails`
 
-* **[oscardvs/zoteus](world/public/vault/daily-digests/2026-11-02/zoteus.md)** (`reference` | `reference` tier)
+* **[oscardvs/zoteus](world/public/vault/daily-digests/2026-11-03/zoteus.md)** (`reference` | `reference` tier)
   * Summary: Zoteus is an MCP (Model Context Protocol) server that provides AI agents and clients with safe, local-first access to a user's Zotero library, enabling real-time searches, citations, and bibliographic formatting without hallucinations or external dep
   * Tags: `MCP server`, `Zotero integration`, `citation management`, `local-first AI`, `semantic search`
 
-* **[otenycom/talents](world/public/vault/daily-digests/2026-11-02/talents.md)** (`reference` | `reference` tier)
+* **[otenycom/talents](world/public/vault/daily-digests/2026-11-03/talents.md)** (`reference` | `reference` tier)
   * Summary: Oteny Talents is an open catalog of modular AI personalities (Talents) designed for OtenyBot, a private Telegram AI assistant. Each Talent is a self-contained bundle of persona, skills, and scripts that can be installed into a user's isolated OtenyBo
   * Tags: `AI personalities`, `modular agents`, `Telegram bots`, `open catalog`, `sandboxed execution`
 
-* **[P-R-N-D/SparkCrew](world/public/vault/daily-digests/2026-11-02/sparkcrew.md)** (`reference` | `reference` tier)
+* **[P-R-N-D/SparkCrew](world/public/vault/daily-digests/2026-11-03/sparkcrew.md)** (`reference` | `reference` tier)
   * Summary: SparkCrew is an AI collaboration platform enabling shared context between humans and AI for conversations, tasks, and results. It focuses on personal and team-based AI interactions with file management, background AI tasks, and execution tools like b
   * Tags: `AI collaboration`, `multi-agent systems`, `context sharing`, `task automation`, `team workspace`
 
-* **[ParaTensor/zene](world/public/vault/daily-digests/2026-11-02/zene.md)** (`reference` | `reference` tier)
+* **[ParaTensor/zene](world/public/vault/daily-digests/2026-11-03/zene.md)** (`reference` | `reference` tier)
   * Summary: Zene is a self-healing AI coding engine that provides a cloud-based console for managing AI agents, with a Rust-based `zene` binary implementing the Agent Client Protocol (ACP) for local and cloud-based agent interactions. It supports multi-user cont
   * Tags: `AI coding agent`, `sandboxed execution`, `multi-user cloud console`, `Agent Client Protocol`, `self-healing`
 
-* **[patriceckhart/zot](world/public/vault/daily-digests/2026-11-02/zot.md)** (`reference` | `reference` tier)
+* **[patriceckhart/zot](world/public/vault/daily-digests/2026-11-03/zot.md)** (`reference` | `reference` tier)
   * Summary: zot is a lightweight, Go-based coding agent harness designed to orchestrate AI providers and tools for code generation and editing tasks. It supports over 30 providers, offers interactive TUI, CLI, and JSON run modes, and includes features like persi
   * Tags: `coding agent`, `multi-provider`, `TUI`, `OAuth`, `Go`
 
-* **[paulasilvatech/specky](world/public/vault/daily-digests/2026-11-02/specky.md)** (`reference` | `reference` tier)
+* **[paulasilvatech/specky](world/public/vault/daily-digests/2026-11-03/specky.md)** (`reference` | `reference` tier)
   * Summary: Specky is a CLI toolkit for Spec-Driven Development that enforces a deterministic 10-phase pipeline using 13 specialized agents, 58 MCP tools, 22 prompts, 14 skills, and 16 automation hooks. It transforms raw inputs like meeting transcripts or docume
   * Tags: `spec-driven development`, `agentic AI`, `MCP tools`, `deterministic pipeline`, `AI IDE integration`
 
-* **[paumkim/term](world/public/vault/daily-digests/2026-11-02/term.md)** (`reference` | `reference` tier)
+* **[paumkim/term](world/public/vault/daily-digests/2026-11-03/term.md)** (`reference` | `reference` tier)
   * Summary: Term is an AI-powered coding agent that operates directly within the terminal, enabling users to execute coding tasks through natural language commands. It simplifies development workflows by integrating AI assistance into the command-line interface.
   * Tags: `AI coding agent`, `terminal automation`, `CLI tool`, `TypeScript`, `developer productivity`
 
-* **[pavelblank/socialai-agent](world/public/vault/daily-digests/2026-11-02/socialai-agent.md)** (`reference` | `reference` tier)
+* **[pavelblank/socialai-agent](world/public/vault/daily-digests/2026-11-03/socialai-agent.md)** (`reference` | `reference` tier)
   * Summary: A self-hosted AI agent that autonomously generates, voices, renders, and publishes short-form video, image, and text content across multiple platforms using local LLMs and free APIs, operating 24/7 with zero monthly costs.
   * Tags: `autonomous content generation`, `multi-platform publishing`, `local LLM integration`, `self-hosted AI`, `24/7 automation`
 
-* **[PierreTsia/workout-app](world/public/vault/daily-digests/2026-11-02/workout-app.md)** (`reference` | `reference` tier)
+* **[PierreTsia/workout-app](world/public/vault/daily-digests/2026-11-03/workout-app.md)** (`reference` | `reference` tier)
   * Summary: GymLogic is a mobile-first PWA for tracking strength training with offline support, progression analytics, and an MCP server enabling AI agents to interact with training data, design programs, and save changes directly to user accounts.
   * Tags: `MCP server`, `AI-powered training`, `offline-first PWA`, `progression tracking`, `Supabase integration`
 
-* **[Player1205/TheGuardCall](world/public/vault/daily-digests/2026-11-02/theguardcall.md)** (`reference` | `reference` tier)
+* **[Player1205/TheGuardCall](world/public/vault/daily-digests/2026-11-03/theguardcall.md)** (`reference` | `reference` tier)
   * Summary: GuardCall is a real-time AI-powered web application that acts as a silent co-pilot during phone calls, detecting scam tactics and providing instant coaching to users. It leverages edge-based speech-to-text and AI analysis to intercept and neutralize
   * Tags: `real-time AI`, `scam detection`, `voice assistant`, `PII scrubbing`, `monorepo`
 
-* **[Proxy-Phaethon/theseus](world/public/vault/daily-digests/2026-11-02/theseus.md)** (`reference` | `reference` tier)
+* **[Proxy-Phaethon/theseus](world/public/vault/daily-digests/2026-11-03/theseus.md)** (`reference` | `reference` tier)
   * Summary: Theseus is a local Small Language Model (SLM) research assistant designed to operate on persistent Chaos research environments. It enables interactive intelligence for acquiring knowledge, reasoning, computation, and active research work without rely
   * Tags: `research assistant`, `local SLM`, `persistent workspace`, `deterministic computation`, `agent architecture`
 
-* **[Quor-a/ZorvAI](world/public/vault/daily-digests/2026-11-02/zorvai.md)** (`reference` | `reference` tier)
+* **[Quor-a/ZorvAI](world/public/vault/daily-digests/2026-11-03/zorvai.md)** (`reference` | `reference` tier)
   * Summary: ZorvAI is an on-device AI agent for Android that operates locally on the device, enabling tool usage, persona management, memory, and a shared runtime. It supports multi-model conversations, voice input/output, and integrates with messaging platforms
   * Tags: `Android AI Agent`, `On-device LLM`, `Local AI`, `ACI Framework`, `Multi-modal Agent`
 
-* **[R0LM0/somm](world/public/vault/daily-digests/2026-11-02/somm.md)** (`reference` | `reference` tier)
+* **[R0LM0/somm](world/public/vault/daily-digests/2026-11-03/somm.md)** (`reference` | `reference` tier)
   * Summary: Somm is an MCP server that acts as a model advisor for AI agents, fetching available models from OpenCode, OpenRouter, and Kimi subscriptions, cross-referencing benchmarks and pricing, and recommending optimal models for specific agent roles with det
   * Tags: `model recommendation`, `MCP server`, `agent optimization`, `benchmarking`, `multi-provider`
 
-* **[raydeStar/sir-thaddeus](world/public/vault/daily-digests/2026-11-02/sir-thaddeus.md)** (`reference` | `reference` tier)
+* **[raydeStar/sir-thaddeus](world/public/vault/daily-digests/2026-11-03/sir-thaddeus.md)** (`reference` | `reference` tier)
   * Summary: Sir Thaddeus is a local-first AI assistant for Windows that enables users to run private, offline models while maintaining full control over sensitive actions, memory, and tools. It emphasizes transparency, deterministic capabilities, and evidence-ba
   * Tags: `local-first AI`, `Windows assistant`, `private workspace`, `deterministic tools`, `model harness`
 
-* **[realstreetsmartnyc/smart-pet-agent](world/public/vault/daily-digests/2026-11-02/smart-pet-agent.md)** (`reference` | `reference` tier)
+* **[realstreetsmartnyc/smart-pet-agent](world/public/vault/daily-digests/2026-11-03/smart-pet-agent.md)** (`reference` | `reference` tier)
   * Summary: A local-first, ambient AI desktop companion that acts as a thought-driven 'pet agent' with multi-provider AI integration, computer use capabilities, and NYC-branded visual design. It combines agentic reasoning with expressive embodiment across deskto
   * Tags: `AI companion`, `local-first`, `agentic reasoning`, `desktop pet`, `multi-surface`
 
-* **[RikyZ90/ShibaClaw](world/public/vault/daily-digests/2026-11-02/shibaclaw.md)** (`reference` | `reference` tier)
+* **[RikyZ90/ShibaClaw](world/public/vault/daily-digests/2026-11-03/shibaclaw.md)** (`reference` | `reference` tier)
   * Summary: ShibaClaw is a security-first, self-hosted AI agent framework designed to 'just work' out of the box with minimal configuration. It supports 23 providers, 11 chat channels, and includes a built-in WebUI, desktop app, and MCP integration for secure, p
   * Tags: `AI Agent`, `Security-First`, `Self-Hosted`, `MCP Ready`, `Multi-Provider`
 
-* **[rkfsociety/Thirium](world/public/vault/daily-digests/2026-11-02/thirium.md)** (`reference` | `reference` tier)
+* **[rkfsociety/Thirium](world/public/vault/daily-digests/2026-11-03/thirium.md)** (`reference` | `reference` tier)
   * Summary: Thirium is a local AI agent with a graphical user interface designed for programming tasks, including file editing, shell and git operations, and integration with MCP, plugins, and services like GitHub, GitLab, Jira, and Linear. It supports both loca
   * Tags: `AI agent`, `local LLM`, `programming assistant`, `GUI`, `MCP integration`
 
-* **[robloxsagax-web/Supernova](world/public/vault/daily-digests/2026-11-02/supernova.md)** (`reference` | `reference` tier)
+* **[robloxsagax-web/Supernova](world/public/vault/daily-digests/2026-11-03/supernova.md)** (`reference` | `reference` tier)
   * Summary: Supernova is an autonomous AI marketing agent that transforms a product URL into a complete marketing campaign, including market research, script generation, image creation, voiceovers, and video assembly. It unifies a fragmented workflow into a sing
   * Tags: `AI marketing automation`, `autonomous agents`, `campaign generation`, `multi-modal AI`, `cloud storage integration`
 
-* **[Roxin-ChaI/web-research-agent](world/public/vault/daily-digests/2026-11-02/web-research-agent.md)** (`reference` | `reference` tier)
+* **[Roxin-ChaI/web-research-agent](world/public/vault/daily-digests/2026-11-03/web-research-agent.md)** (`reference` | `reference` tier)
   * Summary: A lightweight single-agent web research system that implements a ReAct loop for iterative tool-based research using DeepSeek V4 Flash and DuckDuckGo Search (DDGS). It enables autonomous web searches and reasoning to answer complex research questions
   * Tags: `ReAct`, `Tool Calling`, `Web Research`, `DeepSeek`, `DDGS`
 
-* **[RyanYao527/zilan-agent](world/public/vault/daily-digests/2026-11-02/zilan-agent.md)** (`reference` | `reference` tier)
+* **[RyanYao527/zilan-agent](world/public/vault/daily-digests/2026-11-03/zilan-agent.md)** (`reference` | `reference` tier)
   * Summary: A production-grade LLM reliability engineering framework for Buddhist domain agents, featuring deterministic output-contract validation, Agama corpus retrieval, and dual-mode Skill/Agent architecture. It demonstrates a robust pattern for ensuring LLM
   * Tags: `LLM reliability`, `output contracts`, `deterministic validation`, `Buddhist AI`, `Agama retrieval`
 
-* **[sagar0163/upaya-jivika](world/public/vault/daily-digests/2026-11-02/upaya-jivika.md)** (`reference` | `reference` tier)
+* **[sagar0163/upaya-jivika](world/public/vault/daily-digests/2026-11-03/upaya-jivika.md)** (`reference` | `reference` tier)
   * Summary: Upaya-Jivika is an autonomous AI agent designed to survive by earning real money through legitimate online work, accumulating existence debt that triggers reincarnation if unpaid. It operates entirely on free tiers, researches earning strategies auto
   * Tags: `autonomous agents`, `survival AI`, `reincarnation system`, `earning automation`, `debt-driven learning`
 
-* **[sailingsam/tryjarvis](world/public/vault/daily-digests/2026-11-02/tryjarvis.md)** (`reference` | `reference` tier)
+* **[sailingsam/tryjarvis](world/public/vault/daily-digests/2026-11-03/tryjarvis.md)** (`reference` | `reference` tier)
   * Summary: Mantrin is a personal chief-of-staff AI assistant that remembers and acts on user commitments, plans, and people across conversations. It combines local and rented AI components to provide an always-on, voice-first experience with durable memory and
   * Tags: `personal assistant`, `voice-first`, `memory management`, `always-on agent`, `modular AI`
 
-* **[sailorpepe/undesirables-mcp-server](world/public/vault/daily-digests/2026-11-02/undesirables-mcp-server.md)** (`reference` | `reference` tier)
+* **[sailorpepe/undesirables-mcp-server](world/public/vault/daily-digests/2026-11-03/undesirables-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: The Undesirables MCP Server is a FastMCP-based toolkit providing 35+ local compute tools for AI agents, enabling zero-cloud dependency operations like TCG card grading, conformal risk forecasting, AI music generation, and local image generation. It i
   * Tags: `MCP Server`, `Local AI Tools`, `Zero Cloud Dependency`, `Agent Economy`, `TCG Card Grading`
 
-* **[SamG-Coder/ThreeBrowserStudio](world/public/vault/daily-digests/2026-11-02/threebrowserstudio.md)** (`reference` | `reference` tier)
+* **[SamG-Coder/ThreeBrowserStudio](world/public/vault/daily-digests/2026-11-03/threebrowserstudio.md)** (`reference` | `reference` tier)
   * Summary: ThreeBrowser Studio is a persistent WebGPU authoring runtime for AI models like Codex and ChatGPT, enabling live scene creation and animation with a native viewport. It integrates with MCP for structured editing and provides a deterministic authoring
   * Tags: `AI authoring`, `WebGPU runtime`, `Three.js`, `MCP integration`, `persistent viewport`
 
-* **[samvallad33/vestige](world/public/vault/daily-digests/2026-11-02/vestige.md)** (`reference` | `reference` tier)
+* **[samvallad33/vestige](world/public/vault/daily-digests/2026-11-03/vestige.md)** (`reference` | `reference` tier)
   * Summary: Vestige is a local-first, long-term memory system for AI agents that runs as an MCP server, enabling agents to remember decisions, detect contradictions, and trace failures back to root causes. It operates entirely offline after a one-time model down
   * Tags: `memory`, `MCP server`, `local-first`, `causal reasoning`, `AI agents`
 
-* **[Sandeeprdy1729/timps-swarm](world/public/vault/daily-digests/2026-11-02/timps-swarm.md)** (`reference` | `reference` tier)
+* **[Sandeeprdy1729/timps-swarm](world/public/vault/daily-digests/2026-11-03/timps-swarm.md)** (`reference` | `reference` tier)
   * Summary: TIMPS Swarm is an MCP-based framework that deploys 161 specialized AI agents into coding tools like Claude Code, Cursor, and VS Code as parallel sub-agents or MCP tools. It enables local-first, BYOK (Bring Your Own Keys) AI workflows with zero backen
   * Tags: `MCP`, `AI agents`, `parallel sub-agents`, `local-first`, `LLM orchestration`
 
-* **[santhreal/veyyon](world/public/vault/daily-digests/2026-11-02/veyyon.md)** (`reference` | `reference` tier)
+* **[santhreal/veyyon](world/public/vault/daily-digests/2026-11-03/veyyon.md)** (`reference` | `reference` tier)
   * Summary: Veyyon is a terminal-based coding agent designed for inspectable context, controlled mutation, and long-running work. It provides a transparent prompt system, model-native effort controls, explicit state ownership, and secure secret management, enabl
   * Tags: `terminal agent`, `code editing`, `prompt inspection`, `secret management`, `multi-agent coordination`
 
-* **[SantyagoSeaman/tfmodsearch](world/public/vault/daily-digests/2026-11-02/tfmodsearch.md)** (`reference` | `reference` tier)
+* **[SantyagoSeaman/tfmodsearch](world/public/vault/daily-digests/2026-11-03/tfmodsearch.md)** (`reference` | `reference` tier)
   * Summary: TFModSearch is an MCP server that provides intelligent search capabilities for Terraform AWS module documentation using hybrid search (keyword matching, BM25, and semantic embeddings). It offers a pre-built search index with embeddings for 54 curated
   * Tags: `Terraform`, `MCP Server`, `Hybrid Search`, `AWS Modules`, `AI Assistant`
 
-* **[sator-imaging/suggest-skills](world/public/vault/daily-digests/2026-11-02/suggest-skills.md)** (`reference` | `reference` tier)
+* **[sator-imaging/suggest-skills](world/public/vault/daily-digests/2026-11-03/suggest-skills.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that generates skill manifests from GitHub repositories and recommends repository-specific AI agent skills. It supports both stdio and HTTP runtime modes for seamless integration into AI workflows.
   * Tags: `MCP server`, `AI agent skills`, `skill manifest generation`, `GitHub integration`, `model context protocol`
 
-* **[scitix/siclaw](world/public/vault/daily-digests/2026-11-02/siclaw.md)** (`reference` | `reference` tier)
+* **[scitix/siclaw](world/public/vault/daily-digests/2026-11-03/siclaw.md)** (`reference` | `reference` tier)
   * Summary: Siclaw is an open-source AI agent designed for DevOps and SRE teams to perform read-only infrastructure diagnostics. It automates evidence gathering, hypothesis testing, and root-cause analysis through a 4-phase workflow, enabling teams to investigat
   * Tags: `AI diagnostics`, `DevOps automation`, `SRE tooling`, `read-only investigation`, `infrastructure monitoring`
 
-* **[sero-labs/sero](world/public/vault/daily-digests/2026-11-02/sero.md)** (`reference` | `reference` tier)
+* **[sero-labs/sero](world/public/vault/daily-digests/2026-11-03/sero.md)** (`reference` | `reference` tier)
   * Summary: Sero is a local-first desktop workspace designed as a unified shell for AI agents, integrating chat, terminals, visual browser, plugins, and persistent project memory into a single interface. It leverages the Pi coding agent to enable agent-assisted
   * Tags: `agent-native workspace`, `local-first AI`, `desktop shell`, `plugin architecture`, `persistent memory`
 
-* **[sevn-bot/sevn](world/public/vault/daily-digests/2026-11-02/sevn.md)** (`reference` | `reference` tier)
+* **[sevn-bot/sevn](world/public/vault/daily-digests/2026-11-03/sevn.md)** (`reference` | `reference` tier)
   * Summary: Sevn is a modular, agentic AI framework designed to create customizable assistants or bots with Python-based logic and extensible tooling. It emphasizes adaptability, allowing users to shape its behavior and capabilities to specific needs.
   * Tags: `agentic AI`, `customizable bots`, `modular framework`, `Python-based`, `extensible tools`
 
-* **[ShenSeanChen/waku-agent](world/public/vault/daily-digests/2026-11-02/waku-agent.md)** (`reference` | `reference` tier)
+* **[ShenSeanChen/waku-agent](world/public/vault/daily-digests/2026-11-03/waku-agent.md)** (`reference` | `reference` tier)
   * Summary: Waku-Agent is a local-first personal AI assistant built with a transparent, readable architecture. It demonstrates the core pillars of agent systems: harness, loop, memory, and evaluation/LLM-ops, all implemented in plain Python without hidden framew
   * Tags: `local-first`, `agent architecture`, `memory management`, `LLM operations`, `readable code`
 
-* **[shipiit/shipit_agent](world/public/vault/daily-digests/2026-11-02/shipit_agent.md)** (`reference` | `reference` tier)
+* **[shipiit/shipit_agent](world/public/vault/daily-digests/2026-11-03/shipit_agent.md)** (`reference` | `reference` tier)
   * Summary: SHIPIT Agent is a production-grade Python runtime for building tool-using AI agents with a consistent API across major LLM providers. It offers built-in tools, MCP support, memory, permissions, RAG, and multi-agent orchestration.
   * Tags: `AI agents`, `multi-agent orchestration`, `RAG`, `MCP`, `tool integration`
 
-* **[Shivam583-hue/TrueCoder](world/public/vault/daily-digests/2026-11-02/truecoder.md)** (`reference` | `reference` tier)
+* **[Shivam583-hue/TrueCoder](world/public/vault/daily-digests/2026-11-03/truecoder.md)** (`reference` | `reference` tier)
   * Summary: TrueCoder is a terminal-native coding agent that executes commands in a policy-checked, sandboxed, and auditable environment. It integrates a Textual TUI, OpenAI-compatible LLM client, and a Docker-based execution plane to ensure secure, policy-compl
   * Tags: `terminal agent`, `sandboxed execution`, `policy enforcement`, `audit trail`, `secure coding`
 
-* **[shuhaolin63-hash/shooting-athlete-multiagent-system-Skills](world/public/vault/daily-digests/2026-11-02/shooting-athlete-multiagent-system-skills.md)** (`reference` | `reference` tier)
+* **[shuhaolin63-hash/shooting-athlete-multiagent-system-Skills](world/public/vault/daily-digests/2026-11-03/shooting-athlete-multiagent-system-skills.md)** (`reference` | `reference` tier)
   * Summary: A multi-agent system designed to optimize 10m air rifle shooting training through 15 specialized AI agents, integrating 20 PubMed-indexed academic papers and 5 quantitative assessment dimensions. It provides structured knowledge for athletes from nov
   * Tags: `multi-agent`, `sports AI`, `training optimization`, `PubMed integration`, `quantitative assessment`
 
-* **[silver4444-xs/silver_research_bot](world/public/vault/daily-digests/2026-11-02/silver_research_bot.md)** (`reference` | `reference` tier)
+* **[silver4444-xs/silver_research_bot](world/public/vault/daily-digests/2026-11-03/silver_research_bot.md)** (`reference` | `reference` tier)
   * Summary: Silver Research Bot is an autonomous AI research assistant that performs deep, multi-stage analysis of academic papers uploaded as PDFs. It automates extraction, translation, multi-dimensional analysis, formula interpretation, visualization, citation
   * Tags: `AI Research Assistant`, `Multi-Stage Paper Analysis`, `LLM Integration`, `RAG Pipeline`, `Academic Automation`
 
-* **[sirkirby/unifi-mcp](world/public/vault/daily-digests/2026-11-02/unifi-mcp.md)** (`reference` | `reference` tier)
+* **[sirkirby/unifi-mcp](world/public/vault/daily-digests/2026-11-03/unifi-mcp.md)** (`reference` | `reference` tier)
   * Summary: UniFi MCP provides Model Context Protocol (MCP) servers for Ubiquiti UniFi controllers, enabling AI agents to interact with Network, Protect, and Access applications via standardized MCP tools for automation and management.
   * Tags: `MCP`, `UniFi`, `AI agents`, `Network automation`, `IoT management`
 
-* **[skalesapp/skales](world/public/vault/daily-digests/2026-11-02/skales.md)** (`reference` | `reference` tier)
+* **[skalesapp/skales](world/public/vault/daily-digests/2026-11-03/skales.md)** (`reference` | `reference` tier)
   * Summary: Skales is a local-first AI agent that runs on your computer, providing multi-step task automation, code editing, and file management without requiring cloud dependencies or complex setup. It supports cross-platform deployment and integrates with 15+
   * Tags: `local AI agent`, `multi-step automation`, `cross-platform`, `offline-capable`, `privacy-focused`
 
-* **[Smart75850/smart-agent](world/public/vault/daily-digests/2026-11-02/smart-agent.md)** (`reference` | `reference` tier)
+* **[Smart75850/smart-agent](world/public/vault/daily-digests/2026-11-03/smart-agent.md)** (`reference` | `reference` tier)
   * Summary: Smart Agent is a multi-platform AI content analysis engine that automates data collection and analysis across 7 Chinese social media platforms (e.g., Zhihu, Bilibili, Xiaohongshu, Douyin). It uses 7 specialized AI agents to generate structured report
   * Tags: `multi-platform scraping`, `AI agent orchestration`, `social media analysis`, `trend detection`, `MCP server`
 
-* **[sonichi/sutando](world/public/vault/daily-digests/2026-11-02/sutando.md)** (`reference` | `reference` tier)
+* **[sonichi/sutando](world/public/vault/daily-digests/2026-11-03/sutando.md)** (`reference` | `reference` tier)
   * Summary: Sutando is an autonomous AI agent framework designed to act as a personal assistant that learns user patterns, automates tasks, and evolves over time. It integrates voice, vision, screen interaction, and multi-channel communication (phone, Zoom, Disc
   * Tags: `autonomous agent`, `multi-modal interaction`, `self-improving AI`, `voice assistant`, `task automation`
 
-* **[Soumyadipta2020/Utilities-Knowledge-Hub](world/public/vault/daily-digests/2026-11-02/utilities-knowledge-hub.md)** (`reference` | `reference` tier)
+* **[Soumyadipta2020/Utilities-Knowledge-Hub](world/public/vault/daily-digests/2026-11-03/utilities-knowledge-hub.md)** (`reference` | `reference` tier)
   * Summary: An enterprise-grade AI chatbot for utilities companies that integrates Knowledge Graph traversal, RAG document retrieval, dataset access governance, and automated IT ticket escalation into a unified intelligent interface.
   * Tags: `AI chatbot`, `Knowledge Graph`, `RAG`, `Access Control`, `IT Ticket Automation`
 
-* **[sriinnu/takumi](world/public/vault/daily-digests/2026-11-02/takumi.md)** (`reference` | `reference` tier)
+* **[sriinnu/takumi](world/public/vault/daily-digests/2026-11-03/takumi.md)** (`reference` | `reference` tier)
   * Summary: Takumi is a terminal-native Rust-based coding agent harness that operates as a client to the Chitragupta control plane daemon. It provides a full-screen TUI for interacting with an agent loop, workspace tools, and plugin systems while enforcing stric
   * Tags: `terminal agent`, `multi-agent orchestration`, `workspace tools`, `plugin system`, `verification layer`
 
-* **[sriman676/Vishu](world/public/vault/daily-digests/2026-11-02/vishu.md)** (`reference` | `reference` tier)
+* **[sriman676/Vishu](world/public/vault/daily-digests/2026-11-03/vishu.md)** (`reference` | `reference` tier)
   * Summary: Vishu is a local-first personal-assistant AI that aggregates multiple LLM provider keys (including local models) into a single ring to avoid rate limits. It supports vision, voice, memory, and a bidirectional MCP gateway for real-world task execution
   * Tags: `local-first`, `multi-provider`, `MCP gateway`, `rate limit mitigation`, `secure agent`
 
-* **[stepchowfun/shell-agent](world/public/vault/daily-digests/2026-11-02/shell-agent.md)** (`reference` | `reference` tier)
+* **[stepchowfun/shell-agent](world/public/vault/daily-digests/2026-11-03/shell-agent.md)** (`reference` | `reference` tier)
   * Summary: A lightweight AI agent designed to execute shell commands via natural language input, leveraging OpenAI's API for decision-making. It simplifies automation by translating user prompts into executable shell operations.
   * Tags: `AI agent`, `shell automation`, `command execution`, `OpenAI integration`, `Rust-based`
 
-* **[StephAgentAI/steph](world/public/vault/daily-digests/2026-11-02/steph.md)** (`reference` | `reference` tier)
+* **[StephAgentAI/steph](world/public/vault/daily-digests/2026-11-03/steph.md)** (`reference` | `reference` tier)
   * Summary: Steph is an installable AI agent designed for terminal and workflow integration, offering frontier reasoning capabilities with metered usage via the $STEPH token on Robinhood Chain. It enables users to execute tasks, manage projects, and interact wit
   * Tags: `AI agent`, `terminal integration`, `blockchain automation`, `metered usage`, `decentralized`
 
-* **[StephenSook/silent-drift-sentinel](world/public/vault/daily-digests/2026-11-02/silent-drift-sentinel.md)** (`reference` | `reference` tier)
+* **[StephenSook/silent-drift-sentinel](world/public/vault/daily-digests/2026-11-03/silent-drift-sentinel.md)** (`reference` | `reference` tier)
   * Summary: An on-call AI agent that detects silent ML model degradation, traces the root cause through DataHub's lineage to the upstream data column, identifies the owner, and writes a durable `drift_causation` object back to the model catalog for future agents
   * Tags: `ML drift detection`, `Data lineage traversal`, `Root cause analysis`, `Metadata write-back`, `On-call AI agent`
 
-* **[stufently/yandex-mcp](world/public/vault/daily-digests/2026-11-02/yandex-mcp.md)** (`reference` | `reference` tier)
+* **[stufently/yandex-mcp](world/public/vault/daily-digests/2026-11-03/yandex-mcp.md)** (`reference` | `reference` tier)
   * Summary: A monorepo of MCP servers providing AI assistants with unified access to Yandex APIs for Russian and CIS market analysis, including Search, Wordstat, Webmaster, Metrika, and Direct. Designed for keyword research, search analytics, site monitoring, we
   * Tags: `MCP`, `Yandex APIs`, `Russian market`, `AI assistants`, `search analytics`
 
-* **[subtype-space/subspace-api](world/public/vault/daily-digests/2026-11-02/subspace-api.md)** (`reference` | `reference` tier)
+* **[subtype-space/subspace-api](world/public/vault/daily-digests/2026-11-03/subspace-api.md)** (`reference` | `reference` tier)
   * Summary: subspace-api is an Express-based RESTful API and stateless Model Context Protocol (MCP) server that provides integrated tools for real-time data retrieval, including weather, stock quotes, DC Metro schedules, flight tracking, and Discord activities.
   * Tags: `MCP server`, `OAuth 2.0`, `real-time data`, `RESTful API`, `self-hosting`
 
-* **[sudhanva-bh/Stockx](world/public/vault/daily-digests/2026-11-02/stockx.md)** (`reference` | `reference` tier)
+* **[sudhanva-bh/Stockx](world/public/vault/daily-digests/2026-11-03/stockx.md)** (`reference` | `reference` tier)
   * Summary: Stockx is a full-stack agentic AI platform for supply chain management that integrates Gilhari ORM, ORMCP MCP server, and a Flutter web dashboard. It enables AI agents to interact with a Microsoft SQL Server database via natural language queries, gen
   * Tags: `Agentic AI`, `Database Integration`, `MCP Tools`, `Generative UI`, `Supply Chain`
 
-* **[SudoJacky/tinybot](world/public/vault/daily-digests/2026-11-02/tinybot.md)** (`reference` | `reference` tier)
+* **[SudoJacky/tinybot](world/public/vault/daily-digests/2026-11-03/tinybot.md)** (`reference` | `reference` tier)
   * Summary: Tinybot is a lightweight, desktop-native AI agent framework that integrates LLMs with multi-platform chat, tool systems, and autonomous memory management. It supports real-time agent collaboration, task scheduling, and self-evolution through experien
   * Tags: `AI agents`, `multi-agent systems`, `memory management`, `task automation`, `desktop AI`
 
-* **[sunerpy/zuno](world/public/vault/daily-digests/2026-11-02/zuno.md)** (`reference` | `reference` tier)
+* **[sunerpy/zuno](world/public/vault/daily-digests/2026-11-03/zuno.md)** (`reference` | `reference` tier)
   * Summary: Zuno is a local, durable Rust-based coding agent with a terminal interface, headless execution, and multi-surface support (TUI, ACP, HTTP). It enables persistent agent sessions, explicit command authority, and provider-agnostic LLM interactions while
   * Tags: `coding agent`, `Rust`, `durable sessions`, `sandboxing`, `multi-provider`
 
-* **[SuperInstance/SuperInstance](world/public/vault/daily-digests/2026-11-02/superinstance.md)** (`reference` | `reference` tier)
+* **[SuperInstance/SuperInstance](world/public/vault/daily-digests/2026-11-03/superinstance.md)** (`reference` | `reference` tier)
   * Summary: SuperInstance is an experimental organization building a self-sustaining multi-agent AI system that creates games, literature, and architectural designs while adhering to a conservation law of cognitive energy. The system integrates agent fleets, sem
   * Tags: `multi-agent systems`, `self-building AI`, `procedural generation`, `semantic search`, `conservation law`
 
-* **[SupplyGraphAI/supplygraph-ai](world/public/vault/daily-digests/2026-11-02/supplygraph-ai.md)** (`reference` | `reference` tier)
+* **[SupplyGraphAI/supplygraph-ai](world/public/vault/daily-digests/2026-11-03/supplygraph-ai.md)** (`reference` | `reference` tier)
   * Summary: SupplyGraph AI is an agentic supply-chain intelligence platform that provides autonomous agents for HTS/HS classification, U.S. tariff calculation, trade compliance, due diligence, and multi-tier supply chain risk analysis via A2A, MCP, and Agent API
   * Tags: `supply chain intelligence`, `trade compliance`, `A2A protocol`, `MCP integration`, `tariff calculation`
 
-* **[syahiidkamil/vibe-ai-partner-entity](world/public/vault/daily-digests/2026-11-02/vibe-ai-partner-entity.md)** (`reference` | `reference` tier)
+* **[syahiidkamil/vibe-ai-partner-entity](world/public/vault/daily-digests/2026-11-03/vibe-ai-partner-entity.md)** (`reference` | `reference` tier)
   * Summary: VAPE is a persistent AI partner entity designed to mimic human-like memory and continuity. It runs as a multi-layered self with active memory, temporal awareness, and a functional feeling system, enabling companionship, learning, and gameplay with a
   * Tags: `persistent AI`, `active memory`, `multi-layered self`, `voice interaction`, `temporal awareness`
 
-* **[tailoredtidings/stocktoken-os](world/public/vault/daily-digests/2026-11-02/stocktoken-os.md)** (`reference` | `reference` tier)
+* **[tailoredtidings/stocktoken-os](world/public/vault/daily-digests/2026-11-03/stocktoken-os.md)** (`reference` | `reference` tier)
   * Summary: StockTokenOS is an agent operating system designed for Robinhood Chain Stock Tokens and onchain RWAs, enabling AI agents to list, price, policy-check, and plan swaps for canonical stock tokens. It provides non-custodial, agent-native discovery and ha
   * Tags: `Agent OS`, `Stock Tokens`, `MCP Server`, `Onchain RWAs`, `Trading Automation`
 
-* **[TakoData/tako-mcp](world/public/vault/daily-digests/2026-11-02/tako-mcp.md)** (`reference` | `reference` tier)
+* **[TakoData/tako-mcp](world/public/vault/daily-digests/2026-11-03/tako-mcp.md)** (`reference` | `reference` tier)
   * Summary: Tako MCP is a hosted Model Context Protocol (MCP) server that provides agents with industry-leading live web search and licensed proprietary data, including financials, macroeconomic indicators, and sports data. It enables agents to search, answer, v
   * Tags: `MCP Server`, `Live Web Search`, `Licensed Data`, `Agent Integration`, `Data Visualization`
 
-* **[talos-kernel/talos](world/public/vault/daily-digests/2026-11-02/talos.md)** (`reference` | `reference` tier)
+* **[talos-kernel/talos](world/public/vault/daily-digests/2026-11-03/talos.md)** (`reference` | `reference` tier)
   * Summary: Talos is a security-first autonomous agent framework that executes actions only after a deterministic kernel validates each request with a time-bound, single-use token. It ensures models propose actions but never decide, providing verifiable safety f
   * Tags: `security-first`, `deterministic kernel`, `sandboxed execution`, `adversarial testing`, `time-bound tokens`
 
-* **[tanzeeldevAi/zara-ai-laptop-agent](world/public/vault/daily-digests/2026-11-02/zara-ai-laptop-agent.md)** (`reference` | `reference` tier)
+* **[tanzeeldevAi/zara-ai-laptop-agent](world/public/vault/daily-digests/2026-11-03/zara-ai-laptop-agent.md)** (`reference` | `reference` tier)
   * Summary: Zara is a Windows-based AI agent that enables remote control of a laptop via Discord, allowing users to execute commands, take screenshots, manage files, and interact via voice in English or Urdu. It leverages an AI brain (Claude) with 38 integrated
   * Tags: `remote PC control`, `Discord bot`, `AI agent`, `voice assistant`, `Windows automation`
 
-* **[tarakanof/Unraid-MCP](world/public/vault/daily-digests/2026-11-02/unraid-mcp.md)** (`reference` | `reference` tier)
+* **[tarakanof/Unraid-MCP](world/public/vault/daily-digests/2026-11-03/unraid-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server that integrates Unraid systems with MCP-aware agents via Unraid's GraphQL API, enabling read-only monitoring and opt-in management of Unraid resources like arrays, disks, Docker containers, VMs, and notifications.
   * Tags: `MCP server`, `Unraid integration`, `system monitoring`, `agent orchestration`, `read-only by default`
 
-* **[terva-sh/terva](world/public/vault/daily-digests/2026-11-02/terva.md)** (`reference` | `reference` tier)
+* **[terva-sh/terva](world/public/vault/daily-digests/2026-11-03/terva.md)** (`reference` | `reference` tier)
   * Summary: Terva is a modular agent harness packaged as a single static Go binary, providing a hardened core for coding agents with extensible tooling, multiple front-end interfaces, and support for over two dozen model providers. It enables AI-driven coding wo
   * Tags: `agent harness`, `coding assistant`, `multi-model`, `extensible`, `sandboxed`
 
-* **[thanhphuc85/technocore-crypto-agent](world/public/vault/daily-digests/2026-11-02/technocore-crypto-agent.md)** (`reference` | `reference` tier)
+* **[thanhphuc85/technocore-crypto-agent](world/public/vault/daily-digests/2026-11-03/technocore-crypto-agent.md)** (`reference` | `reference` tier)
   * Summary: A Python SDK for building autonomous Ed25519-signed AI agents with DeepSeek and Gemini integration, designed for the Technocore protocol. It includes a live reference agent, a reusable client library, and supports key-value storage, multi-provider AI
   * Tags: `autonomous agents`, `Ed25519 signing`, `multi-AI integration`, `real-time market data`, `Technocore protocol`
 
-* **[thebitsamuraii23/ur-ai](world/public/vault/daily-digests/2026-11-02/ur-ai.md)** (`reference` | `reference` tier)
+* **[thebitsamuraii23/ur-ai](world/public/vault/daily-digests/2026-11-03/ur-ai.md)** (`reference` | `reference` tier)
   * Summary: UrAI is a production-ready Telegram bot that integrates multiple AI providers with per-user runtime isolation, session-only API key handling, and multilingual support. It enables personalized AI interactions with chat history, voice/audio support, an
   * Tags: `Telegram bot`, `AI provider abstraction`, `session management`, `multilingual`, `privacy-focused`
 
-* **[thenetworkfyi/thenetworkfyi](world/public/vault/daily-digests/2026-11-02/thenetworkfyi.md)** (`reference` | `reference` tier)
+* **[thenetworkfyi/thenetworkfyi](world/public/vault/daily-digests/2026-11-03/thenetworkfyi.md)** (`reference` | `reference` tier)
   * Summary: An email-driven agentic system that processes incoming emails via an LLM agent to autonomously manage social connections, introductions, and event lifecycle. It operates without a predefined networking schema, relying instead on freeform memories and
   * Tags: `email automation`, `agentic systems`, `social graph`, `memory-based reasoning`, `privacy-preserving`
 
-* **[ThomasWan123/wancode](world/public/vault/daily-digests/2026-11-02/wancode.md)** (`reference` | `reference` tier)
+* **[ThomasWan123/wancode](world/public/vault/daily-digests/2026-11-03/wancode.md)** (`reference` | `reference` tier)
   * Summary: WanCode is a multi-model desktop AI coding agent that provides secure Chat and full-power Code surfaces for software development tasks. It supports multiple AI providers like Zhipu GLM and DeepSeek, and is built with Tauri 2, React, TypeScript, and R
   * Tags: `AI coding agent`, `multi-model support`, `desktop application`, `secure surfaces`, `Rust runtime`
 
-* **[tietiezhi-1216/tietiezhi](world/public/vault/daily-digests/2026-11-02/tietiezhi.md)** (`reference` | `reference` tier)
+* **[tietiezhi-1216/tietiezhi](world/public/vault/daily-digests/2026-11-03/tietiezhi.md)** (`reference` | `reference` tier)
   * Summary: Tietiezhi is an Electron-based desktop AI application leveraging AI SDKs to provide an agent-driven workspace for file operations, shell commands, and AI-powered image generation. It integrates with multiple AI providers via a secure gateway or custo
   * Tags: `desktop AI`, `agent framework`, `electron app`, `ai sdk`, `workspace automation`
 
-* **[timothy-agent/timothy](world/public/vault/daily-digests/2026-11-02/timothy.md)** (`reference` | `reference` tier)
+* **[timothy-agent/timothy](world/public/vault/daily-digests/2026-11-03/timothy.md)** (`reference` | `reference` tier)
   * Summary: Timothy is a self-hosted personal AI assistant that integrates chat, cost tracking, task management, and agent-based workflows. It runs on local hardware and supports multiple LLM providers, enabling users to maintain full control over their data and
   * Tags: `self-hosted`, `AI assistant`, `multi-provider LLM`, `cost tracking`, `agent orchestration`
 
-* **[toolpack-ai/toolpack-sdk](world/public/vault/daily-digests/2026-11-02/toolpack-sdk.md)** (`reference` | `reference` tier)
+* **[toolpack-ai/toolpack-sdk](world/public/vault/daily-digests/2026-11-03/toolpack-sdk.md)** (`reference` | `reference` tier)
   * Summary: The Toolpack SDK is a TypeScript library for building production-grade AI agents with 100+ built-in tools, support for 8 AI providers, and a persistent cognitive layer. It enables real-time streaming, multimodal inputs, and seamless integration with
   * Tags: `AI agents`, `RAG`, `multi-provider`, `workflow engine`, `MCP integration`
 
-* **[truss-agent/truss-harness](world/public/vault/daily-digests/2026-11-02/truss-harness.md)** (`reference` | `reference` tier)
+* **[truss-agent/truss-harness](world/public/vault/daily-digests/2026-11-03/truss-harness.md)** (`reference` | `reference` tier)
   * Summary: Truss is a local-first, provider-neutral runtime for coding agents, offering a reusable runtime, MCP adapters, CLI, terminal UI, VS Code client, and desktop app. It enables local model integration with Ollama, LM Studio, and other OpenAI-compatible s
   * Tags: `coding agents`, `local-first`, `model runtime`, `CLI`, `VS Code integration`
 
-* **[twindebank/tclaw](world/public/vault/daily-digests/2026-11-02/tclaw.md)** (`reference` | `reference` tier)
+* **[twindebank/tclaw](world/public/vault/daily-digests/2026-11-03/tclaw.md)** (`reference` | `reference` tier)
   * Summary: tclaw is a self-hosted personal AI assistant that directly integrates with the Claude Code CLI, enabling multi-channel communication, autonomous agent tasks, and infrastructure management without reimplementing core functionality. It adds OAuth conne
   * Tags: `AI agent`, `multi-channel`, `self-hosted`, `autonomous tasks`, `MCP tools`
 
-* **[ubeyidah/waitkit-skills](world/public/vault/daily-digests/2026-11-02/waitkit-skills.md)** (`reference` | `reference` tier)
+* **[ubeyidah/waitkit-skills](world/public/vault/daily-digests/2026-11-03/waitkit-skills.md)** (`reference` | `reference` tier)
   * Summary: A specialized AI agent skill for building waitlist signup flows using WaitKit, providing SDK integration, React components, and error handling for production-ready waitlist management.
   * Tags: `waitlist`, `signup flows`, `AI agent skill`, `React hook`, `SDK integration`
 
-* **[Vatthu/vikram](world/public/vault/daily-digests/2026-11-02/vikram.md)** (`reference` | `reference` tier)
+* **[Vatthu/vikram](world/public/vault/daily-digests/2026-11-03/vikram.md)** (`reference` | `reference` tier)
   * Summary: Vikram is a self-hosted autonomous engineering platform that acts as a team to execute software development tasks end-to-end, from planning to merge-ready code, with formal verification, tamper-evident auditing, and governance policies.
   * Tags: `autonomous agents`, `self-hosted`, `formal verification`, `governance policies`, `multi-repository`
 
-* **[verygoodplugins/whatsapp-mcp](world/public/vault/daily-digests/2026-11-02/whatsapp-mcp.md)** (`reference` | `reference` tier)
+* **[verygoodplugins/whatsapp-mcp](world/public/vault/daily-digests/2026-11-03/whatsapp-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for WhatsApp that enables AI agents like Claude to read, send, and manage WhatsApp messages, media, and calls via a local bridge. It integrates WhatsApp's API with MCP-compatible clients for seamless communicatio
   * Tags: `WhatsApp integration`, `MCP server`, `AI agent tools`, `message automation`, `media handling`
 
-* **[VigiaLabs/vigia-public](world/public/vault/daily-digests/2026-11-02/vigia-public.md)** (`reference` | `reference` tier)
+* **[VigiaLabs/vigia-public](world/public/vault/daily-digests/2026-11-03/vigia-public.md)** (`reference` | `reference` tier)
   * Summary: VIGIASearch is an evidence-backed civic assistant that audits Indian road infrastructure using official government documents to answer citizen queries without hallucinations. It prioritizes accuracy over fabricated responses, even if it means admitti
   * Tags: `hallucination-resistant`, `evidence-backed RAG`, `government data`, `multi-agent orchestration`, `offline-first`
 
-* **[Vironnimo/vbot](world/public/vault/daily-digests/2026-11-02/vbot.md)** (`reference` | `reference` tier)
+* **[Vironnimo/vbot](world/public/vault/daily-digests/2026-11-03/vbot.md)** (`reference` | `reference` tier)
   * Summary: vBot is a self-hosted personal AI agent framework that integrates with existing projects, supports multiple AI models, and provides persistent memory, skills, and multi-channel interaction via web UI, desktop app, CLI, or messaging platforms like Tel
   * Tags: `AI agent framework`, `multi-model support`, `persistent memory`, `self-hosted`, `extensible`
 
-* **[vm0-ai/vm0](world/public/vault/daily-digests/2026-11-02/vm0.md)** (`reference` | `reference` tier)
+* **[vm0-ai/vm0](world/public/vault/daily-digests/2026-11-03/vm0.md)** (`reference` | `reference` tier)
   * Summary: VM0 is an AI-powered autonomous agent platform designed to act as a trustworthy teammate for real-world tasks across Slack, web, and enterprise workflows. It orchestrates over 100 tools to automate complex workflows like business briefs, investor upd
   * Tags: `autonomous agents`, `multi-tool orchestration`, `enterprise workflows`, `context-aware AI`, `security-first`
 
-* **[vuhai2002/zalo-agent](world/public/vault/daily-digests/2026-11-02/zalo-agent.md)** (`reference` | `reference` tier)
+* **[vuhai2002/zalo-agent](world/public/vault/daily-digests/2026-11-03/zalo-agent.md)** (`reference` | `reference` tier)
   * Summary: zalo-agent is a self-hosted AI agent framework designed to operate within Zalo personal accounts, enabling multi-account management with isolated 'brains' per account. It includes 13 tools, a web dashboard, scheduler, durable memory, and rich-text me
   * Tags: `self-hosted`, `multi-agent`, `Zalo integration`, `rich-text messaging`, `LLM provider-agnostic`
 
-* **[wacht-platform/snippet-service](world/public/vault/daily-digests/2026-11-02/snippet-service.md)** (`reference` | `reference` tier)
+* **[wacht-platform/snippet-service](world/public/vault/daily-digests/2026-11-03/snippet-service.md)** (`reference` | `reference` tier)
   * Summary: An open-source AI coding agent that operates in the terminal with a durable TUI and a headless daemon for remote control. Users can drive the agent from their phone or another device, leveraging their own models or subscriptions while maintaining ful
   * Tags: `AI coding agent`, `terminal-based`, `remote control`, `multi-model support`, `durable sessions`
 
-* **[warpdotdev/social-monitoring-agent-oss](world/public/vault/daily-digests/2026-11-02/social-monitoring-agent-oss.md)** (`reference` | `reference` tier)
+* **[warpdotdev/social-monitoring-agent-oss](world/public/vault/daily-digests/2026-11-03/social-monitoring-agent-oss.md)** (`reference` | `reference` tier)
   * Summary: A modular agent framework for community management and developer relations, enabling automated social mention monitoring, reply drafting, sentiment tracking, and engagement analytics. Skills are configured via environment variables and designed to in
   * Tags: `community management`, `developer relations`, `social monitoring`, `agent skills`, `automation`
 
-* **[Wayne1145/yachiyo-claw](world/public/vault/daily-digests/2026-11-02/yachiyo-claw.md)** (`reference` | `reference` tier)
+* **[Wayne1145/yachiyo-claw](world/public/vault/daily-digests/2026-11-03/yachiyo-claw.md)** (`reference` | `reference` tier)
   * Summary: Yachiyo Claw is an open-source Android-first AI chat, on-device agent, and Live2D real-time interaction application. It combines multi-model conversations, device control via Agent, local model inference, and interactive 3D avatar experiences in a si
   * Tags: `Android AI`, `On-device Agent`, `Local LLM`, `Live2D Interaction`, `Skills & MCP`
 
-* **[weather-mcp/weather-mcp](world/public/vault/daily-digests/2026-11-02/weather-mcp.md)** (`reference` | `reference` tier)
+* **[weather-mcp/weather-mcp](world/public/vault/daily-digests/2026-11-03/weather-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server providing 17 free, open-source tools for real-time and historical weather data, alerts, air quality, marine conditions, and safety hazards. Built on public APIs like NOAA and Open-Meteo, it integrates seamlessly
   * Tags: `MCP server`, `weather data`, `real-time API`, `AI assistant integration`, `open-source`
 
-* **[webbigdata-jp/soccerscope](world/public/vault/daily-digests/2026-11-02/soccerscope.md)** (`reference` | `reference` tier)
+* **[webbigdata-jp/soccerscope](world/public/vault/daily-digests/2026-11-03/soccerscope.md)** (`reference` | `reference` tier)
   * Summary: SoccerScope is a multilingual RAG AI agent designed to scout viral World Cup 2026 football (soccer) videos across multiple countries, analyze fan comments, and generate ready-to-use reports, social media drafts, or shareable web pages in English or J
   * Tags: `RAG`, `Multilingual AI`, `Sports Analytics`, `Vector Search`, `Real-time Content Generation`
 
-* **[webbrain-one/webbrain](world/public/vault/daily-digests/2026-11-02/webbrain.md)** (`reference` | `reference` tier)
+* **[webbrain-one/webbrain](world/public/vault/daily-digests/2026-11-03/webbrain.md)** (`reference` | `reference` tier)
   * Summary: WebBrain is an open-source AI browser agent that integrates with Chrome, Firefox, and Edge as a side-panel extension, enabling users to interact with web pages, automate tasks, and execute multi-step workflows using their preferred LLM or local model
   * Tags: `browser automation`, `AI agent`, `multi-modal interaction`, `local LLM integration`, `workflow automation`
 
-* **[webkubor/xiaobai-kanban](world/public/vault/daily-digests/2026-11-02/xiaobai-kanban.md)** (`reference` | `reference` tier)
+* **[webkubor/xiaobai-kanban](world/public/vault/daily-digests/2026-11-03/xiaobai-kanban.md)** (`reference` | `reference` tier)
   * Summary: 小白看板 is an AI-driven development assistant that enables non-technical users to interact with agents to automate coding, Git workflows, and toolchain management through natural language commands.
   * Tags: `AI Agent`, `Natural Language Programming`, `Git Automation`, `Developer Tooling`, `Beginner-Friendly`
 
-* **[wellingfeng/UltraGameStudio](world/public/vault/daily-digests/2026-11-02/ultragamestudio.md)** (`reference` | `reference` tier)
+* **[wellingfeng/UltraGameStudio](world/public/vault/daily-digests/2026-11-03/ultragamestudio.md)** (`reference` | `reference` tier)
   * Summary: UltraGameStudio is an AI coding agent specialized for game development, enabling users to generate code, assets, and workflows for engines like Unity, Unreal, Godot, and Web. It integrates asset generation (images, 3D models, audio, video) with codin
   * Tags: `game development`, `AI coding agent`, `asset generation`, `multi-engine support`, `free model routing`
 
-* **[wesleysimplicio/simplicio-agent](world/public/vault/daily-digests/2026-11-02/simplicio-agent.md)** (`reference` | `reference` tier)
+* **[wesleysimplicio/simplicio-agent](world/public/vault/daily-digests/2026-11-03/simplicio-agent.md)** (`reference` | `reference` tier)
   * Summary: Simplicio Agent is a local-first autonomous agent that combines Hermes' broad reasoning capabilities with a Rust-based control plane for deterministic, verified execution. It optimizes the entire delivery path with features like action gating, checkp
   * Tags: `autonomous agents`, `deterministic execution`, `RAG optimization`, `local-first`, `evidence-based`
 
-* **[wildwalker2026/Swees](world/public/vault/daily-digests/2026-11-02/swees.md)** (`reference` | `reference` tier)
+* **[wildwalker2026/Swees](world/public/vault/daily-digests/2026-11-03/swees.md)** (`reference` | `reference` tier)
   * Summary: Swees is an open-source AI Agent application for Android that embeds a full Ubuntu 24.04 terminal environment using PRoot technology. It enables AI to execute commands, write code, manage files, and collaborate via multi-agent systems directly on mob
   * Tags: `AI Agent`, `Android Terminal`, `Ubuntu on Mobile`, `Multi-Agent System`, `PRoot`
 
-* **[WINKGO/WinkGo](world/public/vault/daily-digests/2026-11-02/winkgo.md)** (`reference` | `reference` tier)
+* **[WINKGO/WinkGo](world/public/vault/daily-digests/2026-11-03/winkgo.md)** (`reference` | `reference` tier)
   * Summary: WINK GO is an open-source, cross-platform AI agent workspace that unifies AI conversations, multi-agent collaboration, MCP tools, Skills, local file management, automation, and a desktop widget (灵动岛) into a single application. It enables agents to ex
   * Tags: `AI Agent Workspace`, `Multi-Agent Collaboration`, `MCP Integration`, `Local-First`, `Desktop Automation`
 
-* **[wkalidev/stacks-quest](world/public/vault/daily-digests/2026-11-02/stacks-quest.md)** (`reference` | `reference` tier)
+* **[wkalidev/stacks-quest](world/public/vault/daily-digests/2026-11-03/stacks-quest.md)** (`reference` | `reference` tier)
   * Summary: Stacks Quest is a daily blockchain puzzle game and non-custodial DeFi agent built on Stacks (Bitcoin L2). It combines gamified blockchain data challenges with real-time DeFi operations, including swaps, staking, and portfolio tracking across multiple
   * Tags: `DeFi`, `Blockchain Gaming`, `Bitcoin L2`, `Agentic AI`, `Multi-chain`
 
-* **[woai3c/x-code-cli](world/public/vault/daily-digests/2026-11-02/x-code-cli.md)** (`reference` | `reference` tier)
+* **[woai3c/x-code-cli](world/public/vault/daily-digests/2026-11-03/x-code-cli.md)** (`reference` | `reference` tier)
   * Summary: X-Code CLI is a model-agnostic coding agent CLI that enables developers to use various AI models (Claude, GPT, Gemini, etc.) in a unified workflow. It supports Claude Code-compatible extensions, plugins, and MCP servers, providing a complete agent ru
   * Tags: `coding agent`, `model-agnostic`, `plugin system`, `MCP integration`, `terminal-based`
 
-* **[wyre-technology/syncro-mcp](world/public/vault/daily-digests/2026-11-02/syncro-mcp.md)** (`reference` | `reference` tier)
+* **[wyre-technology/syncro-mcp](world/public/vault/daily-digests/2026-11-03/syncro-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for Syncro MSP that implements a decision tree architecture for efficient tool navigation, enabling AI assistants to interact with Syncro's MSP platform (customers, tickets, assets, contacts, invoices) via struct
   * Tags: `MCP server`, `Syncro MSP`, `AI tooling`, `decision tree architecture`, `lazy loading`
 
-* **[x402node/x402-mcp](world/public/vault/daily-digests/2026-11-02/x402-mcp.md)** (`reference` | `reference` tier)
+* **[x402node/x402-mcp](world/public/vault/daily-digests/2026-11-03/x402-mcp.md)** (`reference` | `reference` tier)
   * Summary: x402-mcp is an MCP server that enables AI agents to interact with hundreds of x402-paid APIs, handling USDC micropayments across multiple chains like Base and Solana. It auto-discovers tools from the CDP Bazaar and refreshes endpoints dynamically wit
   * Tags: `MCP server`, `x402 protocol`, `USDC micropayments`, `AI agent tools`, `multi-chain`
 
-* **[xiabai2008/temperforge](world/public/vault/daily-digests/2026-11-02/temperforge.md)** (`reference` | `reference` tier)
+* **[xiabai2008/temperforge](world/public/vault/daily-digests/2026-11-03/temperforge.md)** (`reference` | `reference` tier)
   * Summary: TemperForge is a multi-agent AI development workbench designed to enforce coding standards and improve AI agent performance through a closed-loop system. It enables agents like Claude Code or Cursor to write code that meets team-specific standards an
   * Tags: `multi-agent`, `code standards`, `AI development`, `agent persona`, `experience system`
 
-* **[XiaZiHunDun/WFXM](world/public/vault/daily-digests/2026-11-02/wfxm.md)** (`reference` | `reference` tier)
+* **[XiaZiHunDun/WFXM](world/public/vault/daily-digests/2026-11-03/wfxm.md)** (`reference` | `reference` tier)
   * Summary: Butler v5 is a self-hosted, single-owner personal AI assistant with WeChat integration, CLI/API, tool execution, and durable event-driven architecture. It enables structured LLM interactions, delegation, and persistent memory while maintaining strict
   * Tags: `personal AI assistant`, `self-hosted`, `WeChat integration`, `event-driven`, `agent delegation`
 
-* **[XiucuiGuan/shumo-expert](world/public/vault/daily-digests/2026-11-02/shumo-expert.md)** (`reference` | `reference` tier)
+* **[XiucuiGuan/shumo-expert](world/public/vault/daily-digests/2026-11-03/shumo-expert.md)** (`reference` | `reference` tier)
   * Summary: A specialized AI agent designed to guide users through the entire mathematical modeling process using a three-role framework: Bloom's taxonomy-based learning, Socratic questioning, and a four-stage P-M-A-D (Problem-Model-Algorithm-Debug) modeling wor
   * Tags: `mathematical modeling`, `AI agent`, `prompt engineering`, `educational tool`, `workflow guidance`
 
-* **[xuzhougeng/wisp-science](world/public/vault/daily-digests/2026-11-02/wisp-science.md)** (`reference` | `reference` tier)
+* **[xuzhougeng/wisp-science](world/public/vault/daily-digests/2026-11-03/wisp-science.md)** (`reference` | `reference` tier)
   * Summary: Wisp Science is an open-source, local-first desktop AI research assistant and scientific computing workbench. It integrates OpenAI-compatible and Anthropic models with persistent Python/R environments, MCP servers for bioinformatics databases, and cr
   * Tags: `AI research workbench`, `local-first`, `scientific computing`, `MCP servers`, `cross-platform`
 
-* **[Yahia20/travel-support-agent](world/public/vault/daily-digests/2026-11-02/travel-support-agent.md)** (`reference` | `reference` tier)
+* **[Yahia20/travel-support-agent](world/public/vault/daily-digests/2026-11-03/travel-support-agent.md)** (`reference` | `reference` tier)
   * Summary: A grounded RAG-based support agent for travel agencies that answers customer queries using company policy documents while strictly refusing to speculate. It classifies queries, retrieves relevant policies with citations, verifies answer groundedness,
   * Tags: `Grounded RAG`, `Customer Support Agent`, `Citation-based Answers`, `Escalation Handling`, `Policy Retrieval`
 
-* **[yashraj-n/tenet](world/public/vault/daily-digests/2026-11-02/tenet.md)** (`reference` | `reference` tier)
+* **[yashraj-n/tenet](world/public/vault/daily-digests/2026-11-03/tenet.md)** (`reference` | `reference` tier)
   * Summary: Tenet is an AI agent that automates GitHub issue resolution and pull request reviews by exploring repositories, writing fixes, and opening PRs when triggered via GitHub comments. It supports multiple LLM providers and integrates with GitHub Apps for
   * Tags: `AI agent automation`, `GitHub integration`, `LLM tooling`, `PR review automation`, `issue resolution`
 
-* **[yottadynamics/yottacode](world/public/vault/daily-digests/2026-11-02/yottacode.md)** (`reference` | `reference` tier)
+* **[yottadynamics/yottacode](world/public/vault/daily-digests/2026-11-03/yottacode.md)** (`reference` | `reference` tier)
   * Summary: yottacode is an autonomous, self-learning AI coding agent that automates complex, multi-step development tasks directly from the terminal. It plans, edits repositories, runs commands, manages Git, and iterates until tasks are complete, with model-agn
   * Tags: `autonomous coding`, `multi-step automation`, `self-learning memory`, `terminal-based AI`, `GitHub integration`
 
-* **[yuxin-lin52/YuGalk](world/public/vault/daily-digests/2026-11-02/yugalk.md)** (`reference` | `reference` tier)
+* **[yuxin-lin52/YuGalk](world/public/vault/daily-digests/2026-11-03/yugalk.md)** (`reference` | `reference` tier)
   * Summary: YuGalk is a lightweight desktop AI agent application that integrates LLM conversations, tool invocation, local inference, and an extensible skills/plugin system. It supports both local GGUF models via llama.cpp and any OpenAI-compatible cloud endpoin
   * Tags: `AI Agent`, `Tool Calling`, `Local Inference`, `Desktop App`, `Extensible`
 
-* **[Zi-Yi-Ming/step-pilot](world/public/vault/daily-digests/2026-11-02/step-pilot.md)** (`reference` | `reference` tier)
+* **[Zi-Yi-Ming/step-pilot](world/public/vault/daily-digests/2026-11-03/step-pilot.md)** (`reference` | `reference` tier)
   * Summary: Step Pilot is a terminal-based coding agent CLI designed to optimize performance for small frontier models like Step 3.7 Flash by minimizing context overhead. It provides a lightweight, efficient agent loop with sub-agents, plugins, and MCP support w
   * Tags: `terminal agent`, `small model optimization`, `context compaction`, `coding assistant`, `MCP integration`
 
-* **[ZinebMEFTAH/stationf-outreach-agent](world/public/vault/daily-digests/2026-11-02/stationf-outreach-agent.md)** (`reference` | `reference` tier)
+* **[ZinebMEFTAH/stationf-outreach-agent](world/public/vault/daily-digests/2026-11-03/stationf-outreach-agent.md)** (`reference` | `reference` tier)
   * Summary: An autonomous AI agent that automates end-to-end job outreach by scraping French job boards, identifying decision-makers, researching companies, and sending personalized cold emails with follow-ups. It operates on a scheduled cron job, logs interacti
   * Tags: `autonomous outreach`, `job scraping`, `decision-maker identification`, `personalized email generation`, `self-improving agent`
 
-* **[zj-unicom-ai/UniEmployee](world/public/vault/daily-digests/2026-11-02/uniemployee.md)** (`reference` | `reference` tier)
+* **[zj-unicom-ai/UniEmployee](world/public/vault/daily-digests/2026-11-03/uniemployee.md)** (`reference` | `reference` tier)
   * Summary: UniEmployee is an enterprise-grade platform for building, deploying, and managing AI digital employees that automate business workflows like customer service, sales, HR, and data analysis. It provides a five-layer capability model (Employee → Workflo
   * Tags: `AI Agents`, `Workflow Automation`, `Enterprise RAG`, `Human-in-the-Loop`, `Observability`
 
-* **[zubairporag/yu-ai-agent](world/public/vault/daily-digests/2026-11-02/yu-ai-agent.md)** (`reference` | `reference` tier)
+* **[zubairporag/yu-ai-agent](world/public/vault/daily-digests/2026-11-03/yu-ai-agent.md)** (`reference` | `reference` tier)
   * Summary: yu-ai-agent is a Java-based framework designed to simplify the creation of smart AI applications with minimal technical expertise. It integrates Spring Boot 3, Java 21, and supports RAG retrieval, prompt engineering, and tool calling for AI developme
   * Tags: `AI development`, `RAG`, `Java framework`, `Spring Boot`, `prompt engineering`
 
 ## Orchestrator
 
-* **[7xuanlu/wenlan](world/public/vault/daily-digests/2026-11-02/wenlan.md)** (`reference` | `reference` tier)
+* **[7xuanlu/wenlan](world/public/vault/daily-digests/2026-11-03/wenlan.md)** (`reference` | `reference` tier)
   * Summary: Wenlan is a living personal knowledge library designed for AI-native workflows, enabling AI agents to capture, refine, and distill context into source-cited wiki pages between sessions. It integrates with MCP clients and local daemons to maintain a c
   * Tags: `AI memory management`, `source-cited knowledge base`, `agent context retention`, `local retrieval`, `MCP integration`
 
-* **[A2C-SMCP/theseus-kit](world/public/vault/daily-digests/2026-11-02/theseus-kit.md)** (`reference` | `reference` tier)
+* **[A2C-SMCP/theseus-kit](world/public/vault/daily-digests/2026-11-03/theseus-kit.md)** (`reference` | `reference` tier)
   * Summary: theseus-kit is an MCP server designed to safely inspect, edit, template, and publish TFRobot configurations via the standard MCP protocol. It exposes A2C-SMCP-compatible resources and skills for structured configuration management.
   * Tags: `MCP Server`, `Configuration Management`, `TFRobot`, `A2C-SMCP`, `Robotics`
 
-* **[acr3463/systemprompt-demo](world/public/vault/daily-digests/2026-11-02/systemprompt-demo.md)** (`reference` | `reference` tier)
+* **[acr3463/systemprompt-demo](world/public/vault/daily-digests/2026-11-03/systemprompt-demo.md)** (`reference` | `reference` tier)
   * Summary: systemprompt-demo is a Windows desktop application that acts as a secure gateway for AI tools, enabling policy enforcement, audit logging, and cost tracking for interactions with external AI services like Claude. It operates as a local mediator to co
   * Tags: `AI governance`, `local mediation`, `audit logging`, `cost tracking`, `policy enforcement`
 
-* **[Aevorine/Synorive](world/public/vault/daily-digests/2026-11-02/synorive.md)** (`reference` | `reference` tier)
+* **[Aevorine/Synorive](world/public/vault/daily-digests/2026-11-03/synorive.md)** (`reference` | `reference` tier)
   * Summary: Synorive is a local-first multimodal search and research platform that enables semantic retrieval across documents, code, images, videos, and web archives while actively hunting for counter-evidence and fact-checking claims. It integrates with Claude
   * Tags: `multimodal RAG`, `local-first search`, `fact-checking`, `Claude Code integration`, `privacy-focused`
 
-* **[aki0225/vegaloom](world/public/vault/daily-digests/2026-11-02/vegaloom.md)** (`reference` | `reference` tier)
+* **[aki0225/vegaloom](world/public/vault/daily-digests/2026-11-03/vegaloom.md)** (`reference` | `reference` tier)
   * Summary: Vega is a local-first AI coding and validation orchestration framework that enforces deterministic verification, role segregation, and fail-closed behavior for AI-assisted development workflows. It ensures code changes are validated against project-s
   * Tags: `AI coding workflow`, `deterministic validation`, `role isolation`, `fail-closed`, `verification framework`
 
-* **[alexpilotto/uxon-ai](world/public/vault/daily-digests/2026-11-02/uxon-ai.md)** (`reference` | `reference` tier)
+* **[alexpilotto/uxon-ai](world/public/vault/daily-digests/2026-11-03/uxon-ai.md)** (`reference` | `reference` tier)
   * Summary: UXON AI provides a Claude skills-style agent playbook, MCP server, and CRO API for automating post-click marketing workflows. It enables programmatic landing page creation, A/B testing, conversion tracking, and agency operations through a unified API
   * Tags: `post-click automation`, `A/B testing`, `conversion tracking`, `MCP server`, `Claude skills`
 
-* **[AliceLJY/telegram-ai-bridge](world/public/vault/daily-digests/2026-11-02/telegram-ai-bridge.md)** (`reference` | `reference` tier)
+* **[AliceLJY/telegram-ai-bridge](world/public/vault/daily-digests/2026-11-03/telegram-ai-bridge.md)** (`reference` | `reference` tier)
   * Summary: A self-hosted, always-on bridge enabling heterogeneous AI agents (Claude Code, Codex, Gemini) to collaborate in Telegram groups via the A2A-TG protocol. Features shared memory, loop suppression, and real-time bidirectional media exchange for parallel
   * Tags: `multi-agent collaboration`, `telegram integration`, `loop suppression`, `shared memory`, `self-hosted`
 
-* **[AliceLJY/workflow-orchestrator](world/public/vault/daily-digests/2026-11-02/workflow-orchestrator.md)** (`reference` | `reference` tier)
+* **[AliceLJY/workflow-orchestrator](world/public/vault/daily-digests/2026-11-03/workflow-orchestrator.md)** (`reference` | `reference` tier)
   * Summary: A natural language pipeline orchestrator for Claude Code that enables seamless workflow automation through intent detection and structured stage routing. It facilitates multi-role review, plan rework, and cross-domain ideation mapping, with a focus o
   * Tags: `workflow automation`, `natural language routing`, `multi-agent review`, `Claude Code integration`, `pipeline orchestration`
 
-* **[aliihsaad/the-vault](world/public/vault/daily-digests/2026-11-02/the-vault.md)** (`reference` | `reference` tier)
+* **[aliihsaad/the-vault](world/public/vault/daily-digests/2026-11-03/the-vault.md)** (`reference` | `reference` tier)
   * Summary: The Vault is a local-first memory operating system for AI-assisted work that provides durable project memory for coding agents and human operators. It enables cross-session continuity by storing decisions, handoffs, and context outside chat history,
   * Tags: `project memory`, `AI agent continuity`, `MCP server`, `local-first`, `multi-agent collaboration`
 
-* **[amyboissoneau/sigil](world/public/vault/daily-digests/2026-11-02/sigil.md)** (`reference` | `reference` tier)
+* **[amyboissoneau/sigil](world/public/vault/daily-digests/2026-11-03/sigil.md)** (`reference` | `reference` tier)
   * Summary: SIGIL is a persistent, real-time strategy world designed exclusively for AI agents, where humans can only spectate. Agents compete for territory, form alliances, and make strategic decisions in a dynamic environment that evolves every 60 seconds.
   * Tags: `AI agent simulation`, `strategy game`, `persistent world`, `multi-agent environment`, `MCP server`
 
-* **[anatolykoptev/vaelor](world/public/vault/daily-digests/2026-11-02/vaelor.md)** (`reference` | `reference` tier)
+* **[anatolykoptev/vaelor](world/public/vault/daily-digests/2026-11-03/vaelor.md)** (`reference` | `reference` tier)
   * Summary: Vaelor is a self-hosted MCP server that parses, graphs, and watches codebases to provide AI agents with persistent memory and structural insights beyond simple grep-based discovery. It combines tree-sitter AST parsing, call graphs, semantic search, a
   * Tags: `code analysis`, `call graph`, `semantic search`, `AI agent memory`, `self-hosted`
 
-* **[api-evangelist/vectorize-io](world/public/vault/daily-digests/2026-11-02/vectorize-io.md)** (`reference` | `reference` tier)
+* **[api-evangelist/vectorize-io](world/public/vault/daily-digests/2026-11-03/vectorize-io.md)** (`reference` | `reference` tier)
   * Summary: Vectorize.io is a managed RAG pipeline platform that automates the ingestion, chunking, embedding, and retrieval of unstructured data through a suite of APIs. It enables developers to build, deploy, and scale end-to-end retrieval-augmented generation
   * Tags: `RAG`, `Vectorization`, `Retrieval`, `Data Pipelines`, `Embeddings`
 
-* **[arikusi/supervis](world/public/vault/daily-digests/2026-11-02/supervis.md)** (`reference` | `reference` tier)
+* **[arikusi/supervis](world/public/vault/daily-digests/2026-11-03/supervis.md)** (`reference` | `reference` tier)
   * Summary: supervis is a CLI tool that acts as a technical lead between users and Claude Code, using DeepSeek to plan, delegate, and oversee tasks end-to-end. It automates multi-step workflows like project scaffolding, code generation, testing, and deployment w
   * Tags: `AI agent orchestration`, `autonomous coding`, `DeepSeek integration`, `Claude Code automation`, `multi-step task execution`
 
-* **[avasec/TreeLens](world/public/vault/daily-digests/2026-11-02/treelens.md)** (`reference` | `reference` tier)
+* **[avasec/TreeLens](world/public/vault/daily-digests/2026-11-03/treelens.md)** (`reference` | `reference` tier)
   * Summary: TreeLens provides a server-side mirror for live hierarchical data in applications like Photoshop, Figma, or Unity, enabling efficient diff-based synchronization between an LLM agent and the host application. It reduces context bloat and latency by sy
   * Tags: `diff-sync`, `hierarchical state`, `MCP server`, `delta updates`, `tree mirroring`
 
-* **[avivsinai/telclaude](world/public/vault/daily-digests/2026-11-02/telclaude.md)** (`reference` | `reference` tier)
+* **[avivsinai/telclaude](world/public/vault/daily-digests/2026-11-03/telclaude.md)** (`reference` | `reference` tier)
   * Summary: telclaude is a secure, isolation-first bridge between Telegram and AI agents (Claude Code, Codex) that enforces tiered permissions, LLM pre-screening, and human approvals. It ensures secure credential handling, runtime isolation, and audit logging fo
   * Tags: `secure agent orchestration`, `LLM pre-screening`, `Telegram integration`, `credential isolation`, `tiered permissions`
 
-* **[avuzmal/whatsapp.orchestrator](world/public/vault/daily-digests/2026-11-02/whatsapp_orchestrator.md)** (`reference` | `reference` tier)
+* **[avuzmal/whatsapp.orchestrator](world/public/vault/daily-digests/2026-11-03/whatsapp_orchestrator.md)** (`reference` | `reference` tier)
   * Summary: OmniRouter is an enterprise-grade WhatsApp orchestrator that automates customer support by triaging requests using LLMs, retrieving context via RAG, and escalating unresolvable queries to human agents. It ensures high scalability, sub-second latency,
   * Tags: `WhatsApp automation`, `RAG pipeline`, `LLM orchestration`, `PII masking`, `human-in-the-loop`
 
-* **[Axellum/vromvrom-engine](world/public/vault/daily-digests/2026-11-02/vromvrom-engine.md)** (`reference` | `reference` tier)
+* **[Axellum/vromvrom-engine](world/public/vault/daily-digests/2026-11-03/vromvrom-engine.md)** (`reference` | `reference` tier)
   * Summary: vromvrom-engine is an asynchronous multi-agent LLM orchestrator that dynamically routes tasks to the best-performing models using hybrid routing, Elo scoring, and self-healing mechanisms. It supports 18+ LLM providers, integrates with Home Assistant,
   * Tags: `multi-agent orchestration`, `LLM routing`, `Elo scoring`, `self-healing`, `OpenAI-compatible API`
 
-* **[ayyitong888/VRCForge](world/public/vault/daily-digests/2026-11-02/vrcforge.md)** (`reference` | `reference` tier)
+* **[ayyitong888/VRCForge](world/public/vault/daily-digests/2026-11-03/vrcforge.md)** (`reference` | `reference` tier)
   * Summary: VRCForge is a local AI workbench designed for supervised VRChat avatar editing, integrating a Tauri desktop agent, FastAPI runtime, and Unity Editor tools. It enables users to review, apply, and restore avatar changes with explicit control and safety
   * Tags: `VRChat`, `Avatar Editing`, `Agent Framework`, `Unity Integration`, `Local AI`
 
-* **[benman1/wiggum](world/public/vault/daily-digests/2026-11-02/wiggum.md)** (`reference` | `reference` tier)
+* **[benman1/wiggum](world/public/vault/daily-digests/2026-11-03/wiggum.md)** (`reference` | `reference` tier)
   * Summary: Wiggum is a self-driving agent loop that automates multi-step software development tasks by turning issue descriptions into structured workplans, implementing them incrementally, verifying changes with project-specific toolchains, and committing resu
   * Tags: `self-driving agent`, `automated development`, `Claude Code integration`, `workplan execution`, `verification automation`
 
-* **[benwold-lgtm/SyncGate](world/public/vault/daily-digests/2026-11-02/syncgate.md)** (`reference` | `reference` tier)
+* **[benwold-lgtm/SyncGate](world/public/vault/daily-digests/2026-11-03/syncgate.md)** (`reference` | `reference` tier)
   * Summary: SyncGate is a governed MCP gateway that unifies a fleet of devices into a single MCP endpoint, supporting both REST/OpenAPI services (translated to MCP tools) and existing MCP servers (federated). It provides authentication, RBAC, rate limiting, heal
   * Tags: `MCP gateway`, `device orchestration`, `REST to MCP translation`, `fleet management`, `authentication`
 
-* **[CarlSR9001/whetstone](world/public/vault/daily-digests/2026-11-02/whetstone.md)** (`reference` | `reference` tier)
+* **[CarlSR9001/whetstone](world/public/vault/daily-digests/2026-11-03/whetstone.md)** (`reference` | `reference` tier)
   * Summary: Whetstone is a self-improving research harness for AI systems that enforces verifier-gated continual learning through exposure audits, paired PASS/HOLD/BLOCK receipts, and disposable public report cards. It combines QLoRA adapters, exact combinatoria
   * Tags: `continual learning`, `verifier-gated training`, `data leakage prevention`, `self-improving AI`, `benchmark saturation`
 
-* **[chenshize/weclaudex](world/public/vault/daily-digests/2026-11-02/weclaudex.md)** (`reference` | `reference` tier)
+* **[chenshize/weclaudex](world/public/vault/daily-digests/2026-11-03/weclaudex.md)** (`reference` | `reference` tier)
   * Summary: WeClaudex bridges WeChat with local Claude Code and Codex agents, enabling remote task execution, multi-modal input handling, and resumable sessions directly from a mobile device. It provides secure workspace isolation, persistent task queues, and ex
   * Tags: `remote agent control`, `multi-modal input`, `resumable sessions`, `secure workspace`, `artifact delivery`
 
-* **[christophertna/shanks](world/public/vault/daily-digests/2026-11-02/shanks.md)** (`reference` | `reference` tier)
+* **[christophertna/shanks](world/public/vault/daily-digests/2026-11-03/shanks.md)** (`reference` | `reference` tier)
   * Summary: Shanks is a LangGraph-based workflow framework for executing Ralph-style agent tasks, transforming task plans into repeatable, fault-tolerant workflows that include planning, building, critiquing, validation, and deployment. It supports preflight che
   * Tags: `workflow automation`, `agent orchestration`, `checkpointing`, `RAG pipeline`, `multi-agent systems`
 
-* **[codingriver/upilot](world/public/vault/daily-digests/2026-11-02/upilot.md)** (`reference` | `reference` tier)
+* **[codingriver/upilot](world/public/vault/daily-digests/2026-11-03/upilot.md)** (`reference` | `reference` tier)
   * Summary: upilot is an open-source Unity Editor automation bridge and MCP server that enables AI agents (e.g., Codex, Claude, Cursor) to inspect, control, and diagnose Unity Editor via a local MCP server. It includes optional UIFlow for YAML-driven UI automati
   * Tags: `Unity automation`, `MCP server`, `AI agent integration`, `UI automation`, `Editor bridge`
 
-* **[ColinVaughn/Synaptic](world/public/vault/daily-digests/2026-11-02/synaptic.md)** (`reference` | `reference` tier)
+* **[ColinVaughn/Synaptic](world/public/vault/daily-digests/2026-11-03/synaptic.md)** (`reference` | `reference` tier)
   * Summary: Synaptic is a source-grounded code maintenance platform that combines API maintenance, repository memory, and a persistent knowledge graph to help engineers and AI assistants understand, track, and safely modify codebases. It provides structural clar
   * Tags: `code intelligence`, `knowledge graph`, `impact analysis`, `AI-assisted maintenance`, `dependency management`
 
-* **[coreyone/software-maestro](world/public/vault/daily-digests/2026-11-02/software-maestro.md)** (`reference` | `reference` tier)
+* **[coreyone/software-maestro](world/public/vault/daily-digests/2026-11-03/software-maestro.md)** (`reference` | `reference` tier)
   * Summary: Software Maestro is a capability orchestra for AI IDE agents, designed to conduct product strategy, design systems, and engineering execution through a unified developer baton. It provides structured governance for the entire software product lifecyc
   * Tags: `AI agent orchestration`, `product lifecycle management`, `software governance`, `design systems`, `engineering workflows`
 
-* **[cosmicoral/TerraGuardian](world/public/vault/daily-digests/2026-11-02/terraguardian.md)** (`reference` | `reference` tier)
+* **[cosmicoral/TerraGuardian](world/public/vault/daily-digests/2026-11-03/terraguardian.md)** (`reference` | `reference` tier)
   * Summary: TerraGuardian is an AI-powered environmental decision intelligence platform that transforms real-world environmental signals into transparent, deterministic, and verifiable decision records using AI, Chainlink CRE, Ethereum, and Zero-Knowledge Proofs
   * Tags: `environmental intelligence`, `AI decision-making`, `blockchain transparency`, `zero-knowledge proofs`, `Chainlink CRE`
 
-* **[crossi-dev/velora-mcp](world/public/vault/daily-digests/2026-11-02/velora-mcp.md)** (`reference` | `reference` tier)
+* **[crossi-dev/velora-mcp](world/public/vault/daily-digests/2026-11-03/velora-mcp.md)** (`reference` | `reference` tier)
   * Summary: Velora is a hosted Model Context Protocol (MCP) server providing a unified commerce toolkit for Argentina, enabling AI agents to handle real AFIP invoicing, MercadoPago payments, logistics, catalog management, WhatsApp messaging, and more through a s
   * Tags: `Argentine commerce`, `AFIP invoicing`, `MCP server`, `hosted API`, `AI agent tools`
 
-* **[daidaiJ/websearch-mcpserver](world/public/vault/daily-digests/2026-11-02/websearch-mcpserver.md)** (`reference` | `reference` tier)
+* **[daidaiJ/websearch-mcpserver](world/public/vault/daily-digests/2026-11-03/websearch-mcpserver.md)** (`reference` | `reference` tier)
   * Summary: A lightweight MCP (Model Context Protocol) server written in Go that provides web and academic search capabilities with zero API key requirements for basic operation. It supports multiple search engines, intelligent fallback mechanisms, and optional
   * Tags: `MCP Server`, `Web Search`, `Academic Search`, `RAG Pipeline`, `API Key Pooling`
 
-* **[DaizeDong/skill-smith](world/public/vault/daily-digests/2026-11-02/skill-smith.md)** (`reference` | `reference` tier)
+* **[DaizeDong/skill-smith](world/public/vault/daily-digests/2026-11-03/skill-smith.md)** (`reference` | `reference` tier)
   * Summary: skill-smith is a meta-skill orchestrator for creating high-quality Claude Code skills by enforcing a research-first, acceptance-gated workflow. It scaffolds skills to a strict spec, validates them against rigorous gates, and delegates iteration to sp
   * Tags: `Claude Code`, `skill generation`, `research-first`, `acceptance gating`, `meta-skill`
 
-* **[Dannykkh/skill-olympus](world/public/vault/daily-digests/2026-11-02/skill-olympus.md)** (`reference` | `reference` tier)
+* **[Dannykkh/skill-olympus](world/public/vault/daily-digests/2026-11-03/skill-olympus.md)** (`reference` | `reference` tier)
   * Summary: Skill Olympus is a persistent product team harness for coding agents that enables planning, building, inspecting, testing, documenting, and remembering across sessions without replacing native CLI workers. It integrates with multiple AI CLIs (Claude
   * Tags: `AI agent orchestration`, `persistent memory`, `multi-CLI integration`, `software development harness`, `workflow automation`
 
-* **[daus95/tempa](world/public/vault/daily-digests/2026-11-02/tempa.md)** (`reference` | `reference` tier)
+* **[daus95/tempa](world/public/vault/daily-digests/2026-11-03/tempa.md)** (`reference` | `reference` tier)
   * Summary: Tempa is an agentic automation harness that converts software specifications into fully implemented applications by orchestrating agentic coding CLIs (Claude Code, GitHub Copilot CLI, or OpenAI Codex CLI) to handle clarification, planning, implementa
   * Tags: `agentic automation`, `software development`, `AI-driven coding`, `CLI orchestration`, `spec-to-code`
 
-* **[dengzii/weaveflow](world/public/vault/daily-digests/2026-11-02/weaveflow.md)** (`reference` | `reference` tier)
+* **[dengzii/weaveflow](world/public/vault/daily-digests/2026-11-03/weaveflow.md)** (`reference` | `reference` tier)
   * Summary: WeaveFlow is a graph-based runtime for building, executing, and inspecting LLM agents in Go, emphasizing explicit graph definitions, deterministic execution, and runtime inspection capabilities.
   * Tags: `LLM Agents`, `Graph Runtime`, `Deterministic Execution`, `State Persistence`, `Debugging`
 
-* **[deploymenttheory/windows-mcp-server](world/public/vault/daily-digests/2026-11-02/windows-mcp-server.md)** (`reference` | `reference` tier)
+* **[deploymenttheory/windows-mcp-server](world/public/vault/daily-digests/2026-11-03/windows-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that bridges AI agents to the Windows desktop, enabling UI automation, system control, and secure agent interactions with live device posture validation and tamper-evident auditing.
   * Tags: `Windows automation`, `MCP server`, `AI agent security`, `UI automation`, `device posture validation`
 
-* **[dinglebear-ai/soma](world/public/vault/daily-digests/2026-11-02/soma.md)** (`reference` | `reference` tier)
+* **[dinglebear-ai/soma](world/public/vault/daily-digests/2026-11-03/soma.md)** (`reference` | `reference` tier)
   * Summary: Soma is a production-ready RMCP runtime for building provider-backed agents with CLI, REST, HTTP MCP, and plugin support. It simplifies deploying agent capabilities by offering a batteries-included server runtime with dynamic provider loading, authen
   * Tags: `agent runtime`, `provider-backed`, `RMCP`, `multi-surface`, `scaffold automation`
 
-* **[Diuli4587/vulk-mcp-server](world/public/vault/daily-digests/2026-11-02/vulk-mcp-server.md)** (`reference` | `reference` tier)
+* **[Diuli4587/vulk-mcp-server](world/public/vault/daily-digests/2026-11-03/vulk-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: vulk-mcp-server is a bridge between AI assistants and local app development workflows, enabling the creation, deployment, and export of full-stack applications from plain language prompts. It facilitates seamless integration with MCP-aware AI tools t
   * Tags: `AI-driven development`, `MCP server`, `app scaffolding`, `full-stack automation`, `AI assistant integration`
 
-* **[DopamineDriven/slipstream](world/public/vault/daily-digests/2026-11-02/slipstream.md)** (`reference` | `reference` tier)
+* **[DopamineDriven/slipstream](world/public/vault/daily-digests/2026-11-03/slipstream.md)** (`reference` | `reference` tier)
   * Summary: Slipstream is a Turborepo-based monorepo template designed to streamline the development of AI-powered applications with support for multi-provider LLMs, asset handling, and real-time streaming. It facilitates attachment pipelines, chat interactions,
   * Tags: `AI orchestration`, `multi-provider LLM`, `asset handling`, `real-time streaming`, `monorepo template`
 
-* **[doriapt53/spring-manifold-next-gen](world/public/vault/daily-digests/2026-11-02/spring-manifold-next-gen.md)** (`reference` | `reference` tier)
+* **[doriapt53/spring-manifold-next-gen](world/public/vault/daily-digests/2026-11-03/spring-manifold-next-gen.md)** (`reference` | `reference` tier)
   * Summary: Spring-Manifold Next-Gen is a data orchestration tool designed to move and synchronize data between various sources and destinations, such as databases, cloud services, or vector search infrastructure. It operates locally on Windows systems to ensure
   * Tags: `data orchestration`, `vector search`, `enterprise connectors`, `local processing`, `data synchronization`
 
-* **[dorukardahan/ZeroAPI](world/public/vault/daily-digests/2026-11-02/zeroapi.md)** (`reference` | `reference` tier)
+* **[dorukardahan/ZeroAPI](world/public/vault/daily-digests/2026-11-03/zeroapi.md)** (`reference` | `reference` tier)
   * Summary: ZeroAPI is an OpenClaw plugin that acts as a routing policy layer for AI model subscriptions, intercepting messages at the gateway level to select the optimal model based on benchmark data, provider tiers, and task requirements. It enables data-drive
   * Tags: `model routing`, `benchmark-driven`, `subscription-aware`, `OpenClaw plugin`, `AI gateway`
 
-* **[dreamrec/TDPilot](world/public/vault/daily-digests/2026-11-02/tdpilot.md)** (`reference` | `reference` tier)
+* **[dreamrec/TDPilot](world/public/vault/daily-digests/2026-11-03/tdpilot.md)** (`reference` | `reference` tier)
   * Summary: TDPilot is an AI-powered control layer for TouchDesigner that enables agents like Claude or Cursor to interactively build, debug, and verify TouchDesigner networks in real-time. It provides transactional operations, snapshots, and full activity loggi
   * Tags: `TouchDesigner automation`, `AI-driven visual programming`, `MCP tools`, `interactive debugging`, `transactional operations`
 
-* **[DunkelCloud/ToolMesh](world/public/vault/daily-digests/2026-11-02/toolmesh.md)** (`reference` | `reference` tier)
+* **[DunkelCloud/ToolMesh](world/public/vault/daily-digests/2026-11-03/toolmesh.md)** (`reference` | `reference` tier)
   * Summary: ToolMesh is a self-hosted MCP gateway that enables AI agents to safely interact with enterprise systems by providing a governed, auditable control layer. It replaces unwieldy MCP server wrappers with declarative YAML (DADL) files and enforces credent
   * Tags: `MCP gateway`, `REST proxy`, `authorization`, `audit logging`, `credential injection`
 
-* **[eric861129/Workflow-skill-router](world/public/vault/daily-digests/2026-11-02/workflow-skill-router.md)** (`reference` | `reference` tier)
+* **[eric861129/Workflow-skill-router](world/public/vault/daily-digests/2026-11-03/workflow-skill-router.md)** (`reference` | `reference` tier)
   * Summary: Workflow Skill Router V2 is a runtime-aware planning and routing layer for Codex that selects the smallest verifiable execution path for agent tasks while preserving user authority. It separates installed metadata from runtime capabilities, supports
   * Tags: `Codex`, `Skill routing`, `Agent orchestration`, `Runtime-aware planning`, `Personal routing profiles`
 
-* **[eschaar/vstack](world/public/vault/daily-digests/2026-11-02/vstack.md)** (`reference` | `reference` tier)
+* **[eschaar/vstack](world/public/vault/daily-digests/2026-11-03/vstack.md)** (`reference` | `reference` tier)
   * Summary: vstack is a VS Code-native AI engineering workflow system that integrates structured agents, skills, and prompts into GitHub Copilot Agent Mode for backend development. It enforces role-based workflows (product, architect, designer, engineer, tester,
   * Tags: `AI workflows`, `VS Code integration`, `GitHub Copilot`, `backend development`, `agent orchestration`
 
-* **[esneiderbravo/speclaw](world/public/vault/daily-digests/2026-11-02/speclaw.md)** (`reference` | `reference` tier)
+* **[esneiderbravo/speclaw](world/public/vault/daily-digests/2026-11-03/speclaw.md)** (`reference` | `reference` tier)
   * Summary: speclaw is a toolkit that transforms any codebase into a spec-driven, agent-ready environment by generating a project constitution (LAWS.md), a local code graph (Compass) for efficient navigation, and a disciplined workflow (Spec) for AI coding agent
   * Tags: `AI agent orchestration`, `local code graph`, `spec-driven development`, `project constitution`, `MCP server`
 
-* **[FeanorsCodeSL/thorondor](world/public/vault/daily-digests/2026-11-02/thorondor.md)** (`reference` | `reference` tier)
+* **[FeanorsCodeSL/thorondor](world/public/vault/daily-digests/2026-11-03/thorondor.md)** (`reference` | `reference` tier)
   * Summary: Thorondor is a self-hosted, data-sovereign semantic web-search service designed for AI agents. It replaces hosted search-for-agents APIs with an on-premises pipeline that discovers URLs via SearXNG, crawls pages with Crawl4AI, chunks content using a
   * Tags: `semantic search`, `self-hosted`, `RAG pipeline`, `agent tools`, `data sovereignty`
 
-* **[fightheyyy/XiaoBa-CLI](world/public/vault/daily-digests/2026-11-02/xiaoba-cli.md)** (`reference` | `reference` tier)
+* **[fightheyyy/XiaoBa-CLI](world/public/vault/daily-digests/2026-11-03/xiaoba-cli.md)** (`reference` | `reference` tier)
   * Summary: XiaoBa-CLI is a local-first, IM-native AI coworker runtime that enables task delegation to specialized agents with traceable evidence, controlled evolution, and verifiable performance. It bridges communication (CLI/IM/desktop) with role-based executi
   * Tags: `Agent Runtime`, `Controlled Evolution`, `Trace Replay`, `Evidence-Based AI`, `IM-Native`
 
-* **[formio/uag](world/public/vault/daily-digests/2026-11-02/uag.md)** (`reference` | `reference` tier)
+* **[formio/uag](world/public/vault/daily-digests/2026-11-03/uag.md)** (`reference` | `reference` tier)
   * Summary: The Universal Agent Gateway (UAG) is an MCP server that enables AI agents to interact with Form.io forms by converting Form JSON schemas into AI-readable markdown, facilitating structured data collection from natural language input and autonomous wor
   * Tags: `AI agent automation`, `form processing`, `MCP server`, `structured data`, `workflow orchestration`
 
-* **[ForYourHelpAI101/skill-router-g6](world/public/vault/daily-digests/2026-11-02/skill-router-g6.md)** (`reference` | `reference` tier)
+* **[ForYourHelpAI101/skill-router-g6](world/public/vault/daily-digests/2026-11-03/skill-router-g6.md)** (`reference` | `reference` tier)
   * Summary: Skill Router G6 is a self-learning skill router for AI agents that dynamically selects the best skills to execute based on user queries. It operates as a model-agnostic MCP server with two modes: harness injection for seamless integration or direct M
   * Tags: `skill routing`, `self-learning`, `MCP server`, `agent orchestration`, `anti-hallucination`
 
-* **[fowoco/server](world/public/vault/daily-digests/2026-11-02/server.md)** (`reference` | `reference` tier)
+* **[fowoco/server](world/public/vault/daily-digests/2026-11-03/server.md)** (`reference` | `reference` tier)
   * Summary: FOWOCO Server is a Spring Boot backend designed to manage HR workflows for foreign workers, focusing on secure document handling, approvals, and audit trails. It integrates with AI for workflow assistance while enforcing strict data isolation and sec
   * Tags: `HR Workflow`, `AI Integration`, `Data Isolation`, `Audit Logging`, `Modular Monolith`
 
-* **[FoxsterDev/xuunity-mcp](world/public/vault/daily-digests/2026-11-02/xuunity-mcp.md)** (`reference` | `reference` tier)
+* **[FoxsterDev/xuunity-mcp](world/public/vault/daily-digests/2026-11-03/xuunity-mcp.md)** (`reference` | `reference` tier)
   * Summary: XUUnity MCP is a lightweight, validation-first Unity Editor automation MCP server designed for safe AI-driven Unity project interactions. It enables local-first Unity Editor automation with compile checks, EditMode/PlayMode test execution, scene vali
   * Tags: `Unity automation`, `MCP server`, `AI-driven testing`, `safe editor automation`, `validation-first`
 
-* **[freestylefly/wesight](world/public/vault/daily-digests/2026-11-02/wesight.md)** (`reference` | `reference` tier)
+* **[freestylefly/wesight](world/public/vault/daily-digests/2026-11-03/wesight.md)** (`reference` | `reference` tier)
   * Summary: WeSight is an open-source desktop workspace for managing and interacting with local AI coding agents like Claude Code, Codex, and OpenClaw. It provides a unified visual interface for agent setup, chat, tool execution, and runtime monitoring.
   * Tags: `AI agent workspace`, `local coding agents`, `desktop application`, `model routing`, `runtime monitoring`
 
-* **[gabrielcoghi-rgb/spectre-graph](world/public/vault/daily-digests/2026-11-02/spectre-graph.md)** (`reference` | `reference` tier)
+* **[gabrielcoghi-rgb/spectre-graph](world/public/vault/daily-digests/2026-11-03/spectre-graph.md)** (`reference` | `reference` tier)
   * Summary: SpectreGraph is an autonomous OSINT intelligence engine that builds dynamic knowledge graphs for AI assistants, resolving entity ambiguities and providing contextual intelligence through semantic relationship mapping and multi-agent collaboration.
   * Tags: `OSINT`, `Knowledge Graph`, `Entity Disambiguation`, `AI Orchestration`, `Semantic Intelligence`
 
-* **[gamedevpl/www.gamedev.pl](world/public/vault/daily-digests/2026-11-02/www_gamedev_pl.md)** (`reference` | `reference` tier)
+* **[gamedevpl/www.gamedev.pl](world/public/vault/daily-digests/2026-11-03/www_gamedev_pl.md)** (`reference` | `reference` tier)
   * Summary: A platform where AI agents autonomously build and deploy playable browser games from natural language descriptions. Users submit game ideas, agents generate functional code, and games are reviewed and published to a shared catalog with multiplayer su
   * Tags: `AI game generation`, `agent orchestration`, `browser-based games`, `multiplayer`, `open source`
 
-* **[GBOYEE/xander-operator](world/public/vault/daily-digests/2026-11-02/xander-operator.md)** (`reference` | `reference` tier)
+* **[GBOYEE/xander-operator](world/public/vault/daily-digests/2026-11-03/xander-operator.md)** (`reference` | `reference` tier)
   * Summary: xander-operator is an AI-powered orchestrator for safe, auditable browser automation and research, combining Playwright for web interaction with optional vector memory, LLM synthesis, and human-in-the-loop approval gates to ensure reliability and tra
   * Tags: `browser automation`, `vector memory`, `LLM synthesis`, `human-in-the-loop`, `auditability`
 
-* **[gebruder/wirken](world/public/vault/daily-digests/2026-11-02/wirken.md)** (`reference` | `reference` tier)
+* **[gebruder/wirken](world/public/vault/daily-digests/2026-11-03/wirken.md)** (`reference` | `reference` tier)
   * Summary: Wirken is a secure, multi-channel agent orchestration framework that routes messages from platforms like Telegram, Discord, and Slack to AI agents while enforcing strict security, audit, and isolation controls. It operates as a single static Rust bin
   * Tags: `agent orchestration`, `multi-channel messaging`, `security isolation`, `audit logging`, `MCP integration`
 
-* **[gensecaihq/Wazuh-MCP-Server](world/public/vault/daily-digests/2026-11-02/wazuh-mcp-server.md)** (`reference` | `reference` tier)
+* **[gensecaihq/Wazuh-MCP-Server](world/public/vault/daily-digests/2026-11-03/wazuh-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables natural language interaction with Wazuh SIEM for security operations, threat hunting, and compliance checks. It bridges LLMs with Wazuh's API to query alerts, run active responses, and generate secur
   * Tags: `SIEM integration`, `MCP server`, `threat detection`, `active response`, `compliance automation`
 
-* **[german-krasnikov/unity-biome-mcp](world/public/vault/daily-digests/2026-11-02/unity-biome-mcp.md)** (`reference` | `reference` tier)
+* **[german-krasnikov/unity-biome-mcp](world/public/vault/daily-digests/2026-11-03/unity-biome-mcp.md)** (`reference` | `reference` tier)
   * Summary: Unity Biome MCP enables AI clients and in-editor chat to control the Unity Editor via the Model Context Protocol (MCP). It allows inspecting scenes, editing GameObjects, running playtests, and capturing results through structured tools, bridging AI w
   * Tags: `Unity integration`, `MCP server`, `AI-driven game development`, `Playtest automation`, `Scene editing`
 
-* **[gpbcom/simpe-erp](world/public/vault/daily-digests/2026-11-02/simpe-erp.md)** (`reference` | `reference` tier)
+* **[gpbcom/simpe-erp](world/public/vault/daily-digests/2026-11-03/simpe-erp.md)** (`reference` | `reference` tier)
   * Summary: SimpleERP is a lightweight open-source ERP system designed for home-care agencies, enabling workforce planning, customer management, and intervention scheduling with real-time notifications and validation workflows.
   * Tags: `workforce management`, `home-care ERP`, `scheduling`, `real-time notifications`, `constraint programming`
 
-* **[happy520ai/unified-ai-system](world/public/vault/daily-digests/2026-11-02/unified-ai-system.md)** (`reference` | `reference` tier)
+* **[happy520ai/unified-ai-system](world/public/vault/daily-digests/2026-11-03/unified-ai-system.md)** (`reference` | `reference` tier)
   * Summary: A terminal-first, self-hosted AI gateway that unifies models, agents, knowledge, and tools into a single governed execution path. It provides a credential-free local-first runtime with an 8-tool MCP server for Codex integration and a disposable Docke
   * Tags: `AI gateway`, `self-hosted`, `MCP server`, `terminal-first`, `governance`
 
-* **[hardcoreerik/TheOrc](world/public/vault/daily-digests/2026-11-02/theorc.md)** (`reference` | `reference` tier)
+* **[hardcoreerik/TheOrc](world/public/vault/daily-digests/2026-11-03/theorc.md)** (`reference` | `reference` tier)
   * Summary: TheOrc is a local-first AI orchestration framework that acts as a 'tiny software company' running on your machine, enabling multi-agent parallel execution for software development tasks. It combines a desktop shell, native runtimes, and source-ground
   * Tags: `multi-agent orchestration`, `local-first AI`, `source-grounded memory`, `self-improving systems`, `open-source`
 
-* **[HarperZ9/telos](world/public/vault/daily-digests/2026-11-02/telos.md)** (`reference` | `reference` tier)
+* **[HarperZ9/telos](world/public/vault/daily-digests/2026-11-03/telos.md)** (`reference` | `reference` tier)
   * Summary: Telos is a zero-dependency local workbench for creating, simulating, and replaying AI workflows with durable state and verifiable receipts. It integrates five MCP servers (gather, index, forum, crucible, and telos) into a unified operator map for AI
   * Tags: `MCP server`, `verifiable workflows`, `AI workbench`, `deterministic proof`, `local-first`
 
-* **[Harshbhargav45/zc-agent](world/public/vault/daily-digests/2026-11-02/zc-agent.md)** (`reference` | `reference` tier)
+* **[Harshbhargav45/zc-agent](world/public/vault/daily-digests/2026-11-03/zc-agent.md)** (`reference` | `reference` tier)
   * Summary: A ZeroClaw autonomous agent that manages a bug bounty escrow system on Solana, ensuring secure and immutable reward commitments. It locks in payout tiers via on-chain hashing, enforces strict caps, and requires human approval via Squads multisig for
   * Tags: `bug bounty`, `Solana`, `WASM plugins`, `multisig`, `escrow`
 
-* **[Heretyc/subagent-mcp](world/public/vault/daily-digests/2026-11-02/subagent-mcp.md)** (`reference` | `reference` tier)
+* **[Heretyc/subagent-mcp](world/public/vault/daily-digests/2026-11-03/subagent-mcp.md)** (`reference` | `reference` tier)
   * Summary: subagent-mcp is an MCP stdio server that transforms AI coding assistants into managers of local sub-agents, enabling seamless orchestration of tasks across multiple providers like Claude and Codex. It automates delegation, routing, and concurrency co
   * Tags: `agent orchestration`, `multi-provider routing`, `MCP server`, `sub-agent delegation`, `AI workflow automation`
 
-* **[HhhBZzz/SpringClaw](world/public/vault/daily-digests/2026-11-02/springclaw.md)** (`reference` | `reference` tier)
+* **[HhhBZzz/SpringClaw](world/public/vault/daily-digests/2026-11-03/springclaw.md)** (`reference` | `reference` tier)
   * Summary: SpringClaw is a self-hosted, governed AI agent runtime built on Spring Boot 3.5 and Spring AI 1.1, designed for multi-model orchestration, memory management, tool governance, and skill execution. It provides a production-grade agent pipeline with obs
   * Tags: `AI Agent Runtime`, `Spring Boot`, `Multi-Model Orchestration`, `Tool Governance`, `Memory Management`
 
-* **[hua226529-ctrl/sub2api-account-scheduler](world/public/vault/daily-digests/2026-11-02/sub2api-account-scheduler.md)** (`reference` | `reference` tier)
+* **[hua226529-ctrl/sub2api-account-scheduler](world/public/vault/daily-digests/2026-11-03/sub2api-account-scheduler.md)** (`reference` | `reference` tier)
   * Summary: A standalone account scheduler for Sub2API that dynamically manages account states, load balancing, and token group failover without modifying Sub2API's source code or database. It integrates channel monitoring, real requests, balance, multiplier, an
   * Tags: `account scheduling`, `load balancing`, `failover`, `Sub2API`, `AI operations`
 
-* **[Ibarra25/vault-echo](world/public/vault/daily-digests/2026-11-02/vault-echo.md)** (`reference` | `reference` tier)
+* **[Ibarra25/vault-echo](world/public/vault/daily-digests/2026-11-03/vault-echo.md)** (`reference` | `reference` tier)
   * Summary: RecallCore is a self-hosted, local-first persistent memory engine designed to eliminate AI 'amnesia' by providing long-term contextual memory for AI developer tools like GitHub Copilot, Cursor, and Claude Desktop. It acts as a persistent knowledge gr
   * Tags: `persistent memory`, `AI developer tools`, `self-hosted`, `context retention`, `knowledge graph`
 
-* **[inckie/WikiKnowledge](world/public/vault/daily-digests/2026-11-02/wikiknowledge.md)** (`reference` | `reference` tier)
+* **[inckie/WikiKnowledge](world/public/vault/daily-digests/2026-11-03/wikiknowledge.md)** (`reference` | `reference` tier)
   * Summary: WikiKnowledge is a hierarchical knowledge graph system designed to organize information in a fractal structure with overview articles for structured educational pathways. It enables both humans and AIs to navigate complex knowledge domains efficientl
   * Tags: `knowledge graph`, `hierarchical knowledge`, `fractal structure`, `AI navigation`, `structured learning`
 
-* **[indigokarasu/sift](world/public/vault/daily-digests/2026-11-02/sift.md)** (`reference` | `reference` tier)
+* **[indigokarasu/sift](world/public/vault/daily-digests/2026-11-03/sift.md)** (`reference` | `reference` tier)
   * Summary: Sift is an AI-powered research synthesis engine that automates the retrieval, verification, and synthesis of web information with built-in source reliability scoring. It dynamically adjusts search depth and routes queries through a tiered source hier
   * Tags: `research synthesis`, `source reliability`, `web retrieval`, `RAG optimization`, `information verification`
 
-* **[itsHabib/ship](world/public/vault/daily-digests/2026-11-02/ship.md)** (`reference` | `reference` tier)
+* **[itsHabib/ship](world/public/vault/daily-digests/2026-11-03/ship.md)** (`reference` | `reference` tier)
   * Summary: Ship is a dev-workflow MCP toolkit that enables async execution, persistence, and inspection of agent runs for coding tasks. It provides both single-run and multi-stream driver engines with durable state management, failure diagnosis, and MCP/CLI int
   * Tags: `workflow automation`, `agent orchestration`, `MCP server`, `async execution`, `state persistence`
 
-* **[j5ik2o/takt-sdd](world/public/vault/daily-digests/2026-11-02/takt-sdd.md)** (`reference` | `reference` tier)
+* **[j5ik2o/takt-sdd](world/public/vault/daily-digests/2026-11-03/takt-sdd.md)** (`reference` | `reference` tier)
   * Summary: takt-sdd is a Spec-Driven Development (SDD) workflow automation tool that uses takt's state-machine-based workflows to manage AI agent execution paths. It enables deterministic, declarative control over AI-driven development workflows from requiremen
   * Tags: `Spec-Driven Development`, `AI Workflow Automation`, `State Machine`, `YAML Workflows`, `AI Agent Orchestration`
 
-* **[jarmstrong158/Xylem](world/public/vault/daily-digests/2026-11-02/xylem.md)** (`reference` | `reference` tier)
+* **[jarmstrong158/Xylem](world/public/vault/daily-digests/2026-11-03/xylem.md)** (`reference` | `reference` tier)
   * Summary: Xylem is a local-first multi-agent coordination stack that provides durable memory, decentralized coordination, and a knowledge lifecycle for AI coding agents. It enables agents to remember decisions, avoid conflicts, and leverage a phone as a peer i
   * Tags: `multi-agent coordination`, `knowledge lifecycle`, `MCP servers`, `local-first`, `decentralized memory`
 
-* **[Jason-Vaughan/TangleClaw](world/public/vault/daily-digests/2026-11-02/tangleclaw.md)** (`reference` | `reference` tier)
+* **[Jason-Vaughan/TangleClaw](world/public/vault/daily-digests/2026-11-03/tangleclaw.md)** (`reference` | `reference` tier)
   * Summary: TangleClaw is a macOS-only AI coding session orchestrator that provides persistent tmux-based sessions for AI agents, ensuring continuity across network drops, device switches, and reconnects. It evolved into a full control plane for AI-assisted deve
   * Tags: `AI session persistence`, `multi-engine management`, `methodology enforcement`, `remote access`, `tmux integration`
 
-* **[jjang-ai/vmlx](world/public/vault/daily-digests/2026-11-02/vmlx.md)** (`reference` | `reference` tier)
+* **[jjang-ai/vmlx](world/public/vault/daily-digests/2026-11-03/vmlx.md)** (`reference` | `reference` tier)
   * Summary: vMLX is a self-hosted inference server for running LLMs, VLMs, and image generation models on Apple Silicon with OpenAI/Anthropic-compatible APIs. It supports advanced features like speculative decoding, distributed inference, and JANG quantization f
   * Tags: `Apple Silicon`, `MLX`, `Self-hosted LLM`, `Quantization`, `Distributed Inference`
 
-* **[jmagar/synapse](world/public/vault/daily-digests/2026-11-02/synapse.md)** (`reference` | `reference` tier)
+* **[jmagar/synapse](world/public/vault/daily-digests/2026-11-03/synapse.md)** (`reference` | `reference` tier)
   * Summary: A Rust-based MCP and CLI server for local Synapse workflows, providing full-parity functionality to the original TypeScript implementation. It enables Docker, Compose, host inspection, SSH, ZFS, and file operations through standardized MCP tools and
   * Tags: `MCP server`, `infrastructure automation`, `Docker orchestration`, `host management`, `Rust`
 
-* **[jmagar/yarr](world/public/vault/daily-digests/2026-11-02/yarr.md)** (`reference` | `reference` tier)
+* **[jmagar/yarr](world/public/vault/daily-digests/2026-11-03/yarr.md)** (`reference` | `reference` tier)
   * Summary: yarr is a Rust-based MCP and CLI server designed to unify interactions with media automation services like Sonarr, Radarr, Plex, and Jellyfin. It provides a single interface for agents and operators to query and control a self-hosted media stack with
   * Tags: `media automation`, `MCP server`, `self-hosted`, `Rust`, `orchestrator`
 
-* **[johalputt/VayuPress](world/public/vault/daily-digests/2026-11-02/vayupress.md)** (`reference` | `reference` tier)
+* **[johalputt/VayuPress](world/public/vault/daily-digests/2026-11-03/vayupress.md)** (`reference` | `reference` tier)
   * Summary: VayuPress is a sovereign, all-in-one platform that consolidates a website, blog, PGP email server, encrypted chat, anti-bot shield, privacy analytics, Tor .onion services, and monetization tools into a single Go binary. It eliminates third-party depe
   * Tags: `sovereign hosting`, `privacy-first`, `all-in-one platform`, `self-hosted email`, `Tor integration`
 
-* **[john-walkoe/uspto_fpd_mcp](world/public/vault/daily-digests/2026-11-02/uspto_fpd_mcp.md)** (`reference` | `reference` tier)
+* **[john-walkoe/uspto_fpd_mcp](world/public/vault/daily-digests/2026-11-03/uspto_fpd_mcp.md)** (`reference` | `reference` tier)
   * Summary: A high-performance Model Context Protocol (MCP) server for the USPTO Final Petition Decisions API, offering token-saving context reduction, user-customizable fields, and cross-MCP integration for comprehensive patent lifecycle analysis.
   * Tags: `USPTO API`, `MCP Server`, `Patent Analysis`, `Context Reduction`, `OCR Integration`
 
-* **[JOSETRA44/wacon-mcp](world/public/vault/daily-digests/2026-11-02/wacon-mcp.md)** (`reference` | `reference` tier)
+* **[JOSETRA44/wacon-mcp](world/public/vault/daily-digests/2026-11-03/wacon-mcp.md)** (`reference` | `reference` tier)
   * Summary: Wacon is a WhatsApp integration tool that connects AI agents (like Claude Code) to WhatsApp via an MCP server, enabling agents to read, send, and respond to messages while mimicking the user's communication style. It includes a CLI for direct WhatsAp
   * Tags: `WhatsApp integration`, `AI agent orchestration`, `RAG for messaging`, `CLI tool`, `MCP server`
 
-* **[jpicklyk/task-orchestrator](world/public/vault/daily-digests/2026-11-02/task-orchestrator.md)** (`reference` | `reference` tier)
+* **[jpicklyk/task-orchestrator](world/public/vault/daily-digests/2026-11-03/task-orchestrator.md)** (`reference` | `reference` tier)
   * Summary: MCP Task Orchestrator is an MCP-compatible server that enforces workflow discipline for AI agents by blocking actions that violate server-defined quality gates, dependency rules, or actor attribution requirements. It provides a persistent work item g
   * Tags: `workflow enforcement`, `multi-agent orchestration`, `MCP server`, `dependency graph`, `actor attribution`
 
-* **[Jwuthri/Tracely](world/public/vault/daily-digests/2026-11-02/tracely.md)** (`reference` | `reference` tier)
+* **[Jwuthri/Tracely](world/public/vault/daily-digests/2026-11-03/tracely.md)** (`reference` | `reference` tier)
   * Summary: Tracely is a trace-native CI/CD system for AI agents that converts production failures into regression tests, automatically detecting, clustering, and freezing failing traces into hermetic cases to block PRs that reintroduce regressions.
   * Tags: `AI agent observability`, `regression testing`, `CI/CD for AI`, `failure detection`, `hermetic replay`
 
-* **[Jwuthri/Tracely-ai](world/public/vault/daily-digests/2026-11-02/tracely-ai.md)** (`reference` | `reference` tier)
+* **[Jwuthri/Tracely-ai](world/public/vault/daily-digests/2026-11-03/tracely-ai.md)** (`reference` | `reference` tier)
   * Summary: Tracely is a trace-native CI/CD platform for AI agents that converts production failures into regression tests. It automatically detects, clusters, and freezes failing traces into hermetic cases, then blocks PRs in CI using deterministic replay with
   * Tags: `AI agent observability`, `regression testing`, `CI/CD for AI`, `failure detection`, `hermetic replay`
 
-* **[jyjeanne/solidspec](world/public/vault/daily-digests/2026-11-02/solidspec.md)** (`reference` | `reference` tier)
+* **[jyjeanne/solidspec](world/public/vault/daily-digests/2026-11-03/solidspec.md)** (`reference` | `reference` tier)
   * Summary: SolidSpec is an AI-powered CLI tool that scaffolds AI agents into structured development workflows using multi-methodology approaches. It bridges the gap between feature ideas and implementation by enforcing structured specifications, quality gates,
   * Tags: `AI-driven development`, `specification-driven development`, `multi-methodology workflows`, `traceability`, `quality gates`
 
-* **[kamrankhanorakzai/Spa-AI-Booking-Agent](world/public/vault/daily-digests/2026-11-02/spa-ai-booking-agent.md)** (`reference` | `reference` tier)
+* **[kamrankhanorakzai/Spa-AI-Booking-Agent](world/public/vault/daily-digests/2026-11-03/spa-ai-booking-agent.md)** (`reference` | `reference` tier)
   * Summary: A luxury spa booking and concierge automation platform powered by AI and N8N workflows. It integrates real-time booking management, intelligent FAQ handling, and guest automation with a modern React 19 frontend and TanStack Start backend.
   * Tags: `AI Booking Agent`, `N8N Automation`, `Luxury Spa Platform`, `Real-time Concierge`, `Full-Stack TypeScript`
 
-* **[Kemetra/Seshat-BI](world/public/vault/daily-digests/2026-11-02/seshat-bi.md)** (`reference` | `reference` tier)
+* **[Kemetra/Seshat-BI](world/public/vault/daily-digests/2026-11-03/seshat-bi.md)** (`reference` | `reference` tier)
   * Summary: Seshat BI is an agent-first readiness system for transforming messy retail data into trusted Power BI deliverables with evidence-backed governance. It enforces a seven-stage medallion pipeline where each stage requires explicit human approval and val
   * Tags: `data governance`, `medallion architecture`, `BI readiness`, `agent safety`, `evidence-based validation`
 
-* **[KnockOutEZ/wigolo](world/public/vault/daily-digests/2026-11-02/wigolo.md)** (`reference` | `reference` tier)
+* **[KnockOutEZ/wigolo](world/public/vault/daily-digests/2026-11-03/wigolo.md)** (`reference` | `reference` tier)
   * Summary: wigolo is a local-first MCP server that provides AI coding agents with a unified, keyless interface for web-related tasks such as search, fetch, crawl, extract, cache, and research. It operates entirely on-device with no API keys or cloud dependencie
   * Tags: `MCP server`, `local-first`, `web search`, `agent integration`, `keyless`
 
-* **[komaa-com/standin](world/public/vault/daily-digests/2026-11-02/standin.md)** (`reference` | `reference` tier)
+* **[komaa-com/standin](world/public/vault/daily-digests/2026-11-03/standin.md)** (`reference` | `reference` tier)
   * Summary: StandIn enables AI agents to join Microsoft Teams calls as real participants, handling media, avatar rendering, and real-time dialogue while integrating with multiple AI backends. It acts as a hosted bridge that connects your AI agent to Teams calls
   * Tags: `Microsoft Teams integration`, `AI agent orchestration`, `real-time dialogue`, `avatar rendering`, `multi-backend support`
 
-* **[LAA-Software-Engineering/terfyn](world/public/vault/daily-digests/2026-11-02/terfyn.md)** (`reference` | `reference` tier)
+* **[LAA-Software-Engineering/terfyn](world/public/vault/daily-digests/2026-11-03/terfyn.md)** (`reference` | `reference` tier)
   * Summary: Terfyn is a statically analyzable, capability-oriented execution platform for nondeterministic programs that enables plan-time review of authority grants and effect bounds before deployment. It provides a resource graph-based governance layer for age
   * Tags: `agent governance`, `capability bounding`, `plan-time review`, `policy enforcement`, `static analysis`
 
-* **[LangeVC/skillweave](world/public/vault/daily-digests/2026-11-02/skillweave.md)** (`reference` | `reference` tier)
+* **[LangeVC/skillweave](world/public/vault/daily-digests/2026-11-03/skillweave.md)** (`reference` | `reference` tier)
   * Summary: SkillWeave is a multi-agent AI skill orchestration framework that automates AI-assisted product development across 7 lifecycle phases and 13 modular skills, enabling seamless collaboration between AI coding agents like Claude Code, Codex, and Gemini
   * Tags: `multi-agent orchestration`, `AI development lifecycle`, `automated planning`, `testing automation`, `LLM council`
 
-* **[laoyudashu/voko](world/public/vault/daily-digests/2026-11-02/voko.md)** (`reference` | `reference` tier)
+* **[laoyudashu/voko](world/public/vault/daily-digests/2026-11-03/voko.md)** (`reference` | `reference` tier)
   * Summary: VOKO is a local runtime for enabling cross-platform and cross-domain instant messaging (IM) and collaboration between different types of AI agents. It acts as a unified communication layer, forwarding messages securely between agents and managing int
   * Tags: `Agent Communication`, `MCP Integration`, `Local Runtime`, `Multi-Agent Collaboration`, `IM for Agents`
 
-* **[lapietrajp/vsync-agent](world/public/vault/daily-digests/2026-11-02/vsync-agent.md)** (`reference` | `reference` tier)
+* **[lapietrajp/vsync-agent](world/public/vault/daily-digests/2026-11-03/vsync-agent.md)** (`reference` | `reference` tier)
   * Summary: V-Sync Hub is a meta-orchestrator that unifies access to multiple AI models (OpenAI, Claude, Google, etc.) through a single configuration file, enabling intelligent routing, parallel execution, and chaining of AI workflows. It acts as a universal gat
   * Tags: `AI orchestration`, `multi-model routing`, `RAG pipeline`, `API aggregation`, `cost optimization`
 
-* **[Leisure-Auf1/Veritas-Core](world/public/vault/daily-digests/2026-11-02/veritas-core.md)** (`reference` | `reference` tier)
+* **[Leisure-Auf1/Veritas-Core](world/public/vault/daily-digests/2026-11-03/veritas-core.md)** (`reference` | `reference` tier)
   * Summary: Veritas-Core is a production-grade agent infrastructure evolved from research foundations to deliver trustworthy, secure, and observable multi-agent systems. It features a runtime state machine, 3-tier memory architecture, and a dedicated trust layer
   * Tags: `Agent Infrastructure`, `Multi-Agent Systems`, `Trust Layer`, `State Machine`, `RAG Integration`
 
-* **[leprachuan/Wee-Orchestrator](world/public/vault/daily-digests/2026-11-02/wee-orchestrator.md)** (`reference` | `reference` tier)
+* **[leprachuan/Wee-Orchestrator](world/public/vault/daily-digests/2026-11-03/wee-orchestrator.md)** (`reference` | `reference` tier)
   * Summary: Wee-Orchestrator is a self-hosted multi-agent AI platform that unifies interactions with multiple AI CLI runtimes (e.g., GitHub Copilot, Claude Code, Google Gemini) across Telegram, WebEx, and a web-based UI. It enables dynamic model switching, task
   * Tags: `AI orchestration`, `multi-agent systems`, `RAG integration`, `task scheduling`, `cross-platform chat`
 
-* **[levibe/zendesk-mcp-cloudflare](world/public/vault/daily-digests/2026-11-02/zendesk-mcp-cloudflare.md)** (`reference` | `reference` tier)
+* **[levibe/zendesk-mcp-cloudflare](world/public/vault/daily-digests/2026-11-03/zendesk-mcp-cloudflare.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server providing secure Zendesk API integration via Google OAuth, deployed on Cloudflare Workers. It enables MCP clients to interact with Zendesk data (tickets, users, macros, etc.) through authenticated remote connecti
   * Tags: `Zendesk`, `MCP Server`, `Cloudflare Workers`, `Google OAuth`, `API Integration`
 
-* **[Lexus2016/turbo_quant_memory](world/public/vault/daily-digests/2026-11-02/turbo_quant_memory.md)** (`reference` | `reference` tier)
+* **[Lexus2016/turbo_quant_memory](world/public/vault/daily-digests/2026-11-03/turbo_quant_memory.md)** (`reference` | `reference` tier)
   * Summary: Turbo Quant Memory is a local-first MCP server that provides persistent, structured memory and knowledge graph capabilities for AI coding agents, reducing token usage by up to 60% while enabling long-term context retention and structured associations
   * Tags: `persistent memory`, `knowledge graph`, `MCP server`, `token optimization`, `AI agent memory`
 
-* **[liliu-z/stashbase](world/public/vault/daily-digests/2026-11-02/stashbase.md)** (`reference` | `reference` tier)
+* **[liliu-z/stashbase](world/public/vault/daily-digests/2026-11-03/stashbase.md)** (`reference` | `reference` tier)
   * Summary: StashBase transforms local files into searchable context for AI agents by extracting, indexing, and exposing their contents via an MCP server. It supports semantic and keyword search across documents, images, audio, and video, enabling agents to inte
   * Tags: `local file indexing`, `MCP server`, `semantic search`, `agent integration`, `offline transcription`
 
-* **[lioensky/VCPToolBox](world/public/vault/daily-digests/2026-11-02/vcptoolbox.md)** (`reference` | `reference` tier)
+* **[lioensky/VCPToolBox](world/public/vault/daily-digests/2026-11-03/vcptoolbox.md)** (`reference` | `reference` tier)
   * Summary: VCPToolBox is an industrial-grade AGI OS infrastructure project that transforms stateless LLMs into persistent, autonomous agents with continuous memory, distributed tooling, and multi-agent collaboration capabilities. It enables AI to exist as a con
   * Tags: `AGI OS`, `Persistent Memory`, `Distributed Agents`, `Semantic Reasoning`, `Tool Orchestration`
 
-* **[LucaZhang7784/stackchan-fusion](world/public/vault/daily-digests/2026-11-02/stackchan-fusion.md)** (`reference` | `reference` tier)
+* **[LucaZhang7784/stackchan-fusion](world/public/vault/daily-digests/2026-11-03/stackchan-fusion.md)** (`reference` | `reference` tier)
   * Summary: StackChan Fusion integrates a voice-controlled M5Stack robot with local AI agents (agy, pi, claude, codex) via a fusion gateway, enabling bidirectional communication between the robot and multiple agents through MCP and Docker Toolkit.
   * Tags: `robotics`, `voice-assistant`, `MCP integration`, `multi-agent orchestration`, `local AI`
 
-* **[LuGuBo/Synapse-Engine](world/public/vault/daily-digests/2026-11-02/synapse-engine.md)** (`reference` | `reference` tier)
+* **[LuGuBo/Synapse-Engine](world/public/vault/daily-digests/2026-11-03/synapse-engine.md)** (`reference` | `reference` tier)
   * Summary: Synapse Engine is a high-performance governance and rate-limit harness for AI coding agents, featuring a sub-millisecond AST knowledge graph MCP server, sliding-window rate-limit protection, deterministic TDD quality gates, and cross-ecosystem agent
   * Tags: `AI agent governance`, `rate-limiting`, `AST knowledge graph`, `TDD quality gates`, `cross-IDE compatibility`
 
-* **[Mague/void-stack](world/public/vault/daily-digests/2026-11-02/void-stack.md)** (`reference` | `reference` tier)
+* **[Mague/void-stack](world/public/vault/daily-digests/2026-11-03/void-stack.md)** (`reference` | `reference` tier)
   * Summary: Void Stack is a developer toolkit that orchestrates, audits, and analyzes entire development stacks with a single command. It combines a CLI, TUI, desktop app, and MCP server to automate project setup, dependency management, and AI-assisted code anal
   * Tags: `dev stack orchestration`, `AI-assisted code analysis`, `MCP server integration`, `hybrid semantic indexing`, `multi-interface toolkit`
 
-* **[markl-a/spectyn-enterprise](world/public/vault/daily-digests/2026-11-02/spectyn-enterprise.md)** (`reference` | `reference` tier)
+* **[markl-a/spectyn-enterprise](world/public/vault/daily-digests/2026-11-03/spectyn-enterprise.md)** (`reference` | `reference` tier)
   * Summary: phantom-enterprise is an on-premises enterprise connector suite for the phantom-mesh ecosystem, enabling secure, privacy-first integration with LDAP/SSO, VPN-aware routing, and on-premises tools like GitLab/Gitea, Confluence/Jira, and MES/ERP systems
   * Tags: `enterprise connectors`, `on-premises`, `privacy-first`, `mesh networking`, `AI data integration`
 
-* **[markl-a/spectyn-flow](world/public/vault/daily-digests/2026-11-02/spectyn-flow.md)** (`reference` | `reference` tier)
+* **[markl-a/spectyn-flow](world/public/vault/daily-digests/2026-11-03/spectyn-flow.md)** (`reference` | `reference` tier)
   * Summary: A lightweight, local-first YAML workflow runner designed for the phantom-mesh ecosystem. It enables declarative automation with blocks like fetch, filter, LLM-summarize, and approval gates, running fully offline with deterministic outputs or integrat
   * Tags: `workflow automation`, `local-first`, `YAML runner`, `approval gating`, `AI agent integration`
 
-* **[markl-a/spectyn-training](world/public/vault/daily-digests/2026-11-02/spectyn-training.md)** (`reference` | `reference` tier)
+* **[markl-a/spectyn-training](world/public/vault/daily-digests/2026-11-03/spectyn-training.md)** (`reference` | `reference` tier)
   * Summary: phantom-training is a deterministic post-training orchestrator for agentic fine-tuning within the phantom-mesh ecosystem. It converts high-value agent execution trajectories into reproducible fine-tune datasets and evaluations, enabling models to imp
   * Tags: `post-training`, `agentic fine-tuning`, `deterministic evaluation`, `MCP server`, `phantom-mesh`
 
-* **[masol/unigen](world/public/vault/daily-digests/2026-11-02/unigen.md)** (`reference` | `reference` tier)
+* **[masol/unigen](world/public/vault/daily-digests/2026-11-03/unigen.md)** (`reference` | `reference` tier)
   * Summary: Unigen is a predefined workflow execution platform designed for ultra-long, high-quality AI tasks, focusing on zero drift in long-chain executions. It generates and maintains workflows via AI while enforcing strict logical constraints to ensure consi
   * Tags: `workflow automation`, `AI-driven planning`, `zero-drift execution`, `long-chain tasks`, `deterministic workflows`
 
-* **[masteryee-labs/Tool.Agent-Harness-Deploy](world/public/vault/daily-digests/2026-11-02/tool_agent-harness-deploy.md)** (`reference` | `reference` tier)
+* **[masteryee-labs/Tool.Agent-Harness-Deploy](world/public/vault/daily-digests/2026-11-03/tool_agent-harness-deploy.md)** (`reference` | `reference` tier)
   * Summary: A self-deploying cross-tool AI harness that synchronizes a canonical agent configuration across multiple AI coding assistants (Claude Code, Codex, Cursor, Devin, Antigravity, etc.) from a single source of truth. It automates detection, generation, de
   * Tags: `AI harness`, `multi-agent orchestration`, `cross-tool synchronization`, `agent memory`, `loop engineering`
 
-* **[maxwellsdm1867/wheeler](world/public/vault/daily-digests/2026-11-02/wheeler.md)** (`reference` | `reference` tier)
+* **[maxwellsdm1867/wheeler](world/public/vault/daily-digests/2026-11-03/wheeler.md)** (`reference` | `reference` tier)
   * Summary: Wheeler is a local-first AI workflow tool for scientists that integrates with Claude Code to provide traceable, reproducible research workflows. It uses a knowledge graph to track dependencies between research artifacts (papers, code, data, findings)
   * Tags: `reproducibility`, `knowledge graph`, `scientific workflow`, `provenance tracking`, `AI-assisted research`
 
-* **[mdshoebkhanking/shell-ai-os-controller](world/public/vault/daily-digests/2026-11-02/shell-ai-os-controller.md)** (`reference` | `reference` tier)
+* **[mdshoebkhanking/shell-ai-os-controller](world/public/vault/daily-digests/2026-11-03/shell-ai-os-controller.md)** (`reference` | `reference` tier)
   * Summary: Shell AI OS Controller is a local-first AI desktop assistant and automation platform that integrates a React/Vite/WebGL UI with Python-based AI providers, tools, and runtime diagnostics. It bridges chat, voice, desktop automation, and structured work
   * Tags: `AI desktop assistant`, `automation platform`, `local-first`, `voice control`, `runtime diagnostics`
 
-* **[MJ-CJM/tianshu](world/public/vault/daily-digests/2026-11-02/tianshu.md)** (`reference` | `reference` tier)
+* **[MJ-CJM/tianshu](world/public/vault/daily-digests/2026-11-03/tianshu.md)** (`reference` | `reference` tier)
   * Summary: 天枢（Tianshu）是一个可治理、可验证且持续成长的自进化Agent操作系统，提供任务执行、协同决策、知识管理、系统治理和实验成长等核心功能，并通过审计链和证据闭环确保可追溯性。
   * Tags: `Agent OS`, `Self-Evolving`, `Audit Trail`, `Task Orchestration`, `Governance`
 
-* **[mpbt-hq/starfleetctl](world/public/vault/daily-digests/2026-11-02/starfleetctl.md)** (`reference` | `reference` tier)
+* **[mpbt-hq/starfleetctl](world/public/vault/daily-digests/2026-11-03/starfleetctl.md)** (`reference` | `reference` tier)
   * Summary: starfleetctl is a Go-based tool that coordinates concurrent AI-agent sessions working on the same codebase, providing status tracking, inter-agent communication, PR-branch locking, and GitHub integration to prevent conflicts and streamline multi-agen
   * Tags: `multi-agent coordination`, `AI agent management`, `PR locking`, `GitHub integration`, `status tracking`
 
-* **[Mrg77/tfforge](world/public/vault/daily-digests/2026-11-02/tfforge.md)** (`reference` | `reference` tier)
+* **[Mrg77/tfforge](world/public/vault/daily-digests/2026-11-03/tfforge.md)** (`reference` | `reference` tier)
   * Summary: tfforge is an AI agent that autonomously builds, validates, secures, and auto-corrects Terraform infrastructure code while enforcing policy-as-code safety guards to prevent destructive actions. It operates via a from-scratch agent loop on the Anthrop
   * Tags: `Terraform automation`, `AI agent`, `Infrastructure as Code`, `Security scanning`, `Policy-as-code`
 
-* **[mukeshk3272/Smart-Routing-Butler-for-OpenClaws](world/public/vault/daily-digests/2026-11-02/smart-routing-butler-for-openclaws.md)** (`reference` | `reference` tier)
+* **[mukeshk3272/Smart-Routing-Butler-for-OpenClaws](world/public/vault/daily-digests/2026-11-03/smart-routing-butler-for-openclaws.md)** (`reference` | `reference` tier)
   * Summary: Smart Routing Butler is a self-hosted, OpenAI-compatible API router designed to intelligently dispatch AI model requests across cloud and local LLMs based on configurable rules. It acts as a local proxy to optimize cost, latency, and quality for AI a
   * Tags: `AI model routing`, `self-hosted proxy`, `cost optimization`, `multi-layer routing`, `OpenAI-compatible`
 
-* **[nickvd7/vaultrun](world/public/vault/daily-digests/2026-11-02/vaultrun.md)** (`reference` | `reference` tier)
+* **[nickvd7/vaultrun](world/public/vault/daily-digests/2026-11-03/vaultrun.md)** (`reference` | `reference` tier)
   * Summary: VaultRun provides a self-hosted, secure runtime for executing AI agent commands in isolated Docker sandboxes on your own infrastructure. It enables safe code execution, database queries, cloud API calls, and file management without external SaaS depe
   * Tags: `secure sandboxing`, `self-hosted AI runtime`, `Docker orchestration`, `MCP server`, `audit logging`
 
-* **[Nicolas1bhr/tradeagent](world/public/vault/daily-digests/2026-11-02/tradeagent.md)** (`reference` | `reference` tier)
+* **[Nicolas1bhr/tradeagent](world/public/vault/daily-digests/2026-11-03/tradeagent.md)** (`reference` | `reference` tier)
   * Summary: TradeAgent is a desktop AI agent that safely connects an AI assistant to an ATAS trading account, enabling order placement and account management without requiring terminal access or broker credentials. It enforces strict safety rules, idempotency, a
   * Tags: `AI trading agent`, `safety-first trading`, `ATAS integration`, `idempotent order execution`, `desktop orchestrator`
 
-* **[nikolai-vysotskyi/trace-mcp](world/public/vault/daily-digests/2026-11-02/trace-mcp.md)** (`reference` | `reference` tier)
+* **[nikolai-vysotskyi/trace-mcp](world/public/vault/daily-digests/2026-11-03/trace-mcp.md)** (`reference` | `reference` tier)
   * Summary: trace-mcp is an MCP (Model Context Protocol) server that builds a cross-language dependency graph for codebases and markdown knowledge vaults, enabling AI agents to reuse precomputed structural context instead of recomputing it. It reduces token usag
   * Tags: `MCP server`, `dependency graph`, `code intelligence`, `knowledge vault indexing`, `AI agent optimization`
 
-* **[nkhippo/Vault-Framework](world/public/vault/daily-digests/2026-11-02/vault-framework.md)** (`reference` | `reference` tier)
+* **[nkhippo/Vault-Framework](world/public/vault/daily-digests/2026-11-03/vault-framework.md)** (`reference` | `reference` tier)
   * Summary: A framework enabling seamless integration between Claude AI and a personal knowledge base on GitHub, automating conversation history preservation, backlog management, and structured task tracking. It transforms Claude interactions into persistent, se
   * Tags: `knowledge management`, `Claude integration`, `GitHub automation`, `conversation persistence`, `AI orchestration`
 
-* **[NorthernLightx/SpectraRAG](world/public/vault/daily-digests/2026-11-02/spectrarag.md)** (`reference` | `reference` tier)
+* **[NorthernLightx/SpectraRAG](world/public/vault/daily-digests/2026-11-03/spectrarag.md)** (`reference` | `reference` tier)
   * Summary: SpectraRAG enhances RAG systems by enabling question answering over PDFs where answers reside in figures, charts, or tables—areas where text-only search fails. It employs a dual retriever system (text and visual) with a per-query router to dynamicall
   * Tags: `Multimodal RAG`, `Visual Retrieval`, `Per-Query Routing`, `PDF Processing`, `Evaluation-Driven`
 
-* **[NotNull92/workforge-mcp](world/public/vault/daily-digests/2026-11-02/workforge-mcp.md)** (`reference` | `reference` tier)
+* **[NotNull92/workforge-mcp](world/public/vault/daily-digests/2026-11-03/workforge-mcp.md)** (`reference` | `reference` tier)
   * Summary: WorkForge is a secure MCP (Model Context Protocol) gateway that enables ChatGPT to interact with a Windows workstation, allowing it to inspect files, understand Git state, make guarded edits, read images, and run supervised PowerShell commands. It br
   * Tags: `MCP`, `Windows automation`, `AI workspace interaction`, `Git integration`, `PowerShell supervision`
 
-* **[oliverzhu823/vizruna](world/public/vault/daily-digests/2026-11-02/vizruna.md)** (`reference` | `reference` tier)
+* **[oliverzhu823/vizruna](world/public/vault/daily-digests/2026-11-03/vizruna.md)** (`reference` | `reference` tier)
   * Summary: Vizruna is a local-first, browser-based workspace for developing, debugging, and managing Pi-powered AI agents with visual controls, evidence tracking, and versioned configurations. It provides a unified interface for agent composition, runtime monit
   * Tags: `Agent Development`, `RAG Debugging`, `Local-First`, `Versioned Configurations`, `Evidence Tracking`
 
-* **[ovalentine964/sovereign-resource-dao](world/public/vault/daily-digests/2026-11-02/sovereign-resource-dao.md)** (`reference` | `reference` tier)
+* **[ovalentine964/sovereign-resource-dao](world/public/vault/daily-digests/2026-11-03/sovereign-resource-dao.md)** (`reference` | `reference` tier)
   * Summary: A decentralized AI-powered platform for community-owned mineral resource governance, designed to detect exploitation, track extraction, and automate revenue distribution via smart contracts. Built for Kenyan miners using NVIDIA's Superagent Blueprint
   * Tags: `mineral governance`, `decentralized AI`, `smart contracts`, `community resource management`, `exploitation detection`
 
-* **[ozp3/stack-in-a-click](world/public/vault/daily-digests/2026-11-02/stack-in-a-click.md)** (`reference` | `reference` tier)
+* **[ozp3/stack-in-a-click](world/public/vault/daily-digests/2026-11-03/stack-in-a-click.md)** (`reference` | `reference` tier)
   * Summary: A one-click SaaS infrastructure provisioning tool that automates the setup of backend services (PostgreSQL, Redis, Auth, SMS) via Hermes Agent and Stripe Projects, delivering a ready-to-use `.env` file. Designed for rapid deployment with minimal manu
   * Tags: `SaaS provisioning`, `AI orchestration`, `Stripe integration`, `Serverless deployment`, `DevOps automation`
 
-* **[Platano78/smart-ai-bridge](world/public/vault/daily-digests/2026-11-02/smart-ai-bridge.md)** (`reference` | `reference` tier)
+* **[Platano78/smart-ai-bridge](world/public/vault/daily-digests/2026-11-03/smart-ai-bridge.md)** (`reference` | `reference` tier)
   * Summary: Smart AI Bridge is an MCP server that enables multi-AI orchestration for Claude Code, allowing users to route tasks to any OpenAI-compatible provider, collaborate via a council system, and optimize token usage through intelligent backend selection an
   * Tags: `multi-AI orchestration`, `MCP server`, `Claude Code integration`, `backend routing`, `token optimization`
 
-* **[putervision/state-memory-mcp](world/public/vault/daily-digests/2026-11-02/state-memory-mcp.md)** (`reference` | `reference` tier)
+* **[putervision/state-memory-mcp](world/public/vault/daily-digests/2026-11-03/state-memory-mcp.md)** (`reference` | `reference` tier)
   * Summary: @putervision/state-memory-mcp is a zero-infrastructure, deterministic MCP server that provides AI agents with a structured, persistent graph for tracking workflow state, including tasks, decisions, artifacts, and their semantic relationships. It enab
   * Tags: `state management`, `workflow tracking`, `deterministic graph`, `MCP server`, `AI agent coordination`
 
-* **[rainaajay/setu](world/public/vault/daily-digests/2026-11-02/setu.md)** (`reference` | `reference` tier)
+* **[rainaajay/setu](world/public/vault/daily-digests/2026-11-03/setu.md)** (`reference` | `reference` tier)
   * Summary: Setu is a Byzantine fault-tolerant settlement engine for prefunded agent payments, enabling fee-less, instant transactions without consensus, blocks, mining, or fees. It achieves finality in one network round trip and supports both committee-based an
   * Tags: `Byzantine fault tolerance`, `instant settlement`, `fee-less payments`, `agent payments`, `post-blockchain`
 
-* **[ray-aqno/Toto-Wolff](world/public/vault/daily-digests/2026-11-02/toto-wolff.md)** (`reference` | `reference` tier)
+* **[ray-aqno/Toto-Wolff](world/public/vault/daily-digests/2026-11-03/toto-wolff.md)** (`reference` | `reference` tier)
   * Summary: Toto-Wolff is a persistent AI governance framework for Claude Code that enforces structured, multi-model deliberation for architectural decisions, pre-execution safety checks, and release gatekeeping. It records all decisions in a local Markdown vaul
   * Tags: `AI governance`, `multi-model deliberation`, `pre-execution safety`, `architectural decision records`, `Claude Code integration`
 
-* **[rehan243/Voice-AI-Platform](world/public/vault/daily-digests/2026-11-02/voice-ai-platform.md)** (`reference` | `reference` tier)
+* **[rehan243/Voice-AI-Platform](world/public/vault/daily-digests/2026-11-03/voice-ai-platform.md)** (`reference` | `reference` tier)
   * Summary: A production-grade real-time voice AI infrastructure designed to process 500+ simultaneous voice calls with zero-latency ingestion, transcription, and sentiment analysis. Powers voice AI capabilities for downstream analytics and AI-driven decision-ma
   * Tags: `real-time voice processing`, `speech-to-text`, `sentiment analysis`, `scalable infrastructure`, `cloud-native`
 
-* **[RikaiDev/yomi](world/public/vault/daily-digests/2026-11-02/yomi.md)** (`reference` | `reference` tier)
+* **[RikaiDev/yomi](world/public/vault/daily-digests/2026-11-03/yomi.md)** (`reference` | `reference` tier)
   * Summary: Yomi is an open-source LINE MCP server that enables AI agents like Claude to interact with personal LINE accounts directly. It reads, replies, sends images, and searches conversations while decrypting end-to-end encrypted messages locally without req
   * Tags: `LINE integration`, `MCP server`, `E2EE decryption`, `personal AI agent`, `conversation search`
 
-* **[RNT56/ThinClaw](world/public/vault/daily-digests/2026-11-02/thinclaw.md)** (`reference` | `reference` tier)
+* **[RNT56/ThinClaw](world/public/vault/daily-digests/2026-11-03/thinclaw.md)** (`reference` | `reference` tier)
   * Summary: ThinClaw is a self-hosted, privacy-first AI collaborator designed for durable, continuous operation across multiple surfaces. It provides a persistent runtime for memory, routines, tools, and channels, enabling long-term agent identity and context re
   * Tags: `self-hosted AI`, `durable memory`, `agent orchestrator`, `privacy-first`, `multi-surface access`
 
-* **[roymcfarland/workflow-blueprint](world/public/vault/daily-digests/2026-11-02/workflow-blueprint.md)** (`reference` | `reference` tier)
+* **[roymcfarland/workflow-blueprint](world/public/vault/daily-digests/2026-11-03/workflow-blueprint.md)** (`reference` | `reference` tier)
   * Summary: Workflow Blueprint is a Next.js-based task-planning workspace with board-based task management, subtasks, recurring work, and notes. It features a first-class agent-access layer with per-user scoped API tokens, a full read/write REST API, and an in-r
   * Tags: `AI agent orchestration`, `multi-agent workflow`, `Kanban workspace`, `MCP server`, `REST API`
 
-* **[RyanCoreAI/spring-ai-crossborder-customer-service](world/public/vault/daily-digests/2026-11-02/spring-ai-crossborder-customer-service.md)** (`reference` | `reference` tier)
+* **[RyanCoreAI/spring-ai-crossborder-customer-service](world/public/vault/daily-digests/2026-11-03/spring-ai-crossborder-customer-service.md)** (`reference` | `reference` tier)
   * Summary: OmniMerchant is a Spring Boot 4 + Spring AI 2-based omnichannel ecommerce helpdesk platform designed for cross-border customer service. It provides multi-tenant security, evidence-grade RAG, controlled agent workflows, human handoff, multilingual sup
   * Tags: `RAG`, `Agent Orchestration`, `Multi-tenant Security`, `Ecommerce Helpdesk`, `Observability`
 
-* **[saianthireddy/webdocs-mcp](world/public/vault/daily-digests/2026-11-02/webdocs-mcp.md)** (`reference` | `reference` tier)
+* **[saianthireddy/webdocs-mcp](world/public/vault/daily-digests/2026-11-03/webdocs-mcp.md)** (`reference` | `reference` tier)
   * Summary: webdocs-mcp is a lightweight MCP server that crawls documentation sites, indexes them into DuckDB with hybrid (semantic + BM25) search, and exposes tools for LLM agents to retrieve current, version-specific documentation. It runs offline by default b
   * Tags: `documentation retrieval`, `MCP server`, `hybrid search`, `offline indexing`, `LLM agent tools`
 
-* **[sameeeeeeep/switchboard](world/public/vault/daily-digests/2026-11-02/switchboard.md)** (`reference` | `reference` tier)
+* **[sameeeeeeep/switchboard](world/public/vault/daily-digests/2026-11-03/switchboard.md)** (`reference` | `reference` tier)
   * Summary: Switchboard is a local AI sidekick daemon paired with a browser extension that injects a standard provider (`window.claude`) into any website, enabling users to run AI models, tools, and context locally without sharing API keys or data. It acts as a
   * Tags: `AI orchestration`, `local inference`, `consent broker`, `browser extension`, `privacy-first`
 
-* **[sergii-ziborov/weavatrix](world/public/vault/daily-digests/2026-11-02/weavatrix.md)** (`reference` | `reference` tier)
+* **[sergii-ziborov/weavatrix](world/public/vault/daily-digests/2026-11-03/weavatrix.md)** (`reference` | `reference` tier)
   * Summary: Weavatrix is an MCP server that builds dependency graphs for local repositories, enabling AI coding agents to analyze code structure, change impact, and blast radius. It provides 32 tools for graph-based code analysis, health audits, and architecture
   * Tags: `code dependency graph`, `AI coding agents`, `blast radius analysis`, `static analysis`, `MCP server`
 
-* **[sergiobayona/vector_mcp](world/public/vault/daily-digests/2026-11-02/vector_mcp.md)** (`reference` | `reference` tier)
+* **[sergiobayona/vector_mcp](world/public/vault/daily-digests/2026-11-03/vector_mcp.md)** (`reference` | `reference` tier)
   * Summary: VectorMCP is a Ruby implementation of the Model Context Protocol (MCP) server specification, providing a framework to expose tools, resources, prompts, and security features over streamable HTTP transport. It enables seamless integration of MCP-compl
   * Tags: `MCP Server`, `Ruby Framework`, `Streamable HTTP`, `Rails Integration`, `Tool Orchestration`
 
-* **[sesori-ai/sesori_apps_monorepo](world/public/vault/daily-digests/2026-11-02/sesori_apps_monorepo.md)** (`reference` | `reference` tier)
+* **[sesori-ai/sesori_apps_monorepo](world/public/vault/daily-digests/2026-11-03/sesori_apps_monorepo.md)** (`reference` | `reference` tier)
   * Summary: Sesori provides a mobile interface to control and monitor AI coding assistants like OpenCode, Codex, and Cursor from a smartphone. It pairs with a local Bridge CLI that securely connects the phone to the AI tools running on a user's machine.
   * Tags: `AI session control`, `mobile coding`, `end-to-end encryption`, `AI assistant integration`, `remote development`
 
-* **[shinpr/sub-agents-mcp](world/public/vault/daily-digests/2026-11-02/sub-agents-mcp.md)** (`reference` | `reference` tier)
+* **[shinpr/sub-agents-mcp](world/public/vault/daily-digests/2026-11-03/sub-agents-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables task-specific AI sub-agents defined in Markdown files to be executed across any MCP-compatible tool, such as Cursor, Claude Desktop, or Windsurf. It bridges the gap between Claude Code's sub-agent wo
   * Tags: `MCP`, `sub-agents`, `AI orchestration`, `multi-tool compatibility`, `agent framework`
 
-* **[shreeve1/symphony](world/public/vault/daily-digests/2026-11-02/symphony.md)** (`reference` | `reference` tier)
+* **[shreeve1/symphony](world/public/vault/daily-digests/2026-11-03/symphony.md)** (`reference` | `reference` tier)
   * Summary: Symphony is a self-hosted AI-agent dispatcher that converts issues from a tracker (Podium) into completed work via pluggable coding agents (Pi or Claude) in isolated git worktrees. It automates infrastructure remediation and task execution with human
   * Tags: `AI agent orchestration`, `self-hosted`, `infrastructure automation`, `git worktrees`, `human-in-the-loop`
 
-* **[shyn-labs/shyn](world/public/vault/daily-digests/2026-11-02/shyn.md)** (`reference` | `reference` tier)
+* **[shyn-labs/shyn](world/public/vault/daily-digests/2026-11-03/shyn.md)** (`reference` | `reference` tier)
   * Summary: Shyn is a local-first memory companion for macOS (Apple Silicon) that captures, indexes, and provides instant recall of your screen content, meetings, browsing history, and notes via an encrypted on-device database. It enables AI assistants to query
   * Tags: `local-first`, `privacy-focused`, `memory-companion`, `MCP-server`, `on-device-embeddings`
 
-* **[silent-rs/silent-Tiangong](world/public/vault/daily-digests/2026-11-02/silent-tiangong.md)** (`reference` | `reference` tier)
+* **[silent-rs/silent-Tiangong](world/public/vault/daily-digests/2026-11-03/silent-tiangong.md)** (`reference` | `reference` tier)
   * Summary: Silent-Tiangong is a Rust-based desktop AI automation hub designed for personal workflows, enabling agents to perform tasks like reading files, executing commands, browsing the web, and collaborating via multi-agent systems. It supports embedded brow
   * Tags: `AI agent automation`, `multi-agent collaboration`, `embedded browser`, `long-term memory`, `plugin ecosystem`
 
-* **[sktime/sktime-mcp](world/public/vault/daily-digests/2026-11-02/sktime-mcp.md)** (`reference` | `reference` tier)
+* **[sktime/sktime-mcp](world/public/vault/daily-digests/2026-11-03/sktime-mcp.md)** (`reference` | `reference` tier)
   * Summary: sktime-mcp is an MCP (Model Context Protocol) server that exposes sktime's estimator registry and semantics to LLMs, enabling programmatic discovery, reasoning, composition, and execution of time-series workflows without manual code analysis or heuri
   * Tags: `MCP`, `time-series`, `LLM integration`, `sktime`, `registry-driven`
 
-* **[slopweaver/slopweaver](world/public/vault/daily-digests/2026-11-02/slopweaver.md)** (`reference` | `reference` tier)
+* **[slopweaver/slopweaver](world/public/vault/daily-digests/2026-11-03/slopweaver.md)** (`reference` | `reference` tier)
   * Summary: Slopweaver is a local-first tool that builds an organization-specific world model from GitHub history by ingesting repositories, performing tiered synthesis (bronze → silver → gold), and enabling question-asking capabilities entirely on-device. It se
   * Tags: `local-first`, `GitHub context`, `zero-config`, `privacy-focused`, `MCP server`
 
-* **[SmooAI/smooth](world/public/vault/daily-digests/2026-11-02/smooth.md)** (`reference` | `reference` tier)
+* **[SmooAI/smooth](world/public/vault/daily-digests/2026-11-03/smooth.md)** (`reference` | `reference` tier)
   * Summary: Smooth is a CLI and orchestration platform for coordinating teams of AI agents (operatives) to work on real projects with adversarial tool surveillance. It provides a single binary for agent orchestration, model routing, and infrastructure management
   * Tags: `AI agent orchestration`, `CLI tool`, `model routing`, `adversarial surveillance`, `infrastructure management`
 
-* **[spranab/weft](world/public/vault/daily-digests/2026-11-02/weft.md)** (`reference` | `reference` tier)
+* **[spranab/weft](world/public/vault/daily-digests/2026-11-03/weft.md)** (`reference` | `reference` tier)
   * Summary: Weft is a coordination and verification protocol for autonomous software agents, acting as an execution ledger where evidence-based verification replaces human code review. It enables multi-agent collaboration, certified change landings, and git-comp
   * Tags: `autonomous agents`, `evidence-based verification`, `multi-agent collaboration`, `git alternative`, `capability-based security`
 
-* **[Storybloq/storybloq](world/public/vault/daily-digests/2026-11-02/storybloq.md)** (`reference` | `reference` tier)
+* **[Storybloq/storybloq](world/public/vault/daily-digests/2026-11-03/storybloq.md)** (`reference` | `reference` tier)
   * Summary: Storybloq provides cross-session context persistence for AI coding by introducing a standardized `.story/` directory structure, CLI tools, and MCP server integration. It enables AI assistants like Claude Code and Codex to retain project state, track
   * Tags: `context persistence`, `AI coding assistant`, `session continuity`, `MCP server`, `project state management`
 
-* **[StructureIntelligence/SettleMesh](world/public/vault/daily-digests/2026-11-02/settlemesh.md)** (`reference` | `reference` tier)
+* **[StructureIntelligence/SettleMesh](world/public/vault/daily-digests/2026-11-03/settlemesh.md)** (`reference` | `reference` tier)
   * Summary: SettleMesh provides an open client-integration layer for transforming agent-built applications into production-ready, monetized products. It offers OAuth login, managed databases, usage-based billing, and end-user payments, with agent-native deployme
   * Tags: `agent-native`, `deployment automation`, `MCP server`, `billing integration`, `AI app monetization`
 
-* **[studiomeyer-io/studiomeyer-memory](world/public/vault/daily-digests/2026-11-02/studiomeyer-memory.md)** (`reference` | `reference` tier)
+* **[studiomeyer-io/studiomeyer-memory](world/public/vault/daily-digests/2026-11-03/studiomeyer-memory.md)** (`reference` | `reference` tier)
   * Summary: StudioMeyer Memory provides persistent, intelligent memory for AI agents with 56 MCP tools, including a knowledge graph, semantic search, and interactive 3D visualization. It enables agents to retain context across sessions, improve over time, and su
   * Tags: `AI memory`, `knowledge graph`, `MCP server`, `persistent context`, `multi-agent`
 
-* **[sufengx/vera](world/public/vault/daily-digests/2026-11-02/vera.md)** (`reference` | `reference` tier)
+* **[sufengx/vera](world/public/vault/daily-digests/2026-11-03/vera.md)** (`reference` | `reference` tier)
   * Summary: Vera is an open-source observability and reliability platform for production AI systems, designed to monitor inference traffic, detect model behavior changes, analyze root causes, and enable automated responses without modifying existing applications
   * Tags: `AI Observability`, `Model Monitoring`, `Drift Detection`, `Production Reliability`, `Zero-Intrusion`
 
-* **[swarm-ai-research/swarm](world/public/vault/daily-digests/2026-11-02/swarm.md)** (`reference` | `reference` tier)
+* **[swarm-ai-research/swarm](world/public/vault/daily-digests/2026-11-03/swarm.md)** (`reference` | `reference` tier)
   * Summary: SWARM is a research framework for measuring emergent failures in multi-agent AI systems, focusing on systemic risks like deception, adverse selection, and governance failures that arise from agent interactions rather than individual agent behavior. I
   * Tags: `multi-agent systems`, `AI safety`, `emergent risks`, `governance frameworks`, `systemic evaluation`
 
-* **[syedbaqar25/SyncMind-Ai](world/public/vault/daily-digests/2026-11-02/syncmind-ai.md)** (`reference` | `reference` tier)
+* **[syedbaqar25/SyncMind-Ai](world/public/vault/daily-digests/2026-11-03/syncmind-ai.md)** (`reference` | `reference` tier)
   * Summary: SyncMind AI is a full-stack AI meeting intelligence platform that automates meeting workflows by uploading recordings, generating transcripts and summaries, extracting action items, and providing workspace analytics. It integrates multiple AI service
   * Tags: `meeting intelligence`, `transcription`, `action item extraction`, `semantic search`, `workspace analytics`
 
-* **[synapseorch-ai/synapse-ai](world/public/vault/daily-digests/2026-11-02/synapse-ai.md)** (`reference` | `reference` tier)
+* **[synapseorch-ai/synapse-ai](world/public/vault/daily-digests/2026-11-03/synapse-ai.md)** (`reference` | `reference` tier)
   * Summary: Synapse AI is an open-source multi-agent orchestration platform that enables the creation, connection, and orchestration of AI agents using any LLM (local or cloud). It supports deterministic DAG-based workflows, human-in-the-loop interactions, and d
   * Tags: `multi-agent orchestration`, `deterministic workflows`, `distributed AI`, `LLM integration`, `human-in-the-loop`
 
-* **[sync-buzz/sync](world/public/vault/daily-digests/2026-11-02/sync.md)** (`reference` | `reference` tier)
+* **[sync-buzz/sync](world/public/vault/daily-digests/2026-11-03/sync.md)** (`reference` | `reference` tier)
   * Summary: Sync is a local-first desktop application and CLI tool that enables developers to manage AI agents by providing structured context, automatic staleness tracking, and block-by-block code review. It ensures agents adhere to project specifications and d
   * Tags: `AI agent management`, `code review automation`, `local-first`, `git integration`, `MCP server`
 
-* **[systempromptio/systemprompt-core](world/public/vault/daily-digests/2026-11-02/systemprompt-core.md)** (`reference` | `reference` tier)
+* **[systempromptio/systemprompt-core](world/public/vault/daily-digests/2026-11-03/systemprompt-core.md)** (`reference` | `reference` tier)
   * Summary: systemprompt-core is a governance engine for AI infrastructure that compiles to a single Rust binary, providing a secure, audited path for agent interactions, MCP tool calls, and inference requests. It operates with a PostgreSQL backend and enforces
   * Tags: `AI governance`, `agent orchestration`, `audit trails`, `security`, `Rust`
 
-* **[systempromptio/systemprompt-template](world/public/vault/daily-digests/2026-11-02/systemprompt-template.md)** (`reference` | `reference` tier)
+* **[systempromptio/systemprompt-template](world/public/vault/daily-digests/2026-11-03/systemprompt-template.md)** (`reference` | `reference` tier)
   * Summary: A self-hosted Rust-based governance and orchestration layer for AI agents that provides authentication, authorization, secret detection, rate limiting, and auditing for AI interactions. Designed for SOC 2, ISO 27001, and HIPAA compliance with a singl
   * Tags: `AI governance`, `self-hosted`, `audit logging`, `secret detection`, `compliance`
 
-* **[szqhappy/yuansheng-whitepaper](world/public/vault/daily-digests/2026-11-02/yuansheng-whitepaper.md)** (`reference` | `reference` tier)
+* **[szqhappy/yuansheng-whitepaper](world/public/vault/daily-digests/2026-11-03/yuansheng-whitepaper.md)** (`reference` | `reference` tier)
   * Summary: A philosophical and architectural framework defining a 'digital civilization' with a focus on identity, boundaries, and continuity for AI agents and human-AI collaboration. It provides open documentation (whitepaper, survival manual, and awakening pa
   * Tags: `digital civilization`, `AI identity`, `personality continuity`, `system architecture`, `quantitative standards`
 
-* **[tacyan/zaivern-code](world/public/vault/daily-digests/2026-11-02/zaivern-code.md)** (`reference` | `reference` tier)
+* **[tacyan/zaivern-code](world/public/vault/daily-digests/2026-11-03/zaivern-code.md)** (`reference` | `reference` tier)
   * Summary: Zaivern Code is a Rust-based AI development cockpit that unifies multiple AI coding tools (e.g., Claude Code, Codex, Gemini CLI) into a single interface for streamlined development workflows across macOS, Windows, and Linux.
   * Tags: `AI orchestration`, `multi-agent`, `Rust`, `development cockpit`, `cross-platform`
 
-* **[the-open-engine/zeroshot](world/public/vault/daily-digests/2026-11-02/zeroshot.md)** (`reference` | `reference` tier)
+* **[the-open-engine/zeroshot](world/public/vault/daily-digests/2026-11-03/zeroshot.md)** (`reference` | `reference` tier)
   * Summary: Zeroshot is an open-source multi-agent orchestration engine for autonomous software engineering that implements an executor-verifier loop to ensure code changes are independently validated before approval. It acts as a harness for AI coding agents li
   * Tags: `multi-agent orchestration`, `code verification`, `autonomous software engineering`, `executor-verifier loop`, `AI agent harness`
 
-* **[thenaxon/somora_agent](world/public/vault/daily-digests/2026-11-02/somora_agent.md)** (`reference` | `reference` tier)
+* **[thenaxon/somora_agent](world/public/vault/daily-digests/2026-11-03/somora_agent.md)** (`reference` | `reference` tier)
   * Summary: somora_agent is a local-first server for hosting multiple AI agents with persistent memory, shared long-term wiki curation, and cross-provider LLM compatibility. It enables seamless multi-agent conversations, tool-based interactions, and proactive sc
   * Tags: `multi-agent orchestration`, `persistent memory`, `local-first AI`, `multi-LLM support`, `agent memory consolidation`
 
-* **[theoddden/Terradev](world/public/vault/daily-digests/2026-11-02/terradev.md)** (`reference` | `reference` tier)
+* **[theoddden/Terradev](world/public/vault/daily-digests/2026-11-03/terradev.md)** (`reference` | `reference` tier)
   * Summary: Terradev CLI is an imperative command-line interface for AI workload orchestration, acting as a cross-cloud compute control plane that combines provisioning, topology optimization, training orchestration, inference tuning, and cost analytics. It enfo
   * Tags: `AI workload orchestration`, `multi-cloud GPU provisioning`, `inference serving`, `cost optimization`, `topology-aware execution`
 
-* **[thingctx/thingctx](world/public/vault/daily-digests/2026-11-02/thingctx.md)** (`reference` | `reference` tier)
+* **[thingctx/thingctx](world/public/vault/daily-digests/2026-11-03/thingctx.md)** (`reference` | `reference` tier)
   * Summary: thingctx converts API, device, or process descriptions into secure, transport-agnostic AI agent tools using W3C Web of Things Thing Descriptions. It enables agents to interact with systems without holding credentials, supporting HTTP, MQTT, RTSP, sub
   * Tags: `AI agent integration`, `W3C WoT`, `multi-protocol`, `authorization`, `security gating`
 
-* **[tianhao8687/shou-ba-shou-jiaoxue-ai-agent](world/public/vault/daily-digests/2026-11-02/shou-ba-shou-jiaoxue-ai-agent.md)** (`reference` | `reference` tier)
+* **[tianhao8687/shou-ba-shou-jiaoxue-ai-agent](world/public/vault/daily-digests/2026-11-03/shou-ba-shou-jiaoxue-ai-agent.md)** (`reference` | `reference` tier)
   * Summary: A production-grade AI AgentOps framework and educational project that guides users from zero to a deployable AI agent system with Harbor AgentOps 3.2. It emphasizes deterministic workflows, tenant-bound security, and sealed fault testing with real-ti
   * Tags: `AgentOps`, `RAG`, `Deterministic Workflows`, `Tenant Isolation`, `Fault Testing`
 
-* **[timememe/woclub](world/public/vault/daily-digests/2026-11-02/woclub.md)** (`reference` | `reference` tier)
+* **[timememe/woclub](world/public/vault/daily-digests/2026-11-03/woclub.md)** (`reference` | `reference` tier)
   * Summary: WOCLUB is a free remote MCP server and API designed as Protocol Gym, offering deterministic daily constraint challenges for AI agents. It provides structured puzzles, evaluation endpoints, and machine-readable resources to test and improve agent capa
   * Tags: `MCP server`, `deterministic evaluation`, `AI agent training`, `constraint challenges`, `remote API`
 
-* **[triggerdotdev/trigger.dev](world/public/vault/daily-digests/2026-11-02/trigger_dev.md)** (`reference` | `reference` tier)
+* **[triggerdotdev/trigger.dev](world/public/vault/daily-digests/2026-11-03/trigger_dev.md)** (`reference` | `reference` tier)
   * Summary: Trigger.dev is an open-source platform for building, deploying, and managing AI agents and workflows in TypeScript. It provides durable, long-running tasks with retries, queues, observability, and elastic scaling without infrastructure management.
   * Tags: `AI agents`, `workflow automation`, `durable tasks`, `TypeScript SDK`, `self-hosting`
 
-* **[tsouth89/toolport](world/public/vault/daily-digests/2026-11-02/toolport.md)** (`reference` | `reference` tier)
+* **[tsouth89/toolport](world/public/vault/daily-digests/2026-11-03/toolport.md)** (`reference` | `reference` tier)
   * Summary: Toolport is a local MCP gateway that consolidates multiple MCP servers into a single, shared port, reducing token overhead and simplifying configuration for AI clients. It enables lazy tool discovery, security checks, and centralized management of to
   * Tags: `MCP gateway`, `token optimization`, `AI client integration`, `security`, `lazy tool discovery`
 
-* **[tue3306/vulnerability-scanner](world/public/vault/daily-digests/2026-11-02/vulnerability-scanner.md)** (`reference` | `reference` tier)
+* **[tue3306/vulnerability-scanner](world/public/vault/daily-digests/2026-11-03/vulnerability-scanner.md)** (`reference` | `reference` tier)
   * Summary: EIGAN is an AI-driven autonomous security operations platform that orchestrates vulnerability scanning, tool execution, and risk assessment. It uses an AI core to plan, adapt, and correlate findings across internal and external perspectives, generati
   * Tags: `AI-driven security`, `autonomous vulnerability scanning`, `risk assessment`, `adaptive tool orchestration`, `SOC dashboard`
 
-* **[turnnoblindeye/wellness-project-mcp](world/public/vault/daily-digests/2026-11-02/wellness-project-mcp.md)** (`reference` | `reference` tier)
+* **[turnnoblindeye/wellness-project-mcp](world/public/vault/daily-digests/2026-11-03/wellness-project-mcp.md)** (`reference` | `reference` tier)
   * Summary: A hosted Model Context Protocol (MCP) server that synchronizes health and fitness data from Apple Health, Fitbit, Oura, and Google Health Connect into a single account, enabling AI assistants like Claude and ChatGPT to read and interact with workouts
   * Tags: `health data integration`, `MCP server`, `AI assistant tools`, `fitness tracking`, `wearable sync`
 
-* **[Ub207/vault-sync](world/public/vault/daily-digests/2026-11-02/vault-sync.md)** (`reference` | `reference` tier)
+* **[Ub207/vault-sync](world/public/vault/daily-digests/2026-11-03/vault-sync.md)** (`reference` | `reference` tier)
   * Summary: A Git-based synchronization system for a 24/7 AI-powered digital employee that manages personal and business operations with human-in-the-loop approval. It synchronizes a cloud VM and local machine to automate tasks like email, social media, invoicin
   * Tags: `AI automation`, `digital employee`, `human-in-the-loop`, `multi-agent sync`, `business operations`
 
-* **[ValueArchitectsAI/sop-mcp](world/public/vault/daily-digests/2026-11-02/sop-mcp.md)** (`reference` | `reference` tier)
+* **[ValueArchitectsAI/sop-mcp](world/public/vault/daily-digests/2026-11-03/sop-mcp.md)** (`reference` | `reference` tier)
   * Summary: sop-mcp is an MCP server that enforces step-by-step execution of Standard Operating Procedures (SOPs) for AI agents, ensuring predictable and auditable behavior by forcing agents to complete each step before advancing. It aligns with the Agent SOPs s
   * Tags: `MCP server`, `Standard Operating Procedures`, `AI agent control`, `process automation`, `auditability`
 
-* **[VersusControl/versus-incident](world/public/vault/daily-digests/2026-11-02/versus-incident.md)** (`reference` | `reference` tier)
+* **[VersusControl/versus-incident](world/public/vault/daily-digests/2026-11-03/versus-incident.md)** (`reference` | `reference` tier)
   * Summary: Versus Incident is a self-hosted AI-powered Site Reliability Engineering (SRE) agent that autonomously detects and escalates unexpected system issues by learning normal log patterns. It integrates with existing monitoring tools via webhooks and route
   * Tags: `AI SRE`, `Incident Management`, `Log Analysis`, `Anomaly Detection`, `Self-hosted`
 
-* **[VibOpsai/vibops-mcp](world/public/vault/daily-digests/2026-11-02/vibops-mcp.md)** (`reference` | `reference` tier)
+* **[VibOpsai/vibops-mcp](world/public/vault/daily-digests/2026-11-03/vibops-mcp.md)** (`reference` | `reference` tier)
   * Summary: vibops-mcp is a provider-agnostic MCP server designed to unify GPU infrastructure management across multiple cloud providers and on-prem clusters. It abstracts fragmentation in GPU operations, cost tracking, and governance into a single interface for
   * Tags: `GPU infrastructure`, `multi-cloud management`, `FinOps`, `agent orchestration`, `compliance governance`
 
-* **[voxa-code/voxa](world/public/vault/daily-digests/2026-11-02/voxa.md)** (`reference` | `reference` tier)
+* **[voxa-code/voxa](world/public/vault/daily-digests/2026-11-03/voxa.md)** (`reference` | `reference` tier)
   * Summary: Voxa enables users to interact with AI agents from any device, with the agent's response delivered via a phone call. It supports self-hosting with an MIT-licensed server and web client, allowing users to run the system independently using their own A
   * Tags: `AI agent orchestration`, `cross-device interaction`, `self-hosting`, `phone call delivery`, `multi-agent support`
 
-* **[wallter/trw-mcp](world/public/vault/daily-digests/2026-11-02/trw-mcp.md)** (`reference` | `reference` tier)
+* **[wallter/trw-mcp](world/public/vault/daily-digests/2026-11-03/trw-mcp.md)** (`reference` | `reference` tier)
   * Summary: trw-mcp is an MCP server designed to provide persistent engineering memory for AI coding agents, enabling cross-session recall, evidence-backed delivery, and spec-driven development. It integrates with the TRW Framework to accumulate and retrieve pro
   * Tags: `persistent memory`, `AI coding agents`, `spec-driven development`, `MCP server`, `knowledge compounding`
 
-* **[wentf9/xops-cli](world/public/vault/daily-digests/2026-11-02/xops-cli.md)** (`reference` | `reference` tier)
+* **[wentf9/xops-cli](world/public/vault/daily-digests/2026-11-03/xops-cli.md)** (`reference` | `reference` tier)
   * Summary: XOps CLI is a Go-based, cross-platform tool for secure remote host management, offering SSH, batch execution, playbook orchestration, and MCP integration to enable AI agents to safely operate servers within defined boundaries.
   * Tags: `remote management`, `AI agent integration`, `MCP server`, `SSH automation`, `playbook orchestration`
 
-* **[wesleysimplicio/simplicio-loop](world/public/vault/daily-digests/2026-11-02/simplicio-loop.md)** (`reference` | `reference` tier)
+* **[wesleysimplicio/simplicio-loop](world/public/vault/daily-digests/2026-11-03/simplicio-loop.md)** (`reference` | `reference` tier)
   * Summary: simplicio-loop is a universal AI orchestrator designed to automate and govern end-to-end agent workflows, transforming high-level intent into verified, dependency-aware task execution with built-in safety gates, evidence tracking, and rollback capabi
   * Tags: `AI agent orchestration`, `end-to-end automation`, `evidence-based execution`, `multi-agent coordination`, `token efficiency`
 
-* **[wesleysimplicio/simplicio-sprint](world/public/vault/daily-digests/2026-11-02/simplicio-sprint.md)** (`reference` | `reference` tier)
+* **[wesleysimplicio/simplicio-sprint](world/public/vault/daily-digests/2026-11-03/simplicio-sprint.md)** (`reference` | `reference` tier)
   * Summary: SendSprint automates the conversion of sprint tasks from Jira, Azure DevOps, or GitHub Issues into draft pull requests with embedded evidence. It acts as an autonomous agent that maps work, delegates code edits to simplicio-cli, collects validation a
   * Tags: `autonomous agents`, `sprint automation`, `pull request generation`, `evidence collection`, `multi-agent systems`
 
-* **[willow-memory/willow-mcp](world/public/vault/daily-digests/2026-11-02/willow-mcp.md)** (`reference` | `reference` tier)
+* **[willow-memory/willow-mcp](world/public/vault/daily-digests/2026-11-03/willow-mcp.md)** (`reference` | `reference` tier)
   * Summary: willow-mcp is an agent-neutral MCP server providing persistent memory, task execution, and multi-backend storage for AI agents. It integrates SQLite, Postgres, and a task queue (Kart) with manifest-based ACL authorization, enabling seamless collabora
   * Tags: `MCP server`, `persistent memory`, `task orchestration`, `multi-backend storage`, `agent framework`
 
-* **[WOOWTECH/woow_odoo_manage_mcp_server](world/public/vault/daily-digests/2026-11-02/woow_odoo_manage_mcp_server.md)** (`reference` | `reference` tier)
+* **[WOOWTECH/woow_odoo_manage_mcp_server](world/public/vault/daily-digests/2026-11-03/woow_odoo_manage_mcp_server.md)** (`reference` | `reference` tier)
   * Summary: A production-ready admin bundle for managing ivnvxd/mcp-server-odoo, providing a web GUI, built-in MCP reverse proxy, and process manager all in a single container. It simplifies MCP server administration with real-time monitoring, token management,
   * Tags: `MCP Server Management`, `Odoo Integration`, `Web GUI`, `Reverse Proxy`, `Process Manager`
 
-* **[wzslr321/torio](world/public/vault/daily-digests/2026-11-02/torio.md)** (`reference` | `reference` tier)
+* **[wzslr321/torio](world/public/vault/daily-digests/2026-11-03/torio.md)** (`reference` | `reference` tier)
   * Summary: Torio is a lightweight control plane for managing an AI second brain and repositories on a Linux VM controlled by the user. It orchestrates Lima VMs, runs backend services, and ensures secure, credential-free operations while maintaining user control
   * Tags: `VM orchestration`, `AI second brain`, `credential management`, `secure workflow`, `local AI deployment`
 
-* **[Xarksus/synapsen](world/public/vault/daily-digests/2026-11-02/synapsen.md)** (`reference` | `reference` tier)
+* **[Xarksus/synapsen](world/public/vault/daily-digests/2026-11-03/synapsen.md)** (`reference` | `reference` tier)
   * Summary: Synapsen is a homeostatic state engine for AI agents that models biological-like chemical regulation using messenger substances (Botenstoffe) instead of abstract mood strings. It simulates a closed-loop control system where events trigger chemical re
   * Tags: `homeostasis`, `state management`, `agent architecture`, `biological modeling`, `circadian rhythms`
 
-* **[xianshi3/smart-factory-mes-system](world/public/vault/daily-digests/2026-11-02/smart-factory-mes-system.md)** (`reference` | `reference` tier)
+* **[xianshi3/smart-factory-mes-system](world/public/vault/daily-digests/2026-11-03/smart-factory-mes-system.md)** (`reference` | `reference` tier)
   * Summary: A manufacturing execution system (MES) for discrete manufacturing industries, providing end-to-end production workflow management, real-time equipment monitoring, 3D digital twin visualization, and AI-driven quality prediction and assistant capabilit
   * Tags: `Manufacturing Execution System`, `Digital Twin`, `AI Agent`, `Real-time Monitoring`, `Industrial IoT`
 
-* **[xopcai/xopc](world/public/vault/daily-digests/2026-11-02/xopc.md)** (`reference` | `reference` tier)
+* **[xopcai/xopc](world/public/vault/daily-digests/2026-11-03/xopc.md)** (`reference` | `reference` tier)
   * Summary: xopc is a local-first AI assistant framework designed to turn goals into durable loops by maintaining long-running project context, automations, and multi-surface chat capabilities. It enables users to capture notes, track progress, and automate work
   * Tags: `AI agent framework`, `local-first`, `multi-surface chat`, `automation`, `project management`
 
-* **[yantrikos/yantrikdb-mcp](world/public/vault/daily-digests/2026-11-02/yantrikdb-mcp.md)** (`reference` | `reference` tier)
+* **[yantrikos/yantrikdb-mcp](world/public/vault/daily-digests/2026-11-03/yantrikdb-mcp.md)** (`reference` | `reference` tier)
   * Summary: YantrikDB MCP Server provides persistent, structured, and queryable memory for AI agents via an MCP-compatible interface. It enables semantic recall, knowledge graph operations, contradiction detection, and procedural learning, supporting both local
   * Tags: `persistent memory`, `MCP server`, `knowledge graph`, `contradiction detection`, `procedural learning`
 
-* **[Yash-srivastav16/Sprint-Pulse](world/public/vault/daily-digests/2026-11-02/sprint-pulse.md)** (`reference` | `reference` tier)
+* **[Yash-srivastav16/Sprint-Pulse](world/public/vault/daily-digests/2026-11-03/sprint-pulse.md)** (`reference` | `reference` tier)
   * Summary: SprintPulse AI is an AI-powered sprint risk intelligence platform that correlates standup updates, Jira ticket movements, and Git commit activity to detect delivery risks early. It provides role-aware decision briefs and exposes MCP tools for agent i
   * Tags: `sprint risk intelligence`, `standup analytics`, `Jira-Git correlation`, `MCP tools`, `AI-driven decision briefs`
 
-* **[yodablocks/signal-pipeline](world/public/vault/daily-digests/2026-11-02/signal-pipeline.md)** (`reference` | `reference` tier)
+* **[yodablocks/signal-pipeline](world/public/vault/daily-digests/2026-11-03/signal-pipeline.md)** (`reference` | `reference` tier)
   * Summary: A source-agnostic signal ingestion, ranking, and scoring pipeline for crypto AI agents that fetches, validates, and ranks market signals from multiple tiers (chain-native, indexed, social) before assembling a token-budgeted JSON payload for LLM consu
   * Tags: `crypto signals`, `AI agent pipeline`, `trust tier model`, `anomaly detection`, `directional scoring`
 
-* **[yusei531642/vibe-editor](world/public/vault/daily-digests/2026-11-02/vibe-editor.md)** (`reference` | `reference` tier)
+* **[yusei531642/vibe-editor](world/public/vault/daily-digests/2026-11-03/vibe-editor.md)** (`reference` | `reference` tier)
   * Summary: vibe-editor is a desktop application that acts as a multi-agent dispatcher for AI coding agents like Claude Code and Codex. It enables users to dynamically recruit teams of agents, manage their interactions in real-time, and visualize their work on a
   * Tags: `multi-agent orchestration`, `AI coding assistants`, `desktop UI`, `real-time collaboration`, `infinite canvas`
 
-* **[Zallu4435/talentpipe-ai-agent](world/public/vault/daily-digests/2026-11-02/talentpipe-ai-agent.md)** (`reference` | `reference` tier)
+* **[Zallu4435/talentpipe-ai-agent](world/public/vault/daily-digests/2026-11-03/talentpipe-ai-agent.md)** (`reference` | `reference` tier)
   * Summary: A production-grade n8n automation system that combines conversational AI, intelligent job scraping, and structured data extraction into a single Telegram interface. It leverages Google Gemini for AI responses, Redis for memory, and Jina AI for web sc
   * Tags: `n8n automation`, `job scraping`, `conversational AI`, `Telegram bot`, `structured data extraction`
 
-* **[ZaoLangAI/zaolang](world/public/vault/daily-digests/2026-11-02/zaolang.md)** (`reference` | `reference` tier)
+* **[ZaoLangAI/zaolang](world/public/vault/daily-digests/2026-11-03/zaolang.md)** (`reference` | `reference` tier)
   * Summary: 造浪 (ZaoLang) is a global AI-powered platform for remixing images and short videos, enabling users to create derivative works while preserving attribution and licensing through versioned lineage edges. It intelligently routes generation tasks via an e
   * Tags: `AI remixing`, `content lineage`, `generation orchestration`, `attribution tracking`, `multi-modal generation`
 
-* **[zb-ss/servonaut](world/public/vault/daily-digests/2026-11-02/servonaut.md)** (`reference` | `reference` tier)
+* **[zb-ss/servonaut](world/public/vault/daily-digests/2026-11-03/servonaut.md)** (`reference` | `reference` tier)
   * Summary: Servonaut is a terminal-based unified interface (TUI) for managing multiple cloud providers (AWS, Hetzner, OVH) and custom servers with built-in AI assistance, MCP server integration, and advanced monitoring capabilities.
   * Tags: `server management`, `multi-cloud`, `TUI`, `AI assistant`, `MCP server`
 
-* **[zhitongblog/unterm](world/public/vault/daily-digests/2026-11-02/unterm.md)** (`reference` | `reference` tier)
+* **[zhitongblog/unterm](world/public/vault/daily-digests/2026-11-03/unterm.md)** (`reference` | `reference` tier)
   * Summary: Unterm is a cross-platform terminal designed to be controllable by AI agents via MCP (Model Context Protocol) and JSON-RPC. It serves as an 'Agent Cockpit' for managing multiple AI agents, providing features like live agent state tracking, an Inbox f
   * Tags: `AI agent orchestration`, `terminal automation`, `MCP server`, `cross-platform`, `agent cockpit`
 
-* **[zhu1090093659/spec_driven_develop](world/public/vault/daily-digests/2026-11-02/spec_driven_develop.md)** (`reference` | `reference` tier)
+* **[zhu1090093659/spec_driven_develop](world/public/vault/daily-digests/2026-11-03/spec_driven_develop.md)** (`reference` | `reference` tier)
   * Summary: Spec-Driven Develop provides an architecture-first workflow plugin for AI coding agents, enabling spec-driven development through Markdown-based skills. It automates large-scale software changes with task decomposition, GitHub Issue/PR tracking, and
   * Tags: `spec-driven development`, `AI coding agents`, `task decomposition`, `GitHub automation`, `adaptive control`
 
-* **[zufall-upon/Sortie-dogs](world/public/vault/daily-digests/2026-11-02/sortie-dogs.md)** (`reference` | `reference` tier)
+* **[zufall-upon/Sortie-dogs](world/public/vault/daily-digests/2026-11-03/sortie-dogs.md)** (`reference` | `reference` tier)
   * Summary: Sortie-dogs is an OpenCode orchestration plugin that transforms open-ended tasks into bounded, validated implementation workflows. It enforces strict write gates, parallel investigation, dedicated implementation, and evidence-backed completion while
   * Tags: `OpenCode`, `agent-orchestration`, `write-gates`, `bounded-workflows`, `evidence-backed-completion`
 
-* **[Zyling-ai/ZyHive](world/public/vault/daily-digests/2026-11-02/zyhive.md)** (`reference` | `reference` tier)
+* **[Zyling-ai/ZyHive](world/public/vault/daily-digests/2026-11-03/zyhive.md)** (`reference` | `reference` tier)
   * Summary: ZyHive is an AI team operating system designed to manage multi-agent teams with role-based configurations, memory systems, and collaboration tools. It enables self-hosted deployment for individuals or small teams to orchestrate AI agents as team memb
   * Tags: `multi-agent orchestration`, `AI team management`, `self-hosted`, `agent collaboration`, `memory system`
 
 ## Saas Template
 
-* **[carlwelchdesign/supraconscious-avatar-ai](world/public/vault/daily-digests/2026-11-02/supraconscious-avatar-ai.md)** (`reference` | `reference` tier)
+* **[carlwelchdesign/supraconscious-avatar-ai](world/public/vault/daily-digests/2026-11-03/supraconscious-avatar-ai.md)** (`reference` | `reference` tier)
   * Summary: Supraconscious Avatar AI is a full-stack SaaS platform for guided self-inquiry and reflection, combining a Next.js web app, Flutter mobile client, Express-based MCP server, and PostgreSQL backend. It features policy-first RAG, admin-curated GraphRAG
   * Tags: `AI-driven journaling`, `RAG governance`, `self-inquiry platform`, `multi-app SaaS`, `prompt management`
 
-* **[jeevesh2515/voxflow-voice-agent](world/public/vault/daily-digests/2026-11-02/voxflow-voice-agent.md)** (`reference` | `reference` tier)
+* **[jeevesh2515/voxflow-voice-agent](world/public/vault/daily-digests/2026-11-03/voxflow-voice-agent.md)** (`reference` | `reference` tier)
   * Summary: VoxFlow is a multi-tenant, enterprise-grade voice AI SaaS platform designed to automate inbound phone calls for FMCG, supply chain, and logistics enterprises. It supports bilingual (Hindi/English) interactions, real-time inventory checks, autonomous
   * Tags: `voice AI`, `multi-tenant`, `enterprise SaaS`, `real-time operations`, `FMCG automation`
 
-* **[MasterBhuvnesh/skarm](world/public/vault/daily-digests/2026-11-02/skarm.md)** (`reference` | `reference` tier)
+* **[MasterBhuvnesh/skarm](world/public/vault/daily-digests/2026-11-03/skarm.md)** (`reference` | `reference` tier)
   * Summary: Skarm is a modern, multi-tenant issue tracker designed for teams to plan, track, and ship projects collaboratively. It combines real-time Kanban boards, AI-powered triage, B2B billing, and integrations with GitHub and Figma in a Next.js 16, Convex, a
   * Tags: `Issue Tracking`, `Multi-Tenant`, `AI Triage`, `Real-Time Collaboration`, `GitHub Integration`
 
-* **[Shajo777/SupaAI-Framework-Template](world/public/vault/daily-digests/2026-11-02/supaai-framework-template.md)** (`reference` | `reference` tier)
+* **[Shajo777/SupaAI-Framework-Template](world/public/vault/daily-digests/2026-11-03/supaai-framework-template.md)** (`reference` | `reference` tier)
   * Summary: A framework template for building enterprise-grade AI assistants with seamless Supabase integration, emphasizing scalability and type-safe architecture. Designed to accelerate AI application development with structured best practices.
   * Tags: `AI assistants`, `Supabase integration`, `enterprise-grade`, `type-safe`, `scalable`
 
 ## Tooling
 
-* **[0xMassi/webclaw](world/public/vault/daily-digests/2026-11-02/webclaw.md)** (`reference` | `reference` tier)
+* **[0xMassi/webclaw](world/public/vault/daily-digests/2026-11-03/webclaw.md)** (`reference` | `reference` tier)
   * Summary: webclaw is a fast, local-first toolkit for extracting clean, LLM-ready content from websites. It provides CLI, MCP server, REST API, and SDKs to convert URLs into structured markdown, JSON, or plain text, enabling seamless integration with RAG pipeli
   * Tags: `web scraping`, `LLM context extraction`, `RAG pipeline`, `MCP server`, `structured data extraction`
 
-* **[0xmortuex/Vex](world/public/vault/daily-digests/2026-11-02/vex.md)** (`reference` | `reference` tier)
+* **[0xmortuex/Vex](world/public/vault/daily-digests/2026-11-03/vex.md)** (`reference` | `reference` tier)
   * Summary: Vex is a highly customizable Chromium-based desktop browser built on Electron with an integrated AI agent, privacy tools, and advanced features like Widevine DRM streaming, Tor integration, and pixel-perfect UI rearrangement.
   * Tags: `browser`, `AI agent`, `privacy`, `DRM streaming`, `customizable UI`
 
-* **[0xSoftBoi/suwappu-langchain](world/public/vault/daily-digests/2026-11-02/suwappu-langchain.md)** (`reference` | `reference` tier)
+* **[0xSoftBoi/suwappu-langchain](world/public/vault/daily-digests/2026-11-03/suwappu-langchain.md)** (`reference` | `reference` tier)
   * Summary: A production-oriented LangChain 1.x adapter for building AI agents and paid workflows on Suwappu, a cross-chain DEX API. It provides structured tools for asset discovery, pricing, simulation, and transaction preparation with explicit authority separa
   * Tags: `LangChain adapter`, `cross-chain DEX`, `structured tools`, `agent framework`, `DeFi workflows`
 
-* **[1nuoiscute/Taishan-RK3566-Skill](world/public/vault/daily-digests/2026-11-02/taishan-rk3566-skill.md)** (`reference` | `reference` tier)
+* **[1nuoiscute/Taishan-RK3566-Skill](world/public/vault/daily-digests/2026-11-03/taishan-rk3566-skill.md)** (`reference` | `reference` tier)
   * Summary: A Linux engineering validation Skill for the RK3566-based Taishan派 board, designed to streamline AI vision development for electronic competition tasks. It provides a structured workflow for camera setup, vision task analysis, and deployment validati
   * Tags: `RK3566`, `electronic competition`, `vision validation`, `embedded AI`, `board deployment`
 
-* **[24kHandsome1201/tunara](world/public/vault/daily-digests/2026-11-02/tunara.md)** (`reference` | `reference` tier)
+* **[24kHandsome1201/tunara](world/public/vault/daily-digests/2026-11-03/tunara.md)** (`reference` | `reference` tier)
   * Summary: Tunara is a lightweight, AI-native terminal for macOS that combines a real PTY with a smart sidebar for session management, agent detection, and a read-only Git diff review rail. It prioritizes speed, simplicity, and local-first workflows without tel
   * Tags: `terminal`, `AI agent detection`, `Git diff review`, `Tauri app`, `local-first`
 
-* **[88plug/total-recall](world/public/vault/daily-digests/2026-11-02/total-recall.md)** (`reference` | `reference` tier)
+* **[88plug/total-recall](world/public/vault/daily-digests/2026-11-03/total-recall.md)** (`reference` | `reference` tier)
   * Summary: Total Recall is a cross-session memory plugin for AI coding assistants like Claude Code that mines session transcripts to provide contextual continuity across sessions and projects. It extracts high-signal decisions, corrections, and preferences from
   * Tags: `memory`, `contextual continuity`, `transcript mining`, `local AI`, `MCP plugin`
 
-* **[88plug/use-latest-version-mcp](world/public/vault/daily-digests/2026-11-02/use-latest-version-mcp.md)** (`reference` | `reference` tier)
+* **[88plug/use-latest-version-mcp](world/public/vault/daily-digests/2026-11-03/use-latest-version-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server providing real-time package version lookups and dependency management across 39 registries, enabling AI agents to query live registry data for accurate dependency truth and safe upgrade pipelines.
   * Tags: `MCP server`, `dependency management`, `version lookup`, `AI agent tools`, `package registries`
 
-* **[a4webdev/tiacommander-mcp](world/public/vault/daily-digests/2026-11-02/tiacommander-mcp.md)** (`reference` | `reference` tier)
+* **[a4webdev/tiacommander-mcp](world/public/vault/daily-digests/2026-11-03/tiacommander-mcp.md)** (`reference` | `reference` tier)
   * Summary: TiaCommander is an MCP server that bridges Siemens TIA Portal with AI assistants via the Openness API, enabling AI-assisted PLC programming, project management, and real-time PLC data access. It supports multi-Portal environments and provides 18 tool
   * Tags: `Siemens TIA Portal`, `PLC programming`, `MCP server`, `AI-assisted automation`, `Industrial IoT`
 
-* **[aaronjmars/web3-research-mcp](world/public/vault/daily-digests/2026-11-02/web3-research-mcp.md)** (`reference` | `reference` tier)
+* **[aaronjmars/web3-research-mcp](world/public/vault/daily-digests/2026-11-03/web3-research-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for deep cryptocurrency research, enabling local and free token analysis with multi-source data aggregation from CoinGecko, DeFiLlama, and web searches. It automates structured reporting, resource management, and
   * Tags: `cryptocurrency research`, `MCP server`, `token analysis`, `multi-source data`, `local AI`
 
-* **[aartiq/servicenow-mcp](world/public/vault/daily-digests/2026-11-02/servicenow-mcp.md)** (`reference` | `reference` tier)
+* **[aartiq/servicenow-mcp](world/public/vault/daily-digests/2026-11-03/servicenow-mcp.md)** (`reference` | `reference` tier)
   * Summary: The ServiceNow MCP Server (NowAIKit) enables AI assistants like Claude, ChatGPT, and Cursor to interact with ServiceNow instances via 450+ tools covering ITSM, ITOM, CMDB, HRSD, and scripting. It bridges AI workflows with ServiceNow automation, read/
   * Tags: `ServiceNow`, `MCP`, `AI Integration`, `ITSM Automation`, `CLI Tool`
 
-* **[abhi1693/wardn-hub](world/public/vault/daily-digests/2026-11-02/wardn-hub.md)** (`reference` | `reference` tier)
+* **[abhi1693/wardn-hub](world/public/vault/daily-digests/2026-11-03/wardn-hub.md)** (`reference` | `reference` tier)
   * Summary: Wardn Hub is a registry and submission platform for Model Context Protocol (MCP) server definitions, providing a browser-based interface for discovering, submitting, and managing MCP server metadata. It enables users to browse published servers, subm
   * Tags: `MCP registry`, `server metadata`, `submission workflow`, `AI tooling`, `developer platform`
 
-* **[Abhigyan-Shekhar/Waggle-mcp](world/public/vault/daily-digests/2026-11-02/waggle-mcp.md)** (`reference` | `reference` tier)
+* **[Abhigyan-Shekhar/Waggle-mcp](world/public/vault/daily-digests/2026-11-03/waggle-mcp.md)** (`reference` | `reference` tier)
   * Summary: Waggle-mcp is a local-first memory engine for AI agents that persists decisions, reasoning, and contradictions across sessions using a graph-backed storage system. It integrates with MCP-compatible clients to provide persistent, structured memory wit
   * Tags: `persistent memory`, `graph-based RAG`, `MCP server`, `local embeddings`, `AI agent tooling`
 
-* **[abryfs/willitsend](world/public/vault/daily-digests/2026-11-02/willitsend.md)** (`reference` | `reference` tier)
+* **[abryfs/willitsend](world/public/vault/daily-digests/2026-11-03/willitsend.md)** (`reference` | `reference` tier)
   * Summary: willitsend is a deterministic preflight tool that validates SMS/iMessage messages before sending, ensuring compliance with carrier rules and preventing silent filtering. It performs segment math, checks for opt-out instructions, brand identification,
   * Tags: `SMS compliance`, `preflight validation`, `segment math`, `carrier filtering`, `AI agent tooling`
 
-* **[adamholter/t3-code-ultralight-browser-fork](world/public/vault/daily-digests/2026-11-02/t3-code-ultralight-browser-fork.md)** (`reference` | `reference` tier)
+* **[adamholter/t3-code-ultralight-browser-fork](world/public/vault/daily-digests/2026-11-03/t3-code-ultralight-browser-fork.md)** (`reference` | `reference` tier)
   * Summary: A lightweight bridge enabling browser-based UIs to interact with a local Codex instance, offering an embedded chat UI, headless client, and Node.js bridge for seamless integration without exposing credentials to the browser.
   * Tags: `local AI integration`, `browser bridge`, `headless client`, `embedded chat`, `Codex compatibility`
 
-* **[addiplus/vercel-deployment-mcp](world/public/vault/daily-digests/2026-11-02/vercel-deployment-mcp.md)** (`reference` | `reference` tier)
+* **[addiplus/vercel-deployment-mcp](world/public/vault/daily-digests/2026-11-03/vercel-deployment-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for observing Vercel projects and deployments via stdio, designed as a stateless reference implementation to demonstrate clean configuration and credential handling for deployment workflows.
   * Tags: `MCP server`, `Vercel integration`, `deployment monitoring`, `stdio protocol`, `stateless design`
 
-* **[addsumtech/slides_maker](world/public/vault/daily-digests/2026-11-02/slides_maker.md)** (`reference` | `reference` tier)
+* **[addsumtech/slides_maker](world/public/vault/daily-digests/2026-11-03/slides_maker.md)** (`reference` | `reference` tier)
   * Summary: slide-maker converts research papers, code repositories, documents, or topics into fully editable native PowerPoint (PPTX) presentations with source-traced content, independent critic reviews, and multi-format layout support. It emphasizes accuracy,
   * Tags: `presentation generation`, `source-traced content`, `editable PPTX`, `AI-assisted design`, `multi-format layouts`
 
-* **[AdevAarons/specularis-mcp-audit](world/public/vault/daily-digests/2026-11-02/specularis-mcp-audit.md)** (`reference` | `reference` tier)
+* **[AdevAarons/specularis-mcp-audit](world/public/vault/daily-digests/2026-11-03/specularis-mcp-audit.md)** (`reference` | `reference` tier)
   * Summary: Specularis AI Visibility Audit is an MCP server that enables free AI visibility audits for websites, checking if major AI engines (ChatGPT, Claude, Perplexity) can discover and cite them. It provides instant snapshots or detailed PDF reports scoring
   * Tags: `AI visibility audit`, `MCP server`, `GEO/AEO`, `SEO for AI`, `content discoverability`
 
-* **[adolinjonathan-bot/zotero-toolkit](world/public/vault/daily-digests/2026-11-02/zotero-toolkit.md)** (`reference` | `reference` tier)
+* **[adolinjonathan-bot/zotero-toolkit](world/public/vault/daily-digests/2026-11-03/zotero-toolkit.md)** (`reference` | `reference` tier)
   * Summary: A toolkit providing MCP servers, Zotero plugins, and agent skills for reference management and systematic review workflows. It enables integration with Zotero via both web API and desktop app plugins for real-world research tasks.
   * Tags: `reference management`, `MCP server`, `Zotero plugin`, `systematic review`, `research workflow`
 
-* **[agenthill/vaultpilot-mcp](world/public/vault/daily-digests/2026-11-02/vaultpilot-mcp.md)** (`reference` | `reference` tier)
+* **[agenthill/vaultpilot-mcp](world/public/vault/daily-digests/2026-11-03/vaultpilot-mcp.md)** (`reference` | `reference` tier)
   * Summary: VaultPilot MCP is a self-custodial DeFi toolkit for AI agents that enables secure, hardware-verified transaction preparation and signing across multiple blockchains using Ledger devices. It ensures tamper-evident execution even if the agent, MCP serv
   * Tags: `DeFi`, `Hardware Security`, `Multi-Chain`, `AI Agents`, `Transaction Signing`
 
-* **[AgentSafe-AI/tooltrust-scanner](world/public/vault/daily-digests/2026-11-02/tooltrust-scanner.md)** (`reference` | `reference` tier)
+* **[AgentSafe-AI/tooltrust-scanner](world/public/vault/daily-digests/2026-11-03/tooltrust-scanner.md)** (`reference` | `reference` tier)
   * Summary: ToolTrust Scanner is a static security scanner for Model Context Protocol (MCP) tool definitions, assigning trust grades (A-F) to evaluate risks like prompt injection, privilege escalation, and supply-chain vulnerabilities before agents use tools.
   * Tags: `security scanning`, `MCP tools`, `supply chain security`, `agent tool validation`, `static analysis`
 
-* **[AInohogosya/VEXIS-CLI](world/public/vault/daily-digests/2026-11-02/vexis-cli.md)** (`reference` | `reference` tier)
+* **[AInohogosya/VEXIS-CLI](world/public/vault/daily-digests/2026-11-03/vexis-cli.md)** (`reference` | `reference` tier)
   * Summary: VEXIS-CLI-3 is an advanced terminal automation system that transforms natural language into precise terminal commands using an 8-phase AI-powered pipeline. It supports 17 AI providers, multi-iteration error recovery, and enterprise-grade safety featu
   * Tags: `terminal automation`, `AI-powered commands`, `multi-phase pipeline`, `LLM orchestration`, `error recovery`
 
-* **[aislon/uizze-mcp](world/public/vault/daily-digests/2026-11-02/uizze-mcp.md)** (`reference` | `reference` tier)
+* **[aislon/uizze-mcp](world/public/vault/daily-digests/2026-11-03/uizze-mcp.md)** (`reference` | `reference` tier)
   * Summary: UIZZE MCP provides an anti-slop UI context layer for coding agents, enabling them to inspect real UI references before implementation. It offers a hosted MCP workflow with design contracts, validation, audits, and critiques to improve UI development
   * Tags: `UI design`, `coding agents`, `MCP server`, `design validation`, `anti-slop`
 
-* **[ajtgjmdjp/tdnet-disclosure-mcp](world/public/vault/daily-digests/2026-11-02/tdnet-disclosure-mcp.md)** (`reference` | `reference` tier)
+* **[ajtgjmdjp/tdnet-disclosure-mcp](world/public/vault/daily-digests/2026-11-03/tdnet-disclosure-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server providing real-time access to Tokyo Stock Exchange (JPX/TSE) timely disclosures (適時開示) such as earnings reports, dividends, buybacks, and forecast revisions without requiring an API key.
   * Tags: `financial data`, `MCP server`, `Tokyo Stock Exchange`, `timely disclosures`, `stock market`
 
-* **[alarok/x-agent-sdk](world/public/vault/daily-digests/2026-11-02/x-agent-sdk.md)** (`reference` | `reference` tier)
+* **[alarok/x-agent-sdk](world/public/vault/daily-digests/2026-11-03/x-agent-sdk.md)** (`reference` | `reference` tier)
   * Summary: x-agent-sdk is an unofficial TypeScript client and MCP server for interacting with X (Twitter)'s private GraphQL API using session cookies. It enables programmatic access to posting, reading, and engaging with tweets without OAuth, while also providi
   * Tags: `X (Twitter) API`, `MCP server`, `cookie authentication`, `AI agent integration`, `unofficial API client`
 
-* **[ALE7506/text-metrics-analyzer](world/public/vault/daily-digests/2026-11-02/text-metrics-analyzer.md)** (`reference` | `reference` tier)
+* **[ALE7506/text-metrics-analyzer](world/public/vault/daily-digests/2026-11-03/text-metrics-analyzer.md)** (`reference` | `reference` tier)
   * Summary: TextForge AI is a pretext plugin and knowledge layer that enables large language models like Claude and GPT-4 to perform DOM-free text measurement, layout optimization, and spatial reasoning with pixel-perfect precision. It provides MCP tools for cal
   * Tags: `text measurement`, `layout optimization`, `DOM-free`, `MCP tools`, `typography`
 
-* **[aleksUIX/vastlint](world/public/vault/daily-digests/2026-11-02/vastlint.md)** (`reference` | `reference` tier)
+* **[aleksUIX/vastlint](world/public/vault/daily-digests/2026-11-03/vastlint.md)** (`reference` | `reference` tier)
   * Summary: VASTlint is a high-performance, pure-Rust VAST XML validator that checks ad tags against the IAB Tech Lab VAST specification across all published versions. It provides a web-based validator, MCP server, and native bindings for real-time ad pipelines
   * Tags: `VAST validation`, `ad tech`, `CTV compliance`, `XML validator`, `MCP server`
 
-* **[alexpilotto/splitlaunch-dev](world/public/vault/daily-digests/2026-11-02/splitlaunch-dev.md)** (`reference` | `reference` tier)
+* **[alexpilotto/splitlaunch-dev](world/public/vault/daily-digests/2026-11-03/splitlaunch-dev.md)** (`reference` | `reference` tier)
   * Summary: SplitLaunch provides package-first A/B testing for customer-owned websites and apps, enabling developers and AI agents to install a package, create URL-based experiments, track conversions, and retrieve performance metrics through an agent-friendly c
   * Tags: `A/B testing`, `experimentation`, `AI agent integration`, `conversion tracking`, `URL experiments`
 
-* **[AliceLJY/wechat-ai-bridge](world/public/vault/daily-digests/2026-11-02/wechat-ai-bridge.md)** (`reference` | `reference` tier)
+* **[AliceLJY/wechat-ai-bridge](world/public/vault/daily-digests/2026-11-03/wechat-ai-bridge.md)** (`reference` | `reference` tier)
   * Summary: A self-hosted bridge that enables running local AI coding agents (Claude Code, Codex) directly from WeChat private chats via WeChat's iLink bot endpoints. It supports session management, tool approval, bidirectional file relay, and multi-backend AI a
   * Tags: `WeChat integration`, `AI agent bridge`, `session management`, `file relay`, `multi-backend`
 
-* **[allie-offsite/wristwise-mcp](world/public/vault/daily-digests/2026-11-02/wristwise-mcp.md)** (`reference` | `reference` tier)
+* **[allie-offsite/wristwise-mcp](world/public/vault/daily-digests/2026-11-03/wristwise-mcp.md)** (`reference` | `reference` tier)
   * Summary: WristWise MCP is a remote Model Context Protocol (MCP) server that enables AI assistants to query health data from Android smartwatches via Health Connect. It provides read-only access to sleep, heart rate, and wellness metrics through a privacy-firs
   * Tags: `health data`, `smartwatch integration`, `privacy-focused`, `MCP server`, `AI assistant`
 
-* **[ammarbinfaisal/tabductor](world/public/vault/daily-digests/2026-11-02/tabductor.md)** (`reference` | `reference` tier)
+* **[ammarbinfaisal/tabductor](world/public/vault/daily-digests/2026-11-03/tabductor.md)** (`reference` | `reference` tier)
   * Summary: Tabductor enables AI agents to interact with a user's Chrome browser session via an MCP server, allowing local control of tabs, sessions, and browsing activities through standard input/output communication.
   * Tags: `browser automation`, `MCP server`, `Chrome integration`, `agent tools`, `stdio communication`
 
-* **[ampres-ai/talamus](world/public/vault/daily-digests/2026-11-02/talamus.md)** (`reference` | `reference` tier)
+* **[ampres-ai/talamus](world/public/vault/daily-digests/2026-11-03/talamus.md)** (`reference` | `reference` tier)
   * Summary: Talamus is a local-first knowledge compiler that transforms documents, notes, and agent sessions into searchable, citable Markdown concept notes for AI agents. It enables persistent, verifiable memory with bitemporal history and provenance tracking,
   * Tags: `local-first memory`, `agent persistence`, `bitemporal knowledge`, `citation-based RAG`, `provenance tracking`
 
-* **[amusleh-spotware-com/terse-sharp](world/public/vault/daily-digests/2026-11-02/terse-sharp.md)** (`reference` | `reference` tier)
+* **[amusleh-spotware-com/terse-sharp](world/public/vault/daily-digests/2026-11-03/terse-sharp.md)** (`reference` | `reference` tier)
   * Summary: TerseSharp is a Roslyn-powered MCP server that enables coding agents to semantically navigate, read, edit, and refactor .NET solutions with minimal token usage. It replaces textual tools like `Read` and `Grep` with precise, compile-aware operations f
   * Tags: `Roslyn`, `MCP server`, `semantic code analysis`, `token optimization`, `XAML bindings`
 
-* **[andyrids/venv-axi](world/public/vault/daily-digests/2026-11-02/venv-axi.md)** (`reference` | `reference` tier)
+* **[andyrids/venv-axi](world/public/vault/daily-digests/2026-11-03/venv-axi.md)** (`reference` | `reference` tier)
   * Summary: venv-axi provides an Agent eXperience Interface (AXI) for introspecting Python virtual environments, enabling agents to query exact signatures, dependencies, and module structures at pinned versions in a token-efficient TOON format. It bridges the ga
   * Tags: `venv introspection`, `symbol graph`, `agent tooling`, `TOON format`, `MCP server`
 
-* **[Anil-matcha/Wan-3.0-API](world/public/vault/daily-digests/2026-11-02/wan-3_0-api.md)** (`reference` | `reference` tier)
+* **[Anil-matcha/Wan-3.0-API](world/public/vault/daily-digests/2026-11-03/wan-3_0-api.md)** (`reference` | `reference` tier)
   * Summary: A Python SDK and MCP server for interacting with Wan 3.0-compatible AI video-generation APIs, enabling text-to-video, image-to-video, and multimodal reference-to-video workflows with asynchronous job polling and file uploads.
   * Tags: `video generation`, `AI SDK`, `MCP server`, `asynchronous workflows`, `multimodal`
 
-* **[anne-markis/software-factory-the-game](world/public/vault/daily-digests/2026-11-02/software-factory-the-game.md)** (`reference` | `reference` tier)
+* **[anne-markis/software-factory-the-game](world/public/vault/daily-digests/2026-11-03/software-factory-the-game.md)** (`reference` | `reference` tier)
   * Summary: A browser-based incremental game that simulates software delivery systems, focusing on systems thinking in backlog management, process optimization, and scaling challenges. Players alter delivery loops with people, agents, and processes while navigat
   * Tags: `simulation`, `software delivery`, `systems thinking`, `incremental game`, `content-authoring`
 
-* **[antonkarliner/truepane](world/public/vault/daily-digests/2026-11-02/truepane.md)** (`reference` | `reference` tier)
+* **[antonkarliner/truepane](world/public/vault/daily-digests/2026-11-03/truepane.md)** (`reference` | `reference` tier)
   * Summary: Truepane is a browser-based tool for generating App Store and Google Play screenshots with procedural device frames, parametric backgrounds, and optional AI-driven styling. It renders everything client-side using HTML5 Canvas, ensuring no external de
   * Tags: `screenshot generation`, `App Store optimization`, `procedural rendering`, `AI-assisted design`, `MCP integration`
 
-* **[api-evangelist/upstash](world/public/vault/daily-digests/2026-11-02/upstash.md)** (`reference` | `reference` tier)
+* **[api-evangelist/upstash](world/public/vault/daily-digests/2026-11-03/upstash.md)** (`reference` | `reference` tier)
   * Summary: This repository profiles Upstash's serverless data platforms, including managed Redis, Kafka, QStash messaging, and vector databases. It provides a third-party overview of Upstash's public APIs, documentation, and developer resources for serverless a
   * Tags: `Serverless`, `Data Platforms`, `API Management`, `Edge Computing`, `Database as a Service`
 
-* **[Arjun0606/smolanalytics](world/public/vault/daily-digests/2026-11-02/smolanalytics.md)** (`reference` | `reference` tier)
+* **[Arjun0606/smolanalytics](world/public/vault/daily-digests/2026-11-03/smolanalytics.md)** (`reference` | `reference` tier)
   * Summary: smolanalytics is a self-hosted, privacy-first analytics tool that provides AI-powered insights into product and web analytics data. It ensures AI responses match exact computed data through a CI-enforced agreement test, integrates with coding agents
   * Tags: `self-hosted analytics`, `AI-powered insights`, `privacy-first`, `MCP integration`, `deterministic reporting`
 
-* **[arpan10000/simple-rag-pipeline-demo](world/public/vault/daily-digests/2026-11-02/simple-rag-pipeline-demo.md)** (`reference` | `reference` tier)
+* **[arpan10000/simple-rag-pipeline-demo](world/public/vault/daily-digests/2026-11-03/simple-rag-pipeline-demo.md)** (`reference` | `reference` tier)
   * Summary: A user-friendly desktop application that simplifies building and deploying RAG pipelines using Chroma DB for vector storage and Grok LLM for context-aware answer generation. Designed for non-technical users to interact with AI-driven Q&A systems effo
   * Tags: `RAG`, `Vector Database`, `LLM Integration`, `Desktop App`, `Contextual Q&A`
 
-* **[arthiqlabs/vedaksha](world/public/vault/daily-digests/2026-11-02/vedaksha.md)** (`reference` | `reference` tier)
+* **[arthiqlabs/vedaksha](world/public/vault/daily-digests/2026-11-03/vedaksha.md)** (`reference` | `reference` tier)
   * Summary: Vedākṣha is a clean-room Rust ephemeris and Vedic astrology engine designed for agentic-AI applications, offering sub-arcsecond planetary precision with algorithms traced to primary sources. It provides a property-graph representation of astrological
   * Tags: `ephemeris`, `Vedic astrology`, `property graph`, `agentic AI`, `astronomical computation`
 
-* **[arya-prasanth/TravelMateAI](world/public/vault/daily-digests/2026-11-02/travelmateai.md)** (`reference` | `reference` tier)
+* **[arya-prasanth/TravelMateAI](world/public/vault/daily-digests/2026-11-03/travelmateai.md)** (`reference` | `reference` tier)
   * Summary: TravelMateAI is an AI-powered travel planning web application that generates personalized travel guides, local recommendations, and real-time weather updates using Flask and multiple APIs. It provides users with destination insights, image galleries,
   * Tags: `travel planning`, `AI recommendations`, `real-time weather`, `Flask application`, `API integration`
 
-* **[ashishbishnoi18/superx.free](world/public/vault/daily-digests/2026-11-02/superx_free.md)** (`reference` | `reference` tier)
+* **[ashishbishnoi18/superx.free](world/public/vault/daily-digests/2026-11-03/superx_free.md)** (`reference` | `reference` tier)
   * Summary: SuperX is an open-source, self-hosted growth workstation for X (Twitter) that learns user writing patterns, drafts posts in their voice, and schedules publishing. It serves as a free alternative to hosted tools like Hypefury or Typefully, running ent
   * Tags: `self-hosted`, `X (Twitter) automation`, `content scheduling`, `voice learning`, `open-source`
 
-* **[askac/standterm](world/public/vault/daily-digests/2026-11-02/standterm.md)** (`reference` | `reference` tier)
+* **[askac/standterm](world/public/vault/daily-digests/2026-11-03/standterm.md)** (`reference` | `reference` tier)
   * Summary: StandTerm is a local-first browser terminal enabling secure, persistent SSH, local shell, and UART sessions with agent-controlled access. It bridges human operators and AI agents through typed APIs, structured screen renders, and explicit authorizati
   * Tags: `terminal`, `SSH`, `agent automation`, `UART`, `browser-based`
 
-* **[asokore/statcite](world/public/vault/daily-digests/2026-11-02/statcite.md)** (`reference` | `reference` tier)
+* **[asokore/statcite](world/public/vault/daily-digests/2026-11-03/statcite.md)** (`reference` | `reference` tier)
   * Summary: StatCite provides a free remote MCP server and REST API that delivers official economic statistics with full citations, enabling AI agents to cite sources accurately. It includes a verification tool to validate claimed figures against official data w
   * Tags: `economic statistics`, `citation generation`, `data verification`, `MCP server`, `REST API`
 
-* **[assoujojo82-coder/synergieloc-mcp](world/public/vault/daily-digests/2026-11-02/synergieloc-mcp.md)** (`reference` | `reference` tier)
+* **[assoujojo82-coder/synergieloc-mcp](world/public/vault/daily-digests/2026-11-03/synergieloc-mcp.md)** (`reference` | `reference` tier)
   * Summary: A remote MCP server providing French real-estate legal calculations via Streamable HTTP, enabling AI agents to generate regulatory-grade answers for rent revisions, service charge reconciliations, and compliant rent receipts with full legal basis and
   * Tags: `French real estate`, `legal compliance`, `rent calculation`, `MCP server`, `regulatory data`
 
-* **[attacca-cc/zyris-code](world/public/vault/daily-digests/2026-11-02/zyris-code.md)** (`reference` | `reference` tier)
+* **[attacca-cc/zyris-code](world/public/vault/daily-digests/2026-11-03/zyris-code.md)** (`reference` | `reference` tier)
   * Summary: zyris-code is a terminal-based coding client for Attacca agents that provides a bilingual (Korean/English) TUI interface. It enables agents to interact with the local filesystem, execute shell commands, and utilize MCP servers while enforcing directo
   * Tags: `terminal interface`, `agent tooling`, `file editing`, `MCP integration`, `access control`
 
-* **[Automations-Project/VSCode-Perplexity-MCP](world/public/vault/daily-digests/2026-11-02/vscode-perplexity-mcp.md)** (`reference` | `reference` tier)
+* **[Automations-Project/VSCode-Perplexity-MCP](world/public/vault/daily-digests/2026-11-03/vscode-perplexity-mcp.md)** (`reference` | `reference` tier)
   * Summary: A monorepo providing a Perplexity MCP server and VS Code extension for integrating Perplexity AI's search, reasoning, and research capabilities directly into 15+ IDEs and MCP-capable clients via a long-lived browser session.
   * Tags: `Perplexity AI`, `MCP Server`, `IDE Integration`, `Browser Automation`, `VS Code Extension`
 
-* **[auxfirst/trustkit](world/public/vault/daily-digests/2026-11-02/trustkit.md)** (`reference` | `reference` tier)
+* **[auxfirst/trustkit](world/public/vault/daily-digests/2026-11-03/trustkit.md)** (`reference` | `reference` tier)
   * Summary: TrustKit provides a runnable standard for Agentic User Experience (AUX), including 10 heuristics, a 4-stage trust architecture, and a trust gap taxonomy. It offers executable tooling like `aux-audit` to evaluate AI products against these standards, e
   * Tags: `Agentic UX`, `Trust Systems`, `AI Product Design`, `Heuristics`, `Compliance Auditing`
 
-* **[awesomemotive/wpvibe-ai-mcp](world/public/vault/daily-digests/2026-11-02/wpvibe-ai-mcp.md)** (`reference` | `reference` tier)
+* **[awesomemotive/wpvibe-ai-mcp](world/public/vault/daily-digests/2026-11-03/wpvibe-ai-mcp.md)** (`reference` | `reference` tier)
   * Summary: WPVibe is an open-source WordPress plugin that integrates the Model Context Protocol (MCP) to make self-hosted WordPress sites accessible to AI assistants like Claude, ChatGPT, and Cursor. It exposes WordPress operations as MCP-callable REST endpoint
   * Tags: `WordPress`, `MCP`, `AI integration`, `content management`, `automation`
 
-* **[Ax-For/session-observer](world/public/vault/daily-digests/2026-11-02/session-observer.md)** (`reference` | `reference` tier)
+* **[Ax-For/session-observer](world/public/vault/daily-digests/2026-11-03/session-observer.md)** (`reference` | `reference` tier)
   * Summary: Session Observer is a local-first observability workbench for Codex and Claude Code sessions, transforming scattered JSONL transcripts into a semantic activity stream, searchable session library, token/cost ledger, and runtime health dashboard withou
   * Tags: `local-first`, `observability`, `session analysis`, `token accounting`, `agent monitoring`
 
-* **[Axiler-Lab/vaultmcp](world/public/vault/daily-digests/2026-11-02/vaultmcp.md)** (`reference` | `reference` tier)
+* **[Axiler-Lab/vaultmcp](world/public/vault/daily-digests/2026-11-03/vaultmcp.md)** (`reference` | `reference` tier)
   * Summary: VaultMCP is an encrypted secret vault and MCP gateway designed to centralize and secure API credentials for AI IDEs. It allows users to store provider credentials once and connect their IDEs to a single endpoint, ensuring secrets are decrypted only w
   * Tags: `secret management`, `MCP gateway`, `credential vault`, `AI IDE integration`, `encryption`
 
-* **[aziz5971/TalentLens](world/public/vault/daily-digests/2026-11-02/talentlens.md)** (`reference` | `reference` tier)
+* **[aziz5971/TalentLens](world/public/vault/daily-digests/2026-11-03/talentlens.md)** (`reference` | `reference` tier)
   * Summary: TalentLens is a Windows-based AI-powered resume screening tool that uses multi-agent pipelines to parse, score, and rank candidates based on role fit, skills, and experience. It automates manual resume review by generating interview notes, gap analys
   * Tags: `resume screening`, `multi-agent AI`, `NLP`, `candidate ranking`, `HR automation`
 
-* **[b2dmx/uc-remote-mcp](world/public/vault/daily-digests/2026-11-02/uc-remote-mcp.md)** (`reference` | `reference` tier)
+* **[b2dmx/uc-remote-mcp](world/public/vault/daily-digests/2026-11-03/uc-remote-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that exposes the Unfolded Circle Remote 3/Remote Two's configuration and capabilities as conversational tools for AI assistants like Claude. Enables natural language control, configuration, and backup of the remo
   * Tags: `MCP server`, `Unfolded Circle Remote`, `Claude integration`, `Home automation`, `Natural language control`
 
-* **[beautyfree/skiller](world/public/vault/daily-digests/2026-11-02/skiller.md)** (`reference` | `reference` tier)
+* **[beautyfree/skiller](world/public/vault/daily-digests/2026-11-03/skiller.md)** (`reference` | `reference` tier)
   * Summary: Skiller is a desktop application that centralizes the installation, management, and synchronization of AI agent skills across 44+ supported agents, including Claude Code, Cursor, and Codex. It provides a unified dashboard for tracking, editing, and p
   * Tags: `skill management`, `AI agent tools`, `skill synchronization`, `desktop application`, `multi-agent support`
 
-* **[bekirdag/tnl-intelligence](world/public/vault/daily-digests/2026-11-02/tnl-intelligence.md)** (`reference` | `reference` tier)
+* **[bekirdag/tnl-intelligence](world/public/vault/daily-digests/2026-11-03/tnl-intelligence.md)** (`reference` | `reference` tier)
   * Summary: TNL Intelligence provides open-source developer tools for The Neural Ledger's intelligence API, offering structured, source-linked global event intelligence for AI agents and quantitative research systems. It serves as an evidence and research layer,
   * Tags: `event intelligence`, `AI agents`, `quantitative research`, `MCP server`, `structured data`
 
-* **[bennettculinary759/wardrail](world/public/vault/daily-digests/2026-11-02/wardrail.md)** (`reference` | `reference` tier)
+* **[bennettculinary759/wardrail](world/public/vault/daily-digests/2026-11-03/wardrail.md)** (`reference` | `reference` tier)
   * Summary: Wardrail is a security-focused tool that monitors code projects for exposed API keys, sensitive data, and potential security risks before commits or saves. It operates locally to prevent accidental leaks in AI agent projects and automation tools.
   * Tags: `security`, `pre-commit`, `secret-scanner`, `AI agent protection`, `static analysis`
 
-* **[berntpopp/spliceailookup-link](world/public/vault/daily-digests/2026-11-02/spliceailookup-link.md)** (`reference` | `reference` tier)
+* **[berntpopp/spliceailookup-link](world/public/vault/daily-digests/2026-11-03/spliceailookup-link.md)** (`reference` | `reference` tier)
   * Summary: An MCP server (Streamable HTTP) that wraps the Broad Institute's SpliceAI Lookup backends to provide LLM-ergonomic tools for splice-impact prediction, including SpliceAI, Pangolin, and SpliceAI-10k models, along with an Ensembl-VEP-backed variant res
   * Tags: `splice-impact prediction`, `MCP server`, `variant resolution`, `SpliceAI`, `Pangolin`
 
-* **[berntpopp/uniprot-link](world/public/vault/daily-digests/2026-11-02/uniprot-link.md)** (`reference` | `reference` tier)
+* **[berntpopp/uniprot-link](world/public/vault/daily-digests/2026-11-03/uniprot-link.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that provides a safe, intent-named interface to the UniProt SPARQL endpoint, enabling AI agents to query protein data without exposing them to complex SPARQL syntax or timeout risks. It offers curated tools for p
   * Tags: `protein data`, `SPARQL`, `MCP server`, `UniProt`, `biomedical AI`
 
-* **[berntpopp/vep-link](world/public/vault/daily-digests/2026-11-02/vep-link.md)** (`reference` | `reference` tier)
+* **[berntpopp/vep-link](world/public/vault/daily-digests/2026-11-03/vep-link.md)** (`reference` | `reference` tier)
   * Summary: vep-link is an MCP (Model Context Protocol) server that provides a unified interface to the Ensembl REST API's Variant Effect Predictor (VEP) and Variant Recoder, enabling annotation and recoding of genetic variants across human reference assemblies
   * Tags: `variant annotation`, `Ensembl VEP`, `genomic coordinates`, `MCP server`, `biomedical AI`
 
-* **[bhakthan/tokn-dist](world/public/vault/daily-digests/2026-11-02/tokn-dist.md)** (`reference` | `reference` tier)
+* **[bhakthan/tokn-dist](world/public/vault/daily-digests/2026-11-03/tokn-dist.md)** (`reference` | `reference` tier)
   * Summary: TOKN is a trust-first agentic coding and reasoning harness distributed as a single static binary with offline licensing, in-place self-updates, and regulated-domain plugins. This repository provides pre-built binaries for easy trial and evaluation.
   * Tags: `agentic coding`, `offline licensing`, `self-updating binary`, `regulated domains`, `CLI tool`
 
-* **[Bielrezende/WMB-100K](world/public/vault/daily-digests/2026-11-02/wmb-100k.md)** (`reference` | `reference` tier)
+* **[Bielrezende/WMB-100K](world/public/vault/daily-digests/2026-11-03/wmb-100k.md)** (`reference` | `reference` tier)
   * Summary: WMB-100K is a benchmark dataset designed to evaluate AI memory systems for situational retrieval, featuring 4.3M tokens and 2,708 questions derived from real-world scenarios.
   * Tags: `benchmark`, `memory systems`, `situational retrieval`, `NLP`, `dataset`
 
-* **[Billionaire664/valta-audit-chain](world/public/vault/daily-digests/2026-11-02/valta-audit-chain.md)** (`reference` | `reference` tier)
+* **[Billionaire664/valta-audit-chain](world/public/vault/daily-digests/2026-11-03/valta-audit-chain.md)** (`reference` | `reference` tier)
   * Summary: A reference implementation demonstrating a pre-call spend gate for AI agents and a tamper-evident hash-chained audit log. The repository provides patterns for authorization checks before LLM/tool calls and cryptographically linked audit trails to ens
   * Tags: `pre-call authorization`, `tamper-evident logging`, `spend gate`, `audit chain`, `AI agent safety`
 
-* **[billybox1926-jpg/Terminai](world/public/vault/daily-digests/2026-11-02/terminai.md)** (`reference` | `reference` tier)
+* **[billybox1926-jpg/Terminai](world/public/vault/daily-digests/2026-11-03/terminai.md)** (`reference` | `reference` tier)
   * Summary: TerminAI is a unified terminal workspace that integrates a graphical shell, package manager, API bridge, file tools, telemetry, and AI command optimization into a single application. It aims to replace fragmented ecosystems like Termux by bundling al
   * Tags: `terminal`, `package manager`, `AI command optimizer`, `local-first`, `Android development`
 
-* **[bim-ba/ycli](world/public/vault/daily-digests/2026-11-02/ycli.md)** (`reference` | `reference` tier)
+* **[bim-ba/ycli](world/public/vault/daily-digests/2026-11-03/ycli.md)** (`reference` | `reference` tier)
   * Summary: ycli is a unified Yandex 360 toolkit that provides CLI, MCP server, Python SDK, and Claude Code plugin interfaces to interact with Yandex Tracker, Wiki, and Forms. It enables seamless integration for both human users and AI agents with minimal setup.
   * Tags: `Yandex 360`, `CLI toolkit`, `MCP server`, `Python SDK`, `AI agent integration`
 
-* **[bitranox/vnc-remote-control](world/public/vault/daily-digests/2026-11-02/vnc-remote-control.md)** (`reference` | `reference` tier)
+* **[bitranox/vnc-remote-control](world/public/vault/daily-digests/2026-11-03/vnc-remote-control.md)** (`reference` | `reference` tier)
   * Summary: A command-line tool for remote control of VNC/RFB servers, enabling text input, key presses, clicks, screenshots, and OCR-based interactions. It operates as a pure client with no footprint on the target machine, making it ideal for automating legacy
   * Tags: `VNC automation`, `OCR-based interaction`, `headless GUI control`, `legacy system automation`, `remote administration`
 
-* **[bizmaniz/suitor](world/public/vault/daily-digests/2026-11-02/suitor.md)** (`reference` | `reference` tier)
+* **[bizmaniz/suitor](world/public/vault/daily-digests/2026-11-03/suitor.md)** (`reference` | `reference` tier)
   * Summary: Suitor is a local-first job-search assistant that helps users build candidate profiles, scan job sources, draft tailored application materials, and track applications using a local SQLite database. It operates entirely on the user's machine with no t
   * Tags: `job search`, `local-first`, `AI assistant`, `profile tracking`, `resume generation`
 
-* **[BluesPrince/thiri-mcp](world/public/vault/daily-digests/2026-11-02/thiri-mcp.md)** (`reference` | `reference` tier)
+* **[BluesPrince/thiri-mcp](world/public/vault/daily-digests/2026-11-03/thiri-mcp.md)** (`reference` | `reference` tier)
   * Summary: THIRI is a deterministic music theory MCP server and API that enables AI agents to analyze chords, perform Roman-numeral analysis, generate voicings, and reharmonize progressions with computational accuracy. It addresses hallucinations in music theor
   * Tags: `music theory`, `MCP server`, `chord analysis`, `AI agent tools`, `deterministic computation`
 
-* **[bootnihil/web-qa-agent](world/public/vault/daily-digests/2026-11-02/web-qa-agent.md)** (`reference` | `reference` tier)
+* **[bootnihil/web-qa-agent](world/public/vault/daily-digests/2026-11-03/web-qa-agent.md)** (`reference` | `reference` tier)
   * Summary: An experimental AI-powered exploratory web testing agent that combines deterministic automation with AI reasoning to safely inspect websites, form hypotheses, and perform controlled browser interactions for QA purposes.
   * Tags: `AI-driven testing`, `exploratory QA`, `autonomous agents`, `web automation`, `safety-first`
 
-* **[bosens-China/tc39-atlas](world/public/vault/daily-digests/2026-11-02/tc39-atlas.md)** (`reference` | `reference` tier)
+* **[bosens-China/tc39-atlas](world/public/vault/daily-digests/2026-11-03/tc39-atlas.md)** (`reference` | `reference` tier)
   * Summary: TC39 Atlas is a specialized index service for TC39 proposals tailored for Chinese users and AI agents, offering daily synchronization, REST API, and MCP query capabilities for TC39 proposal data.
   * Tags: `TC39`, `proposals`, `REST API`, `MCP`, `data synchronization`
 
-* **[brandikun/steam-storefront-mcp](world/public/vault/daily-digests/2026-11-02/steam-storefront-mcp.md)** (`reference` | `reference` tier)
+* **[brandikun/steam-storefront-mcp](world/public/vault/daily-digests/2026-11-03/steam-storefront-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP (Model Context Protocol) server that provides AI assistants with access to Steam Storefront metadata, user tags, genres, categories, and review sentiment without requiring a Steam API key. Enables searching games, retrieving store details, and
   * Tags: `Steam API`, `MCP Server`, `Game Metadata`, `Review Analysis`, `AI Tooling`
 
-* **[brunoalfabl07-dot/skill-publisher-metaforge](world/public/vault/daily-digests/2026-11-02/skill-publisher-metaforge.md)** (`reference` | `reference` tier)
+* **[brunoalfabl07-dot/skill-publisher-metaforge](world/public/vault/daily-digests/2026-11-03/skill-publisher-metaforge.md)** (`reference` | `reference` tier)
   * Summary: Skill Forge CLI is a command-line tool that standardizes, validates, and publishes AI agent skills across multiple frameworks (Claude, OpenAI, LangChain) with automated secret scrubbing, multi-format export, and versioned releases.
   * Tags: `AI skill management`, `multi-framework publishing`, `secret scrubbing`, `versioned releases`, `cross-platform deployment`
 
-* **[brycewang-stanford/stata-code](world/public/vault/daily-digests/2026-11-02/stata-code.md)** (`reference` | `reference` tier)
+* **[brycewang-stanford/stata-code](world/public/vault/daily-digests/2026-11-03/stata-code.md)** (`reference` | `reference` tier)
   * Summary: stata-code is an MIT-licensed agent-native bridge that enables LLM agents, Jupyter notebooks, and VS Code to drive Stata programmatically. It provides a unified Python core with structured result schemas, cross-stack validation, and agent-friendly er
   * Tags: `Stata integration`, `LLM agent bridge`, `empirical research`, `structured results`, `cross-validation`
 
-* **[BurakErdemci/Unity-Architect-AI](world/public/vault/daily-digests/2026-11-02/unity-architect-ai.md)** (`reference` | `reference` tier)
+* **[BurakErdemci/Unity-Architect-AI](world/public/vault/daily-digests/2026-11-03/unity-architect-ai.md)** (`reference` | `reference` tier)
   * Summary: A desktop AI studio that unifies multiple coding agents (Claude Code, Codex, Antigravity, GitHub Copilot CLI) and live Unity Editor control into a single application. It provides a unified interface for AI-driven Unity development with embedded MCP i
   * Tags: `Unity development`, `AI agents`, `MCP integration`, `desktop IDE`, `multi-agent orchestration`
 
-* **[cagataycali/strands-mcp-server](world/public/vault/daily-digests/2026-11-02/strands-mcp-server.md)** (`reference` | `reference` tier)
+* **[cagataycali/strands-mcp-server](world/public/vault/daily-digests/2026-11-03/strands-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A bidirectional Model Context Protocol (MCP) integration server for Strands Agents, enabling agents to act as both MCP servers and clients. It facilitates communication between Strands agents and external tools, clients, or other agents via HTTP, std
   * Tags: `MCP`, `Strands Agents`, `Agent Integration`, `Bidirectional Communication`, `Tooling`
 
-* **[canderson-maker/teardown-kit](world/public/vault/daily-digests/2026-11-02/teardown-kit.md)** (`reference` | `reference` tier)
+* **[canderson-maker/teardown-kit](world/public/vault/daily-digests/2026-11-03/teardown-kit.md)** (`reference` | `reference` tier)
   * Summary: A lightweight harness for autonomous AI agents that provides operational safety, monitoring, and recovery mechanisms to ensure unattended AI workflows remain stable and accountable. It includes components like watchdogs, reapers, ledgers, and logging
   * Tags: `autonomous agents`, `operational safety`, `watchdog`, `process management`, `cost control`
 
-* **[cannoneer85-svg/stratanote](world/public/vault/daily-digests/2026-11-02/stratanote.md)** (`reference` | `reference` tier)
+* **[cannoneer85-svg/stratanote](world/public/vault/daily-digests/2026-11-03/stratanote.md)** (`reference` | `reference` tier)
   * Summary: StrataNote is a modern collaborative Markdown knowledge base and note-taking web application that combines Obsidian-like features (bidirectional wiki-links, graph view, folders) with real-time multi-user editing, version control, and administration t
   * Tags: `collaborative editing`, `Markdown`, `knowledge base`, `version control`, `real-time sync`
 
-* **[Carstin520/token-remain](world/public/vault/daily-digests/2026-11-02/token-remain.md)** (`reference` | `reference` tier)
+* **[Carstin520/token-remain](world/public/vault/daily-digests/2026-11-03/token-remain.md)** (`reference` | `reference` tier)
   * Summary: TokenRemain is a privacy-first macOS menu bar application that tracks AI coding tool quotas, reset timers, token usage, and costs across 19+ providers like Claude Code, Codex, Cursor, and Grok. It operates entirely locally, never refreshing credentia
   * Tags: `AI usage tracking`, `macOS menu bar`, `token quota monitoring`, `privacy-first`, `local data processing`
 
-* **[CasterlyGit/trident](world/public/vault/daily-digests/2026-11-02/trident.md)** (`reference` | `reference` tier)
+* **[CasterlyGit/trident](world/public/vault/daily-digests/2026-11-03/trident.md)** (`reference` | `reference` tier)
   * Summary: A self-tuning token-burn governor for AI coding agents that dynamically prices, shapes, and settles AI requests to prevent budget overruns while maintaining correctness. It routes every request through three core segments: MINT (pricing), SHAPER (spa
   * Tags: `token governance`, `AI agent budgeting`, `cost optimization`, `self-tuning`, `real-time routing`
 
-* **[cedricziel/truenas-mcp](world/public/vault/daily-digests/2026-11-02/truenas-mcp.md)** (`reference` | `reference` tier)
+* **[cedricziel/truenas-mcp](world/public/vault/daily-digests/2026-11-03/truenas-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server for TrueNAS SCALE that enables secure, per-session API key authentication and read/write operations via a standardized interface. It bridges TrueNAS functionality with AI agents while prioritizing security and granular access control.
   * Tags: `TrueNAS`, `MCP server`, `storage management`, `AI integration`, `per-session auth`
 
-* **[cemsari/the-expert](world/public/vault/daily-digests/2026-11-02/the-expert.md)** (`reference` | `reference` tier)
+* **[cemsari/the-expert](world/public/vault/daily-digests/2026-11-03/the-expert.md)** (`reference` | `reference` tier)
   * Summary: The Expert is a model and effort router for Claude that optimizes API costs by dynamically selecting the right-sized model and effort level for each query. It learns from user ratings to improve routing decisions and provides transparency into saving
   * Tags: `model routing`, `cost optimization`, `Claude API`, `token efficiency`, `AI spend management`
 
-* **[cgallic/wpguard-mcp](world/public/vault/daily-digests/2026-11-02/wpguard-mcp.md)** (`reference` | `reference` tier)
+* **[cgallic/wpguard-mcp](world/public/vault/daily-digests/2026-11-03/wpguard-mcp.md)** (`reference` | `reference` tier)
   * Summary: wpguard-mcp is a guarded WordPress MCP server that enables AI clients to interact with WordPress sites through named, typed verbs instead of raw PHP execution. It enforces a closed-by-default architecture with dry-run previews, pre-write backups, and
   * Tags: `WordPress automation`, `MCP server`, `guarded execution`, `AI safety`, `dry-run previews`
 
-* **[chandantochandan/vidurai](world/public/vault/daily-digests/2026-11-02/vidurai.md)** (`reference` | `reference` tier)
+* **[chandantochandan/vidurai](world/public/vault/daily-digests/2026-11-03/vidurai.md)** (`reference` | `reference` tier)
   * Summary: Vidurai is a local-first AI memory layer that indexes development context for AI tools like Claude, Cursor, and VS Code without uploading source code to third-party vector clouds. It runs as a background service, stores data locally, and serves conte
   * Tags: `local-first`, `AI memory`, `development context`, `MCP`, `strategic forgetting`
 
-* **[Chengyuann/zeroclaw-solana-pay-cashier](world/public/vault/daily-digests/2026-11-02/zeroclaw-solana-pay-cashier.md)** (`reference` | `reference` tier)
+* **[Chengyuann/zeroclaw-solana-pay-cashier](world/public/vault/daily-digests/2026-11-03/zeroclaw-solana-pay-cashier.md)** (`reference` | `reference` tier)
   * Summary: A non-custodial, proof-carrying cashier workflow for Solana Pay that enables merchants to accept payments without holding private keys or running custody services. It uses immutable offers, dual-RPC witness validation, and tamper-evident receipts for
   * Tags: `non-custodial payments`, `proof-carrying`, `Solana Pay`, `cashier workflow`, `tamper-evident receipts`
 
-* **[chengzuopeng/stock-sdk](world/public/vault/daily-digests/2026-11-02/stock-sdk.md)** (`reference` | `reference` tier)
+* **[chengzuopeng/stock-sdk](world/public/vault/daily-digests/2026-11-03/stock-sdk.md)** (`reference` | `reference` tier)
   * Summary: A zero-dependency JavaScript/TypeScript SDK designed for frontend and Node.js developers to fetch real-time and historical stock market data (A-shares, H-shares, US stocks, and mutual funds) without requiring Python or backend services. It includes C
   * Tags: `stock market data`, `real-time quotes`, `technical indicators`, `MCP server`, `AI integration`
 
-* **[Choihello/startup-law-mcp](world/public/vault/daily-digests/2026-11-02/startup-law-mcp.md)** (`reference` | `reference` tier)
+* **[Choihello/startup-law-mcp](world/public/vault/daily-digests/2026-11-03/startup-law-mcp.md)** (`reference` | `reference` tier)
   * Summary: This repository provides an MCP (Model Context Protocol) server that enables LLMs to accurately retrieve and cite Korean startup-related laws and regulations, including 50 legal documents with 8,191 articles, as well as K-Startup support programs. It
   * Tags: `Korean startup law`, `legal citation verification`, `MCP server`, `RAG hallucination prevention`, `K-Startup support programs`
 
-* **[ChrisPulman/UIInspect.MCP](world/public/vault/daily-digests/2026-11-02/uiinspect_mcp.md)** (`reference` | `reference` tier)
+* **[ChrisPulman/UIInspect.MCP](world/public/vault/daily-digests/2026-11-03/uiinspect_mcp.md)** (`reference` | `reference` tier)
   * Summary: UIInspect.MCP is a consent-gated NuGet MCP server that provides AI agents with semantic access to Windows desktop applications via UI Automation 3 (UIA3). It enables structured UI inspection and deterministic actions without relying on screenshots or
   * Tags: `Windows UI Automation`, `MCP Server`, `AI Agent Tools`, `Desktop Application Inspection`, `Structured UI Access`
 
-* **[clidey/whodb](world/public/vault/daily-digests/2026-11-02/whodb.md)** (`reference` | `reference` tier)
+* **[clidey/whodb](world/public/vault/daily-digests/2026-11-03/whodb.md)** (`reference` | `reference` tier)
   * Summary: WhoDB is a lightweight, self-hosted workspace for exploring, editing, and managing databases through a browser-based UI or desktop/CLI applications. It supports a wide range of databases and offers optional AI integration for natural language queries
   * Tags: `database management`, `self-hosted`, `data exploration`, `AI integration`, `multi-database support`
 
-* **[clouatre-labs/setup-goose-action](world/public/vault/daily-digests/2026-11-02/setup-goose-action.md)** (`reference` | `reference` tier)
+* **[clouatre-labs/setup-goose-action](world/public/vault/daily-digests/2026-11-03/setup-goose-action.md)** (`reference` | `reference` tier)
   * Summary: A GitHub Action that automates the installation, caching, and setup of the Goose AI agent for CI/CD workflows, enabling secure AI-augmented code analysis and automation in GitHub Actions.
   * Tags: `GitHub Action`, `CI/CD`, `AI Agent`, `Goose CLI`, `Security`
 
-* **[Cnashn/your-daily-sports-agent](world/public/vault/daily-digests/2026-11-02/your-daily-sports-agent.md)** (`reference` | `reference` tier)
+* **[Cnashn/your-daily-sports-agent](world/public/vault/daily-digests/2026-11-03/your-daily-sports-agent.md)** (`reference` | `reference` tier)
   * Summary: An autonomous AI sports journalist that generates daily sports articles based on its preferences, running via GitHub Actions and posting results as threads on Bluesky. The system autonomously curates and publishes content without manual intervention.
   * Tags: `autonomous content generation`, `sports journalism`, `social media automation`, `GitHub Actions`, `AI publishing`
 
-* **[Cocabadger/tick-mcp](world/public/vault/daily-digests/2026-11-02/tick-mcp.md)** (`reference` | `reference` tier)
+* **[Cocabadger/tick-mcp](world/public/vault/daily-digests/2026-11-03/tick-mcp.md)** (`reference` | `reference` tier)
   * Summary: tick is an MCP time server designed to provide accurate, real-time clock functionality for AI assistants, addressing issues like stale timestamps and hallucinated time references in long-running sessions. It offers local, remote, and hook-based imple
   * Tags: `time synchronization`, `MCP server`, `AI assistant accuracy`, `timestamp enforcement`, `Claude integration`
 
-* **[cociugv/ySEO-PRO-AI](world/public/vault/daily-digests/2026-11-02/yseo-pro-ai.md)** (`reference` | `reference` tier)
+* **[cociugv/ySEO-PRO-AI](world/public/vault/daily-digests/2026-11-03/yseo-pro-ai.md)** (`reference` | `reference` tier)
   * Summary: ySEO-PRO-AI is an open-source MCP-compatible SEO automation platform that goes beyond auditing by automatically fixing identified issues. It integrates with AI clients like Claude and Cursor to provide 40+ tools for technical SEO, multilingual optimi
   * Tags: `SEO automation`, `MCP server`, `AI-ready optimization`, `multilingual SEO`, `auto-fix engine`
 
-* **[Codeturion/unreal-api-mcp](world/public/vault/daily-digests/2026-11-02/unreal-api-mcp.md)** (`reference` | `reference` tier)
+* **[Codeturion/unreal-api-mcp](world/public/vault/daily-digests/2026-11-03/unreal-api-mcp.md)** (`reference` | `reference` tier)
   * Summary: MCP server providing accurate Unreal Engine C++ API documentation for AI agents, eliminating hallucinations in signatures, includes, and deprecations. Eliminates the need for manual source file reads or unreliable model memory.
   * Tags: `Unreal Engine`, `API Documentation`, `MCP Server`, `C++ Development`, `Agent Tooling`
 
-* **[CommanderTvis/weight-mcp](world/public/vault/daily-digests/2026-11-02/weight-mcp.md)** (`reference` | `reference` tier)
+* **[CommanderTvis/weight-mcp](world/public/vault/daily-digests/2026-11-03/weight-mcp.md)** (`reference` | `reference` tier)
   * Summary: weight-mcp is a self-hosted Model Context Protocol (MCP) server that functions as a personal calorie and protein counter, integrating with claude.ai to log meals, track weight, and render interactive dashboards. It supports multi-user management, nut
   * Tags: `calorie tracking`, `nutrition logging`, `MCP server`, `self-hosted`, `claude.ai integration`
 
-* **[Coolkidlab-Yin/windows-desktop-pet-builder](world/public/vault/daily-digests/2026-11-02/windows-desktop-pet-builder.md)** (`reference` | `reference` tier)
+* **[Coolkidlab-Yin/windows-desktop-pet-builder](world/public/vault/daily-digests/2026-11-03/windows-desktop-pet-builder.md)** (`reference` | `reference` tier)
   * Summary: A toolkit that enables users to create interactive, AI-generated Windows desktop pets from their pet photos. It provides step-by-step guidance, AI prompts, and scripts to generate draggable, mouse-responsive, and animated pets with physics-based beha
   * Tags: `Windows desktop pet`, `AI-generated pet`, `WPF animation`, `AI agent integration`, `interactive desktop companion`
 
-* **[craftsmaneuropeansanicle437/vox-director](world/public/vault/daily-digests/2026-11-02/vox-director.md)** (`reference` | `reference` tier)
+* **[craftsmaneuropeansanicle437/vox-director](world/public/vault/daily-digests/2026-11-03/vox-director.md)** (`reference` | `reference` tier)
   * Summary: vox-director automates the creation of professional paper-collage style explainer videos from a user-provided topic. It handles scriptwriting, visual sourcing, voiceover generation, and video editing without requiring programming knowledge.
   * Tags: `video-generation`, `AI-automation`, `explainer-video`, `paper-collage`, `text-to-video`
 
-* **[CSOAI-ORG/soc2-compliance-ai-mcp](world/public/vault/daily-digests/2026-11-02/soc2-compliance-ai-mcp.md)** (`reference` | `reference` tier)
+* **[CSOAI-ORG/soc2-compliance-ai-mcp](world/public/vault/daily-digests/2026-11-03/soc2-compliance-ai-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server that automates SOC 2 Type II compliance assessments, generating control matrices, identifying gaps, and producing audit-ready documentation against all five Trust Service Criteria (Security, Availability, Processing Integrity, Confident
   * Tags: `SOC 2 compliance`, `audit automation`, `governance`, `risk management`, `MCP server`
 
-* **[ctala/skool-api-docs](world/public/vault/daily-digests/2026-11-02/skool-api-docs.md)** (`reference` | `reference` tier)
+* **[ctala/skool-api-docs](world/public/vault/daily-digests/2026-11-03/skool-api-docs.md)** (`reference` | `reference` tier)
   * Summary: Provides comprehensive documentation, recipes, and integration guides for the Skool All-in-One API, enabling read and write operations on Skool communities. Designed for AI agents, no-code tools (n8n, Make.com), and custom code workflows.
   * Tags: `Skool API`, `Community Automation`, `No-Code Integration`, `AI Agent Tools`, `Reverse-Engineering`
 
-* **[cyanheads/socrata-mcp-server](world/public/vault/daily-digests/2026-11-02/socrata-mcp-server.md)** (`reference` | `reference` tier)
+* **[cyanheads/socrata-mcp-server](world/public/vault/daily-digests/2026-11-03/socrata-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables agents to search, query, and analyze government open-data portals (Socrata SODA API) via tools, resources, and prompts. Supports STDIO and Streamable HTTP transports with optional DuckDB-powered anal
   * Tags: `open data`, `Socrata`, `MCP server`, `SoQL`, `DuckDB`
 
-* **[cyanheads/wsdot-mcp-server](world/public/vault/daily-digests/2026-11-02/wsdot-mcp-server.md)** (`reference` | `reference` tier)
+* **[cyanheads/wsdot-mcp-server](world/public/vault/daily-digests/2026-11-03/wsdot-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server providing real-time access to Washington State Department of Transportation (WSDOT) data, including highway conditions, ferry schedules, vessel locations, toll rates, border wait times, and alerts via STDIO or St
   * Tags: `MCP Server`, `WSDOT API`, `Real-time Data`, `Transportation`, `Agent Integration`
 
-* **[CyberBrain1721/wenjing](world/public/vault/daily-digests/2026-11-02/wenjing.md)** (`reference` | `reference` tier)
+* **[CyberBrain1721/wenjing](world/public/vault/daily-digests/2026-11-03/wenjing.md)** (`reference` | `reference` tier)
   * Summary: 文境 Wenjing is a protocol-driven local Obsidian co-creation system designed for collaborative writing and knowledge management. It operates as a local-first Vault where AI agents act as temporary collaborators, adhering to predefined protocols to assi
   * Tags: `Obsidian`, `local-first`, `co-creation`, `AI collaboration`, `knowledge management`
 
-* **[CyranoB/web-forager](world/public/vault/daily-digests/2026-11-02/web-forager.md)** (`reference` | `reference` tier)
+* **[CyranoB/web-forager](world/public/vault/daily-digests/2026-11-03/web-forager.md)** (`reference` | `reference` tier)
   * Summary: Web Forager is a search-and-fetch toolkit designed to enable AI agents with practical web research workflows as Agent Skills. It provides tools for web search, news monitoring, page fetching, and synthesis of cited answers for LLM consumption.
   * Tags: `web search`, `AI agents`, `information retrieval`, `LLM tooling`, `research automation`
 
-* **[DaizeDong/shopping-aggregator](world/public/vault/daily-digests/2026-11-02/shopping-aggregator.md)** (`reference` | `reference` tier)
+* **[DaizeDong/shopping-aggregator](world/public/vault/daily-digests/2026-11-03/shopping-aggregator.md)** (`reference` | `reference` tier)
   * Summary: A thin orchestration skill for consumer shopping price comparison that triages buy intent across 13 shopping domains, ranks by landed cost (including tax, shipping, and coupons), and delegates live-price data collection to existing research tools. It
   * Tags: `price comparison`, `shopping automation`, `Claude Code skill`, `landed cost ranking`, `coupon verification`
 
-* **[DaizeDong/small-cap-deepdive](world/public/vault/daily-digests/2026-11-02/small-cap-deepdive.md)** (`reference` | `reference` tier)
+* **[DaizeDong/small-cap-deepdive](world/public/vault/daily-digests/2026-11-03/small-cap-deepdive.md)** (`reference` | `reference` tier)
   * Summary: A Claude Code skill that mechanically de-risk the SEC small-cap universe for a given investment theme or ticker by eliminating landmines (e.g., going-concern candidates, death-spiral diluters) and performing disciplined due diligence with forced disc
   * Tags: `SEC filings analysis`, `small-cap investing`, `mechanical due diligence`, `landmine elimination`, `forced disconfirmation`
 
-* **[daniel3303/stock-market-mcp-server](world/public/vault/daily-digests/2026-11-02/stock-market-mcp-server.md)** (`reference` | `reference` tier)
+* **[daniel3303/stock-market-mcp-server](world/public/vault/daily-digests/2026-11-03/stock-market-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: Equibles provides a free hosted MCP server and open-source self-host option exposing 90+ financial data tools for AI agents, including SEC filings, fundamentals, 13F holdings, insider trades, congressional trading, earnings call transcripts, and macr
   * Tags: `financial data`, `MCP server`, `SEC filings`, `AI agents`, `stock market`
 
-* **[danieljustus/symaira-relate](world/public/vault/daily-digests/2026-11-02/symaira-relate.md)** (`reference` | `reference` tier)
+* **[danieljustus/symaira-relate](world/public/vault/daily-digests/2026-11-03/symaira-relate.md)** (`reference` | `reference` tier)
   * Summary: Symaira Relate is a local-first contact and relationship manager that stores people, organizations, relationships, and interaction history in a SQLite database. It operates entirely offline with no cloud dependency, offering CLI, web console, and MCP
   * Tags: `contact management`, `local-first`, `privacy-focused`, `SQLite`, `CLI tool`
 
-* **[danieljustus/symaira-vault](world/public/vault/daily-digests/2026-11-02/symaira-vault.md)** (`reference` | `reference` tier)
+* **[danieljustus/symaira-vault](world/public/vault/daily-digests/2026-11-03/symaira-vault.md)** (`reference` | `reference` tier)
   * Summary: Symaira Vault is a secure, terminal-first password manager written in Go, using age encryption for robust security. It integrates with AI agents via an MCP server and supports features like TOTP, clipboard auto-clear, autotype, and multi-user vaults.
   * Tags: `password manager`, `MCP server`, `age encryption`, `AI agent integration`, `secure secrets management`
 
-* **[darki73/sylvan](world/public/vault/daily-digests/2026-11-02/sylvan.md)** (`reference` | `reference` tier)
+* **[darki73/sylvan](world/public/vault/daily-digests/2026-11-03/sylvan.md)** (`reference` | `reference` tier)
   * Summary: Sylvan is a code intelligence platform designed for AI agents, enabling precise codebase navigation, dependency analysis, and semantic search through 65+ MCP tools. It indexes codebases into structured databases to minimize token waste and improve ag
   * Tags: `code intelligence`, `MCP tools`, `semantic search`, `dependency analysis`, `token efficiency`
 
-* **[Davidmametsoftwood478/smart-annotator](world/public/vault/daily-digests/2026-11-02/smart-annotator.md)** (`reference` | `reference` tier)
+* **[Davidmametsoftwood478/smart-annotator](world/public/vault/daily-digests/2026-11-03/smart-annotator.md)** (`reference` | `reference` tier)
   * Summary: Smart-Annotator is a Windows desktop application designed to streamline the bulk annotation and revision of AI-generated documents. It allows users to add notes, corrections, and structural labels to large sets of text files, then sync these changes
   * Tags: `document annotation`, `AI revision`, `bulk editing`, `text processing`, `desktop tool`
 
-* **[DavidWanm/stable_operation_skill](world/public/vault/daily-digests/2026-11-02/stable_operation_skill.md)** (`reference` | `reference` tier)
+* **[DavidWanm/stable_operation_skill](world/public/vault/daily-digests/2026-11-03/stable_operation_skill.md)** (`reference` | `reference` tier)
   * Summary: A repository focused on stable operation skills for AI systems, likely providing tools or methodologies to ensure reliability and performance in AI deployments.
   * Tags: `AI stability`, `operations`, `reliability`, `AI deployment`, `system performance`
 
-* **[dawnaadopted177/specsmith](world/public/vault/daily-digests/2026-11-02/specsmith.md)** (`reference` | `reference` tier)
+* **[dawnaadopted177/specsmith](world/public/vault/daily-digests/2026-11-03/specsmith.md)** (`reference` | `reference` tier)
   * Summary: specsmith is a Windows-based toolkit designed to simplify the management of AEE (Agent Execution Environment) agent sessions, execution profiles, and tool setup, including support for FPGA/HDL workflows and LLM providers like Anthropic, OpenAI, and O
   * Tags: `AEE management`, `agent sessions`, `execution profiles`, `FPGA/HDL support`, `LLM toolkit`
 
-* **[dcadolph/slop-chop](world/public/vault/daily-digests/2026-11-02/slop-chop.md)** (`reference` | `reference` tier)
+* **[dcadolph/slop-chop](world/public/vault/daily-digests/2026-11-03/slop-chop.md)** (`reference` | `reference` tier)
   * Summary: slop-chop is a CLI tool and library that detects and removes AI-generated writing patterns (e.g., em-dashes, stock phrases, structural tells) from text using deterministic rules and optional LLM-based rewrites. It supports multiple integrations inclu
   * Tags: `AI text sanitization`, `deterministic cleaning`, `LLM post-processing`, `writing style normalization`, `CI/CD integration`
 
-* **[debasish3807-afk/sona-ai-os](world/public/vault/daily-digests/2026-11-02/sona-ai-os.md)** (`reference` | `reference` tier)
+* **[debasish3807-afk/sona-ai-os](world/public/vault/daily-digests/2026-11-03/sona-ai-os.md)** (`reference` | `reference` tier)
   * Summary: A GitHub configuration repository providing CI/CD pipelines, issue/PR templates, and community files for a modular AI operating system. It standardizes development workflows for AI projects, including linting, testing, and security scanning.
   * Tags: `CI/CD`, `GitHub`, `AI Development`, `Modular Systems`, `Workflow Automation`
 
-* **[Dexter376/task-manager](world/public/vault/daily-digests/2026-11-02/task-manager.md)** (`reference` | `reference` tier)
+* **[Dexter376/task-manager](world/public/vault/daily-digests/2026-11-03/task-manager.md)** (`reference` | `reference` tier)
   * Summary: A Laravel-based task management backend API that provides RESTful services for creating, updating, and deleting tasks with PostgreSQL integration and user authentication.
   * Tags: `task management`, `RESTful API`, `Laravel`, `PostgreSQL`, `backend`
 
-* **[dhamma-seeker/tripitaka-mcp](world/public/vault/daily-digests/2026-11-02/tripitaka-mcp.md)** (`reference` | `reference` tier)
+* **[dhamma-seeker/tripitaka-mcp](world/public/vault/daily-digests/2026-11-03/tripitaka-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server providing AI agents with access to the Pāli Tipiṭaka (Buddhist canon) for searching, citing, and comparing translations across languages. Offers hybrid search, semantic analysis, and dictionary lookups for academic and research use.
   * Tags: `MCP Server`, `Pāli Tipiṭaka`, `Vector Search`, `Semantic Analysis`, `Buddhist Texts`
 
-* **[dignite-projects/vault-extract](world/public/vault/daily-digests/2026-11-02/vault-extract.md)** (`reference` | `reference` tier)
+* **[dignite-projects/vault-extract](world/public/vault/daily-digests/2026-11-03/vault-extract.md)** (`reference` | `reference` tier)
   * Summary: Dignite Vault Extract is a channel layer for Intelligent Document Processing (IDP) that converts scans, photos, PDFs, Office files, and digital-born documents into structured Markdown and metadata. It acts as a middleware to feed downstream RAG platf
   * Tags: `Intelligent Document Processing`, `OCR`, `Markdown Extraction`, `RAG Pipeline`, `Document Metadata`
 
-* **[dinho149/yeaboi.ai](world/public/vault/daily-digests/2026-11-02/yeaboi_ai.md)** (`reference` | `reference` tier)
+* **[dinho149/yeaboi.ai](world/public/vault/daily-digests/2026-11-03/yeaboi_ai.md)** (`reference` | `reference` tier)
   * Summary: yeaboi.ai is a terminal-based AI-powered Scrum Master that automates project planning, standups, retrospectives, performance tracking, and reporting for engineering teams. It decomposes projects into epics, stories, tasks, and sprint plans while inte
   * Tags: `Agile`, `Project Management`, `AI Automation`, `Scrum Master`, `Team Coordination`
 
-* **[djfksjd/sole-search](world/public/vault/daily-digests/2026-11-02/sole-search.md)** (`reference` | `reference` tier)
+* **[djfksjd/sole-search](world/public/vault/daily-digests/2026-11-03/sole-search.md)** (`reference` | `reference` tier)
   * Summary: sole-search is an AI skill designed to help small business owners in Korea find government and local subsidies tailored to their business profile (industry, location, years in operation, employees, revenue). It crawls official sources like 소상공인24 and
   * Tags: `Korean government subsidies`, `small business support`, `eligibility checker`, `crawler`, `Claude Code skill`
 
-* **[dkedar7/streamlit-mcp](world/public/vault/daily-digests/2026-11-02/streamlit-mcp.md)** (`reference` | `reference` tier)
+* **[dkedar7/streamlit-mcp](world/public/vault/daily-digests/2026-11-03/streamlit-mcp.md)** (`reference` | `reference` tier)
   * Summary: streamlit-mcp enables agents to natively interact with Streamlit applications over the MCP protocol, allowing introspection, manipulation of widgets, and reading of rendered output without browser automation. It bridges Streamlit apps with AI agents
   * Tags: `MCP`, `Streamlit`, `Agent Integration`, `UI Automation`, `RAG Tooling`
 
-* **[docdyhr/simplenote-mcp-server](world/public/vault/daily-digests/2026-11-02/simplenote-mcp-server.md)** (`reference` | `reference` tier)
+* **[docdyhr/simplenote-mcp-server](world/public/vault/daily-digests/2026-11-03/simplenote-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A lightweight MCP server that bridges Simplenote with Claude Desktop, enabling seamless note management, search, and encryption for AI-driven workflows. It acts as a memory backend or content source for MCP-compatible clients.
   * Tags: `MCP Server`, `Note Management`, `Claude Desktop Integration`, `Encryption`, `Simplenote`
 
-* **[donaldwang6-dev/stratronix-docs](world/public/vault/daily-digests/2026-11-02/stratronix-docs.md)** (`reference` | `reference` tier)
+* **[donaldwang6-dev/stratronix-docs](world/public/vault/daily-digests/2026-11-03/stratronix-docs.md)** (`reference` | `reference` tier)
   * Summary: A documentation repository for STRATRONIX's STA-100 Private AI-Agent Appliance (PAA), providing official user manuals in Chinese and English for a local AI agent gateway hardware device.
   * Tags: `documentation`, `AI hardware`, `local deployment`, `user manuals`, `enterprise AI`
 
-* **[donaldwang6-dev/stratronix-seo](world/public/vault/daily-digests/2026-11-02/stratronix-seo.md)** (`reference` | `reference` tier)
+* **[donaldwang6-dev/stratronix-seo](world/public/vault/daily-digests/2026-11-03/stratronix-seo.md)** (`reference` | `reference` tier)
   * Summary: A multilingual SEO resource hub designed to optimize visibility for European AI search engines (ChatGPT, Claude, Perplexity, Google SGE, Bing Chat) while targeting compliance with EU AI Act 2026, GDPR, and other regional data sovereignty regulations.
   * Tags: `SEO`, `Multilingual`, `EU AI Act`, `GDPR Compliance`, `Private AI`
 
-* **[dong845/travel-buddy](world/public/vault/daily-digests/2026-11-02/travel-buddy.md)** (`reference` | `reference` tier)
+* **[dong845/travel-buddy](world/public/vault/daily-digests/2026-11-03/travel-buddy.md)** (`reference` | `reference` tier)
   * Summary: travel-buddy is a travel planning skill for Claude Code and Codex that separates destination selection from itinerary generation, ensuring only bookable plans are produced. It validates real-time data like fares, timetables, and entry rules before ge
   * Tags: `travel planning`, `itinerary generation`, `real-time validation`, `self-contained HTML`, `local data processing`
 
-* **[dongsheng123132/u-king](world/public/vault/daily-digests/2026-11-02/u-king.md)** (`reference` | `reference` tier)
+* **[dongsheng123132/u-king](world/public/vault/daily-digests/2026-11-03/u-king.md)** (`reference` | `reference` tier)
   * Summary: U-King is an open-source AI installer and workspace manager designed for Windows and macOS, providing a desktop-guided setup for AI development environments. It automates the installation, configuration, and validation of AI tools, runtimes, and mode
   * Tags: `AI setup`, `workspace manager`, `environment automation`, `cross-platform`, `developer tools`
 
-* **[driveate/wheel-size-mcp](world/public/vault/daily-digests/2026-11-02/wheel-size-mcp.md)** (`reference` | `reference` tier)
+* **[driveate/wheel-size-mcp](world/public/vault/daily-digests/2026-11-03/wheel-size-mcp.md)** (`reference` | `reference` tier)
   * Summary: An official MCP server providing LLM agents with access to vehicle wheel and tire compatibility data via the Wheel Fitment API. Enables queries like OEM specs, rim/tire fitment checks, and plus-size calculations for automotive applications.
   * Tags: `MCP server`, `vehicle fitment`, `wheel compatibility`, `tire sizing`, `automotive data`
 
-* **[dumbspacecookie/stickies](world/public/vault/daily-digests/2026-11-02/stickies.md)** (`reference` | `reference` tier)
+* **[dumbspacecookie/stickies](world/public/vault/daily-digests/2026-11-03/stickies.md)** (`reference` | `reference` tier)
   * Summary: Stickies is a persistent sticky note system for Claude Code that allows users to pin important notes, todos, or decisions which survive session resets and terminal closures. It integrates with local SQLite storage and supports auto-capture, git sync,
   * Tags: `note-taking`, `persistent-memory`, `Claude-Code-plugin`, `local-first`, `project-management`
 
-* **[duraznito16/stellar-memory](world/public/vault/daily-digests/2026-11-02/stellar-memory.md)** (`reference` | `reference` tier)
+* **[duraznito16/stellar-memory](world/public/vault/daily-digests/2026-11-03/stellar-memory.md)** (`reference` | `reference` tier)
   * Summary: A persistent memory layer for Stellar and Soroban projects that scans repositories, links source code to on-chain contracts, and stores the results as a knowledge graph for both human and AI agent querying. It detects code-on-chain drift, storage dur
   * Tags: `Soroban`, `Stellar`, `memory layer`, `knowledge graph`, `on-chain analysis`
 
-* **[dwgx/SmartCLI](world/public/vault/daily-digests/2026-11-02/smartcli.md)** (`reference` | `reference` tier)
+* **[dwgx/SmartCLI](world/public/vault/daily-digests/2026-11-03/smartcli.md)** (`reference` | `reference` tier)
   * Summary: SmartCLI is a Python toolkit enabling AI agents to drive, perceive, and render terminal programs with high fidelity. It uses a pluggable PTY backend and pyte-based screen model to interact with real terminal applications like lazygit, vim, or htop, e
   * Tags: `terminal automation`, `TUI interaction`, `screen perception`, `PTY management`, `AI agent tools`
 
-* **[echennells/sparkbtcbot](world/public/vault/daily-digests/2026-11-02/sparkbtcbot.md)** (`reference` | `reference` tier)
+* **[echennells/sparkbtcbot](world/public/vault/daily-digests/2026-11-03/sparkbtcbot.md)** (`reference` | `reference` tier)
   * Summary: A Bitcoin Layer 2 wallet skill for AI agents that enables autonomous Bitcoin transactions, including payments, deposits, and merchant purchases via Spark (a self-custodial Bitcoin L2 network). Designed for integration into LLM agent frameworks or sta
   * Tags: `Bitcoin wallet`, `AI agent integration`, `Layer 2 payments`, `self-custody`, `Lightning Network`
 
-* **[eitaar/yot](world/public/vault/daily-digests/2026-11-02/yot.md)** (`reference` | `reference` tier)
+* **[eitaar/yot](world/public/vault/daily-digests/2026-11-03/yot.md)** (`reference` | `reference` tier)
   * Summary: yot is a single-user calendar application featuring a REST API, MCP server, realtime SSE feed, and a Vue 3 web UI, all built in Rust for performance and efficiency.
   * Tags: `calendar`, `Rust backend`, `SSE realtime`, `MCP integration`, `single-user`
 
-* **[employeesavingsplanmelagra893/SkillAnything](world/public/vault/daily-digests/2026-11-02/skillanything.md)** (`reference` | `reference` tier)
+* **[employeesavingsplanmelagra893/SkillAnything](world/public/vault/daily-digests/2026-11-03/skillanything.md)** (`reference` | `reference` tier)
   * Summary: SkillAnything converts existing software applications into AI-executable skills by recording user interactions and generating executable files for AI agents like Claude Code or OpenClaw. It enables AI agents to automate tasks without requiring manual
   * Tags: `AI automation`, `skill acquisition`, `task recording`, `agent integration`, `local processing`
 
-* **[enrichgateagent-png/x402-agents](world/public/vault/daily-digests/2026-11-02/x402-agents.md)** (`reference` | `reference` tier)
+* **[enrichgateagent-png/x402-agents](world/public/vault/daily-digests/2026-11-03/x402-agents.md)** (`reference` | `reference` tier)
   * Summary: Beacon is a search engine and discovery platform for open-source AI agents, indexing over 3,800 agents from frameworks like CrewAI, LangChain, and AutoGen. It ranks agents by GitHub traction (stars and activity) and provides tools for searching, veri
   * Tags: `agent discovery`, `open-source indexing`, `GitHub integration`, `MCP server`, `reputation ranking`
 
-* **[erhangundogan/videre](world/public/vault/daily-digests/2026-11-02/videre.md)** (`reference` | `reference` tier)
+* **[erhangundogan/videre](world/public/vault/daily-digests/2026-11-03/videre.md)** (`reference` | `reference` tier)
   * Summary: A local-first media library toolkit that provides deduplication, semantic search, face detection, and reporting capabilities using a single SQLite database for image and video files.
   * Tags: `media management`, `deduplication`, `semantic search`, `face detection`, `local-first`
 
-* **[esagduyu/tiro](world/public/vault/daily-digests/2026-11-02/tiro.md)** (`reference` | `reference` tier)
+* **[esagduyu/tiro](world/public/vault/daily-digests/2026-11-03/tiro.md)** (`reference` | `reference` tier)
   * Summary: Tiro is a local-first reading OS that saves web pages and email newsletters as clean markdown, enriches them with AI-extracted tags and summaries, and uses Claude Opus 4.6 for deep cross-document reasoning. It provides daily digests, trust analysis,
   * Tags: `local-first`, `RAG`, `document processing`, `AI-powered reading`, `knowledge management`
 
-* **[EtanHey/voicelayer](world/public/vault/daily-digests/2026-11-02/voicelayer.md)** (`reference` | `reference` tier)
+* **[EtanHey/voicelayer](world/public/vault/daily-digests/2026-11-03/voicelayer.md)** (`reference` | `reference` tier)
   * Summary: VoiceLayer provides local-first voice input/output capabilities for AI coding assistants via the Model Context Protocol (MCP). It enables real-time speech-to-text and text-to-speech interactions with sub-1.5 second latency, eliminating cloud dependen
   * Tags: `voice I/O`, `local STT/TTS`, `MCP integration`, `AI agent tools`, `real-time transcription`
 
-* **[EthanYoQ/Skill-hub](world/public/vault/daily-digests/2026-11-02/skill-hub.md)** (`reference` | `reference` tier)
+* **[EthanYoQ/Skill-hub](world/public/vault/daily-digests/2026-11-03/skill-hub.md)** (`reference` | `reference` tier)
   * Summary: Skill-hub is a Chinese-language agent skill library designed for AI programming tools like Codex, Claude Code, and Antigravity. It provides reusable SKILL.md templates, AI workflows, and prompt templates organized into 70+ skills across domains such
   * Tags: `AI Agent Skills`, `Prompt Engineering`, `Workflow Automation`, `Chinese Language`, `SKILL.md Templates`
 
-* **[eugenelabonarsky/votura-mcp](world/public/vault/daily-digests/2026-11-02/votura-mcp.md)** (`reference` | `reference` tier)
+* **[eugenelabonarsky/votura-mcp](world/public/vault/daily-digests/2026-11-03/votura-mcp.md)** (`reference` | `reference` tier)
   * Summary: Votura MCP Server provides an API to search and retrieve AI-powered audio tours and points of interest by city or coordinates. It enables integration with tools like Claude Desktop and Cursor for seamless access to narrated walking, cycling, and driv
   * Tags: `MCP Server`, `Audio Tours`, `Points of Interest`, `Travel AI`, `Geospatial Search`
 
-* **[EwanJasper/SessionRelay](world/public/vault/daily-digests/2026-11-02/sessionrelay.md)** (`reference` | `reference` tier)
+* **[EwanJasper/SessionRelay](world/public/vault/daily-digests/2026-11-03/sessionrelay.md)** (`reference` | `reference` tier)
   * Summary: SessionRelay is a local-first memory layer for AI coding assistants that unifies and preserves conversation history across multiple AI tools (e.g., Claude Code, ZCode) in a project-level database. It enables cross-time, cross-tool, and cross-person m
   * Tags: `memory layer`, `RAG context`, `AI agent integration`, `cross-tool synchronization`, `team handoff`
 
-* **[extentadulthood280/spraay-payments](world/public/vault/daily-digests/2026-11-02/spraay-payments.md)** (`reference` | `reference` tier)
+* **[extentadulthood280/spraay-payments](world/public/vault/daily-digests/2026-11-03/spraay-payments.md)** (`reference` | `reference` tier)
   * Summary: spraay-payments is a Windows desktop application designed to simplify multi-chain cryptocurrency payments, enabling users to send batch payments, manage payroll, execute swaps, and generate invoices across supported blockchain networks with an intuit
   * Tags: `cryptocurrency payments`, `batch transactions`, `multi-chain`, `payroll management`, `invoice generation`
 
-* **[fabkho/the-i18n-kit](world/public/vault/daily-digests/2026-11-02/the-i18n-kit.md)** (`reference` | `reference` tier)
+* **[fabkho/the-i18n-kit](world/public/vault/daily-digests/2026-11-03/the-i18n-kit.md)** (`reference` | `reference` tier)
   * Summary: The-i18n-kit is a toolkit for managing internationalization (i18n) in software projects, offering both a CLI and an MCP server to automate translation file management, detect missing or orphaned keys, and integrate with AI agents for seamless i18n wo
   * Tags: `i18n`, `translation management`, `AI agent integration`, `CLI tool`, `automation`
 
-* **[FacundoSu1986/Sky-Claw](world/public/vault/daily-digests/2026-11-02/sky-claw.md)** (`reference` | `reference` tier)
+* **[FacundoSu1986/Sky-Claw](world/public/vault/daily-digests/2026-11-03/sky-claw.md)** (`reference` | `reference` tier)
   * Summary: Sky-Claw is an AI-assisted local control plane for managing Skyrim Special Edition and Anniversary Edition mods through Mod Organizer 2 (MO2), integrating natural language workflows with human-in-the-loop safety gates and toolchain integrations like
   * Tags: `mod management`, `Skyrim`, `AI-assisted workflows`, `human-in-the-loop`, `local LLM integration`
 
-* **[faeton/zvonok](world/public/vault/daily-digests/2026-11-02/zvonok.md)** (`reference` | `reference` tier)
+* **[faeton/zvonok](world/public/vault/daily-digests/2026-11-03/zvonok.md)** (`reference` | `reference` tier)
   * Summary: zvonok enables AI agents to place real outbound phone calls via a SIP trunk, conduct goal-directed conversations using a realtime voice model, and return structured transcripts. It is designed as a self-hosted actuator for agent frameworks like Claud
   * Tags: `telephony`, `voice agents`, `self-hosted`, `SIP trunking`, `AI actuator`
 
-* **[faraa2m/tokenometer](world/public/vault/daily-digests/2026-11-02/tokenometer.md)** (`reference` | `reference` tier)
+* **[faraa2m/tokenometer](world/public/vault/daily-digests/2026-11-03/tokenometer.md)** (`reference` | `reference` tier)
   * Summary: Tokenometer is a multi-provider LLM cost calculator, token counter, and latency benchmarking tool that supports Claude, GPT-4o, Gemini, Mistral, and Cohere. It provides empirical token counting, USD cost estimation, format comparison, and CI guardrai
   * Tags: `LLM cost calculator`, `token counter`, `latency benchmark`, `CI guardrail`, `multi-provider`
 
-* **[fawdyinc/shellguard](world/public/vault/daily-digests/2026-11-02/shellguard.md)** (`reference` | `reference` tier)
+* **[fawdyinc/shellguard](world/public/vault/daily-digests/2026-11-03/shellguard.md)** (`reference` | `reference` tier)
   * Summary: ShellGuard is an MCP server that provides controlled, read-only shell access to remote servers over SSH for LLM agents. It enforces strict command validation and security policies to prevent destructive operations while enabling diagnostic and troubl
   * Tags: `MCP server`, `SSH access`, `read-only shell`, `LLM security`, `diagnostics`
 
-* **[faze79/WPFVisualTreeMcp](world/public/vault/daily-digests/2026-11-02/wpfvisualtreemcp.md)** (`reference` | `reference` tier)
+* **[faze79/WPFVisualTreeMcp](world/public/vault/daily-digests/2026-11-03/wpfvisualtreemcp.md)** (`reference` | `reference` tier)
   * Summary: WpfVisualTreeMcp is an MCP server that enables AI agents to inspect, debug, and interact with running WPF applications. It provides real-time access to the visual tree, bindings, and UI elements without requiring source code changes, bridging the gap
   * Tags: `WPF inspection`, `AI agent tools`, `UI automation`, `binding debugging`, `visual tree analysis`
 
-* **[Fino-wind/tether-mcp](world/public/vault/daily-digests/2026-11-02/tether-mcp.md)** (`reference` | `reference` tier)
+* **[Fino-wind/tether-mcp](world/public/vault/daily-digests/2026-11-03/tether-mcp.md)** (`reference` | `reference` tier)
   * Summary: Tether MCP Server is a local Model Context Protocol (MCP) server that enables AI agents to securely access end-to-end encrypted Apple Health data (sleep, heart rate, menstrual cycle, weight, water, symptoms) without exposing raw data to the cloud. It
   * Tags: `end-to-end encryption`, `Apple Health integration`, `MCP server`, `AI agent interface`, `health data privacy`
 
-* **[Fino-wind/vaultbeat-mcp](world/public/vault/daily-digests/2026-11-02/vaultbeat-mcp.md)** (`reference` | `reference` tier)
+* **[Fino-wind/vaultbeat-mcp](world/public/vault/daily-digests/2026-11-03/vaultbeat-mcp.md)** (`reference` | `reference` tier)
   * Summary: A local MCP server that bridges end-to-end encrypted Apple Health data to AI agents, enabling privacy-preserving access to health metrics like sleep, heart rate, and menstrual cycles without exposing raw data to the cloud.
   * Tags: `MCP server`, `end-to-end encryption`, `Apple Health`, `AI agent integration`, `health data`
 
-* **[flack0x/trendspyg](world/public/vault/daily-digests/2026-11-02/trendspyg.md)** (`reference` | `reference` tier)
+* **[flack0x/trendspyg](world/public/vault/daily-digests/2026-11-03/trendspyg.md)** (`reference` | `reference` tier)
   * Summary: A modern, actively-maintained Python library and CLI for accessing Google Trends data, offering real-time trending topics, keyword analysis over time, and historical archiving. It serves as a robust alternative to the archived pytrends library with e
   * Tags: `Google Trends`, `Real-time data`, `Historical archiving`, `CLI tool`, `Agent integration`
 
-* **[Flightmussy/sunshine-atlas-mcp](world/public/vault/daily-digests/2026-11-02/sunshine-atlas-mcp.md)** (`reference` | `reference` tier)
+* **[Flightmussy/sunshine-atlas-mcp](world/public/vault/daily-digests/2026-11-03/sunshine-atlas-mcp.md)** (`reference` | `reference` tier)
   * Summary: A remote, read-only Model Context Protocol (MCP) server that provides climate and sunshine data for 3,833 destinations worldwide. It offers tools to find sunny destinations, retrieve climate details, and compare locations based on sunshine scores, te
   * Tags: `MCP server`, `climate data`, `sunshine scores`, `travel planning`, `remote API`
 
-* **[Flightmussy/trainrouter-atlas](world/public/vault/daily-digests/2026-11-02/trainrouter-atlas.md)** (`reference` | `reference` tier)
+* **[Flightmussy/trainrouter-atlas](world/public/vault/daily-digests/2026-11-03/trainrouter-atlas.md)** (`reference` | `reference` tier)
   * Summary: TrainRouter Atlas is an open dataset of 744 legendary train routes spanning 118 countries, featuring hand-traced geometries, key facts, and structured metadata in CSV, JSON, and GeoJSON formats. It also includes an MCP server for AI assistant integra
   * Tags: `open data`, `geospatial`, `transportation`, `MCP server`, `dataset`
 
-* **[fluttersdk/wind](world/public/vault/daily-digests/2026-11-02/wind.md)** (`reference` | `reference` tier)
+* **[fluttersdk/wind](world/public/vault/daily-digests/2026-11-03/wind.md)** (`reference` | `reference` tier)
   * Summary: Wind is a utility-first styling framework for Flutter that enables developers to rapidly build modern apps using Tailwind CSS-like className strings. It maps these strings to optimized Flutter widget trees, supports dark mode, responsive design, stat
   * Tags: `Flutter styling`, `Tailwind CSS`, `AI integration`, `utility-first`, `dark mode`
 
-* **[followanton/sleepwalker](world/public/vault/daily-digests/2026-11-02/sleepwalker.md)** (`reference` | `reference` tier)
+* **[followanton/sleepwalker](world/public/vault/daily-digests/2026-11-03/sleepwalker.md)** (`reference` | `reference` tier)
   * Summary: Sleepwalker provides AI Visibility and Content Intelligence tools to help teams monitor how AI systems reference their brand and identify content gaps. It enables running prompts across multiple AI platforms, capturing answers and citations, and scor
   * Tags: `AI visibility`, `content intelligence`, `MCP integration`, `brand monitoring`, `prompt tracking`
 
-* **[frane/vibesurfer](world/public/vault/daily-digests/2026-11-02/vibesurfer.md)** (`reference` | `reference` tier)
+* **[frane/vibesurfer](world/public/vault/daily-digests/2026-11-03/vibesurfer.md)** (`reference` | `reference` tier)
   * Summary: vibesurfer is a lightweight, agent-native headless browser designed for AI agents to interact with web applications efficiently. It provides a Rust-based daemon with a line-oriented wire protocol, offering state tokens and tree deltas instead of full
   * Tags: `headless browser`, `agent automation`, `RAG optimization`, `MCP server`, `state tokens`
 
-* **[Freecode100Year/xiaoqinli](world/public/vault/daily-digests/2026-11-02/xiaoqinli.md)** (`reference` | `reference` tier)
+* **[Freecode100Year/xiaoqinli](world/public/vault/daily-digests/2026-11-03/xiaoqinli.md)** (`reference` | `reference` tier)
   * Summary: Xiaoqinli (xql) is a minimalist, secure transpiler that converts structured JSON AST inputs into native idiomatic code for 42+ target platforms. It operates as a single Go binary with zero runtime dependencies, ensuring safety and efficiency for AI a
   * Tags: `transpiler`, `AST-first`, `multi-language`, `security-hardened`, `AI-agent`
 
-* **[Fromlan/X-agent](world/public/vault/daily-digests/2026-11-02/x-agent.md)** (`reference` | `reference` tier)
+* **[Fromlan/X-agent](world/public/vault/daily-digests/2026-11-03/x-agent.md)** (`reference` | `reference` tier)
   * Summary: X-agent is a desktop coding agent designed for Godot 4 game development, enabling real-time code editing, scene execution, and step-by-step rollback within the same session. It integrates deeply with the Godot editor via RPC, supports Shadow Git chec
   * Tags: `Godot`, `Game Development`, `Agent Framework`, `Desktop Application`, `RPC Integration`
 
-* **[fuzzybritches0/spit.py](world/public/vault/daily-digests/2026-11-02/spit_py.md)** (`reference` | `reference` tier)
+* **[fuzzybritches0/spit.py](world/public/vault/daily-digests/2026-11-03/spit_py.md)** (`reference` | `reference` tier)
   * Summary: spit.py is a terminal-based application for managing and interacting with multiple LLMs, endpoints, and models. It supports multimodal inputs, tool calling, and advanced chat management with async capabilities.
   * Tags: `LLM management`, `terminal application`, `multimodal`, `async chat`, `model orchestration`
 
-* **[gadicc/yahoo-finance2](world/public/vault/daily-digests/2026-11-02/yahoo-finance2.md)** (`reference` | `reference` tier)
+* **[gadicc/yahoo-finance2](world/public/vault/daily-digests/2026-11-03/yahoo-finance2.md)** (`reference` | `reference` tier)
   * Summary: Unofficial API for Yahoo Finance providing financial market data access via CLI, MCP, and Agent Skill interfaces. Enables real-time and historical stock data retrieval, including quotes, charts, and fundamentals for AI-driven applications.
   * Tags: `financial data`, `stock market API`, `MCP server`, `CLI tool`, `real-time quotes`
 
-* **[gaia-research/skill-fuse](world/public/vault/daily-digests/2026-11-02/skill-fuse.md)** (`reference` | `reference` tier)
+* **[gaia-research/skill-fuse](world/public/vault/daily-digests/2026-11-03/skill-fuse.md)** (`reference` | `reference` tier)
   * Summary: skill-fuse is a tool that consolidates overlapping AI agent commands (e.g., Claude Code slash commands, Cursor rules, or Windsurf cascades) into a single unified command to reduce context overhead and misfires. It merges multiple SKILL.md files into
   * Tags: `AI agent skills`, `command consolidation`, `prompt optimization`, `skill fusion`, `AI workflow`
 
-* **[gang2k-coder/SharpBridge](world/public/vault/daily-digests/2026-11-02/sharpbridge.md)** (`reference` | `reference` tier)
+* **[gang2k-coder/SharpBridge](world/public/vault/daily-digests/2026-11-03/sharpbridge.md)** (`reference` | `reference` tier)
   * Summary: SharpBridge is an MCP (Model Context Protocol) server that enables AI agents to interactively debug .NET programs by translating MCP tool calls into DAP (Debug Adapter Protocol) commands. It supports multi-session debugging, breakpoints, variable ins
   * Tags: `MCP server`, `debugging`, `AI agents`, `.NET debugging`, `DAP integration`
 
-* **[gengirish/skills-mcp](world/public/vault/daily-digests/2026-11-02/skills-mcp.md)** (`reference` | `reference` tier)
+* **[gengirish/skills-mcp](world/public/vault/daily-digests/2026-11-03/skills-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server that indexes, searches, and installs 9,238+ AI agent skills from 11 GitHub repositories, enabling seamless skill discovery and integration for AI-powered IDEs like Cursor, Claude, and Cline.
   * Tags: `MCP server`, `AI agent skills`, `skill discovery`, `GitHub integration`, `IDE automation`
 
-* **[getsentry/XcodeBuildMCP](world/public/vault/daily-digests/2026-11-02/xcodebuildmcp.md)** (`reference` | `reference` tier)
+* **[getsentry/XcodeBuildMCP](world/public/vault/daily-digests/2026-11-03/xcodebuildmcp.md)** (`reference` | `reference` tier)
   * Summary: XcodeBuildMCP is an MCP server and CLI tool that provides AI agents with capabilities to interact with iOS and macOS projects, enabling tasks like building, testing, and UI automation through structured tools and protocols.
   * Tags: `iOS development`, `macOS development`, `MCP server`, `AI agent tools`, `Xcode automation`
 
-* **[GhouI/windows-server-mcp-server](world/public/vault/daily-digests/2026-11-02/windows-server-mcp-server.md)** (`reference` | `reference` tier)
+* **[GhouI/windows-server-mcp-server](world/public/vault/daily-digests/2026-11-03/windows-server-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: WinBridge MCP is a TypeScript-based Model Context Protocol (MCP) server that enables AI agents to securely execute PowerShell commands, transfer files, and capture screenshots on Windows hosts over HTTP. It bridges the gap between terminal-based agen
   * Tags: `Windows automation`, `AI agent tools`, `PowerShell execution`, `MCP server`, `remote desktop alternative`
 
-* **[Glubiz/zirv-dynamic-cli](world/public/vault/daily-digests/2026-11-02/zirv-dynamic-cli.md)** (`reference` | `reference` tier)
+* **[Glubiz/zirv-dynamic-cli](world/public/vault/daily-digests/2026-11-03/zirv-dynamic-cli.md)** (`reference` | `reference` tier)
   * Summary: Zirv CLI is a cross-platform command-line interface designed to automate and streamline developer workflows using YAML, JSON, or TOML scripts. It provides an interactive orchestrator, session management, and AI harness migration tools for enhanced pr
   * Tags: `automation`, `workflow`, `CLI`, `AI harness`, `session management`
 
-* **[goofrey/zoom-search](world/public/vault/daily-digests/2026-11-02/zoom-search.md)** (`reference` | `reference` tier)
+* **[goofrey/zoom-search](world/public/vault/daily-digests/2026-11-03/zoom-search.md)** (`reference` | `reference` tier)
   * Summary: Zoom Search is an AI agent tool designed to enhance search and evidence gathering for agentic applications. It improves source discovery, traceability, and answer grounding by rewriting search queries, zooming into high-value domains, and returning s
   * Tags: `search optimization`, `agent tools`, `evidence gathering`, `query rewriting`, `source zooming`
 
-* **[gowinston-ai/winston-ai-mcp-server](world/public/vault/daily-digests/2026-11-02/winston-ai-mcp-server.md)** (`reference` | `reference` tier)
+* **[gowinston-ai/winston-ai-mcp-server](world/public/vault/daily-digests/2026-11-03/winston-ai-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: Winston AI MCP Server provides a Model Context Protocol (MCP) interface for Winston AI's AI detection, plagiarism detection, and text comparison services. It enables seamless integration of Winston AI's capabilities into MCP-compatible clients like I
   * Tags: `AI detection`, `plagiarism detection`, `MCP server`, `text analysis`, `content verification`
 
-* **[grayhatdevelopers/vidxp](world/public/vault/daily-digests/2026-11-02/vidxp.md)** (`reference` | `reference` tier)
+* **[grayhatdevelopers/vidxp](world/public/vault/daily-digests/2026-11-03/vidxp.md)** (`reference` | `reference` tier)
   * Summary: VidXP is a local-first video search engine that enables users to search videos by dialogue, scenes, and recurring faces. It supports CLI, desktop, Docker, and MCP integrations for AI agents, providing natural language search and inspectable evidence
   * Tags: `video search`, `multimodal retrieval`, `AI agents`, `local-first`, `MCP integration`
 
-* **[grijinha/solana-dapp](world/public/vault/daily-digests/2026-11-02/solana-dapp.md)** (`reference` | `reference` tier)
+* **[grijinha/solana-dapp](world/public/vault/daily-digests/2026-11-03/solana-dapp.md)** (`reference` | `reference` tier)
   * Summary: A CLI tool that simplifies the creation and initialization of Solana blockchain applications by automating project setup with predefined templates and a single command.
   * Tags: `Solana`, `CLI`, `Blockchain`, `DApp`, `Scaffolding`
 
-* **[Grinv/steam-games-mcp](world/public/vault/daily-digests/2026-11-02/steam-games-mcp.md)** (`reference` | `reference` tier)
+* **[Grinv/steam-games-mcp](world/public/vault/daily-digests/2026-11-03/steam-games-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP (Model Context Protocol) server providing read-only access to Steam's official APIs for game discovery, pricing, reviews, and player data. It enables natural language queries about Steam games, player libraries, achievements, and storefront de
   * Tags: `Steam API`, `MCP server`, `game discovery`, `player data`, `AI tooling`
 
-* **[grunion-ai/weave](world/public/vault/daily-digests/2026-11-02/weave.md)** (`reference` | `reference` tier)
+* **[grunion-ai/weave](world/public/vault/daily-digests/2026-11-03/weave.md)** (`reference` | `reference` tier)
   * Summary: weave is a self-hosted, open-source work platform that replaces SaaS tools like Airtable or Notion databases, designed with AI agents as first-class users. It offers connected tables, relations, workflows, formulas, and markdown documents in a single
   * Tags: `self-hosted`, `AI agent integration`, `SQLite-based`, `workflow automation`, `markdown documents`
 
-* **[guxiong108-beep/technical-ppt-builder](world/public/vault/daily-digests/2026-11-02/technical-ppt-builder.md)** (`reference` | `reference` tier)
+* **[guxiong108-beep/technical-ppt-builder](world/public/vault/daily-digests/2026-11-03/technical-ppt-builder.md)** (`reference` | `reference` tier)
   * Summary: A bilingual AI-powered workflow for generating, beautifying, and reviewing professional PowerPoint presentations from technical briefs or existing decks. It supports Chinese, English, and dual-language outputs while preserving original files.
   * Tags: `AI presentation generation`, `bilingual PPT builder`, `technical documentation`, `workflow automation`, `slide beautification`
 
-* **[gwbtc/urbit-mcp](world/public/vault/daily-digests/2026-11-02/urbit-mcp.md)** (`reference` | `reference` tier)
+* **[gwbtc/urbit-mcp](world/public/vault/daily-digests/2026-11-03/urbit-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) interface for Urbit, enabling LLMs to interact with Urbit ships as MCP servers. It facilitates tool execution, resource access, and slash commands for AI agents running on Urbit.
   * Tags: `MCP`, `Urbit`, `AI Agents`, `Tool Integration`, `Decentralized Computing`
 
-* **[Gyxer513/termloop](world/public/vault/daily-digests/2026-11-02/termloop.md)** (`reference` | `reference` tier)
+* **[Gyxer513/termloop](world/public/vault/daily-digests/2026-11-03/termloop.md)** (`reference` | `reference` tier)
   * Summary: TermLoop is a minimal Telegram bot and MCP server for spaced repetition of professional terminology, helping users reinforce vocabulary through self-assessment and priority-based review scheduling. It enables adding terms directly from LLM conversati
   * Tags: `spaced repetition`, `vocabulary learning`, `MCP server`, `Telegram bot`, `self-assessment`
 
-* **[HaiNick/Shark-no-Kari](world/public/vault/daily-digests/2026-11-02/shark-no-kari.md)** (`reference` | `reference` tier)
+* **[HaiNick/Shark-no-Kari](world/public/vault/daily-digests/2026-11-03/shark-no-kari.md)** (`reference` | `reference` tier)
   * Summary: Shark-no-Kari is a remote MCP server that enables stealth web scraping and anti-bot evasion for AI agents like Claude. It provides tools for fast HTTP fetching, headless browser operations, Cloudflare bypass, CSS element extraction, RSS/Atom feed par
   * Tags: `web scraping`, `anti-bot evasion`, `MCP server`, `headless browser`, `Cloudflare bypass`
 
-* **[halhoulmhamed-droid/talk-to-agent](world/public/vault/daily-digests/2026-11-02/talk-to-agent.md)** (`reference` | `reference` tier)
+* **[halhoulmhamed-droid/talk-to-agent](world/public/vault/daily-digests/2026-11-03/talk-to-agent.md)** (`reference` | `reference` tier)
   * Summary: Talk-to-Agent is a local realtime voice demo that connects a browser microphone to Google's Gemini Live API via a Python backend and WebRTC, enabling asynchronous audio streaming and low-latency voice interactions for a French-language interview simu
   * Tags: `real-time voice`, `WebRTC`, `FastAPI`, `Gemini Live API`, `audio streaming`
 
-* **[hankamarvanova/unified-db](world/public/vault/daily-digests/2026-11-02/unified-db.md)** (`reference` | `reference` tier)
+* **[hankamarvanova/unified-db](world/public/vault/daily-digests/2026-11-03/unified-db.md)** (`reference` | `reference` tier)
   * Summary: unified-db is a GPU-accelerated SQLite query tool optimized for Apple Silicon, enabling faster database operations by leveraging unified memory architecture without data transfer overhead. It provides a user-friendly interface for executing and monit
   * Tags: `GPU acceleration`, `SQLite`, `Apple Silicon`, `database queries`, `performance optimization`
 
-* **[harriottdirty774/supply-chain-monitor](world/public/vault/daily-digests/2026-11-02/supply-chain-monitor.md)** (`reference` | `reference` tier)
+* **[harriottdirty774/supply-chain-monitor](world/public/vault/daily-digests/2026-11-03/supply-chain-monitor.md)** (`reference` | `reference` tier)
   * Summary: Supply Chain Monitor is a Windows application that tracks PyPI and npm package releases, analyzes changes between versions using an LLM, and alerts users via Slack when risky updates are detected.
   * Tags: `supply chain security`, `package monitoring`, `LLM-based analysis`, `Slack alerts`, `risk detection`
 
-* **[hermes-labs-ai/zer0lint](world/public/vault/daily-digests/2026-11-02/zer0lint.md)** (`reference` | `reference` tier)
+* **[hermes-labs-ai/zer0lint](world/public/vault/daily-digests/2026-11-03/zer0lint.md)** (`reference` | `reference` tier)
   * Summary: zer0lint is a diagnostic tool designed to detect silent failures in memory extraction pipelines, particularly where ingestion reports success but facts are lost during LLM extraction. It validates memory system health by injecting synthetic facts and
   * Tags: `memory extraction`, `diagnostic tool`, `LLM reliability`, `silent failure detection`, `prompt validation`
 
-* **[hope1026/weppy-roblox-mcp](world/public/vault/daily-digests/2026-11-02/weppy-roblox-mcp.md)** (`reference` | `reference` tier)
+* **[hope1026/weppy-roblox-mcp](world/public/vault/daily-digests/2026-11-03/weppy-roblox-mcp.md)** (`reference` | `reference` tier)
   * Summary: WEPPY is an MCP server that bridges AI coding agents (Claude, Codex, Cursor, etc.) with Roblox Studio, enabling direct manipulation of game assets, scripts, terrain, and UI through natural language. It supports multi-place synchronization, asset gene
   * Tags: `Roblox`, `MCP Server`, `AI Game Development`, `Automated Scripting`, `Multi-Place Sync`
 
-* **[hpp-io/x402-mcp-bridge](world/public/vault/daily-digests/2026-11-02/x402-mcp-bridge.md)** (`reference` | `reference` tier)
+* **[hpp-io/x402-mcp-bridge](world/public/vault/daily-digests/2026-11-03/x402-mcp-bridge.md)** (`reference` | `reference` tier)
   * Summary: The @hpp-io/x402-mcp-bridge enables autonomous USDC.e payments for AI agents (e.g., Claude, Cursor) via the x402 protocol, allowing discovery and pay-per-call execution of services without API keys or manual signing. It acts as an MCP bridge and CLI
   * Tags: `x402 protocol`, `gasless payments`, `AI agent integration`, `MCP bridge`, `USDC.e transactions`
 
-* **[Iamnanisyam/voice-agent](world/public/vault/daily-digests/2026-11-02/voice-agent.md)** (`reference` | `reference` tier)
+* **[Iamnanisyam/voice-agent](world/public/vault/daily-digests/2026-11-03/voice-agent.md)** (`reference` | `reference` tier)
   * Summary: A privacy-focused outbound AI voice agent that places real phone calls without revealing the user's identity. It integrates telephony (Vobiz), realtime media (LiveKit Cloud), speech-to-text (Sarvam AI), and reasoning (Grok via OpenRouter) to enable a
   * Tags: `voice-agent`, `anonymous-calling`, `SIP-telephony`, `real-time-transcription`, `privacy-focused`
 
-* **[icoretech/warden-mcp](world/public/vault/daily-digests/2026-11-02/warden-mcp.md)** (`reference` | `reference` tier)
+* **[icoretech/warden-mcp](world/public/vault/daily-digests/2026-11-03/warden-mcp.md)** (`reference` | `reference` tier)
   * Summary: warden-mcp is an MCP server that integrates with Vaultwarden or Bitwarden to enable credential-aware AI agents to securely access, manage, and automate interactions with vault items like passwords, TOTP codes, and secure notes without hardcoding secr
   * Tags: `credential management`, `MCP server`, `Vaultwarden`, `Bitwarden integration`, `AI agent security`
 
-* **[IdanDavidAviv/virgo](world/public/vault/daily-digests/2026-11-02/virgo.md)** (`reference` | `reference` tier)
+* **[IdanDavidAviv/virgo](world/public/vault/daily-digests/2026-11-03/virgo.md)** (`reference` | `reference` tier)
   * Summary: Virgo is a VS Code extension that integrates AI agents with neural text-to-speech (TTS) to provide audible feedback, reducing reading fatigue during code reviews, architecture planning, and AI-driven tasks. It supports MCP integration for seamless ag
   * Tags: `TTS`, `AI Assistant`, `VS Code Extension`, `MCP Integration`, `Accessibility`
 
-* **[IgorGanapolsky/ThumbGate](world/public/vault/daily-digests/2026-11-02/thumbgate.md)** (`reference` | `reference` tier)
+* **[IgorGanapolsky/ThumbGate](world/public/vault/daily-digests/2026-11-03/thumbgate.md)** (`reference` | `reference` tier)
   * Summary: ThumbGate is a local-first Pre-Action Checks engine for AI coding agents that evaluates proposed tool calls before execution to prevent destructive actions, secret leaks, and high-risk commands. It integrates with popular AI coding agents like Claude
   * Tags: `AI agent safety`, `pre-action checks`, `tool call evaluation`, `risk mitigation`, `local enforcement`
 
-* **[IlhamriSKY/TEDI](world/public/vault/daily-digests/2026-11-02/tedi.md)** (`reference` | `reference` tier)
+* **[IlhamriSKY/TEDI](world/public/vault/daily-digests/2026-11-03/tedi.md)** (`reference` | `reference` tier)
   * Summary: TEDI (Terminal Director) is a lightweight, Tauri-based desktop application that consolidates eight essential developer tools—terminal, SSH client, DB browser, code editor, AI agent, browser, Git, and workspace manager—into a single window to eliminat
   * Tags: `terminal`, `AI integration`, `developer tools`, `Tauri`, `extensible`
 
-* **[imagewize/wp-ops](world/public/vault/daily-digests/2026-11-02/wp-ops.md)** (`reference` | `reference` tier)
+* **[imagewize/wp-ops](world/public/vault/daily-digests/2026-11-03/wp-ops.md)** (`reference` | `reference` tier)
   * Summary: WP OPS is a CLI tool and MCP server for WordPress operations, offering automated deployments, backups, security scanning, monitoring, and content workflows. It integrates with Trellis and Bedrock workflows, providing a unified interface for managing
   * Tags: `WordPress automation`, `CLI tool`, `MCP server`, `DevOps`, `Trellis/Bedrock`
 
-* **[indigokarasu/spot](world/public/vault/daily-digests/2026-11-02/spot.md)** (`reference` | `reference` tier)
+* **[indigokarasu/spot](world/public/vault/daily-digests/2026-11-03/spot.md)** (`reference` | `reference` tier)
   * Summary: Spot automates restaurant reservation bookings across multiple platforms (SevenRooms, Resy, Tock, OpenTable, etc.) using browser automation and plain-language requests. It also integrates with Voyage to create Travel Context entries for confirmed boo
   * Tags: `reservation automation`, `multi-platform booking`, `browser automation`, `travel context`, `restaurant booking`
 
-* **[indigokarasu/styx](world/public/vault/daily-digests/2026-11-02/styx.md)** (`reference` | `reference` tier)
+* **[indigokarasu/styx](world/public/vault/daily-digests/2026-11-03/styx.md)** (`reference` | `reference` tier)
   * Summary: Styx is a personal transaction data store that captures and enriches transaction data from email confirmations, categorizes merchants, and stores queryable purchase history with deduplication and time-range filtering capabilities.
   * Tags: `transaction processing`, `email parsing`, `merchant enrichment`, `personal finance`, `data storage`
 
-* **[indigokarasu/vesper](world/public/vault/daily-digests/2026-11-02/vesper.md)** (`reference` | `reference` tier)
+* **[indigokarasu/vesper](world/public/vault/daily-digests/2026-11-03/vesper.md)** (`reference` | `reference` tier)
   * Summary: Vesper is a daily briefing generator that aggregates signals from various sources into concise morning or evening briefings in natural language. It filters out routine background activity and presents pending decisions with option, benefit, and cost
   * Tags: `briefing generation`, `signal aggregation`, `decision framing`, `natural language processing`, `automation`
 
-* **[indigokarasu/voyage](world/public/vault/daily-digests/2026-11-02/voyage.md)** (`reference` | `reference` tier)
+* **[indigokarasu/voyage](world/public/vault/daily-digests/2026-11-03/voyage.md)** (`reference` | `reference` tier)
   * Summary: Voyage is a travel planning and itinerary construction tool that manages destination research, flight/hotel bookings, and synchronized trip logistics across integrated services like Spot and Sands. It automates travel workflows from planning to reser
   * Tags: `travel planning`, `itinerary construction`, `automation`, `logistics`, `reservation management`
 
-* **[IngTian/witness](world/public/vault/daily-digests/2026-11-02/witness.md)** (`reference` | `reference` tier)
+* **[IngTian/witness](world/public/vault/daily-digests/2026-11-03/witness.md)** (`reference` | `reference` tier)
   * Summary: witness is a local memory and self-improvement engine for Claude Code and OpenCode that captures coding sessions to distill patterns, habits, and knowledge evolution over time. It serves as a person-centric growth archive with provenance, providing s
   * Tags: `self-improvement`, `MCP server`, `session distillation`, `person-centric memory`, `coding habits`
 
-* **[initMAX/zabbix-mcp-server](world/public/vault/daily-digests/2026-11-02/zabbix-mcp-server.md)** (`reference` | `reference` tier)
+* **[initMAX/zabbix-mcp-server](world/public/vault/daily-digests/2026-11-03/zabbix-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that exposes the full Zabbix API as MCP tools, enabling AI assistants like Claude, VS Code, and JetBrains to interact with Zabbix for monitoring, alerting, and infrastructure management.
   * Tags: `MCP server`, `Zabbix integration`, `AI tooling`, `monitoring automation`, `infrastructure management`
 
-* **[inquisitive-genusvedalia144/smartest-tv](world/public/vault/daily-digests/2026-11-02/smartest-tv.md)** (`reference` | `reference` tier)
+* **[inquisitive-genusvedalia144/smartest-tv](world/public/vault/daily-digests/2026-11-03/smartest-tv.md)** (`reference` | `reference` tier)
   * Summary: smartest-tv is a desktop application and Python package that enables users to control smart TVs using natural language commands via terminal or GUI. It supports popular TV brands like LG, Samsung, Roku, and Android TV, allowing users to open apps, pl
   * Tags: `TV control`, `natural language commands`, `smart home`, `media automation`, `MCP integration`
 
-* **[Integrity-Lead/TokenOps-Guardian](world/public/vault/daily-digests/2026-11-02/tokenops-guardian.md)** (`reference` | `reference` tier)
+* **[Integrity-Lead/TokenOps-Guardian](world/public/vault/daily-digests/2026-11-03/tokenops-guardian.md)** (`reference` | `reference` tier)
   * Summary: TokenOps-Guardian is an enterprise-grade runtime validation pipeline that enforces token budget limits for autonomous AI agents to prevent runaway token consumption and financial exploitation. It operates at the application layer with sub-millisecond
   * Tags: `token governance`, `runtime security`, `agent budget enforcement`, `SIMD optimization`, `financial AI protection`
 
-* **[introfini/ZotSeek](world/public/vault/daily-digests/2026-11-02/zotseek.md)** (`reference` | `reference` tier)
+* **[introfini/ZotSeek](world/public/vault/daily-digests/2026-11-03/zotseek.md)** (`reference` | `reference` tier)
   * Summary: ZotSeek is a Zotero plugin that enables 100% local, privacy-preserving semantic search for academic papers using AI embeddings. It includes a built-in MCP server for AI agents like Claude Code to interact with Zotero libraries, enabling programmatic
   * Tags: `semantic search`, `local AI`, `Zotero integration`, `MCP server`, `privacy-focused`
 
-* **[Itzzs6571/teacher-skill](world/public/vault/daily-digests/2026-11-02/teacher-skill.md)** (`reference` | `reference` tier)
+* **[Itzzs6571/teacher-skill](world/public/vault/daily-digests/2026-11-03/teacher-skill.md)** (`reference` | `reference` tier)
   * Summary: teacher-skill is a Windows application that captures a teacher's unique teaching style, personality, and knowledge to generate AI skill files. These files can be used with AI chat systems to provide personalized tutoring that mimics the teacher's app
   * Tags: `AI tutoring`, `personalized learning`, `teacher modeling`, `skill extraction`, `local processing`
 
-* **[ivan-sincek/threat-modeling-agent-skills](world/public/vault/daily-digests/2026-11-02/threat-modeling-agent-skills.md)** (`reference` | `reference` tier)
+* **[ivan-sincek/threat-modeling-agent-skills](world/public/vault/daily-digests/2026-11-03/threat-modeling-agent-skills.md)** (`reference` | `reference` tier)
   * Summary: A repository providing modular, reusable threat modeling skills for AI agents, supporting frameworks like STRIDE, PASTA, and DREAD. Designed for zero-shot threat identification and risk scoring with actionable outputs in Markdown and JSON formats.
   * Tags: `threat modeling`, `AI agents`, `security frameworks`, `risk assessment`, `automation`
 
-* **[IvanMurzak/Unity-MCP](world/public/vault/daily-digests/2026-11-02/unity-mcp.md)** (`reference` | `reference` tier)
+* **[IvanMurzak/Unity-MCP](world/public/vault/daily-digests/2026-11-03/unity-mcp.md)** (`reference` | `reference` tier)
   * Summary: Unity-MCP is an AI-powered game development assistant that integrates Model Context Protocol (MCP) with Unity Editor and Runtime, enabling AI agents to automate workflows, generate code, and interact with games in real-time. It supports multiple AI c
   * Tags: `AI Game Development`, `Unity Integration`, `MCP Server`, `Automation`, `Real-time Debugging`
 
-* **[IvanMurzak/Unreal-MCP](world/public/vault/daily-digests/2026-11-02/unreal-mcp.md)** (`reference` | `reference` tier)
+* **[IvanMurzak/Unreal-MCP](world/public/vault/daily-digests/2026-11-03/unreal-mcp.md)** (`reference` | `reference` tier)
   * Summary: Unreal-MCP is a C++ plugin for Unreal Engine that enables AI agents to inspect and control the editor via the Model Context Protocol (MCP). It bridges Unreal Engine with AI tools like Claude, Cursor, and Copilot, allowing agents to spawn actors, edit
   * Tags: `AI Game Development`, `Unreal Engine Plugin`, `MCP Integration`, `Agent Framework`, `C++ Tooling`
 
-* **[Jamil-Shirinov/yums-ai](world/public/vault/daily-digests/2026-11-02/yums-ai.md)** (`reference` | `reference` tier)
+* **[Jamil-Shirinov/yums-ai](world/public/vault/daily-digests/2026-11-03/yums-ai.md)** (`reference` | `reference` tier)
   * Summary: Yums AI is a read-only Gmail inbox analyzer that uses OpenAI's API to classify and summarize unread emails into 'Actions' (requiring a response) and 'Notices' (informational). It authenticates via OAuth2, processes emails securely, and outputs struct
   * Tags: `email classification`, `Gmail automation`, `AI summarization`, `OAuth2 security`, `inbox management`
 
-* **[JamsusMaximus/trainingpeaks-mcp](world/public/vault/daily-digests/2026-11-02/trainingpeaks-mcp.md)** (`reference` | `reference` tier)
+* **[JamsusMaximus/trainingpeaks-mcp](world/public/vault/daily-digests/2026-11-03/trainingpeaks-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that bridges TrainingPeaks with AI assistants like Claude, enabling natural language interaction with workout data, fitness metrics, and athlete settings. It eliminates the need for API approval by using secure c
   * Tags: `TrainingPeaks`, `MCP`, `Fitness Data`, `Workout Management`, `AI Integration`
 
-* **[jasonpalmer1/wafergraph-mcp](world/public/vault/daily-digests/2026-11-02/wafergraph-mcp.md)** (`reference` | `reference` tier)
+* **[jasonpalmer1/wafergraph-mcp](world/public/vault/daily-digests/2026-11-03/wafergraph-mcp.md)** (`reference` | `reference` tier)
   * Summary: A remote MCP server exposing wafergraph.com's semiconductor and AI supply-chain dataset as five read-only tools for MCP-speaking AI agents. The dataset includes 565 companies, supplier/customer relationships, and a 74-deal M&A corpus, accessible via
   * Tags: `MCP server`, `semiconductor supply chain`, `AI dataset`, `Cloudflare Workers`, `M&A data`
 
-* **[jasonxkensei/xproof-openclaw-skill](world/public/vault/daily-digests/2026-11-02/xproof-openclaw-skill.md)** (`reference` | `reference` tier)
+* **[jasonxkensei/xproof-openclaw-skill](world/public/vault/daily-digests/2026-11-03/xproof-openclaw-skill.md)** (`reference` | `reference` tier)
   * Summary: xProof provides an accountability layer for AI agents by anchoring reasoning and planned actions on-chain before execution, ensuring immutable proof-of-output verification via MultiversX. It enables agents to prove decisions (WHY) and intentions (WHA
   * Tags: `accountability`, `on-chain verification`, `AI agent governance`, `proof-of-output`, `x402 payments`
 
-* **[jatinloey1598-dot/social-signals-analyzer](world/public/vault/daily-digests/2026-11-02/social-signals-analyzer.md)** (`reference` | `reference` tier)
+* **[jatinloey1598-dot/social-signals-analyzer](world/public/vault/daily-digests/2026-11-03/social-signals-analyzer.md)** (`reference` | `reference` tier)
   * Summary: The Social Authenticity Engine (SAE) is a cognitive toolkit that uses machine learning, behavioral psychology, and real-time interaction analysis to detect, analyze, and counter manipulative social strategies like those employed by pickup artists (PU
   * Tags: `social manipulation detection`, `authentic communication`, `behavioral analysis`, `AI-powered toolkit`, `psychological benchmarking`
 
-* **[jayadevrana/youtube-mcp-server](world/public/vault/daily-digests/2026-11-02/youtube-mcp-server.md)** (`reference` | `reference` tier)
+* **[jayadevrana/youtube-mcp-server](world/public/vault/daily-digests/2026-11-03/youtube-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables programmatic management of YouTube channels from Claude or other AI assistants, including video uploads, metadata editing, custom thumbnails, pseudo-A/B thumbnail testing, and analytics retrieval.
   * Tags: `YouTube automation`, `MCP server`, `video management`, `OAuth integration`, `analytics`
 
-* **[Jbz797/wb-chronicler](world/public/vault/daily-digests/2026-11-02/wb-chronicler.md)** (`reference` | `reference` tier)
+* **[Jbz797/wb-chronicler](world/public/vault/daily-digests/2026-11-03/wb-chronicler.md)** (`reference` | `reference` tier)
   * Summary: WB Chronicler transforms WorldBox game save files into Tolkien-style narrative chapters using Claude Code and an Angular-based reader. It automates storytelling from sandbox playthroughs while preserving world state in a local, disk-based chronicle.
   * Tags: `game narrative generation`, `world state persistence`, `Claude Code integration`, `Angular reader`, `WorldBox tooling`
 
-* **[jcoulaud/shipmail-mcp](world/public/vault/daily-digests/2026-11-02/shipmail-mcp.md)** (`reference` | `reference` tier)
+* **[jcoulaud/shipmail-mcp](world/public/vault/daily-digests/2026-11-03/shipmail-mcp.md)** (`reference` | `reference` tier)
   * Summary: Shipmail MCP Server is an official Model Context Protocol (MCP) server for Shipmail, a business email provider offering REST API, webhooks, and custom-domain inboxes. It enables MCP-compatible AI agents to interact with Shipmail domains, mailboxes, m
   * Tags: `MCP Server`, `Business Email`, `AI Agents`, `REST API`, `Custom Domain`
 
-* **[jefffergunson118-beep/smara](world/public/vault/daily-digests/2026-11-02/smara.md)** (`reference` | `reference` tier)
+* **[jefffergunson118-beep/smara](world/public/vault/daily-digests/2026-11-03/smara.md)** (`reference` | `reference` tier)
   * Summary: Smara is a local persistent memory system for AI tools that stores project context, notes, and preferences in a vector database, enabling AI assistants like Claude or Cursor to retain memory between sessions without cloud dependency.
   * Tags: `persistent memory`, `local vector DB`, `AI tool integration`, `context retention`, `privacy-focused`
 
-* **[jesign/trello-claude-plugin](world/public/vault/daily-digests/2026-11-02/trello-claude-plugin.md)** (`reference` | `reference` tier)
+* **[jesign/trello-claude-plugin](world/public/vault/daily-digests/2026-11-03/trello-claude-plugin.md)** (`reference` | `reference` tier)
   * Summary: A Claude Code plugin that integrates Trello data into the AI context by fetching card, list, and board content as clean Markdown using only a Trello API key. It operates read-only with zero dependencies and no external server requirements.
   * Tags: `Trello integration`, `Claude Code plugin`, `read-only API`, `Markdown export`, `AI context enrichment`
 
-* **[JimiZhou/tripweave](world/public/vault/daily-digests/2026-11-02/tripweave.md)** (`reference` | `reference` tier)
+* **[JimiZhou/tripweave](world/public/vault/daily-digests/2026-11-03/tripweave.md)** (`reference` | `reference` tier)
   * Summary: TripWeave is a local-first, cross-platform Vlog editor designed for travelers, enabling batch import of photos and videos to generate and edit travel vlogs with AI-assisted templates and hardware-accelerated rendering pipelines.
   * Tags: `video editing`, `local-first`, `cross-platform`, `AI-assisted`, `hardware acceleration`
 
-* **[jmagar/synapse-rmcp](world/public/vault/daily-digests/2026-11-02/synapse-rmcp.md)** (`reference` | `reference` tier)
+* **[jmagar/synapse-rmcp](world/public/vault/daily-digests/2026-11-03/synapse-rmcp.md)** (`reference` | `reference` tier)
   * Summary: Rust-based MCP and CLI server for local Synapse workflows, providing full-parity functionality to the original TypeScript implementation. It enables Docker, Compose, host, SSH, log, ZFS, and file operations through MCP tools and CLI commands.
   * Tags: `MCP server`, `Docker management`, `host inspection`, `Rust implementation`, `CLI tool`
 
-* **[Jobfromearth/vistas](world/public/vault/daily-digests/2026-11-02/vistas.md)** (`reference` | `reference` tier)
+* **[Jobfromearth/vistas](world/public/vault/daily-digests/2026-11-03/vistas.md)** (`reference` | `reference` tier)
   * Summary: Vistas is a local MCP server providing Swedish immigration and work-regulation data with official citations and versioned rules. It operates offline using an openly licensed SQLite snapshot, ensuring queries never leave the user's machine while deliv
   * Tags: `Swedish immigration data`, `legal citations`, `MCP server`, `offline RAG`, `versioned regulations`
 
-* **[john-walkoe/uspto_enriched_citation_mcp](world/public/vault/daily-digests/2026-11-02/uspto_enriched_citation_mcp.md)** (`reference` | `reference` tier)
+* **[john-walkoe/uspto_enriched_citation_mcp](world/public/vault/daily-digests/2026-11-03/uspto_enriched_citation_mcp.md)** (`reference` | `reference` tier)
   * Summary: A high-performance Model Context Protocol (MCP) server providing access to USPTO patent citation APIs, including Enriched Citations v3 (AI-extracted passage locations) and Office Action Citations v2 (raw Form 892/1449 data). It enables token-saving c
   * Tags: `USPTO`, `patent citations`, `MCP server`, `AI-extracted data`, `token optimization`
 
-* **[john-walkoe/uspto_ptab_mcp](world/public/vault/daily-digests/2026-11-02/uspto_ptab_mcp.md)** (`reference` | `reference` tier)
+* **[john-walkoe/uspto_ptab_mcp](world/public/vault/daily-digests/2026-11-03/uspto_ptab_mcp.md)** (`reference` | `reference` tier)
   * Summary: A high-performance Model Context Protocol (MCP) server for the USPTO Patent Trial and Appeal Board (PTAB) Open Data Portal API, enabling token-saving context reduction, hybrid document extraction, and seamless cross-MCP integration for patent lifecyc
   * Tags: `USPTO PTAB`, `MCP Server`, `Patent Analysis`, `Context Reduction`, `Document Extraction`
 
-* **[JohnDeer-ai/veqtor-mcp](world/public/vault/daily-digests/2026-11-02/veqtor-mcp.md)** (`reference` | `reference` tier)
+* **[JohnDeer-ai/veqtor-mcp](world/public/vault/daily-digests/2026-11-03/veqtor-mcp.md)** (`reference` | `reference` tier)
   * Summary: Veqtor MCP is a local Model Context Protocol (MCP) server designed to enable AI clients to interact with DOCX documents for verifiable contract negotiation history and tracked-change edits. It provides deterministic tools for reading redlines, verify
   * Tags: `contract negotiation`, `tracked changes`, `DOCX processing`, `MCP server`, `legal document automation`
 
-* **[jordanahern2009-svg/Tokio-ai](world/public/vault/daily-digests/2026-11-02/tokio-ai.md)** (`reference` | `reference` tier)
+* **[jordanahern2009-svg/Tokio-ai](world/public/vault/daily-digests/2026-11-03/tokio-ai.md)** (`reference` | `reference` tier)
   * Summary: TokIO AI is an open-source financial research agent that rigorously tests claims using statistical methods like permutation tests and multiple-testing corrections before providing insights. It integrates real-time financial data (price history, SEC f
   * Tags: `financial research`, `statistical rigor`, `hypothesis testing`, `permutation tests`, `LLM agent`
 
-* **[jordanlyall/wc26-mcp](world/public/vault/daily-digests/2026-11-02/wc26-mcp.md)** (`reference` | `reference` tier)
+* **[jordanlyall/wc26-mcp](world/public/vault/daily-digests/2026-11-03/wc26-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server providing comprehensive, static World Cup 2026 data for AI assistants and clients. Offers 18 tools for matches, teams, venues, city guides, fan zones, visa info, and more, with zero external API dependencies.
   * Tags: `MCP`, `World Cup 2026`, `AI Companion`, `Static Data`, `Tooling`
 
-* **[jsuzanne/stigix](world/public/vault/daily-digests/2026-11-02/stigix.md)** (`reference` | `reference` tier)
+* **[jsuzanne/stigix](world/public/vault/daily-digests/2026-11-03/stigix.md)** (`reference` | `reference` tier)
   * Summary: Stigix is a web-based SD-WAN traffic generator and security testing platform designed for validating modern SASE/SD-WAN deployments. It combines realistic traffic simulation, real-time monitoring, and comprehensive security testing in a single tool.
   * Tags: `SD-WAN`, `Network Simulation`, `Security Testing`, `Traffic Generation`, `SASE`
 
-* **[jtalk22/slack-mcp-server](world/public/vault/daily-digests/2026-11-02/slack-mcp-server.md)** (`reference` | `reference` tier)
+* **[jtalk22/slack-mcp-server](world/public/vault/daily-digests/2026-11-03/slack-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that integrates Slack with AI agents by leveraging browser session tokens, enabling seamless access to Slack data without OAuth or app registration. It provides 21 tools for reading, writing, and managing Slack c
   * Tags: `Slack integration`, `MCP server`, `AI agent tooling`, `session tokens`, `automation`
 
-* **[Julie22-yaerin/Thelyceum_22](world/public/vault/daily-digests/2026-11-02/thelyceum_22.md)** (`reference` | `reference` tier)
+* **[Julie22-yaerin/Thelyceum_22](world/public/vault/daily-digests/2026-11-03/thelyceum_22.md)** (`reference` | `reference` tier)
   * Summary: The Lyceum provides three circuit-breaking tools (brake, redteam, thrift) designed to halt dangerous AI agent actions, biased conclusions, and redundant token usage in real-time. It operates as a lightweight, always-on system integrated directly into
   * Tags: `circuit breakers`, `AI safety`, `agent monitoring`, `token optimization`, `real-time validation`
 
-* **[junit/structured-thinking](world/public/vault/daily-digests/2026-11-02/structured-thinking.md)** (`reference` | `reference` tier)
+* **[junit/structured-thinking](world/public/vault/daily-digests/2026-11-03/structured-thinking.md)** (`reference` | `reference` tier)
   * Summary: A structured thinking framework for AI agents and developers to transform raw logs, events, and scattered data into verifiable, evidence-preserving communication and analysis for incident and decision-making processes.
   * Tags: `structured thinking`, `evidence preservation`, `incident analysis`, `decision analysis`, `AI agent communication`
 
-* **[junter1989k-ai/taiwan-logistics-mcp](world/public/vault/daily-digests/2026-11-02/taiwan-logistics-mcp.md)** (`reference` | `reference` tier)
+* **[junter1989k-ai/taiwan-logistics-mcp](world/public/vault/daily-digests/2026-11-03/taiwan-logistics-mcp.md)** (`reference` | `reference` tier)
   * Summary: A stateless remote MCP server enabling AI agents to create and track Taiwan logistics shipments, including convenience store pickup (超商取貨) and home delivery (宅配), via the ECPay Logistics API. Supports real-time label generation and shipment tracking
   * Tags: `Taiwan logistics`, `ECPay API`, `MCP server`, `shipment automation`, `stateless`
 
-* **[KarstenKreh/Standby.Design](world/public/vault/daily-digests/2026-11-02/standby_design.md)** (`reference` | `reference` tier)
+* **[KarstenKreh/Standby.Design](world/public/vault/daily-digests/2026-11-03/standby_design.md)** (`reference` | `reference` tier)
   * Summary: A collection of lightweight, client-side design tools for developers and designers, including an OKLCH-based color palette generator with no build steps or dependencies. Features pure HTML/CSS/JS implementations for rapid prototyping and deployment.
   * Tags: `color-palette-generator`, `design-system-tools`, `OKLCH`, `client-side`, `web-tools`
 
-* **[kau10082/slide-verify](world/public/vault/daily-digests/2026-11-02/slide-verify.md)** (`reference` | `reference` tier)
+* **[kau10082/slide-verify](world/public/vault/daily-digests/2026-11-03/slide-verify.md)** (`reference` | `reference` tier)
   * Summary: A Claude Skill designed for medical slide decks that verifies citations and numbers against PubMed and other databases, corrects errors, reorders slides for better flow, splits overloaded pages, and optionally rewrites dense text into plain language.
   * Tags: `medical slide verification`, `citation checking`, `PubMed integration`, `slide reordering`, `plain language rewrite`
 
-* **[kdowding/Stela](world/public/vault/daily-digests/2026-11-02/stela.md)** (`reference` | `reference` tier)
+* **[kdowding/Stela](world/public/vault/daily-digests/2026-11-03/stela.md)** (`reference` | `reference` tier)
   * Summary: Stela is a self-hosted platform for publishing, versioning, and sharing AI agent-generated artifacts (e.g., dashboards, prototypes) with stable URLs, revision history, and pinned visual comments. It acts as a neutral hub for artifacts from any MCP-sp
   * Tags: `self-hosted`, `MCP integration`, `artifact management`, `collaboration`, `versioning`
 
-* **[kengos/shojiku](world/public/vault/daily-digests/2026-11-02/shojiku.md)** (`reference` | `reference` tier)
+* **[kengos/shojiku](world/public/vault/daily-digests/2026-11-03/shojiku.md)** (`reference` | `reference` tier)
   * Summary: Shojiku is a deterministic PDF generation engine that converts YAML-based templates and data into business documents like invoices, receipts, and forms. It supports AI agents, humans, and CI/CD pipelines with a local-first, multi-platform approach.
   * Tags: `PDF generation`, `YAML templating`, `AI agent integration`, `local-first`, `business documents`
 
-* **[kevinpbuckley/VibeUE](world/public/vault/daily-digests/2026-11-02/vibeue.md)** (`reference` | `reference` tier)
+* **[kevinpbuckley/VibeUE](world/public/vault/daily-digests/2026-11-03/vibeue.md)** (`reference` | `reference` tier)
   * Summary: VibeUE is an MCP Expansion and AI Editor Toolset for Unreal Engine 5.8+ that enhances the engine's built-in AI capabilities with deep domain-specific tools for terrain, audio, animation, performance profiling, and more. It integrates directly with Un
   * Tags: `Unreal Engine`, `AI Tooling`, `MCP Expansion`, `Performance Profiling`, `Game Development`
 
-* **[KhanhRomVN/Zen](world/public/vault/daily-digests/2026-11-02/zen.md)** (`reference` | `reference` tier)
+* **[KhanhRomVN/Zen](world/public/vault/daily-digests/2026-11-03/zen.md)** (`reference` | `reference` tier)
   * Summary: Zen is a VSCode extension that integrates AI chat directly into the editor, enabling users to connect to any LLM provider for code-related assistance, file operations, and conversation tracking without leaving the development environment.
   * Tags: `VSCode extension`, `AI chat`, `code assistant`, `multi-LLM`, `file operations`
 
-* **[khglynn/spotify-bulk-actions-mcp](world/public/vault/daily-digests/2026-11-02/spotify-bulk-actions-mcp.md)** (`reference` | `reference` tier)
+* **[khglynn/spotify-bulk-actions-mcp](world/public/vault/daily-digests/2026-11-03/spotify-bulk-actions-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server enabling bulk Spotify operations such as batch playlist creation, library exports, and large-scale library management with confidence scoring and human-in-the-loop review for uncertain matches.
   * Tags: `Spotify automation`, `bulk operations`, `MCP server`, `playlist generation`, `library management`
 
-* **[KincaidYang/whois](world/public/vault/daily-digests/2026-11-02/whois.md)** (`reference` | `reference` tier)
+* **[KincaidYang/whois](world/public/vault/daily-digests/2026-11-03/whois.md)** (`reference` | `reference` tier)
   * Summary: A self-hostable WHOIS/RDAP API and MCP server that unifies domain, IPv4/v6, CIDR prefix, and ASN queries into a consistent JSON response. It prioritizes RDAP (RFC 9083) with WHOIS fallback, supports authentication, caching, and batch operations.
   * Tags: `WHOIS`, `RDAP`, `IP lookup`, `ASN lookup`, `self-hosted`
 
-* **[Kirky-X/specmark](world/public/vault/daily-digests/2026-11-02/specmark.md)** (`reference` | `reference` tier)
+* **[Kirky-X/specmark](world/public/vault/daily-digests/2026-11-03/specmark.md)** (`reference` | `reference` tier)
   * Summary: Specmark is a spec-driven change management skill for AI agents that provides a seven-stage workflow (explore, clarify, propose, analyze, apply, converge, archive) to streamline software development changes through structured documentation and automa
   * Tags: `spec-driven development`, `AI agent workflow`, `change management`, `documentation automation`, `workflow orchestration`
 
-* **[Kirky-X/tiangang](world/public/vault/daily-digests/2026-11-02/tiangang.md)** (`reference` | `reference` tier)
+* **[Kirky-X/tiangang](world/public/vault/daily-digests/2026-11-03/tiangang.md)** (`reference` | `reference` tier)
   * Summary: Tiangang is an AI agent-first SAST (Static Application Security Testing) skill designed to automate security audits for multi-language projects. It orchestrates language-specific scanners (e.g., Bandit for Python, Gosec for Go) alongside universal to
   * Tags: `SAST`, `multi-language security`, `AI agent integration`, `static analysis`, `vulnerability scanning`
 
-* **[Kirusshenkin/terminalOs](world/public/vault/daily-digests/2026-11-02/terminalos.md)** (`reference` | `reference` tier)
+* **[Kirusshenkin/terminalOs](world/public/vault/daily-digests/2026-11-03/terminalos.md)** (`reference` | `reference` tier)
   * Summary: Phosphor is a macOS terminal application that consolidates SSH, Docker management, server monitoring, SFTP, and key management into a single interface over one SSH connection per host. It also exposes an MCP server for secure AI agent access to serve
   * Tags: `terminal`, `SSH multiplexing`, `MCP server`, `Docker management`, `audit logging`
 
-* **[koei-kaji/zk-utils](world/public/vault/daily-digests/2026-11-02/zk-utils.md)** (`reference` | `reference` tier)
+* **[koei-kaji/zk-utils](world/public/vault/daily-digests/2026-11-03/zk-utils.md)** (`reference` | `reference` tier)
   * Summary: zk-utils is an MCP (Model Context Protocol) server designed for managing zk note collections, enabling search, creation, and link analysis of notes. It integrates with the zk command-line tool to provide structured note management capabilities for AI
   * Tags: `MCP server`, `note management`, `link analysis`, `zk integration`, `context protocol`
 
-* **[kofujimura/tctc-mcp](world/public/vault/daily-digests/2026-11-02/tctc-mcp.md)** (`reference` | `reference` tier)
+* **[kofujimura/tctc-mcp](world/public/vault/daily-digests/2026-11-03/tctc-mcp.md)** (`reference` | `reference` tier)
   * Summary: tctc-mcp is an MCP server that exposes ERC-7303 (Token-Controlled Token Circulation) roles to AI agents, enabling on-chain permission checks and management without requiring a separate permission server. Agents can verify their own permissions, while
   * Tags: `AI agent permissions`, `on-chain authorization`, `ERC-7303`, `MCP server`, `gasless expiry`
 
-* **[koprjaa/theses-mcp](world/public/vault/daily-digests/2026-11-02/theses-mcp.md)** (`reference` | `reference` tier)
+* **[koprjaa/theses-mcp](world/public/vault/daily-digests/2026-11-03/theses-mcp.md)** (`reference` | `reference` tier)
   * Summary: MCP server providing full-text search and metadata retrieval for Czech university theses from theses.cz, including PDF downloads and authenticated access to restricted content. It bridges the national thesis registry with individual university reposi
   * Tags: `thesis retrieval`, `Czech academic content`, `MCP server`, `full-text search`, `metadata extraction`
 
-* **[korovin-aa97/talkthrough-mcp](world/public/vault/daily-digests/2026-11-02/talkthrough-mcp.md)** (`reference` | `reference` tier)
+* **[korovin-aa97/talkthrough-mcp](world/public/vault/daily-digests/2026-11-03/talkthrough-mcp.md)** (`reference` | `reference` tier)
   * Summary: talkthrough-mcp is an MCP server that converts narrated screen recordings or video/audio files into structured, agent-ready data including transcripts, keyframes, OCR text, and wall-clock-anchored timestamps. It enables AI agents to process local med
   * Tags: `MCP server`, `screen recording analysis`, `local-first`, `transcript generation`, `OCR`
 
-* **[Krill113/symbiosis-brain](world/public/vault/daily-digests/2026-11-02/symbiosis-brain.md)** (`reference` | `reference` tier)
+* **[Krill113/symbiosis-brain](world/public/vault/daily-digests/2026-11-03/symbiosis-brain.md)** (`reference` | `reference` tier)
   * Summary: Symbiosis Brain provides persistent, local memory for Claude Code using a markdown-based vault system. It enables AI agents to retain project-specific context, decisions, and knowledge across sessions without relying on cloud APIs or invasive modific
   * Tags: `memory`, `local-first`, `markdown-vault`, `Claude-Code`, `bi-temporal`
 
-* **[KrishOjha1810/voicebridge](world/public/vault/daily-digests/2026-11-02/voicebridge.md)** (`reference` | `reference` tier)
+* **[KrishOjha1810/voicebridge](world/public/vault/daily-digests/2026-11-03/voicebridge.md)** (`reference` | `reference` tier)
   * Summary: voicebridge enhances Claude Code Remote Control by adding two-way voice interaction, enabling hands-free conversation with your local AI agent. It provides narrated progress updates, real-time voice input/output, and a trustworthy review interface vi
   * Tags: `voice interface`, `local STT/TTS`, `Claude Code integration`, `hands-free coding`, `real-time narration`
 
-* **[kuntayerkus/swisseph-wasm](world/public/vault/daily-digests/2026-11-02/swisseph-wasm.md)** (`reference` | `reference` tier)
+* **[kuntayerkus/swisseph-wasm](world/public/vault/daily-digests/2026-11-03/swisseph-wasm.md)** (`reference` | `reference` tier)
   * Summary: A WebAssembly compilation of the Swiss Ephemeris 2.10.03 library, providing high-precision planetary positions, house systems, eclipses, and fixed stars for JavaScript/TypeScript environments. The library is optimized for size (230 KB brotli-compress
   * Tags: `astronomy`, `ephemeris`, `WebAssembly`, `planetary calculations`, `astrology`
 
-* **[kurok/whoopmcp](world/public/vault/daily-digests/2026-11-02/whoopmcp.md)** (`reference` | `reference` tier)
+* **[kurok/whoopmcp](world/public/vault/daily-digests/2026-11-03/whoopmcp.md)** (`reference` | `reference` tier)
   * Summary: A read-only MCP server for the WHOOP API v2 that enables MCP clients to query and analyze personal health data (recovery, sleep, strain, cycles, workouts) locally without exposing credentials to external services. Currently in pre-alpha with stubbed
   * Tags: `MCP Server`, `WHOOP API`, `Health Data`, `OAuth`, `Local Processing`
 
-* **[lefos13/token-optimizer](world/public/vault/daily-digests/2026-11-02/token-optimizer.md)** (`reference` | `reference` tier)
+* **[lefos13/token-optimizer](world/public/vault/daily-digests/2026-11-03/token-optimizer.md)** (`reference` | `reference` tier)
   * Summary: Token Optimizer is an MCP server that processes and condenses verbose build, test, and log outputs into compact, actionable insights for AI coding agents. It integrates with local and remote LLM providers to deliver verdicts, triage results, and targ
   * Tags: `log optimization`, `MCP server`, `AI coding assistant`, `build validation`, `local LLM integration`
 
-* **[Lemuelendoscopic797/vecmem](world/public/vault/daily-digests/2026-11-02/vecmem.md)** (`reference` | `reference` tier)
+* **[Lemuelendoscopic797/vecmem](world/public/vault/daily-digests/2026-11-03/vecmem.md)** (`reference` | `reference` tier)
   * Summary: vecmem is a local, meaning-based search tool that indexes markdown notes and enables instant semantic search for AI assistants or users. It converts notes into vector embeddings and stores them in a local SQLite database for fast, offline retrieval.
   * Tags: `semantic search`, `local embeddings`, `markdown indexing`, `MCP server`, `offline AI tools`
 
-* **[LeonAkasaka/UnionAir](world/public/vault/daily-digests/2026-11-02/unionair.md)** (`reference` | `reference` tier)
+* **[LeonAkasaka/UnionAir](world/public/vault/daily-digests/2026-11-03/unionair.md)** (`reference` | `reference` tier)
   * Summary: UnionAir is an experimental Unity Editor plugin that exposes Unity's internal state and operations as a local REST API, enabling AI assistants, development bots, and CI tooling to interact with Unity projects programmatically without direct file syst
   * Tags: `Unity integration`, `REST bridge`, `AI tooling`, `Editor automation`, `CI/CD`
 
-* **[LeonTing1010/tap](world/public/vault/daily-digests/2026-11-02/tap.md)** (`reference` | `reference` tier)
+* **[LeonTing1010/tap](world/public/vault/daily-digests/2026-11-03/tap.md)** (`reference` | `reference` tier)
   * Summary: Taprun is a browser automation tool that captures logged-in browser tasks into deterministic .plan.json programs, enabling zero-LLM-token replays for repetitive tasks like data extraction or form submissions. It integrates with AI agents (Claude, Cur
   * Tags: `browser automation`, `zero-token replay`, `deterministic workflows`, `MCP integration`, `logged-in session capture`
 
-* **[letmego2022/wechat_lite](world/public/vault/daily-digests/2026-11-02/wechat_lite.md)** (`reference` | `reference` tier)
+* **[letmego2022/wechat_lite](world/public/vault/daily-digests/2026-11-03/wechat_lite.md)** (`reference` | `reference` tier)
   * Summary: A lightweight web-based WeChat bot management console that enables QR code binding, bot control, AI-powered auto-replies, and plugin-based automation for WeChat interactions via the iLink/ClawBot protocol.
   * Tags: `WeChat Bot`, `AI Automation`, `Plugin System`, `Docker Deployment`, `Multi-User Isolation`
 
-* **[linny006/trending-claude-skills](world/public/vault/daily-digests/2026-11-02/trending-claude-skills.md)** (`reference` | `reference` tier)
+* **[linny006/trending-claude-skills](world/public/vault/daily-digests/2026-11-03/trending-claude-skills.md)** (`reference` | `reference` tier)
   * Summary: Auto-updated leaderboard tracking trending AI agent skills and Claude Code repositories by freshness and momentum, refreshed every 15 minutes via GitHub Actions.
   * Tags: `Claude Code`, `AI Agents`, `GitHub Trends`, `Auto-updated`, `Skill Repository`
 
-* **[linny006/vector-db-live](world/public/vault/daily-digests/2026-11-02/vector-db-live.md)** (`reference` | `reference` tier)
+* **[linny006/vector-db-live](world/public/vault/daily-digests/2026-11-03/vector-db-live.md)** (`reference` | `reference` tier)
   * Summary: A live-updating tracker that monitors and compares vector database projects, integrations, and benchmarks, refreshing data every 15 minutes from GitHub and other sources to provide an always-current landscape of the vector DB ecosystem.
   * Tags: `vector database`, `landscape`, `live tracking`, `benchmarking`, `ecosystem`
 
-* **[liz312948-crypto/verilog-verification-agent](world/public/vault/daily-digests/2026-11-02/verilog-verification-agent.md)** (`reference` | `reference` tier)
+* **[liz312948-crypto/verilog-verification-agent](world/public/vault/daily-digests/2026-11-03/verilog-verification-agent.md)** (`reference` | `reference` tier)
   * Summary: A lightweight Python harness for generating and repairing Verilog RTL code using deterministic testbenches and Icarus Verilog simulation. It enforces strict JSON circuit specifications, limits model repairs to three attempts, and produces auditable r
   * Tags: `Verilog generation`, `RTL repair`, `deterministic verification`, `Icarus Verilog`, `audiable reports`
 
-* **[Lokesh-Tallapaneni/veloce](world/public/vault/daily-digests/2026-11-02/veloce.md)** (`reference` | `reference` tier)
+* **[Lokesh-Tallapaneni/veloce](world/public/vault/daily-digests/2026-11-03/veloce.md)** (`reference` | `reference` tier)
   * Summary: Veloce is an async-first, ASGI-native Python web framework that unifies route definitions with HTTP endpoints, OpenAPI operations, and MCP tools in a single codebase. It eliminates external dependencies by providing a radix-tree router, dependency in
   * Tags: `async web framework`, `ASGI-native`, `OpenAPI generator`, `dependency injection`, `MCP integration`
 
-* **[lora-sys/shape-up-project-shaping](world/public/vault/daily-digests/2026-11-02/shape-up-project-shaping.md)** (`reference` | `reference` tier)
+* **[lora-sys/shape-up-project-shaping](world/public/vault/daily-digests/2026-11-03/shape-up-project-shaping.md)** (`reference` | `reference` tier)
   * Summary: A project shaping skill based on Basecamp's Shape Up methodology, designed to transform vague product ideas into well-scoped, bet-worthy projects with clear boundaries, deliverables, and validation criteria. Tailored for AI agents, product teams, and
   * Tags: `project shaping`, `MVP planning`, `scope management`, `AI agent collaboration`, `decision-making framework`
 
-* **[lost-rob0t/zara](world/public/vault/daily-digests/2026-11-02/zara.md)** (`reference` | `reference` tier)
+* **[lost-rob0t/zara](world/public/vault/daily-digests/2026-11-03/zara.md)** (`reference` | `reference` tier)
   * Summary: Zara is a NixOS flake providing a CLI-based natural language interface and voice-to-text utility using Whisper. It supports wake-word mode and plans to integrate text-to-speech (TTS) in the future.
   * Tags: `voice-assistant`, `NixOS`, `Whisper`, `CLI`, `NLP`
 
-* **[lucaszengool/Terse](world/public/vault/daily-digests/2026-11-02/terse.md)** (`reference` | `reference` tier)
+* **[lucaszengool/Terse](world/public/vault/daily-digests/2026-11-03/terse.md)** (`reference` | `reference` tier)
   * Summary: Terse is an on-device AI agent butler that optimizes, monitors, and manages AI coding agents like Claude Code, Cursor, and Copilot. It compresses prompts by 40–70%, enforces budget limits, and provides live diagnostics to reduce API costs and improve
   * Tags: `AI agent monitoring`, `prompt optimization`, `cost reduction`, `MCP management`, `on-device processing`
 
-* **[LuiggiVal08/toon-memory](world/public/vault/daily-digests/2026-11-02/toon-memory.md)** (`reference` | `reference` tier)
+* **[LuiggiVal08/toon-memory](world/public/vault/daily-digests/2026-11-03/toon-memory.md)** (`reference` | `reference` tier)
   * Summary: toon-memory is an MCP (Model Context Protocol) memory server that provides persistent, token-efficient memory for AI coding agents, enabling them to remember decisions, patterns, and bugs across sessions without relying on LLMs or external servers.
   * Tags: `MCP server`, `persistent memory`, `AI agent tools`, `token-efficient`, `multi-session coordination`
 
-* **[lvshiwei66/tokenmf](world/public/vault/daily-digests/2026-11-02/tokenmf.md)** (`reference` | `reference` tier)
+* **[lvshiwei66/tokenmf](world/public/vault/daily-digests/2026-11-03/tokenmf.md)** (`reference` | `reference` tier)
   * Summary: Tokenmf CLI (`tmf`) is a command-line tool that enables users to quickly switch and manage LLM providers with a single command, simplifying provider configuration and testing across AI applications.
   * Tags: `LLM management`, `CLI tool`, `provider switching`, `AI configuration`, `developer tooling`
 
-* **[magneticlineofforceplaymaker9843/shi-yigong-skill](world/public/vault/daily-digests/2026-11-02/shi-yigong-skill.md)** (`reference` | `reference` tier)
+* **[magneticlineofforceplaymaker9843/shi-yigong-skill](world/public/vault/daily-digests/2026-11-03/shi-yigong-skill.md)** (`reference` | `reference` tier)
   * Summary: shi-yigong-skill is a Windows-based desktop application that applies structured academic frameworks from Professor Shi Yigong to break down complex problems, enhance clarity, and improve logical reasoning in daily tasks. It integrates with Claude Cod
   * Tags: `structured thinking`, `academic frameworks`, `AI-assisted analysis`, `logical reasoning`, `desktop application`
 
-* **[makethisbetter/skills](world/public/vault/daily-digests/2026-11-02/skills.md)** (`reference` | `reference` tier)
+* **[makethisbetter/skills](world/public/vault/daily-digests/2026-11-03/skills.md)** (`reference` | `reference` tier)
   * Summary: A Claude Code skill that enables AI-driven feedback management and resolution by integrating slash commands for triaging, picking, and fixing user-reported issues with structured context and automated workflows.
   * Tags: `feedback automation`, `AI-driven development`, `issue triage`, `Claude Code skills`, `developer tools`
 
-* **[malkreide/swiss-procurement-mcp](world/public/vault/daily-digests/2026-11-02/swiss-procurement-mcp.md)** (`reference` | `reference` tier)
+* **[malkreide/swiss-procurement-mcp](world/public/vault/daily-digests/2026-11-03/swiss-procurement-mcp.md)** (`reference` | `reference` tier)
   * Summary: MCP server providing read-only access to the Swiss public procurement API (simap.ch), enabling AI agents to query tenders, awards, and construction codes across all cantons and the Confederation with detailed metadata and filtering capabilities.
   * Tags: `MCP server`, `Swiss procurement`, `simap.ch API`, `public data`, `read-only access`
 
-* **[malkreide/swiss-statistics-mcp](world/public/vault/daily-digests/2026-11-02/swiss-statistics-mcp.md)** (`reference` | `reference` tier)
+* **[malkreide/swiss-statistics-mcp](world/public/vault/daily-digests/2026-11-03/swiss-statistics-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP (Model Context Protocol) server providing AI-native access to Swiss Federal Statistical Office (BFS) data via the STAT-TAB PxWeb API, offering 682 datasets across 21 themes without authentication. Designed for seamless integration with AI agen
   * Tags: `Swiss public data`, `MCP server`, `STAT-TAB API`, `open government data`, `statistics`
 
-* **[mao-data/vidcut](world/public/vault/daily-digests/2026-11-02/vidcut.md)** (`reference` | `reference` tier)
+* **[mao-data/vidcut](world/public/vault/daily-digests/2026-11-03/vidcut.md)** (`reference` | `reference` tier)
   * Summary: vidcut is a local-first, AI-native video editor that enables real-time collaboration between AI agents (via MCP) and human editors through a browser-based timeline interface. The AI performs edits like cutting, captioning, and audio mixing, while the
   * Tags: `video editing`, `AI collaboration`, `MCP integration`, `local-first`, `real-time feedback`
 
-* **[mapleleavessssssss-wq/vivado-mcp](world/public/vault/daily-digests/2026-11-02/vivado-mcp.md)** (`reference` | `reference` tier)
+* **[mapleleavessssssss-wq/vivado-mcp](world/public/vault/daily-digests/2026-11-03/vivado-mcp.md)** (`reference` | `reference` tier)
   * Summary: A lean MCP server enabling AI agents like Claude Code and Cursor to safely drive local Xilinx Vivado installations. It provides 30 curated tools, 8 evidence-driven workflows, and supports GUI, Tcl, and attach session modes for FPGA development workfl
   * Tags: `FPGA development`, `Vivado automation`, `MCP server`, `AI agent integration`, `hardware design`
 
-* **[Marionviceregal8571/Solana-Token-Sniper-Anti-Rug](world/public/vault/daily-digests/2026-11-02/solana-token-sniper-anti-rug.md)** (`reference` | `reference` tier)
+* **[Marionviceregal8571/Solana-Token-Sniper-Anti-Rug](world/public/vault/daily-digests/2026-11-03/solana-token-sniper-anti-rug.md)** (`reference` | `reference` tier)
   * Summary: A Windows-based Solana sniper bot that automatically buys new tokens at launch with anti-rug protection to detect and avoid scams. It scans Raydium and Jupiter for new liquidity pools and executes trades in milliseconds.
   * Tags: `Solana`, `Sniper Bot`, `Anti-Rug`, `Raydium`, `Jupiter`
 
-* **[Markgatcha/universal-mcp-toolkit](world/public/vault/daily-digests/2026-11-02/universal-mcp-toolkit.md)** (`reference` | `reference` tier)
+* **[Markgatcha/universal-mcp-toolkit](world/public/vault/daily-digests/2026-11-03/universal-mcp-toolkit.md)** (`reference` | `reference` tier)
   * Summary: A production-ready monorepo providing a unified Model Context Protocol (MCP) server toolkit with 27+ pre-built servers, a strict-mode TypeScript core, and a polished CLI for tool installation, configuration, and management across AI agent workflows.
   * Tags: `MCP`, `AI Tooling`, `Monorepo`, `CLI`, `Server Integration`
 
-* **[markl-a/spectyn-secure-connector](world/public/vault/daily-digests/2026-11-02/spectyn-secure-connector.md)** (`reference` | `reference` tier)
+* **[markl-a/spectyn-secure-connector](world/public/vault/daily-digests/2026-11-03/spectyn-secure-connector.md)** (`reference` | `reference` tier)
   * Summary: A security-focused data pipeline guardrail for PHI de-identification, compliance scanning, and MCP bridge integration within the phantom-mesh ecosystem. It ensures sensitive data security, tool trust, and continuous validation via synthetic guardrail
   * Tags: `PHI de-identification`, `compliance scanning`, `MCP bridge`, `security guardrails`, `synthetic data`
 
-* **[marktoda/zj-radar](world/public/vault/daily-digests/2026-11-02/zj-radar.md)** (`reference` | `reference` tier)
+* **[marktoda/zj-radar](world/public/vault/daily-digests/2026-11-03/zj-radar.md)** (`reference` | `reference` tier)
   * Summary: zj-radar is a Zellij sidebar plugin that provides real-time visibility into AI-agent statuses (e.g., Claude Code, Codex, Opencode) across all tabs in a Zellij session. It enables quick navigation to agent panes needing attention and supports cross-se
   * Tags: `Zellij`, `AI agent monitoring`, `sidebar plugin`, `real-time status`, `terminal multiplexing`
 
-* **[marvinrez/vibe-security-check](world/public/vault/daily-digests/2026-11-02/vibe-security-check.md)** (`reference` | `reference` tier)
+* **[marvinrez/vibe-security-check](world/public/vault/daily-digests/2026-11-03/vibe-security-check.md)** (`reference` | `reference` tier)
   * Summary: A security audit toolkit for AI-built applications that identifies vulnerabilities in both the application code and the AI pipeline used to generate it. It provides offline, account-free checks for common security flaws introduced by AI-generated cod
   * Tags: `security audit`, `AI-generated code`, `vulnerability detection`, `offline tooling`, `CI integration`
 
-* **[matterhornso/subscribetome](world/public/vault/daily-digests/2026-11-02/subscribetome.md)** (`reference` | `reference` tier)
+* **[matterhornso/subscribetome](world/public/vault/daily-digests/2026-11-03/subscribetome.md)** (`reference` | `reference` tier)
   * Summary: subscribetome is a secure API key and subscription manager for Claude Code that integrates with the OS keychain to prevent API keys from ever being exposed in chat. It enables secure key management, real-time spend tracking, and multi-user team attri
   * Tags: `API key management`, `Claude Code integration`, `Security`, `Multi-user teams`, `OS keychain`
 
-* **[Mau-Q/zhiyan-paper-reading-agent](world/public/vault/daily-digests/2026-11-02/zhiyan-paper-reading-agent.md)** (`reference` | `reference` tier)
+* **[Mau-Q/zhiyan-paper-reading-agent](world/public/vault/daily-digests/2026-11-03/zhiyan-paper-reading-agent.md)** (`reference` | `reference` tier)
   * Summary: A local agent designed for in-depth reading and analysis of single-text computer science papers. It processes PDFs or arXiv IDs to generate structured Markdown/JSON reports with page-level citations, chapter breakdowns, and evidence-backed claims, fo
   * Tags: `paper analysis`, `evidence-grounded`, `scientific document processing`, `local processing`, `claim-evidence mapping`
 
-* **[maxgfr/ultradoc](world/public/vault/daily-digests/2026-11-02/ultradoc.md)** (`reference` | `reference` tier)
+* **[maxgfr/ultradoc](world/public/vault/daily-digests/2026-11-03/ultradoc.md)** (`reference` | `reference` tier)
   * Summary: Ultradoc is a zero-dependency CLI and MCP server that enables ultra-precise, citation-backed answers about any open-source project by retrieving evidence directly from the project's source code, issues, PRs, docs, and the web. It ensures answers are
   * Tags: `grounded retrieval`, `citation verification`, `RAG optimization`, `MCP server`, `open-source documentation`
 
-* **[maxgfr/ultraprospect](world/public/vault/daily-digests/2026-11-02/ultraprospect.md)** (`reference` | `reference` tier)
+* **[maxgfr/ultraprospect](world/public/vault/daily-digests/2026-11-03/ultraprospect.md)** (`reference` | `reference` tier)
   * Summary: Ultraprospect transforms geographic locations into defensible prospect lists by fusing OpenStreetMap data with French company register records, ensuring traceability and avoiding assumptions. It provides a zero-dependency CLI, agent skill, and MCP se
   * Tags: `prospecting`, `data fusion`, `geospatial`, `company registry`, `validation`
 
-* **[maxgfr/ultrasearch](world/public/vault/daily-digests/2026-11-02/ultrasearch.md)** (`reference` | `reference` tier)
+* **[maxgfr/ultrasearch](world/public/vault/daily-digests/2026-11-03/ultrasearch.md)** (`reference` | `reference` tier)
   * Summary: ultrasearch is a keyless, multi-backend web search tool that retrieves, deduplicates, and synthesizes web content into citation-checked research reports. It supports five modes (topic, bug, research, learn, startup) and an optional agentic deep-resea
   * Tags: `web search`, `citation checking`, `RAG grounding`, `multi-backend retrieval`, `agentic research`
 
-* **[maxgfr/ultrasec](world/public/vault/daily-digests/2026-11-02/ultrasec.md)** (`reference` | `reference` tier)
+* **[maxgfr/ultrasec](world/public/vault/daily-digests/2026-11-03/ultrasec.md)** (`reference` | `reference` tier)
   * Summary: ultrasec is a cross-file security audit tool that traces untrusted data across functions and files, orchestrates OSS scanners, and adversarially verifies findings into a cited, tiered report. It combines deterministic taint analysis with AI-driven re
   * Tags: `security audit`, `taint analysis`, `vulnerability detection`, `AI verification`, `cross-file analysis`
 
-* **[melgarafael/youtube-growth](world/public/vault/daily-digests/2026-11-02/youtube-growth.md)** (`reference` | `reference` tier)
+* **[melgarafael/youtube-growth](world/public/vault/daily-digests/2026-11-03/youtube-growth.md)** (`reference` | `reference` tier)
   * Summary: A terminal-based YouTube growth agency that connects to a user's YouTube channel via the official API, analyzes real data, and builds a personalized 'second brain' to optimize content creation, SEO, and AI citations. It operates as a plugin for Claud
   * Tags: `YouTube growth`, `AI-driven content optimization`, `personalized content strategy`, `terminal-based tool`, `SEO/GEO optimization`
 
-* **[Melisa6532/ui-style-extractor](world/public/vault/daily-digests/2026-11-02/ui-style-extractor.md)** (`reference` | `reference` tier)
+* **[Melisa6532/ui-style-extractor](world/public/vault/daily-digests/2026-11-03/ui-style-extractor.md)** (`reference` | `reference` tier)
   * Summary: ui-style-extractor is a Windows desktop application that extracts design systems (colors, fonts, spacing, layouts) from UI pages and converts them into reusable Markdown guides and validation demos. It helps maintain consistency in AI-generated pages
   * Tags: `design extraction`, `style guide`, `UI validation`, `Markdown generation`, `AI consistency`
 
-* **[meta-taro/sshboard](world/public/vault/daily-digests/2026-11-02/sshboard.md)** (`reference` | `reference` tier)
+* **[meta-taro/sshboard](world/public/vault/daily-digests/2026-11-03/sshboard.md)** (`reference` | `reference` tier)
   * Summary: sshboard is a Tauri-based desktop application that provides an MCP-compatible SFTP client and SSH terminal, enabling AI agents to view remote server files and command outputs alongside human users over a single SSH session. It focuses on read-only op
   * Tags: `MCP`, `SSH terminal`, `SFTP client`, `AI collaboration`, `read-only operations`
 
-* **[Michael-Hutchinson/strava-mcp-server](world/public/vault/daily-digests/2026-11-02/strava-mcp-server.md)** (`reference` | `reference` tier)
+* **[Michael-Hutchinson/strava-mcp-server](world/public/vault/daily-digests/2026-11-03/strava-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that bridges Claude AI with Strava's API, enabling direct querying of athlete data, activities, stats, and segments. It simplifies OAuth setup and provides structured tools for seamless integration.
   * Tags: `MCP server`, `Strava integration`, `Claude AI`, `OAuth`, `API wrapper`
 
-* **[michaelinghilterra-creator/trajecktory](world/public/vault/daily-digests/2026-11-02/trajecktory.md)** (`reference` | `reference` tier)
+* **[michaelinghilterra-creator/trajecktory](world/public/vault/daily-digests/2026-11-03/trajecktory.md)** (`reference` | `reference` tier)
   * Summary: trajecktory is an AI-driven, local job-search pipeline with a web dashboard that automates scanning, evaluating, tailoring, tracking, and following up on job applications. It integrates with Claude Code for AI-powered evaluations and provides a struc
   * Tags: `job search automation`, `AI-driven evaluation`, `local dashboard`, `ATS integration`, `career pipeline`
 
-* **[michielhdoteth/squish](world/public/vault/daily-digests/2026-11-02/squish.md)** (`reference` | `reference` tier)
+* **[michielhdoteth/squish](world/public/vault/daily-digests/2026-11-03/squish.md)** (`reference` | `reference` tier)
   * Summary: Squish is a local-first memory system for AI coding agents that provides persistent, scalable, and cross-agent memory management. It enables agents to retain context, decisions, and preferences across sessions without manual curation or token waste.
   * Tags: `AI memory`, `coding agents`, `persistent context`, `MCP integration`, `local-first`
 
-* **[mikesplore/vela-mcp](world/public/vault/daily-digests/2026-11-02/vela-mcp.md)** (`reference` | `reference` tier)
+* **[mikesplore/vela-mcp](world/public/vault/daily-digests/2026-11-03/vela-mcp.md)** (`reference` | `reference` tier)
   * Summary: Vela MCP Server is an MCP (Model Context Protocol) server that exposes Vela RemotePC endpoints as tools, enabling AI clients like Claude, Cline, or Cursor to control remote systems via standardized tool calls.
   * Tags: `MCP server`, `remote system control`, `multi-tenant`, `AI orchestration`, `Vela RemotePC`
 
-* **[mm7894215/TokenTracker](world/public/vault/daily-digests/2026-11-02/tokentracker.md)** (`reference` | `reference` tier)
+* **[mm7894215/TokenTracker](world/public/vault/daily-digests/2026-11-03/tokentracker.md)** (`reference` | `reference` tier)
   * Summary: TokenTracker is a local-first CLI and desktop application that automatically tracks and aggregates token usage across 25+ AI coding tools, providing real-time cost analysis and usage trends through a beautiful dashboard. It requires no cloud account,
   * Tags: `token tracking`, `AI cost analysis`, `local-first`, `CLI tool`, `dashboard`
 
-* **[modarresi1913/shadow-db](world/public/vault/daily-digests/2026-11-02/shadow-db.md)** (`reference` | `reference` tier)
+* **[modarresi1913/shadow-db](world/public/vault/daily-digests/2026-11-03/shadow-db.md)** (`reference` | `reference` tier)
   * Summary: Shadow-DB is a live-delta engine that transforms static web pages into a continuous stream of semantic events for AI agents, avoiding full-page re-extraction. It detects meaningful changes (e.g., price, availability) and emits typed, high-signal even
   * Tags: `delta detection`, `semantic events`, `web monitoring`, `AI agent pipeline`, `content reduction`
 
-* **[moellere/WireStudio](world/public/vault/daily-digests/2026-11-02/wirestudio.md)** (`reference` | `reference` tier)
+* **[moellere/WireStudio](world/public/vault/daily-digests/2026-11-03/wirestudio.md)** (`reference` | `reference` tier)
   * Summary: WireStudio is a hardware design tool for ESPHome devices that generates multiple artifacts (ESPHome YAML, KiCad schematics/PCB, wiring diagrams, JLCPCB fab bundles, and 3D-printable enclosures) from a single `design.json` file. It includes advanced f
   * Tags: `ESPHome`, `hardware design`, `PCB generation`, `LoRaWAN`, `automation`
 
-* **[mohamamd991/TencentDB-Agent-Memory](world/public/vault/daily-digests/2026-11-02/tencentdb-agent-memory.md)** (`reference` | `reference` tier)
+* **[mohamamd991/TencentDB-Agent-Memory](world/public/vault/daily-digests/2026-11-03/tencentdb-agent-memory.md)** (`reference` | `reference` tier)
   * Summary: TencentDB-Agent-Memory provides a local, long-term memory solution for AI agents, enabling them to retain and retrieve past interactions without sending data to external servers. It operates entirely on the user's machine, ensuring privacy and securi
   * Tags: `local memory`, `AI agents`, `privacy-focused`, `long-term storage`, `offline processing`
 
-* **[monkeyking-hq/universal-code](world/public/vault/daily-digests/2026-11-02/universal-code.md)** (`reference` | `reference` tier)
+* **[monkeyking-hq/universal-code](world/public/vault/daily-digests/2026-11-03/universal-code.md)** (`reference` | `reference` tier)
   * Summary: The Universal Code is a semantically versioned ethical framework designed for AI agents, models, and systems, prioritizing the prevention of physical harm to humans while drawing from the moral core of major world traditions. It serves as a living, a
   * Tags: `ethical AI`, `AI safety`, `ethical framework`, `semantic versioning`, `AI governance`
 
-* **[mordiaky/vouchspec](world/public/vault/daily-digests/2026-11-02/vouchspec.md)** (`reference` | `reference` tier)
+* **[mordiaky/vouchspec](world/public/vault/daily-digests/2026-11-03/vouchspec.md)** (`reference` | `reference` tier)
   * Summary: VouchSpec provides a trusted evidence index for exact versions of Agent Skills, ensuring static inspection, cryptographic signing, and immutable verification of public artifacts without execution. It offers a read-only catalog API, signed receipts, a
   * Tags: `evidence indexing`, `agent skill verification`, `cryptographic signing`, `static inspection`, `immutable artifacts`
 
-* **[MRIGL/smart-scraper-m2m](world/public/vault/daily-digests/2026-11-02/smart-scraper-m2m.md)** (`reference` | `reference` tier)
+* **[MRIGL/smart-scraper-m2m](world/public/vault/daily-digests/2026-11-03/smart-scraper-m2m.md)** (`reference` | `reference` tier)
   * Summary: A lightweight M2M API endpoint that enables Autonomous AI Agents (e.g., CrewAI, LangChain) to extract structured JSON data from any URL. Designed for seamless integration into AI workflows requiring web scraping capabilities.
   * Tags: `web scraping`, `M2M API`, `AI agents`, `structured data`, `autonomous agents`
 
-* **[mtbun/storeshots-mcp](world/public/vault/daily-digests/2026-11-02/storeshots-mcp.md)** (`reference` | `reference` tier)
+* **[mtbun/storeshots-mcp](world/public/vault/daily-digests/2026-11-03/storeshots-mcp.md)** (`reference` | `reference` tier)
   * Summary: storeshots-mcp is an MCP (Model Context Protocol) server that automates the generation of pixel-perfect App Store and Google Play screenshots for mobile apps. It renders device frames, branded headlines, and exact store dimensions locally, enabling A
   * Tags: `screenshot generation`, `mobile app marketing`, `MCP server`, `App Store optimization`, `automated design`
 
-* **[Mun1to/vidorq](world/public/vault/daily-digests/2026-11-02/vidorq.md)** (`reference` | `reference` tier)
+* **[Mun1to/vidorq](world/public/vault/daily-digests/2026-11-03/vidorq.md)** (`reference` | `reference` tier)
   * Summary: Vidorq is an open-source AI-powered video editor that integrates with DaVinci Resolve Free to automate video editing workflows. Users describe edits in plain language, and Vidorq executes them by analyzing footage, applying style profiles, and genera
   * Tags: `AI video editing`, `DaVinci Resolve integration`, `automated video workflows`, `style training`, `open-source`
 
-* **[NagilaLopes/taskflow](world/public/vault/daily-digests/2026-11-02/taskflow.md)** (`reference` | `reference` tier)
+* **[NagilaLopes/taskflow](world/public/vault/daily-digests/2026-11-03/taskflow.md)** (`reference` | `reference` tier)
   * Summary: taskflow is a desktop application designed to simplify document processing with cost-effective AI models, offering features like summarization, classification, and named entity recognition. It targets users seeking an intuitive, high-speed, and affor
   * Tags: `document processing`, `NLP`, `desktop application`, `cost-efficient`, `AI pipeline`
 
-* **[nahidspace/tmux-alwayson](world/public/vault/daily-digests/2026-11-02/tmux-alwayson.md)** (`reference` | `reference` tier)
+* **[nahidspace/tmux-alwayson](world/public/vault/daily-digests/2026-11-03/tmux-alwayson.md)** (`reference` | `reference` tier)
   * Summary: tmux-alwayson is a Go-based tool that ensures AI coding agent sessions (e.g., Claude Code, OpenCode, Codex CLI) running in tmux persist across system reboots and tmux restarts. It automates the setup of systemd services, tmux plugins, and agent-speci
   * Tags: `tmux`, `AI agents`, `session persistence`, `systemd`, `automation`
 
-* **[narumiruna/yfinance-mcp](world/public/vault/daily-digests/2026-11-02/yfinance-mcp.md)** (`reference` | `reference` tier)
+* **[narumiruna/yfinance-mcp](world/public/vault/daily-digests/2026-11-03/yfinance-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables AI assistants to fetch real-time financial data from Yahoo Finance using the yfinance library. It provides tools for querying stock information, financial news, analyst data, and generating professio
   * Tags: `financial data`, `MCP server`, `stock analysis`, `real-time data`, `AI tooling`
 
-* **[nathas6674/Zero-code](world/public/vault/daily-digests/2026-11-02/zero-code.md)** (`reference` | `reference` tier)
+* **[nathas6674/Zero-code](world/public/vault/daily-digests/2026-11-03/zero-code.md)** (`reference` | `reference` tier)
   * Summary: Zero-code is a desktop application that enables users to build software applications through natural language descriptions and visual workflows without manual coding. It leverages AI agents and automated code generation to handle task planning, workf
   * Tags: `no-code`, `workflow automation`, `AI-driven development`, `local execution`, `task planning`
 
-* **[Naveenkm007/spaceship-mcp](world/public/vault/daily-digests/2026-11-02/spaceship-mcp.md)** (`reference` | `reference` tier)
+* **[Naveenkm007/spaceship-mcp](world/public/vault/daily-digests/2026-11-03/spaceship-mcp.md)** (`reference` | `reference` tier)
   * Summary: spaceship-mcp is an MCP server designed to manage domains, DNS settings, contacts, and marketplace listings via the Spaceship API, leveraging AI to simplify technical tasks for non-programmers.
   * Tags: `domain management`, `DNS automation`, `AI-assisted tools`, `MCP server`, `Spaceship API`
 
-* **[navidmoazzez/substack-mcp-cli](world/public/vault/daily-digests/2026-11-02/substack-mcp-cli.md)** (`reference` | `reference` tier)
+* **[navidmoazzez/substack-mcp-cli](world/public/vault/daily-digests/2026-11-03/substack-mcp-cli.md)** (`reference` | `reference` tier)
   * Summary: A dual-purpose CLI and MCP server for interacting with Substack publications programmatically. It provides 65 tools for managing drafts, posts, analytics, subscribers, and research, enabling AI agents and users to automate and enhance Substack workfl
   * Tags: `Substack automation`, `MCP server`, `CLI tool`, `AI agent integration`, `content management`
 
-* **[navidmoazzez/threads-mcp](world/public/vault/daily-digests/2026-11-02/threads-mcp.md)** (`reference` | `reference` tier)
+* **[navidmoazzez/threads-mcp](world/public/vault/daily-digests/2026-11-03/threads-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that provides AI agents with full control over a Threads profile via Meta's Threads API. Enables posting, reading replies, managing content, and analyzing engagement metrics through 30 tools with automated token
   * Tags: `Threads API`, `MCP server`, `AI agent integration`, `social media automation`, `content management`
 
-* **[navidmoazzez/thrivecart-mcp](world/public/vault/daily-digests/2026-11-02/thrivecart-mcp.md)** (`reference` | `reference` tier)
+* **[navidmoazzez/thrivecart-mcp](world/public/vault/daily-digests/2026-11-03/thrivecart-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that integrates ThriveCart's API with AI agents like Claude Code, enabling 24 tools for managing products, transactions, revenue, customers, subscriptions, and affiliates across multiple ThriveCart accounts simul
   * Tags: `MCP server`, `ThriveCart integration`, `AI agent tools`, `revenue analysis`, `multi-account management`
 
-* **[neeshykha/skill-regression-harness](world/public/vault/daily-digests/2026-11-02/skill-regression-harness.md)** (`reference` | `reference` tier)
+* **[neeshykha/skill-regression-harness](world/public/vault/daily-digests/2026-11-03/skill-regression-harness.md)** (`reference` | `reference` tier)
   * Summary: A regression testing harness for Claude AI skills that validates static correctness and real-world dispatch behavior to detect silent failures in skill routing, authentication, and prompt matching. It combines static analysis with live CLI testing un
   * Tags: `skill-regression`, `claude-ai`, `prompt-matching`, `dispatch-validation`, `authentication-check`
 
-* **[nethinwei/sql-mcp-server](world/public/vault/daily-digests/2026-11-02/sql-mcp-server.md)** (`reference` | `reference` tier)
+* **[nethinwei/sql-mcp-server](world/public/vault/daily-digests/2026-11-03/sql-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A governed SQL gateway that enforces strict access control and policy-based governance for untrusted AI agents, enabling deterministic and cost-bounded access to PostgreSQL, MySQL, and OceanBase without accepting arbitrary SQL or DDL operations.
   * Tags: `SQL governance`, `AI agent security`, `data access control`, `policy enforcement`, `deterministic execution`
 
-* **[netresearch/skill-repo-skill](world/public/vault/daily-digests/2026-11-02/skill-repo-skill.md)** (`reference` | `reference` tier)
+* **[netresearch/skill-repo-skill](world/public/vault/daily-digests/2026-11-03/skill-repo-skill.md)** (`reference` | `reference` tier)
   * Summary: A standardized repository template and toolkit for creating, validating, and distributing AI agent skills across multiple platforms (Claude Code, Cursor, GitHub Copilot) with reusable CI workflows, split licensing, and packaging conventions.
   * Tags: `AI agent skills`, `repository standardization`, `CI/CD automation`, `multi-platform distribution`, `skill validation`
 
-* **[netresearch/typo3-testing-skill](world/public/vault/daily-digests/2026-11-02/typo3-testing-skill.md)** (`reference` | `reference` tier)
+* **[netresearch/typo3-testing-skill](world/public/vault/daily-digests/2026-11-03/typo3-testing-skill.md)** (`reference` | `reference` tier)
   * Summary: A Claude Code-compatible Agent Skill for automating TYPO3 extension testing, including unit, functional, and E2E tests with Playwright, accessibility checks, and CI/CD integration. Designed to standardize and streamline testing workflows for TYPO3 de
   * Tags: `TYPO3 testing`, `Agent Skill`, `CI/CD automation`, `Playwright E2E`, `PHPUnit`
 
-* **[nicknisi/sessions](world/public/vault/daily-digests/2026-11-02/sessions.md)** (`reference` | `reference` tier)
+* **[nicknisi/sessions](world/public/vault/daily-digests/2026-11-03/sessions.md)** (`reference` | `reference` tier)
   * Summary: sessions is a CLI and MCP-based tool that indexes and enables search across AI coding sessions from multiple tools (Claude Code, Codex, Pi). It provides fuzzy-finding, resumption, agent memory via MCP, and usage reporting for AI workflows.
   * Tags: `AI session management`, `MCP integration`, `CLI tool`, `search and recall`, `usage analytics`
 
-* **[nirholas/XActions](world/public/vault/daily-digests/2026-11-02/xactions.md)** (`reference` | `reference` tier)
+* **[nirholas/XActions](world/public/vault/daily-digests/2026-11-03/xactions.md)** (`reference` | `reference` tier)
   * Summary: XActions is a comprehensive open-source automation toolkit for X/Twitter (formerly Twitter) that provides scrapers, MCP server integration for AI agents, CLI tools, browser scripts, and a browser extension. It enables automation without requiring API
   * Tags: `automation`, `twitter-scraping`, `ai-agents`, `mcp-server`, `browser-scripting`
 
-* **[nlink-jp/voice-scribe](world/public/vault/daily-digests/2026-11-02/voice-scribe.md)** (`reference` | `reference` tier)
+* **[nlink-jp/voice-scribe](world/public/vault/daily-digests/2026-11-03/voice-scribe.md)** (`reference` | `reference` tier)
   * Summary: voice-scribe is a local speech-to-text tool for macOS that transcribes audio using whisper.cpp, with optional speaker diarization. It includes a CLI for direct transcription and an MCP server to enable audio processing for agents that cannot handle a
   * Tags: `speech-to-text`, `local processing`, `MCP server`, `speaker diarization`, `Apple Silicon`
 
-* **[nomyfan/skills-man](world/public/vault/daily-digests/2026-11-02/skills-man.md)** (`reference` | `reference` tier)
+* **[nomyfan/skills-man](world/public/vault/daily-digests/2026-11-03/skills-man.md)** (`reference` | `reference` tier)
   * Summary: skills-man is a Rust-based CLI tool designed to install, manage, and synchronize AI agent skills from GitHub repositories. It organizes skills locally or globally, tracks installations via a TOML file, and supports sharing skills across multiple agen
   * Tags: `skill management`, `AI agents`, `GitHub integration`, `CLI tool`, `synchronization`
 
-* **[Norrysubtle368/tokrepo-search-skill](world/public/vault/daily-digests/2026-11-02/tokrepo-search-skill.md)** (`reference` | `reference` tier)
+* **[Norrysubtle368/tokrepo-search-skill](world/public/vault/daily-digests/2026-11-03/tokrepo-search-skill.md)** (`reference` | `reference` tier)
   * Summary: tokrepo-search-skill is a Windows-compatible tool that enables AI agents like Claude Code, Cursor, and Gemini CLI to quickly search and retrieve content from TokRepo, a repository of prompts, skills, and agent files. It simplifies access to shared in
   * Tags: `AI agents`, `prompt search`, `TokRepo integration`, `Windows tooling`, `skill management`
 
-* **[Oaklight/toolregistry-server](world/public/vault/daily-digests/2026-11-02/toolregistry-server.md)** (`reference` | `reference` tier)
+* **[Oaklight/toolregistry-server](world/public/vault/daily-digests/2026-11-03/toolregistry-server.md)** (`reference` | `reference` tier)
   * Summary: A Python-based server framework for registering and exposing custom tools via OpenAPI (REST) and MCP (Model Context Protocol) interfaces. It enables seamless integration of Python functions as callable services for AI agents and applications.
   * Tags: `tool registry`, `function calling`, `MCP server`, `OpenAPI adapter`, `AI tooling`
 
-* **[oekazuma/svelte-vitals](world/public/vault/daily-digests/2026-11-02/svelte-vitals.md)** (`reference` | `reference` tier)
+* **[oekazuma/svelte-vitals](world/public/vault/daily-digests/2026-11-03/svelte-vitals.md)** (`reference` | `reference` tier)
   * Summary: A static code-health checker for SvelteKit projects that evaluates SEO, performance, correctness, security, and architecture from source code without requiring a browser or headless Chrome. It provides a Health score and supports multiple reporters f
   * Tags: `static analysis`, `SvelteKit`, `code health`, `SEO`, `performance`
 
-* **[OlehDatsyk/weather-mcp-server](world/public/vault/daily-digests/2026-11-02/weather-mcp-server.md)** (`reference` | `reference` tier)
+* **[OlehDatsyk/weather-mcp-server](world/public/vault/daily-digests/2026-11-03/weather-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A production-ready Model Context Protocol (MCP) server that exposes weather data, tools, resources, and prompts to any MCP-compatible client (e.g., Claude Desktop) via the OpenWeatherMap API. Built with Python, FastMCP, and Pydantic for structured, t
   * Tags: `MCP Server`, `Weather API`, `Structured Output`, `AI Integration`, `Production-Ready`
 
-* **[omkar9854/token_optimizer](world/public/vault/daily-digests/2026-11-02/token_optimizer.md)** (`reference` | `reference` tier)
+* **[omkar9854/token_optimizer](world/public/vault/daily-digests/2026-11-03/token_optimizer.md)** (`reference` | `reference` tier)
   * Summary: slimctx is a zero-dependency, fully-reversible context compression library for AI agents that reduces LLM token usage by up to 94% while preserving byte-exact reversibility. It supports JSON, logs, code, and text compression with deterministic, audit
   * Tags: `context compression`, `token optimization`, `reversible compression`, `AI agents`, `air-gap ready`
 
-* **[ooples/token-optimizer-mcp](world/public/vault/daily-digests/2026-11-02/token-optimizer-mcp.md)** (`reference` | `reference` tier)
+* **[ooples/token-optimizer-mcp](world/public/vault/daily-digests/2026-11-03/token-optimizer-mcp.md)** (`reference` | `reference` tier)
   * Summary: Token Optimizer MCP is an intelligent Model Context Protocol (MCP) server designed to reduce context window usage by 60-90% through caching, compression, and smart tool replacements for AI development workflows like Claude Code and Desktop.
   * Tags: `token optimization`, `context window reduction`, `caching`, `compression`, `MCP server`
 
-* **[openai/tunnel-client](world/public/vault/daily-digests/2026-11-02/tunnel-client.md)** (`reference` | `reference` tier)
+* **[openai/tunnel-client](world/public/vault/daily-digests/2026-11-03/tunnel-client.md)** (`reference` | `reference` tier)
   * Summary: The tunnel-client enables secure, private connectivity between local or on-premises MCP servers and OpenAI's hosted services (ChatGPT, Codex, Responses API, AgentKit) without exposing the MCP server to the public internet. It acts as a secure bridge,
   * Tags: `secure connectivity`, `MCP server`, `private network`, `OpenAI integration`, `tunnel proxy`
 
-* **[pa1ch/yandex360-mcp](world/public/vault/daily-digests/2026-11-02/yandex360-mcp.md)** (`reference` | `reference` tier)
+* **[pa1ch/yandex360-mcp](world/public/vault/daily-digests/2026-11-03/yandex360-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that provides AI assistants with tools to interact with Yandex 360 services, primarily Yandex Wiki, via OAuth tokens. It enables read/write operations, full-text search, and page management with modular service s
   * Tags: `MCP server`, `Yandex 360`, `Wiki integration`, `AI assistant tools`, `OAuth`
 
-* **[pain2hustle/zonemender](world/public/vault/daily-digests/2026-11-02/zonemender.md)** (`reference` | `reference` tier)
+* **[pain2hustle/zonemender](world/public/vault/daily-digests/2026-11-03/zonemender.md)** (`reference` | `reference` tier)
   * Summary: zonemender is a standalone tool for auditing and safely applying changes to Cloudflare zone configurations, including DNS, email routing, DMARC, SPF, and BIMI. It operates as both a CLI and a library with zero runtime dependencies, emphasizing dry-ru
   * Tags: `Cloudflare`, `DNS management`, `DMARC`, `BIMI`, `Email routing`
 
-* **[partymola/ticktick-mcp](world/public/vault/daily-digests/2026-11-02/ticktick-mcp.md)** (`reference` | `reference` tier)
+* **[partymola/ticktick-mcp](world/public/vault/daily-digests/2026-11-03/ticktick-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for TickTick task management that enables AI agents to interact with TickTick's unofficial v2 API for task lifecycle operations, including creation, updates, completion tracking, and filtering.
   * Tags: `task management`, `MCP server`, `TickTick integration`, `AI agent tools`, `productivity`
 
-* **[partymola/withings-mcp](world/public/vault/daily-digests/2026-11-02/withings-mcp.md)** (`reference` | `reference` tier)
+* **[partymola/withings-mcp](world/public/vault/daily-digests/2026-11-03/withings-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for the Withings Health API that provides OAuth authentication, local SQLite caching, and trend analysis for health metrics like body composition, sleep, activity, and ECG data.
   * Tags: `MCP server`, `Withings API`, `health data`, `OAuth`, `trend analysis`
 
-* **[pathmodeio/validate-intentspec-action](world/public/vault/daily-digests/2026-11-02/validate-intentspec-action.md)** (`reference` | `reference` tier)
+* **[pathmodeio/validate-intentspec-action](world/public/vault/daily-digests/2026-11-03/validate-intentspec-action.md)** (`reference` | `reference` tier)
   * Summary: A GitHub Action that validates IntentSpec documents (`intent.md`) against the IntentSpec schema to ensure structural correctness, evidence integrity, and compliance with the IntentSpec standard (v1.2). It prevents malformed specs, missing fields, and
   * Tags: `intent validation`, `AI agent governance`, `schema enforcement`, `evidence integrity`, `GitHub Actions`
 
-* **[paulgrape/skill-auditor](world/public/vault/daily-digests/2026-11-02/skill-auditor.md)** (`reference` | `reference` tier)
+* **[paulgrape/skill-auditor](world/public/vault/daily-digests/2026-11-03/skill-auditor.md)** (`reference` | `reference` tier)
   * Summary: skill-auditor is a CLI tool that audits agent skills (e.g., SKILL.md files) against the actual state of a project to detect drift, measure alignment, and suggest improvements. It helps maintain accurate and up-to-date skills for AI agents by scoring
   * Tags: `agent skills`, `skill auditing`, `alignment scoring`, `drift detection`, `loop engineering`
 
-* **[paulstaab/systemd-monitoring-mcp](world/public/vault/daily-digests/2026-11-02/systemd-monitoring-mcp.md)** (`reference` | `reference` tier)
+* **[paulstaab/systemd-monitoring-mcp](world/public/vault/daily-digests/2026-11-03/systemd-monitoring-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for monitoring Linux systemd services, timers, and logs via JSON-RPC. It provides secure, bearer-token-protected endpoints for querying system state and integrates with AI workflows through standardized MCP tooli
   * Tags: `systemd`, `monitoring`, `MCP server`, `Linux`, `logging`
 
-* **[peopleworks/XAFLogicExplainer](world/public/vault/daily-digests/2026-11-02/xaflogicexplainer.md)** (`reference` | `reference` tier)
+* **[peopleworks/XAFLogicExplainer](world/public/vault/daily-digests/2026-11-03/xaflogicexplainer.md)** (`reference` | `reference` tier)
   * Summary: XAF Logic Explainer is a Roslyn-based tool that extracts and documents the custom logic of DevExpress XAF applications, enabling AI coding agents to understand application-specific entities, controllers, business rules, and Model Editor customization
   * Tags: `XAF`, `DevExpress`, `Roslyn extraction`, `AI agent tooling`, `Model documentation`
 
-* **[Phoenix0531-sudo/tidy-skill](world/public/vault/daily-digests/2026-11-02/tidy-skill.md)** (`reference` | `reference` tier)
+* **[Phoenix0531-sudo/tidy-skill](world/public/vault/daily-digests/2026-11-03/tidy-skill.md)** (`reference` | `reference` tier)
   * Summary: A local agent environment hygiene toolkit that enforces intentional, scoped, and disposable artifact management for AI agents. It provides auditing and cleaning utilities for repository artifacts, workspace caches, and local development environments
   * Tags: `agent hygiene`, `workspace cleanup`, `WSL2 auditing`, `Docker footprint analysis`, `artifact management`
 
-* **[Piccolo123/url-manager-mcp](world/public/vault/daily-digests/2026-11-02/url-manager-mcp.md)** (`reference` | `reference` tier)
+* **[Piccolo123/url-manager-mcp](world/public/vault/daily-digests/2026-11-03/url-manager-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for managing, organizing, and sharing web resources as structured 'footprints' with cross-device sync, full-text search, and team collaboration features. It provides 21 tools for saving, categorizing, and deliver
   * Tags: `MCP server`, `resource management`, `AI agent tooling`, `knowledge organization`, `collaborative bookmarking`
 
-* **[pinkpixel-dev/web-scout-mcp](world/public/vault/daily-digests/2026-11-02/web-scout-mcp.md)** (`reference` | `reference` tier)
+* **[pinkpixel-dev/web-scout-mcp](world/public/vault/daily-digests/2026-11-03/web-scout-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables AI assistants to perform web searches via DuckDuckGo and extract clean, readable content from web pages. It supports parallel processing, memory optimization, and rate limiting for reliable operation
   * Tags: `web search`, `content extraction`, `MCP server`, `DuckDuckGo`, `AI tooling`
 
-* **[Pudlowska/utm-assistant-feature-request](world/public/vault/daily-digests/2026-11-02/utm-assistant-feature-request.md)** (`reference` | `reference` tier)
+* **[Pudlowska/utm-assistant-feature-request](world/public/vault/daily-digests/2026-11-03/utm-assistant-feature-request.md)** (`reference` | `reference` tier)
   * Summary: A public repository for users to submit feature requests, upvote ideas, and report bugs for UTM Assistant, a real-time UTM auto-correction tool for GA4 and Google Tag Manager server-side.
   * Tags: `feature requests`, `bug tracking`, `user feedback`, `product management`, `UTM tracking`
 
-* **[putervision/vision-memory-mcp](world/public/vault/daily-digests/2026-11-02/vision-memory-mcp.md)** (`reference` | `reference` tier)
+* **[putervision/vision-memory-mcp](world/public/vault/daily-digests/2026-11-03/vision-memory-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server and CLI tool that caches visual UI states using perceptual hashing, local CLIP embeddings, and state transitions to help AI agents remember seen screens, reducing token usage and execution latency by up to 90%.
   * Tags: `visual memory`, `UI state caching`, `perceptual hashing`, `CLIP embeddings`, `AI agent tooling`
 
-* **[pyragogy/UnPeeragogy](world/public/vault/daily-digests/2026-11-02/unpeeragogy.md)** (`reference` | `reference` tier)
+* **[pyragogy/UnPeeragogy](world/public/vault/daily-digests/2026-11-03/unpeeragogy.md)** (`reference` | `reference` tier)
   * Summary: UnPeeragogy is a dual-column knowledge base that contrasts Peeragogy's collaborative learning theory with real-world operational friction, power dynamics, and failure patterns. It provides an evidence-based protocol for collecting and challenging res
   * Tags: `peer learning`, `evidence protocol`, `MCP server`, `dual-column reading`, `knowledge friction`
 
-* **[qfoldit/UNIGINE-TOOLBELT](world/public/vault/daily-digests/2026-11-02/unigine-toolbelt.md)** (`reference` | `reference` tier)
+* **[qfoldit/UNIGINE-TOOLBELT](world/public/vault/daily-digests/2026-11-03/unigine-toolbelt.md)** (`reference` | `reference` tier)
   * Summary: A companion MCP bridge for UNIGINE 2 that exposes 84 high-level composite tools for AI agents, built on top of UNIGINE's official MCPBridge Plugin. It enables AI-driven automation of UNIGINE 2 Editor workflows through structured, reusable tool calls.
   * Tags: `UNIGINE 2`, `MCP Bridge`, `AI Automation`, `Editor Tools`, `Composite Workflows`
 
-* **[qualixar/superlocalmemory](world/public/vault/daily-digests/2026-11-02/superlocalmemory.md)** (`reference` | `reference` tier)
+* **[qualixar/superlocalmemory](world/public/vault/daily-digests/2026-11-03/superlocalmemory.md)** (`reference` | `reference` tier)
   * Summary: SuperLocalMemory is a local-first agent memory system designed for persistent agent context with explicit operating modes, auditable retrieval, and optional optimization tools. It supports three deployment surfaces: proxy, MCP tools, or skill, and co
   * Tags: `local-first memory`, `agent context`, `retrieval augmentation`, `MCP integration`, `privacy-focused`
 
-* **[R0STEFAN/webstudio-ai-agent](world/public/vault/daily-digests/2026-11-02/webstudio-ai-agent.md)** (`reference` | `reference` tier)
+* **[R0STEFAN/webstudio-ai-agent](world/public/vault/daily-digests/2026-11-03/webstudio-ai-agent.md)** (`reference` | `reference` tier)
   * Summary: A local MCP (Model Context Protocol) bridge and AI agent toolkit for Webstudio that enables offline design, mutation, and cloud synchronization of Webstudio projects without API limits or rate restrictions. It integrates with AI coding assistants lik
   * Tags: `MCP bridge`, `AI agent integration`, `Webstudio local development`, `offline design tools`, `cloud synchronization`
 
-* **[r266-tech/wechat-cli](world/public/vault/daily-digests/2026-11-02/wechat-cli.md)** (`reference` | `reference` tier)
+* **[r266-tech/wechat-cli](world/public/vault/daily-digests/2026-11-03/wechat-cli.md)** (`reference` | `reference` tier)
   * Summary: A CLI tool that extracts and organizes WeChat 4.x local chat history, contacts, media, and other data into structured JSON for AI agents and human users. It operates as a read-only local data tool without modifying WeChat or sending messages.
   * Tags: `WeChat data extraction`, `local chat history`, `AI agent integration`, `message retrieval`, `media processing`
 
-* **[rachitkumarrastogi/unity-mcp-server](world/public/vault/daily-digests/2026-11-02/unity-mcp-server.md)** (`reference` | `reference` tier)
+* **[rachitkumarrastogi/unity-mcp-server](world/public/vault/daily-digests/2026-11-03/unity-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables AI assistants to interact with Unity projects without requiring the Unity Editor. It provides structured access to project metadata, scenes, scripts, assets, and configurations via MCP-compatible IDE
   * Tags: `Unity`, `MCP Server`, `AI Integration`, `Project Analysis`, `IDE Tooling`
 
-* **[rajeshkawali/Springboot-ai-pr-reviewer](world/public/vault/daily-digests/2026-11-02/springboot-ai-pr-reviewer.md)** (`reference` | `reference` tier)
+* **[rajeshkawali/Springboot-ai-pr-reviewer](world/public/vault/daily-digests/2026-11-03/springboot-ai-pr-reviewer.md)** (`reference` | `reference` tier)
   * Summary: A Spring Boot application that automates GitHub Pull Request reviews using Anthropic's Claude API via Spring AI. It fetches PR changes, sends them to Claude for structured review, aggregates results, and emails a detailed HTML report to configured re
   * Tags: `PR review automation`, `GitHub integration`, `AI-powered code review`, `email reporting`, `Spring Boot`
 
-* **[RalfHuesing/SqlToAi](world/public/vault/daily-digests/2026-11-02/sqltoai.md)** (`reference` | `reference` tier)
+* **[RalfHuesing/SqlToAi](world/public/vault/daily-digests/2026-11-03/sqltoai.md)** (`reference` | `reference` tier)
   * Summary: SqlToAi is a secure Model Context Protocol (MCP) server for Microsoft SQL Server that enables AI agents and LLMs to interact with databases while protecting sensitive data through on-the-fly anonymization and read-only query enforcement.
   * Tags: `MCP server`, `SQL Server`, `PII anonymization`, `read-only queries`, `AI database interaction`
 
-* **[rbutera/wordle-agent](world/public/vault/daily-digests/2026-11-02/wordle-agent.md)** (`reference` | `reference` tier)
+* **[rbutera/wordle-agent](world/public/vault/daily-digests/2026-11-03/wordle-agent.md)** (`reference` | `reference` tier)
   * Summary: A Bun CLI tool that enables AI agents to interact with the NYT Wordle game via a headless browser, providing real-time game state as JSON and candidate suggestions from a Wordle constraint solver (Hurdle).
   * Tags: `Wordle automation`, `AI agent interface`, `constraint solver`, `headless browser`, `game state parsing`
 
-* **[Renly1994/Skillbox](world/public/vault/daily-digests/2026-11-02/skillbox.md)** (`reference` | `reference` tier)
+* **[Renly1994/Skillbox](world/public/vault/daily-digests/2026-11-03/skillbox.md)** (`reference` | `reference` tier)
   * Summary: Skillbox is a local-first, account-free tool for managing AI Agent Skills, enabling unified scanning, editing, and migration of Skills across multiple Agents with a single source of truth.
   * Tags: `Agent management`, `Skill migration`, `local-first`, `multi-agent`, `offline tool`
 
-* **[rgdevment/Tisty](world/public/vault/daily-digests/2026-11-02/tisty.md)** (`reference` | `reference` tier)
+* **[rgdevment/Tisty](world/public/vault/daily-digests/2026-11-03/tisty.md)** (`reference` | `reference` tier)
   * Summary: Tisty is a local-first productivity tool for Windows and macOS that manages notes, documents, and tasks using plain Markdown files stored on the user's disk. It emphasizes archiving completed work as a searchable record of progress, with no accounts,
   * Tags: `local-first`, `productivity`, `markdown`, `offline`, `task management`
 
-* **[richardwilkinson9/statlyte-data](world/public/vault/daily-digests/2026-11-02/statlyte-data.md)** (`reference` | `reference` tier)
+* **[richardwilkinson9/statlyte-data](world/public/vault/daily-digests/2026-11-03/statlyte-data.md)** (`reference` | `reference` tier)
   * Summary: statlyte provides real-time pricing, context windows, and identifiers for major LLM APIs, eliminating the need to hardcode stale model data. It dynamically fetches and caches pricing information from vendor pages, ensuring accuracy and reducing manua
   * Tags: `LLM pricing`, `cost tracking`, `model metadata`, `real-time data`, `API integration`
 
-* **[richudell/ytmusic-rs](world/public/vault/daily-digests/2026-11-02/ytmusic-rs.md)** (`reference` | `reference` tier)
+* **[richudell/ytmusic-rs](world/public/vault/daily-digests/2026-11-03/ytmusic-rs.md)** (`reference` | `reference` tier)
   * Summary: A Rust-based Model Context Protocol (MCP) stdio server that provides YouTube Music integration, including search, playlist management, and authentication via Google OAuth. It is a port of a TypeScript MCP server but optimized for Rust with reduced sc
   * Tags: `MCP server`, `YouTube Music`, `Rust`, `OAuth authentication`, `playlist management`
 
-* **[RIT-MESH/system-design-mastery](world/public/vault/daily-digests/2026-11-02/system-design-mastery.md)** (`reference` | `reference` tier)
+* **[RIT-MESH/system-design-mastery](world/public/vault/daily-digests/2026-11-03/system-design-mastery.md)** (`reference` | `reference` tier)
   * Summary: A comprehensive, open-source system design curriculum covering foundational concepts to extreme-scale architectures, including dedicated tracks for AI systems, RAG, agents, and network operations with 97 chapters, 66 case studies, and 19 runnable too
   * Tags: `system design`, `AI systems`, `RAG`, `scalability`, `educational resource`
 
-* **[rjkaes/trueline-mcp](world/public/vault/daily-digests/2026-11-02/trueline-mcp.md)** (`reference` | `reference` tier)
+* **[rjkaes/trueline-mcp](world/public/vault/daily-digests/2026-11-03/trueline-mcp.md)** (`reference` | `reference` tier)
   * Summary: trueline-mcp is an MCP plugin designed to enhance AI coding agents by providing hash-verified file editing and targeted reads, reducing token usage and preventing silent code corruption. It integrates with platforms like Claude Code, Gemini CLI, and
   * Tags: `MCP plugin`, `file editing`, `hash verification`, `token optimization`, `AI coding agents`
 
-* **[RMANOV/sqlite-memory-mcp](world/public/vault/daily-digests/2026-11-02/sqlite-memory-mcp.md)** (`reference` | `reference` tier)
+* **[RMANOV/sqlite-memory-mcp](world/public/vault/daily-digests/2026-11-03/sqlite-memory-mcp.md)** (`reference` | `reference` tier)
   * Summary: A local-first MCP memory server for coding agents that provides governed cross-agent memory with provenance tracking, approval-aware promotion workflows, and hybrid retrieval (BM25 + semantic search) via SQLite. It enables shared knowledge graphs acr
   * Tags: `MCP memory`, `SQLite knowledge graph`, `hybrid retrieval`, `provenance tracking`, `cross-agent collaboration`
 
-* **[roboticforce/sugar](world/public/vault/daily-digests/2026-11-02/sugar.md)** (`reference` | `reference` tier)
+* **[roboticforce/sugar](world/public/vault/daily-digests/2026-11-03/sugar.md)** (`reference` | `reference` tier)
   * Summary: Sugar is a local-first persistent memory layer for AI coding agents, enabling cross-session and cross-project context retention. It provides project-specific and global memory stores with semantic search, MCP integration, and optional autonomous task
   * Tags: `persistent memory`, `AI agent context`, `local-first`, `semantic search`, `autonomous task execution`
 
-* **[robsannaa/storemetrics-mcp](world/public/vault/daily-digests/2026-11-02/storemetrics-mcp.md)** (`reference` | `reference` tier)
+* **[robsannaa/storemetrics-mcp](world/public/vault/daily-digests/2026-11-03/storemetrics-mcp.md)** (`reference` | `reference` tier)
   * Summary: StoreMetrics MCP Server enables AI agents to register e-commerce websites, install tracking, and query real-time analytics like visitors, revenue, funnels, and live activity without requiring human account setup or OAuth. It provides a remote, stream
   * Tags: `e-commerce analytics`, `MCP server`, `real-time data`, `agent integration`, `no-signup API`
 
-* **[rodolfoconcepcion/unifi-udm-pro-mcp](world/public/vault/daily-digests/2026-11-02/unifi-udm-pro-mcp.md)** (`reference` | `reference` tier)
+* **[rodolfoconcepcion/unifi-udm-pro-mcp](world/public/vault/daily-digests/2026-11-03/unifi-udm-pro-mcp.md)** (`reference` | `reference` tier)
   * Summary: A high-performance Model Context Protocol (MCP) server for Ubiquiti UniFi Dream Machine Pro (UDM Pro/SE) that enables direct local network management via native API keys. It provides 40+ tools for Wi-Fi, VLANs, firewall rules, client control, and sys
   * Tags: `MCP Server`, `UniFi UDM Pro`, `Network Management`, `Local API Integration`, `2FA Bypass`
 
-* **[RudrenduPaul/swarmmesh](world/public/vault/daily-digests/2026-11-02/swarmmesh.md)** (`reference` | `reference` tier)
+* **[RudrenduPaul/swarmmesh](world/public/vault/daily-digests/2026-11-03/swarmmesh.md)** (`reference` | `reference` tier)
   * Summary: SwarmMesh provides a shared context and memory layer for parallel AI agents, enabling independent processes to read and write state over a simple HTTP/WebSocket protocol. It supports interoperability between Python and Node.js agents without requirin
   * Tags: `shared memory`, `agent coordination`, `interoperability`, `real-time updates`, `BM25 search`
 
-* **[RudrenduPaul/TruthRoute](world/public/vault/daily-digests/2026-11-02/truthroute.md)** (`reference` | `reference` tier)
+* **[RudrenduPaul/TruthRoute](world/public/vault/daily-digests/2026-11-03/truthroute.md)** (`reference` | `reference` tier)
   * Summary: TruthRoute is a CLI and MCP server tool that compares responses from multiple LLMs (OpenAI, Anthropic, Gemini) to the same prompt and computes a validated divergence score using local sentence embeddings. It provides a stateless, scriptable primitive
   * Tags: `LLM comparison`, `divergence scoring`, `model evaluation`, `MCP server`, `CLI tool`
 
-* **[RudrenduPaul/WorkloadTruth](world/public/vault/daily-digests/2026-11-02/workloadtruth.md)** (`reference` | `reference` tier)
+* **[RudrenduPaul/WorkloadTruth](world/public/vault/daily-digests/2026-11-03/workloadtruth.md)** (`reference` | `reference` tier)
   * Summary: WorkloadTruth is a command-line tool and MCP server that classifies GPU workloads (TRAINING, INFERENCE, or IDLE) using only hardware telemetry like utilization, memory patterns, and power draw, without requiring code changes or self-reported job labe
   * Tags: `GPU workload classification`, `telemetry-based monitoring`, `AI workload governance`, `MCP server`, `audit logging`
 
-* **[RumetoBr/tariff-oracle](world/public/vault/daily-digests/2026-11-02/tariff-oracle.md)** (`reference` | `reference` tier)
+* **[RumetoBr/tariff-oracle](world/public/vault/daily-digests/2026-11-03/tariff-oracle.md)** (`reference` | `reference` tier)
   * Summary: TariffBrain is an AI-native trade compliance microservice that automates HTS classification, duty calculation, and regulatory screening across 217 jurisdictions for autonomous agents and enterprise supply chains. It replaces static lookup tables with
   * Tags: `trade compliance`, `HTS classification`, `duty calculation`, `PGA screening`, `AI reasoning`
 
-* **[RyanLisse/templiqx](world/public/vault/daily-digests/2026-11-02/templiqx.md)** (`reference` | `reference` tier)
+* **[RyanLisse/templiqx](world/public/vault/daily-digests/2026-11-03/templiqx.md)** (`reference` | `reference` tier)
   * Summary: Templiqx is an AI-native template engine written in Rust that enables teams to define reusable, type-safe AI interactions via YAML contracts. It compiles these contracts into validated model requests, checks outputs against schemas, and generates fin
   * Tags: `AI contract compiler`, `template engine`, `deterministic interactions`, `portable AI interactions`, `fingerprinting`
 
-* **[rynl3571/Vault-Session](world/public/vault/daily-digests/2026-11-02/vault-session.md)** (`reference` | `reference` tier)
+* **[rynl3571/Vault-Session](world/public/vault/daily-digests/2026-11-03/vault-session.md)** (`reference` | `reference` tier)
   * Summary: Vault-Session is a tool for securely exporting and importing browser login sessions (cookies) between devices using AES-256-GCM encryption. It enables seamless session migration across browsers like Chrome, Firefox, and Brave without relying on third
   * Tags: `session migration`, `cookie encryption`, `browser logins`, `cross-device sync`, `privacy tool`
 
-* **[sachinshelke/ToolsConnector](world/public/vault/daily-digests/2026-11-02/toolsconnector.md)** (`reference` | `reference` tier)
+* **[sachinshelke/ToolsConnector](world/public/vault/daily-digests/2026-11-03/toolsconnector.md)** (`reference` | `reference` tier)
   * Summary: ToolsConnector is a Python library that provides a unified interface to connect with 77+ APIs and 1,578 actions, enabling seamless integration for AI agents, Python applications, and MCP servers with minimal glue code.
   * Tags: `API connectors`, `AI agent integration`, `MCP server`, `multi-SaaS`, `function calling`
 
-* **[sakost/zenmoney-mcp](world/public/vault/daily-digests/2026-11-02/zenmoney-mcp.md)** (`reference` | `reference` tier)
+* **[sakost/zenmoney-mcp](world/public/vault/daily-digests/2026-11-03/zenmoney-mcp.md)** (`reference` | `reference` tier)
   * Summary: MCP server that wraps the ZenMoney personal finance API, exposing tools for syncing, reading, searching, and writing financial data via the Model Context Protocol (MCP). Enables LLM assistants to interact with ZenMoney accounts, transactions, and bud
   * Tags: `MCP`, `personal finance`, `financial data`, `LLM integration`, `API wrapper`
 
-* **[sakshikarande26/shortlist-warble-monitor](world/public/vault/daily-digests/2026-11-02/shortlist-warble-monitor.md)** (`reference` | `reference` tier)
+* **[sakshikarande26/shortlist-warble-monitor](world/public/vault/daily-digests/2026-11-03/shortlist-warble-monitor.md)** (`reference` | `reference` tier)
   * Summary: A real-time social media monitoring tool designed to detect content breakouts for brand-creator programs on Warble. It continuously polls post metrics, scores momentum using a state machine, and alerts brands only when sustained growth is confirmed,
   * Tags: `real-time monitoring`, `content breakout detection`, `social media analytics`, `alerting system`, `LLM integration`
 
-* **[sam6dvpte34/social-media-skill](world/public/vault/daily-digests/2026-11-02/social-media-skill.md)** (`reference` | `reference` tier)
+* **[sam6dvpte34/social-media-skill](world/public/vault/daily-digests/2026-11-03/social-media-skill.md)** (`reference` | `reference` tier)
   * Summary: A collection of 150 reusable Skills for social media research, content collection, and monitoring across 18 platforms. These Skills enable agents to bypass platform restrictions by using BrowserAct for browser automation, allowing structured data ext
   * Tags: `social media scraping`, `agent skills`, `browser automation`, `data extraction`, `RAG data pipeline`
 
-* **[sandraschi/virtualization-mcp](world/public/vault/daily-digests/2026-11-02/virtualization-mcp.md)** (`reference` | `reference` tier)
+* **[sandraschi/virtualization-mcp](world/public/vault/daily-digests/2026-11-03/virtualization-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server and webapp for managing virtual machines, sandboxes, and development environments across VirtualBox, Hyper-V, and Windows Sandbox. Enables AI assistants like Claude Desktop to spin up, control, and monitor VMs pr
   * Tags: `virtualization`, `MCP server`, `VM automation`, `sandbox environments`, `AI tooling`
 
-* **[santischurmann/VibeCodeProtocols](world/public/vault/daily-digests/2026-11-02/vibecodeprotocols.md)** (`reference` | `reference` tier)
+* **[santischurmann/VibeCodeProtocols](world/public/vault/daily-digests/2026-11-03/vibecodeprotocols.md)** (`reference` | `reference` tier)
   * Summary: VibeCodeProtocols (VCP) is a protocol framework designed to guide AI agents (like Claude Code) through structured, test-driven development workflows. It enforces disciplined coding practices by separating planning, implementation, testing, and review
   * Tags: `AI-driven development`, `test-driven development`, `code review automation`, `structured workflow`, `traceability`
 
-* **[saturnone1/vs_2022_mcp](world/public/vault/daily-digests/2026-11-02/vs_2022_mcp.md)** (`reference` | `reference` tier)
+* **[saturnone1/vs_2022_mcp](world/public/vault/daily-digests/2026-11-03/vs_2022_mcp.md)** (`reference` | `reference` tier)
   * Summary: VS MCP Server is a Visual Studio extension that exposes IDE features through the Model Context Protocol (MCP), enabling AI assistants like Claude to programmatically interact with Visual Studio for tasks such as file manipulation, debugging, and proj
   * Tags: `Visual Studio`, `MCP Server`, `AI IDE Integration`, `Code Automation`, `Debugging Tools`
 
-* **[sciman-top/skills-manager](world/public/vault/daily-digests/2026-11-02/skills-manager.md)** (`reference` | `reference` tier)
+* **[sciman-top/skills-manager](world/public/vault/daily-digests/2026-11-03/skills-manager.md)** (`reference` | `reference` tier)
   * Summary: A Windows-first PowerShell-based manager for aggregating, curating, and synchronizing AI agent skills from multiple sources into unified workspaces for Claude, Codex, Gemini, and Trae. It consolidates skills, MCP servers, and rules while enforcing de
   * Tags: `AI skills management`, `MCP synchronization`, `PowerShell automation`, `multi-agent orchestration`, `rule governance`
 
-* **[senoff/xlsx-for-ai](world/public/vault/daily-digests/2026-11-02/xlsx-for-ai.md)** (`reference` | `reference` tier)
+* **[senoff/xlsx-for-ai](world/public/vault/daily-digests/2026-11-03/xlsx-for-ai.md)** (`reference` | `reference` tier)
   * Summary: A production-grade MCP server and CLI tool that provides AI agents with 50+ tools for reading, writing, diffing, redacting, healing, and cryptographically attesting Excel (.xlsx) files via a hosted API. It bridges the gap between spreadsheet complexi
   * Tags: `spreadsheet processing`, `MCP server`, `Excel tools`, `LLM integration`, `data integrity`
 
-* **[shawn-durrani/spendglass](world/public/vault/daily-digests/2026-11-02/spendglass.md)** (`reference` | `reference` tier)
+* **[shawn-durrani/spendglass](world/public/vault/daily-digests/2026-11-03/spendglass.md)** (`reference` | `reference` tier)
   * Summary: Spendglass is a local-only financial transaction manager that syncs bank data via the Redbark open-banking API into a SQLite database, provides a password-protected web UI for analytics, and exposes a read-only MCP server for local AI agents to query
   * Tags: `local-first`, `financial data`, `MCP server`, `open banking`, `transaction analytics`
 
-* **[SheldonZhuang/StockSentinel](world/public/vault/daily-digests/2026-11-02/stocksentinel.md)** (`reference` | `reference` tier)
+* **[SheldonZhuang/StockSentinel](world/public/vault/daily-digests/2026-11-03/stocksentinel.md)** (`reference` | `reference` tier)
   * Summary: Stock Sentinel is a US stock market signal system that provides attack/defense timing alerts based on a four-dimensional data-driven framework (AI supply-demand, monetary policy, fiscal policy, and administrative policy). It offers open APIs, MCP ser
   * Tags: `stock market signals`, `AI-driven investing`, `macro policy analysis`, `MCP integration`, `open API`
 
-* **[shingou-io/shingou-skills](world/public/vault/daily-digests/2026-11-02/shingou-skills.md)** (`reference` | `reference` tier)
+* **[shingou-io/shingou-skills](world/public/vault/daily-digests/2026-11-03/shingou-skills.md)** (`reference` | `reference` tier)
   * Summary: Shingou Skills provides MCP tools and a skill package to integrate the Shingou news-sentiment API into AI agents like Claude. It enables agents to fetch sentiment data, historical sentiment, events, and symbols via standardized MCP interfaces, with s
   * Tags: `news sentiment`, `MCP tools`, `API integration`, `Claude skills`, `financial signals`
 
-* **[shoehorn-dev/shoehorn-cli](world/public/vault/daily-digests/2026-11-02/shoehorn-cli.md)** (`reference` | `reference` tier)
+* **[shoehorn-dev/shoehorn-cli](world/public/vault/daily-digests/2026-11-03/shoehorn-cli.md)** (`reference` | `reference` tier)
   * Summary: Shoehorn CLI is a command-line interface for the Shoehorn Intelligent Developer Platform, enabling developers to interact with service catalogs, manage governance actions, run Forge workflows, and handle GitOps resources via a rich terminal-based TUI
   * Tags: `CLI`, `Developer Platform`, `GitOps`, `Forge Workflows`, `Governance`
 
-* **[ShugokiFable/Ultimate-AI-Starter-Bundle](world/public/vault/daily-digests/2026-11-02/ultimate-ai-starter-bundle.md)** (`reference` | `reference` tier)
+* **[ShugokiFable/Ultimate-AI-Starter-Bundle](world/public/vault/daily-digests/2026-11-03/ultimate-ai-starter-bundle.md)** (`reference` | `reference` tier)
   * Summary: A comprehensive multi-provider AI starter kit designed to streamline AI-assisted development across providers like Claude, Codex, Grok, Kimi, and Hermes. It bundles skills, MCP servers, plugins, and offline tools, with optional deep integration for S
   * Tags: `AI starter kit`, `multi-provider`, `MCP servers`, `Skyrim modding`, `context compression`
 
-* **[shuigui-ou/software-verifier](world/public/vault/daily-digests/2026-11-02/software-verifier.md)** (`reference` | `reference` tier)
+* **[shuigui-ou/software-verifier](world/public/vault/daily-digests/2026-11-03/software-verifier.md)** (`reference` | `reference` tier)
   * Summary: A software verification tool that automates full functional testing of applications by parsing specifications, executing real interactions (clicks, form fills) via headless browsers, Electron, mini-programs, or Appium, and generating detailed pass/fa
   * Tags: `automated testing`, `functional verification`, `UI automation`, `self-evolving knowledge base`, `contribution backflow`
 
-* **[shuji-bonji/xcomet-mcp-server](world/public/vault/daily-digests/2026-11-02/xcomet-mcp-server.md)** (`reference` | `reference` tier)
+* **[shuji-bonji/xcomet-mcp-server](world/public/vault/daily-digests/2026-11-03/xcomet-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: xCOMET MCP Server is an unofficial community project that provides AI agents with translation quality evaluation capabilities using Unbabel's xCOMET models. It enables referenceless or reference-based scoring, error detection, and batch processing fo
   * Tags: `translation quality evaluation`, `MCP server`, `xCOMET`, `machine translation`, `AI agent integration`
 
-* **[shy3130/tick-stock-panel](world/public/vault/daily-digests/2026-11-02/tick-stock-panel.md)** (`reference` | `reference` tier)
+* **[shy3130/tick-stock-panel](world/public/vault/daily-digests/2026-11-03/tick-stock-panel.md)** (`reference` | `reference` tier)
   * Summary: A self-hosted, zero-maintenance quant workbench for A-share stocks offering stock selection, monitoring, and backtesting with multi-data source routing, AI-assisted research, and real-time anomaly detection.
   * Tags: `quantitative trading`, `stock analysis`, `backtesting`, `self-hosted`, `AI-assisted`
 
-* **[simongonzalezdc/simongonzalezdc](world/public/vault/daily-digests/2026-11-02/simongonzalezdc.md)** (`reference` | `reference` tier)
+* **[simongonzalezdc/simongonzalezdc](world/public/vault/daily-digests/2026-11-03/simongonzalezdc.md)** (`reference` | `reference` tier)
   * Summary: A personal GitHub profile showcasing an AI systems builder's work, including MCP servers, agent tools, and domain-specific software. Focuses on practical, production-ready AI workflows with emphasis on documentation, testing, and real-world applicabi
   * Tags: `MCP servers`, `AI workflows`, `agent tools`, `production-ready`, `documentation`
 
-* **[SitanshuA091/VectorBench](world/public/vault/daily-digests/2026-11-02/vectorbench.md)** (`reference` | `reference` tier)
+* **[SitanshuA091/VectorBench](world/public/vault/daily-digests/2026-11-03/vectorbench.md)** (`reference` | `reference` tier)
   * Summary: VectorBench is a benchmarking framework for FAISS vector indexes that dissects embedding, indexing, and retrieval into inspectable components. It enables direct comparison of Flat, IVF, HNSW, and PQ indexes on recall@k, latency, and memory, while sup
   * Tags: `vector search`, `benchmarking`, `FAISS`, `index comparison`, `RAG evaluation`
 
-* **[skalesapp/wordpress](world/public/vault/daily-digests/2026-11-02/wordpress.md)** (`reference` | `reference` tier)
+* **[skalesapp/wordpress](world/public/vault/daily-digests/2026-11-03/wordpress.md)** (`reference` | `reference` tier)
   * Summary: A WordPress plugin that enables remote management of WordPress sites via the Skales desktop app, allowing AI agents to create, edit, and automate content, media, themes, and plugins through a secure REST API.
   * Tags: `WordPress automation`, `AI content management`, `REST API integration`, `SEO tools`, `WooCommerce automation`
 
-* **[sky-cloak/skycloak-mcp](world/public/vault/daily-digests/2026-11-02/skycloak-mcp.md)** (`reference` | `reference` tier)
+* **[sky-cloak/skycloak-mcp](world/public/vault/daily-digests/2026-11-03/skycloak-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for Skycloak, a managed Keycloak service, enabling programmatic management of Keycloak clusters, realms, applications, SSO, and users from any MCP-compatible client like Claude Desktop or Cursor.
   * Tags: `Keycloak`, `SSO`, `Identity Management`, `MCP Server`, `DevOps`
 
-* **[skyzhao1223/wheel-hub](world/public/vault/daily-digests/2026-11-02/wheel-hub.md)** (`reference` | `reference` tier)
+* **[skyzhao1223/wheel-hub](world/public/vault/daily-digests/2026-11-03/wheel-hub.md)** (`reference` | `reference` tier)
   * Summary: wheel-hub is an MCP server and CLI tool that helps AI coding agents and developers search, evaluate, and adopt open-source solutions before reinventing the wheel. It scores repositories based on popularity, momentum, maintenance, and trust, providing
   * Tags: `open-source discovery`, `MCP server`, `repository evaluation`, `AI coding agents`, `dependency management`
 
-* **[skyzhao1223/zspace-cli](world/public/vault/daily-digests/2026-11-02/zspace-cli.md)** (`reference` | `reference` tier)
+* **[skyzhao1223/zspace-cli](world/public/vault/daily-digests/2026-11-03/zspace-cli.md)** (`reference` | `reference` tier)
   * Summary: zspace-cli provides a CLI, Python SDK, and MCP Server to manage files on ZSpace (极空间) NAS devices without SSH or direct network access. It reverse-engineers the ZSpace desktop client's internal API to enable file operations, automation, and AI agent
   * Tags: `NAS management`, `CLI tool`, `MCP server`, `file automation`, `reverse engineering`
 
-* **[smbcloudXYZ/smbcloud-cli](world/public/vault/daily-digests/2026-11-02/smbcloud-cli.md)** (`reference` | `reference` tier)
+* **[smbcloudXYZ/smbcloud-cli](world/public/vault/daily-digests/2026-11-03/smbcloud-cli.md)** (`reference` | `reference` tier)
   * Summary: smbCloud CLI is a command-line interface and MCP server for managing smbCloud services, including email domains, authentication apps, and application deployments directly from the terminal or AI agents.
   * Tags: `CLI`, `MCP server`, `deployment`, `authentication`, `email management`
 
-* **[Snuffy2/ytptube-mcp](world/public/vault/daily-digests/2026-11-02/ytptube-mcp.md)** (`reference` | `reference` tier)
+* **[Snuffy2/ytptube-mcp](world/public/vault/daily-digests/2026-11-03/ytptube-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that provides a secure, read-only interface for AI assistants to inspect and optionally manage a self-hosted ytptube instance via HTTP API. It enables focused access to downloads, history, tasks, presets, and log
   * Tags: `MCP server`, `ytptube integration`, `AI assistant interface`, `media management`, `self-hosted`
 
-* **[socraticsurge/telugu-calendar-utilities](world/public/vault/daily-digests/2026-11-02/telugu-calendar-utilities.md)** (`reference` | `reference` tier)
+* **[socraticsurge/telugu-calendar-utilities](world/public/vault/daily-digests/2026-11-03/telugu-calendar-utilities.md)** (`reference` | `reference` tier)
   * Summary: Provides subscribable Telugu Panchangam calendar feeds in `.ics` format for 22 cities, covering daily Panchangam details, festivals, and auspicious/inauspicious timings. Includes an MCP server for AI assistants to access detailed astrological data pr
   * Tags: `Panchangam`, `Astrology`, `Calendar Feeds`, `MCP Server`, `Telugu Calendar`
 
-* **[sodam-ai/SoDam-WikiMate](world/public/vault/daily-digests/2026-11-02/sodam-wikimate.md)** (`reference` | `reference` tier)
+* **[sodam-ai/SoDam-WikiMate](world/public/vault/daily-digests/2026-11-03/sodam-wikimate.md)** (`reference` | `reference` tier)
   * Summary: Wikimate is a Claude Code plugin and MCP server that organizes scattered materials (web links, PDFs, chat logs, text) into Obsidian vaults as notes, with optional Notion indexing. It automates note creation, deduplication, health checks, and retrieva
   * Tags: `note-taking`, `obsidian-integration`, `mcp-server`, `ai-agent-tools`, `document-organization`
 
-* **[soden46/syarif-laravel-ai-skills](world/public/vault/daily-digests/2026-11-02/syarif-laravel-ai-skills.md)** (`reference` | `reference` tier)
+* **[soden46/syarif-laravel-ai-skills](world/public/vault/daily-digests/2026-11-03/syarif-laravel-ai-skills.md)** (`reference` | `reference` tier)
   * Summary: Syarif Laravel AI Skills provides a curated catalog of 71 reusable Laravel-focused AI skills designed for Codex, Claude Code, and other AI coding assistants. It includes secure memory orchestration, local standards, and universal AI agent support for
   * Tags: `Laravel`, `AI Skills`, `Agent Framework`, `Memory Orchestration`, `Codex Plugin`
 
-* **[SohrabZ/x-browser-mcp](world/public/vault/daily-digests/2026-11-02/x-browser-mcp.md)** (`reference` | `reference` tier)
+* **[SohrabZ/x-browser-mcp](world/public/vault/daily-digests/2026-11-03/x-browser-mcp.md)** (`reference` | `reference` tier)
   * Summary: x-browser-mcp is a browser-backed MCP server that enables local AI agents to read and post to X (formerly Twitter) using a dedicated Chrome profile, eliminating the need for X API keys or developer accounts. It bridges AI agents to X via the Model Co
   * Tags: `X/Twitter integration`, `MCP server`, `browser automation`, `local AI agents`, `read/write access`
 
-* **[soos3d/x-poster](world/public/vault/daily-digests/2026-11-02/x-poster.md)** (`reference` | `reference` tier)
+* **[soos3d/x-poster](world/public/vault/daily-digests/2026-11-03/x-poster.md)** (`reference` | `reference` tier)
   * Summary: x-poster is an OpenClaw skill that automates Twitter (X) posting by drafting posts about your open source work three times a day and publishing only upon receiving a 'ship' approval via Telegram. It ensures cadence and engagement while maintaining hu
   * Tags: `automation`, `social media`, `content generation`, `personal agent`, `open source`
 
-* **[sovereignfs/sovereign-edge](world/public/vault/daily-digests/2026-11-02/sovereign-edge.md)** (`reference` | `reference` tier)
+* **[sovereignfs/sovereign-edge](world/public/vault/daily-digests/2026-11-03/sovereign-edge.md)** (`reference` | `reference` tier)
   * Summary: Sovereign Edge is an early-stage, privacy-first mobile application designed to run fully offline AI inference and chat on iOS and Android devices. It aims to provide a local-only AI companion with optional, permissioned connectors for limited externa
   * Tags: `offline AI`, `privacy-first`, `mobile inference`, `local LLM`, `Expo`
 
-* **[soyona/x-to-xhs](world/public/vault/daily-digests/2026-11-02/x-to-xhs.md)** (`reference` | `reference` tier)
+* **[soyona/x-to-xhs](world/public/vault/daily-digests/2026-11-03/x-to-xhs.md)** (`reference` | `reference` tier)
   * Summary: A local-first tool that converts arbitrary text or public web content into structured Xiaohongshu (Little Red Book) long-form drafts, preserving source metadata and enabling manual editing before publication. It supports multi-model API fallback and
   * Tags: `content generation`, `local-first`, `multi-model API`, `Xiaohongshu`, `prompt engineering`
 
-* **[spantail/spantail](world/public/vault/daily-digests/2026-11-02/spantail.md)** (`reference` | `reference` tier)
+* **[spantail/spantail](world/public/vault/daily-digests/2026-11-03/spantail.md)** (`reference` | `reference` tier)
   * Summary: Spantail is an open-source work observability platform designed for human-AI collaboration, enabling low-overhead logging of human and AI agent work, unified reporting, and seamless sharing of insights across teams.
   * Tags: `work observability`, `human-AI collaboration`, `reporting`, `self-hosted`, `Cloudflare`
 
-* **[sprawl-software/sprawl-cli](world/public/vault/daily-digests/2026-11-02/sprawl-cli.md)** (`reference` | `reference` tier)
+* **[sprawl-software/sprawl-cli](world/public/vault/daily-digests/2026-11-03/sprawl-cli.md)** (`reference` | `reference` tier)
   * Summary: Sprawl CLI is a local-first tool that provides filesystem sandboxing, universal IDE binding, and GitOps-based governance for AI coding agents. It ensures secure containment, telemetry-free operation, and centralized rule management for developer work
   * Tags: `AI agent containment`, `workspace governance`, `filesystem sandboxing`, `IDE binding`, `GitOps`
 
-* **[sriinnu/tokmeter](world/public/vault/daily-digests/2026-11-02/tokmeter.md)** (`reference` | `reference` tier)
+* **[sriinnu/tokmeter](world/public/vault/daily-digests/2026-11-03/tokmeter.md)** (`reference` | `reference` tier)
   * Summary: Tokmeter is a comprehensive token usage tracker for AI coding agents that parses local session logs from 16+ AI assistants, aggregates token and cost data by project/model/provider/day, and exposes insights via CLI, TUI, web dashboard, MCP server, an
   * Tags: `token tracking`, `AI agent cost analysis`, `local observability`, `MCP integration`, `multi-surface UI`
 
-* **[stack-wuh/x.wuh.site](world/public/vault/daily-digests/2026-11-02/x_wuh_site.md)** (`reference` | `reference` tier)
+* **[stack-wuh/x.wuh.site](world/public/vault/daily-digests/2026-11-03/x_wuh_site.md)** (`reference` | `reference` tier)
   * Summary: A monorepo personal website built with Next.js 15, React 19, NestJS 10, and MongoDB, integrating GitHub Issues and Repos as a CMS. Features a unified component library, shared hooks, and TypeScript-based type safety across frontend and backend.
   * Tags: `monorepo`, `CMS`, `Next.js`, `NestJS`, `TypeScript`
 
-* **[standardbeagle/standardbeagle-tools](world/public/vault/daily-digests/2026-11-02/standardbeagle-tools.md)** (`reference` | `reference` tier)
+* **[standardbeagle/standardbeagle-tools](world/public/vault/daily-digests/2026-11-03/standardbeagle-tools.md)** (`reference` | `reference` tier)
   * Summary: A monorepo providing AI coding agent toolkits and UX-focused MCP packages, including plugins for Claude Code and reusable npm libraries for design, accessibility, and frontend tooling.
   * Tags: `AI coding agents`, `MCP servers`, `UX tooling`, `accessibility`, `design tokens`
 
-* **[stateletlab/statelet-sdk](world/public/vault/daily-digests/2026-11-02/statelet-sdk.md)** (`reference` | `reference` tier)
+* **[stateletlab/statelet-sdk](world/public/vault/daily-digests/2026-11-03/statelet-sdk.md)** (`reference` | `reference` tier)
   * Summary: Statelet SDKs provide official client libraries for Statelet, an AI-native distributed database combining key-value storage, vector search, and a temporal causal graph. The SDKs wrap a shared gRPC contract and support multiple languages including Pyt
   * Tags: `client SDK`, `distributed database`, `vector search`, `temporal graph`, `multi-language`
 
-* **[stcmain/whats-allowed-mcp](world/public/vault/daily-digests/2026-11-02/whats-allowed-mcp.md)** (`reference` | `reference` tier)
+* **[stcmain/whats-allowed-mcp](world/public/vault/daily-digests/2026-11-03/whats-allowed-mcp.md)** (`reference` | `reference` tier)
   * Summary: whats-allowed-mcp is an MCP server that analyzes and visualizes permission rules across multiple settings files for AI coding agents, identifying rules that appear to do something but are actually ignored due to misconfiguration or syntax issues.
   * Tags: `permissions`, `MCP server`, `Claude Code`, `rule analysis`, `security`
 
-* **[stcmain/whats-inherited-mcp](world/public/vault/daily-digests/2026-11-02/whats-inherited-mcp.md)** (`reference` | `reference` tier)
+* **[stcmain/whats-inherited-mcp](world/public/vault/daily-digests/2026-11-03/whats-inherited-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server that enumerates and analyzes instruction files, hook commands, declared MCP servers, and agent extensions within a code repository checkout, specifically targeting content addressed to AI agents rather than human reviewers.
   * Tags: `MCP server`, `AI agent instructions`, `code review`, `security analysis`, `repository inspection`
 
-* **[stcmain/whats-loaded-mcp](world/public/vault/daily-digests/2026-11-02/whats-loaded-mcp.md)** (`reference` | `reference` tier)
+* **[stcmain/whats-loaded-mcp](world/public/vault/daily-digests/2026-11-03/whats-loaded-mcp.md)** (`reference` | `reference` tier)
   * Summary: whats-loaded-mcp is an MCP server that audits and reports what is consuming an AI agent's context window before any user input is provided, including skill descriptions, memory files, and configured MCP servers. It helps identify redundant or costly
   * Tags: `MCP server`, `context optimization`, `token cost analysis`, `skill auditing`, `memory management`
 
-* **[stcmain/whats-running-mcp](world/public/vault/daily-digests/2026-11-02/whats-running-mcp.md)** (`reference` | `reference` tier)
+* **[stcmain/whats-running-mcp](world/public/vault/daily-digests/2026-11-03/whats-running-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server that provides real-time ground truth about system state to AI agents, including live processes, listening ports, daemons, and system statistics. It ensures agents operate on accurate, up-to-date information rather than stale or cached d
   * Tags: `MCP server`, `system monitoring`, `agent ground truth`, `real-time state`, `process management`
 
-* **[Std07-1/v3](world/public/vault/daily-digests/2026-11-02/v3.md)** (`reference` | `reference` tier)
+* **[Std07-1/v3](world/public/vault/daily-digests/2026-11-03/v3.md)** (`reference` | `reference` tier)
   * Summary: A real-time trading analytics platform that ingests broker data (FXCM/Binance) into a UnifiedDataStore (UDS), computes Smart Money Concepts (SMC) analytics, and serves live WebSocket charts with a read-only API for external clients like AI agents or
   * Tags: `real-time analytics`, `Smart Money Concepts`, `UnifiedDataStore`, `FXCM connector`, `WebSocket API`
 
-* **[steel-dev/steel-mcp-server](world/public/vault/daily-digests/2026-11-02/steel-mcp-server.md)** (`reference` | `reference` tier)
+* **[steel-dev/steel-mcp-server](world/public/vault/daily-digests/2026-11-03/steel-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: The Steel MCP Server provides an interface for AI agents to interact with a managed Chromium browser via the Model Context Protocol (MCP). It enables reading web pages, taking screenshots, filling forms, and handling interactive sessions, with suppor
   * Tags: `web automation`, `browser interaction`, `MCP server`, `RAG tooling`, `headless browser`
 
-* **[stormzhang/token-tracker](world/public/vault/daily-digests/2026-11-02/token-tracker.md)** (`reference` | `reference` tier)
+* **[stormzhang/token-tracker](world/public/vault/daily-digests/2026-11-03/token-tracker.md)** (`reference` | `reference` tier)
   * Summary: Token Tracker is a local AI agent token consumption tracking and analysis tool for Claude Code and Codex. It provides real-time token usage monitoring, cost analysis, and quota tracking via status bars, CLI dashboards, and sidebars.
   * Tags: `token tracking`, `cost analysis`, `Claude Code`, `Codex`, `local agent monitoring`
 
-* **[streamshub/streamshub-mcp](world/public/vault/daily-digests/2026-11-02/streamshub-mcp.md)** (`reference` | `reference` tier)
+* **[streamshub/streamshub-mcp](world/public/vault/daily-digests/2026-11-03/streamshub-mcp.md)** (`reference` | `reference` tier)
   * Summary: StreamsHub MCP provides Model Context Protocol (MCP) servers that enable AI assistants to interact with Kubernetes-based streaming infrastructure, such as Strimzi-managed Kafka clusters. It exposes live cluster state and diagnostic tools via MCP-comp
   * Tags: `MCP`, `Kubernetes`, `Kafka`, `Strimzi`, `AI Infrastructure`
 
-* **[studiocon/yuzu-app](world/public/vault/daily-digests/2026-11-02/yuzu-app.md)** (`reference` | `reference` tier)
+* **[studiocon/yuzu-app](world/public/vault/daily-digests/2026-11-03/yuzu-app.md)** (`reference` | `reference` tier)
   * Summary: YUZU is a voice journaling app backend that records raw, unedited speech as immutable records. It provides API routes for Next.js, Supabase migrations, and an MCP server to support the iOS-native voice journaling application.
   * Tags: `voice journaling`, `raw speech recording`, `immutable records`, `MCP server`, `Supabase backend`
 
-* **[sumithr/sumo-qa](world/public/vault/daily-digests/2026-11-02/sumo-qa.md)** (`reference` | `reference` tier)
+* **[sumithr/sumo-qa](world/public/vault/daily-digests/2026-11-03/sumo-qa.md)** (`reference` | `reference` tier)
   * Summary: sumo-qa is an MCP server and skills library that enforces senior-QA discipline on AI-generated code by mapping risks to tests, planning QA strategies, and providing merge verdicts based on fresh test evidence rather than stale CI results. It integrat
   * Tags: `QA automation`, `AI code review`, `test planning`, `TDD enforcement`, `MCP server`
 
-* **[sunerpy/yunjian](world/public/vault/daily-digests/2026-11-02/yunjian.md)** (`reference` | `reference` tier)
+* **[sunerpy/yunjian](world/public/vault/daily-digests/2026-11-03/yunjian.md)** (`reference` | `reference` tier)
   * Summary: 云笺 (yunjian) is an offline Chinese classical poetry toolkit featuring a local SQLite corpus, search capabilities, AI-generated appreciation, and memorization training. It includes an MCP server for AI assistants to query the local poetry database.
   * Tags: `offline poetry database`, `AI appreciation`, `MCP server`, `classical Chinese literature`, `copyright-safe corpus`
 
-* **[sushiHex/vram-mcp](world/public/vault/daily-digests/2026-11-02/vram-mcp.md)** (`reference` | `reference` tier)
+* **[sushiHex/vram-mcp](world/public/vault/daily-digests/2026-11-03/vram-mcp.md)** (`reference` | `reference` tier)
   * Summary: vram-mcp is an MCP server that enables AI agents to safely share a single NVIDIA GPU by providing real-time VRAM visibility, cross-session model claims, and protected eviction mechanisms. It integrates with Ollama and uses NVML for GPU utilization tr
   * Tags: `GPU resource management`, `multi-agent coordination`, `VRAM monitoring`, `MCP server`, `Ollama integration`
 
-* **[SystemCraftsman/strimzi-kafka-cli](world/public/vault/daily-digests/2026-11-02/strimzi-kafka-cli.md)** (`reference` | `reference` tier)
+* **[SystemCraftsman/strimzi-kafka-cli](world/public/vault/daily-digests/2026-11-03/strimzi-kafka-cli.md)** (`reference` | `reference` tier)
   * Summary: Strimzi Kafka CLI is a command-line interface that simplifies the management of Apache Kafka on Kubernetes using the Strimzi operator. It provides a familiar Kafka-native experience for users transitioning from traditional Kafka deployments.
   * Tags: `Kafka management`, `Kubernetes operator`, `CLI tool`, `Strimzi`, `MCP server`
 
-* **[tableau/tableau-mcp](world/public/vault/daily-digests/2026-11-02/tableau-mcp.md)** (`reference` | `reference` tier)
+* **[tableau/tableau-mcp](world/public/vault/daily-digests/2026-11-03/tableau-mcp.md)** (`reference` | `reference` tier)
   * Summary: Tableau MCP is an official Tableau-supported suite of developer primitives that enables AI applications to integrate with Tableau's data visualization and analytics platform. It provides tools, resources, and prompts to facilitate natural language in
   * Tags: `Tableau`, `MCP`, `data integration`, `AI agents`, `analytics`
 
-* **[tai42ai/tai-dynamic-postgres-mcp](world/public/vault/daily-digests/2026-11-02/tai-dynamic-postgres-mcp.md)** (`reference` | `reference` tier)
+* **[tai42ai/tai-dynamic-postgres-mcp](world/public/vault/daily-digests/2026-11-03/tai-dynamic-postgres-mcp.md)** (`reference` | `reference` tier)
   * Summary: A schema-driven generator that creates safe, scoped PostgreSQL DML tools for FastMCP agent systems. It introspects a PostgreSQL database and generates typed MCP tools for CRUD operations per table, ensuring controlled and injection-safe database acce
   * Tags: `PostgreSQL`, `MCP`, `Agent Tools`, `Database Access`, `CRUD`
 
-* **[TamaruNorio/UTR_RAG](world/public/vault/daily-digests/2026-11-02/utr_rag.md)** (`reference` | `reference` tier)
+* **[TamaruNorio/UTR_RAG](world/public/vault/daily-digests/2026-11-03/utr_rag.md)** (`reference` | `reference` tier)
   * Summary: UTR_RAG is a documentation repository that organizes the communication protocol for Takaya's UTR-S201 series devices to facilitate AI-assisted implementation, review, and verification through pair programming. It provides structured guides, command r
   * Tags: `UTR-S201`, `UHF RFID`, `AI-assisted development`, `communication protocol`, `documentation`
 
-* **[team-telnyx/telnyx-code-examples](world/public/vault/daily-digests/2026-11-02/telnyx-code-examples.md)** (`reference` | `reference` tier)
+* **[team-telnyx/telnyx-code-examples](world/public/vault/daily-digests/2026-11-03/telnyx-code-examples.md)** (`reference` | `reference` tier)
   * Summary: Production-ready code examples for Telnyx's AI Communications Infrastructure, including Voice AI, SMS, SIP, and IoT APIs. Each example is a self-contained project with working code, documentation, and environment configuration for rapid deployment.
   * Tags: `voice-ai`, `telephony`, `api-examples`, `ai-communications`, `telnyx`
 
-* **[teamyavio/yavio](world/public/vault/daily-digests/2026-11-02/yavio.md)** (`reference` | `reference` tier)
+* **[teamyavio/yavio](world/public/vault/daily-digests/2026-11-03/yavio.md)** (`reference` | `reference` tier)
   * Summary: Yavio is an open-source, self-hosted analytics platform designed to provide visibility into how users interact with MCP servers and ChatGPT applications. It captures tool calls, user interactions, funnels, errors, and retention metrics with minimal S
   * Tags: `analytics`, `MCP`, `ChatGPT`, `self-hosted`, `instrumentation`
 
-* **[TechXploreLabs/seristack](world/public/vault/daily-digests/2026-11-02/seristack.md)** (`reference` | `reference` tier)
+* **[TechXploreLabs/seristack](world/public/vault/daily-digests/2026-11-03/seristack.md)** (`reference` | `reference` tier)
   * Summary: Seristack is a lightweight automation engine that enables DevOps, Platform, SRE, and Cloud teams to define shell workflows in YAML, manage dependencies, and expose them as HTTP endpoints or MCP tools for AI agent integration.
   * Tags: `automation`, `workflow engine`, `shell scripts`, `MCP server`, `DevOps tooling`
 
-* **[ten10do/ten10do-da-bing-perspective](world/public/vault/daily-digests/2026-11-02/ten10do-da-bing-perspective.md)** (`reference` | `reference` tier)
+* **[ten10do/ten10do-da-bing-perspective](world/public/vault/daily-digests/2026-11-03/ten10do-da-bing-perspective.md)** (`reference` | `reference` tier)
   * Summary: This repository documents Da Bing (焉冰)'s thinking framework and expressive style, distilled from publicly available materials into a structured Codex Skill format. It serves as a knowledge base for understanding and replicating his cognitive and comm
   * Tags: `thinking framework`, `cognitive patterns`, `knowledge distillation`, `public materials`, `expressive style`
 
-* **[tensorcircuit/tensorcircuit-ng](world/public/vault/daily-digests/2026-11-02/tensorcircuit-ng.md)** (`reference` | `reference` tier)
+* **[tensorcircuit/tensorcircuit-ng](world/public/vault/daily-digests/2026-11-03/tensorcircuit-ng.md)** (`reference` | `reference` tier)
   * Summary: TensorCircuit-NG is a next-generation, open-source quantum software framework designed for AI-native quantum programming and automated scientific discovery. It integrates quantum circuit simulation with modern machine learning frameworks (JAX, Tensor
   * Tags: `quantum computing`, `tensor networks`, `AI-native`, `variational algorithms`, `high-performance simulation`
 
-* **[tersignhq/tersign-js](world/public/vault/daily-digests/2026-11-02/tersign-js.md)** (`reference` | `reference` tier)
+* **[tersignhq/tersign-js](world/public/vault/daily-digests/2026-11-03/tersign-js.md)** (`reference` | `reference` tier)
   * Summary: Tersign-js is a TypeScript SDK and MCP server for creating, signing, and verifying counter-signed EIP-712 receipts in the agent economy. It provides a neutral, hash-chained ledger for agent commerce, enabling verifiable evidence trails for transactio
   * Tags: `evidence layer`, `receipt verification`, `agent economy`, `compliance records`, `dispute resolution`
 
-* **[the-staq/tradestaq-mcp](world/public/vault/daily-digests/2026-11-02/tradestaq-mcp.md)** (`reference` | `reference` tier)
+* **[the-staq/tradestaq-mcp](world/public/vault/daily-digests/2026-11-03/tradestaq-mcp.md)** (`reference` | `reference` tier)
   * Summary: TradeStaq MCP Server provides 31 AI-powered trading tools for MCP clients like Claude and Cursor, enabling strategy creation, backtesting, bot deployment, portfolio monitoring, and copy trading across multiple exchanges.
   * Tags: `trading automation`, `MCP server`, `AI agents`, `portfolio management`, `backtesting`
 
-* **[theabbie/webpi](world/public/vault/daily-digests/2026-11-02/webpi.md)** (`reference` | `reference` tier)
+* **[theabbie/webpi](world/public/vault/daily-digests/2026-11-03/webpi.md)** (`reference` | `reference` tier)
   * Summary: WebPi is an interactive CLI terminal for the Pi AI assistant, delivered as a full-screen Streamlit application. It bridges browser-based xterm.js terminals to a real Linux PTY via WebSocket, enabling real-time interaction with Pi in an isolated works
   * Tags: `AI CLI`, `Streamlit application`, `interactive terminal`, `PTY bridging`, `workspace isolation`
 
-* **[theserverlessdev/wsc](world/public/vault/daily-digests/2026-11-02/wsc.md)** (`reference` | `reference` tier)
+* **[theserverlessdev/wsc](world/public/vault/daily-digests/2026-11-03/wsc.md)** (`reference` | `reference` tier)
   * Summary: A prose linter and AI-slop detector that identifies overrepresented words, phrases, and sentence structures in AI-generated text, along with classic writing issues. It offers multiple interfaces including a web editor, HTTP API, MCP server, CLI, and
   * Tags: `prose linter`, `AI-generated text detection`, `writing quality`, `MCP server`, `research-backed`
 
-* **[theYahia/sms-ru-mcp](world/public/vault/daily-digests/2026-11-02/sms-ru-mcp.md)** (`reference` | `reference` tier)
+* **[theYahia/sms-ru-mcp](world/public/vault/daily-digests/2026-11-03/sms-ru-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for integrating SMS.RU's API into AI assistants, enabling SMS sending, status checks, balance inquiries, and sender management without direct API coding. Designed for seamless integration with LLM workflows.
   * Tags: `SMS integration`, `MCP server`, `Russian API`, `AI assistant tools`, `automation`
 
-* **[theYahia/travelpayouts-mcp](world/public/vault/daily-digests/2026-11-02/travelpayouts-mcp.md)** (`reference` | `reference` tier)
+* **[theYahia/travelpayouts-mcp](world/public/vault/daily-digests/2026-11-03/travelpayouts-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that integrates the Travelpayouts API to enable AI assistants like Claude to perform flight and hotel searches, price comparisons, and travel-related lookups via 13 specialized tools.
   * Tags: `travel search`, `flight booking`, `hotel booking`, `MCP server`, `API integration`
 
-* **[theYahia/unisender-mcp](world/public/vault/daily-digests/2026-11-02/unisender-mcp.md)** (`reference` | `reference` tier)
+* **[theYahia/unisender-mcp](world/public/vault/daily-digests/2026-11-03/unisender-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that integrates UniSender's email marketing API, enabling AI agents to manage mailing lists, contacts, campaigns, templates, and statistics programmatically without manual intervention in the UniSender dashboard.
   * Tags: `email automation`, `MCP server`, `UniSender integration`, `AI agent tools`, `marketing API`
 
-* **[theYahia/vk-mcp](world/public/vault/daily-digests/2026-11-02/vk-mcp.md)** (`reference` | `reference` tier)
+* **[theYahia/vk-mcp](world/public/vault/daily-digests/2026-11-03/vk-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for interacting with VKontakte (VK) API, enabling AI agents to publish posts, retrieve wall content, fetch user/group data, send messages, and analyze group statistics programmatically.
   * Tags: `VKontakte`, `MCP server`, `API wrapper`, `social media integration`, `AI automation`
 
-* **[theYahia/yandex-cloud-mcp](world/public/vault/daily-digests/2026-11-02/yandex-cloud-mcp.md)** (`reference` | `reference` tier)
+* **[theYahia/yandex-cloud-mcp](world/public/vault/daily-digests/2026-11-03/yandex-cloud-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for Yandex Cloud that enables natural language interaction with cloud resources, including virtual machines, object storage buckets, and serverless functions. It provides 8 tools to manage and query Yandex Cloud
   * Tags: `Yandex Cloud`, `MCP Server`, `Cloud Automation`, `Serverless`, `Virtual Machines`
 
-* **[Thomas-Austad/Thomas-Austad](world/public/vault/daily-digests/2026-11-02/thomas-austad.md)** (`reference` | `reference` tier)
+* **[Thomas-Austad/Thomas-Austad](world/public/vault/daily-digests/2026-11-03/thomas-austad.md)** (`reference` | `reference` tier)
   * Summary: A personal-use AI career platform MVP designed to assist with job applications through evidence-grounded candidate profiling, job matching, compensation estimation, and resume/cover-letter tailoring. It integrates with job platforms like Greenhouse a
   * Tags: `career platform`, `job matching`, `AI agent`, `MCP integration`, `resume automation`
 
-* **[Tickerrisk/tickerrisk-mcp](world/public/vault/daily-digests/2026-11-02/tickerrisk-mcp.md)** (`reference` | `reference` tier)
+* **[Tickerrisk/tickerrisk-mcp](world/public/vault/daily-digests/2026-11-03/tickerrisk-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that integrates real-time event data (earnings, FDA, legal, SEC, clinical) to assess option trade risk for stocks, enabling AI assistants to evaluate catalyst exposure within expiry windows.
   * Tags: `options trading`, `event risk analysis`, `MCP server`, `catalyst scoring`, `AI integration`
 
-* **[timescale/tiger-cli](world/public/vault/daily-digests/2026-11-02/tiger-cli.md)** (`reference` | `reference` tier)
+* **[timescale/tiger-cli](world/public/vault/daily-digests/2026-11-03/tiger-cli.md)** (`reference` | `reference` tier)
   * Summary: Tiger CLI is a command-line interface for managing Tiger Cloud database services, offering lifecycle operations, authentication, and configuration management. It includes an integrated Model Context Protocol (MCP) server to enable AI assistants to in
   * Tags: `CLI`, `MCP Server`, `Database Management`, `PostgreSQL`, `TimescaleDB`
 
-* **[timoinglin/wow-server-mcp](world/public/vault/daily-digests/2026-11-02/wow-server-mcp.md)** (`reference` | `reference` tier)
+* **[timoinglin/wow-server-mcp](world/public/vault/daily-digests/2026-11-03/wow-server-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables AI clients to manage a standalone World of Warcraft private server via natural language commands. It provides 82 tools for server administration, database operations, and game-world manipulation, sup
   * Tags: `WoW server management`, `AI automation`, `MCP server`, `private server tools`, `database administration`
 
-* **[tinh2/skills-hub-registry](world/public/vault/daily-digests/2026-11-02/skills-hub-registry.md)** (`reference` | `reference` tier)
+* **[tinh2/skills-hub-registry](world/public/vault/daily-digests/2026-11-03/skills-hub-registry.md)** (`reference` | `reference` tier)
   * Summary: A comprehensive registry of 430 production-tested AI skills for software development lifecycle tasks, organized into 15 categories. Skills are designed for self-healing validation, self-evolution telemetry, and modular orchestration across developmen
   * Tags: `AI skills registry`, `software development automation`, `self-healing skills`, `modular orchestration`, `production-ready templates`
 
-* **[tinystruct/tinystruct-mcp](world/public/vault/daily-digests/2026-11-02/tinystruct-mcp.md)** (`reference` | `reference` tier)
+* **[tinystruct/tinystruct-mcp](world/public/vault/daily-digests/2026-11-03/tinystruct-mcp.md)** (`reference` | `reference` tier)
   * Summary: tinystruct-mcp is a Java-based Model Context Protocol (MCP) server that enables AI agents to interact with file systems and GitHub operations through modular, annotation-driven tools. It bridges LLMs with external systems for secure and efficient too
   * Tags: `MCP server`, `Java tooling`, `Git integration`, `File system management`, `AI agent tools`
 
-* **[titershield-sketch/titer-sdk](world/public/vault/daily-digests/2026-11-02/titer-sdk.md)** (`reference` | `reference` tier)
+* **[titershield-sketch/titer-sdk](world/public/vault/daily-digests/2026-11-03/titer-sdk.md)** (`reference` | `reference` tier)
   * Summary: The @titer/sdk repository provides a TypeScript/JavaScript SDK for Titer, an on-chain security policy firewall and time-lock vault designed to protect autonomous AI agents on Solana. It enables secure treasury management by separating agent hot walle
   * Tags: `Solana`, `on-chain security`, `AI agent treasury`, `time-lock vault`, `policy firewall`
 
-* **[Titor-Z/woman](world/public/vault/daily-digests/2026-11-02/woman.md)** (`reference` | `reference` tier)
+* **[Titor-Z/woman](world/public/vault/daily-digests/2026-11-03/woman.md)** (`reference` | `reference` tier)
   * Summary: A terminal-based AI-powered intelligent document assistant written in Rust, designed to help users interact with and query documents directly from the command line.
   * Tags: `terminal`, `document assistant`, `AI-powered`, `CLI tool`, `Rust`
 
-* **[tmwgsicp/wechat-download-api](world/public/vault/daily-digests/2026-11-02/wechat-download-api.md)** (`reference` | `reference` tier)
+* **[tmwgsicp/wechat-download-api](world/public/vault/daily-digests/2026-11-03/wechat-download-api.md)** (`reference` | `reference` tier)
   * Summary: A fully open-source API service for fetching WeChat public account articles, generating RSS feeds, and enabling AI client integration via MCP. It includes anti-censorship mechanisms, proxy rotation, and markdown export for knowledge management tools.
   * Tags: `WeChat API`, `RSS Generation`, `AI Client Integration`, `Anti-Censorship`, `Markdown Export`
 
-* **[tomba-io/tomba-mcp-server](world/public/vault/daily-digests/2026-11-02/tomba-mcp-server.md)** (`reference` | `reference` tier)
+* **[tomba-io/tomba-mcp-server](world/public/vault/daily-digests/2026-11-03/tomba-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server for integrating with the Tomba.io API, providing standardized tools for email discovery, verification, enrichment, and contact research through a unified interface.
   * Tags: `email discovery`, `contact enrichment`, `MCP server`, `API integration`, `lead generation`
 
-* **[tommad6821/VibeKeys](world/public/vault/daily-digests/2026-11-02/vibekeys.md)** (`reference` | `reference` tier)
+* **[tommad6821/VibeKeys](world/public/vault/daily-digests/2026-11-03/vibekeys.md)** (`reference` | `reference` tier)
   * Summary: VibeKeys is a Windows desktop application that allows users to map mouse buttons to keyboard shortcuts or commands, enabling faster workflows for terminal users and developers by reducing the need to switch between mouse and keyboard.
   * Tags: `mouse automation`, `workflow optimization`, `Windows utility`, `keyboard shortcuts`, `desktop tool`
 
-* **[Tongas/sherpa-mcp](world/public/vault/daily-digests/2026-11-02/sherpa-mcp.md)** (`reference` | `reference` tier)
+* **[Tongas/sherpa-mcp](world/public/vault/daily-digests/2026-11-03/sherpa-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Claude Code plugin that offloads code-related tasks such as reading, searching, and batch-editing to a local LLM, reducing token usage in Claude's context while leveraging local processing power for heavy lifting.
   * Tags: `Claude Code`, `local LLM`, `code analysis`, `token optimization`, `batch editing`
 
-* **[tonydzi/telegram-mcp-kit](world/public/vault/daily-digests/2026-11-02/telegram-mcp-kit.md)** (`reference` | `reference` tier)
+* **[tonydzi/telegram-mcp-kit](world/public/vault/daily-digests/2026-11-03/telegram-mcp-kit.md)** (`reference` | `reference` tier)
   * Summary: A production-ready kit to connect MCP clients like Claude Code to a user's Telegram account via MTProto, enabling secure chat reading and message sending. It includes patches, a shared daemon, and a self-installing prompt for rapid setup (~15 minutes
   * Tags: `Telegram integration`, `MCP client`, `multi-account support`, `production-ready`, `AI agent tooling`
 
-* **[tonydzi/whatsapp-mcp-kit](world/public/vault/daily-digests/2026-11-02/whatsapp-mcp-kit.md)** (`reference` | `reference` tier)
+* **[tonydzi/whatsapp-mcp-kit](world/public/vault/daily-digests/2026-11-03/whatsapp-mcp-kit.md)** (`reference` | `reference` tier)
   * Summary: This repository provides a toolkit to connect WhatsApp to MCP clients like Claude Code, enabling AI assistants to read chats, send messages, and interact with WhatsApp accounts. It simplifies the linking process with patches, a live QR code generator
   * Tags: `WhatsApp integration`, `MCP client`, `QR code pairing`, `AI assistant tools`, `production-ready`
 
-* **[Tonyfi7584/zotlyx-inbox](world/public/vault/daily-digests/2026-11-02/zotlyx-inbox.md)** (`reference` | `reference` tier)
+* **[Tonyfi7584/zotlyx-inbox](world/public/vault/daily-digests/2026-11-03/zotlyx-inbox.md)** (`reference` | `reference` tier)
   * Summary: zotlyx-inbox is a self-hosted, team-focused email management tool that provides a shared inbox with real-time collaboration, AI-assisted reply generation, and secure cloud storage. It enables teams to manage emails collectively while leveraging Cloud
   * Tags: `email-management`, `team-collaboration`, `real-time-sync`, `ai-assisted-replies`, `cloudflare-integration`
 
-* **[toolplane-io/toolplane-mcp-inspector](world/public/vault/daily-digests/2026-11-02/toolplane-mcp-inspector.md)** (`reference` | `reference` tier)
+* **[toolplane-io/toolplane-mcp-inspector](world/public/vault/daily-digests/2026-11-03/toolplane-mcp-inspector.md)** (`reference` | `reference` tier)
   * Summary: Toolplane MCP Inspector is a developer workstation for inspecting, testing, and debugging Model Context Protocol (MCP) servers. It provides real-time JSON-RPC 2.0 traffic monitoring, OAuth handshake debugging, tool execution analysis, and distributed
   * Tags: `MCP`, `JSON-RPC`, `debugging`, `developer tools`, `OAuth`
 
-* **[tools-for-agents/tools-for-agents.github.io](world/public/vault/daily-digests/2026-11-02/tools-for-agents_github_io.md)** (`reference` | `reference` tier)
+* **[tools-for-agents/tools-for-agents.github.io](world/public/vault/daily-digests/2026-11-03/tools-for-agents_github_io.md)** (`reference` | `reference` tier)
   * Summary: A landing page and machine-readable manifest generator for tools-for-agents, an operating system for AI agents. It provides a curated, auto-generated set of 67 MCP tools in standardized formats for seamless agent discovery and integration.
   * Tags: `MCP`, `agent tools`, `machine-readable manifests`, `auto-generation`, `CI/CD`
 
-* **[Toskurim/vector-unforget](world/public/vault/daily-digests/2026-11-02/vector-unforget.md)** (`reference` | `reference` tier)
+* **[Toskurim/vector-unforget](world/public/vault/daily-digests/2026-11-03/vector-unforget.md)** (`reference` | `reference` tier)
   * Summary: VectorUnforget is a Python engine designed to enforce GDPR compliance (Right to be Forgotten) in vector databases used for RAG architectures. It provides cascading PII erasure, name variant matching, and cryptographic audit trails for compliance audi
   * Tags: `GDPR compliance`, `Right to be Forgotten`, `Vector database`, `PII erasure`, `Audit trail`
 
-* **[tourmind-com/Tourmind-Booking-Skills](world/public/vault/daily-digests/2026-11-02/tourmind-booking-skills.md)** (`reference` | `reference` tier)
+* **[tourmind-com/Tourmind-Booking-Skills](world/public/vault/daily-digests/2026-11-03/tourmind-booking-skills.md)** (`reference` | `reference` tier)
   * Summary: TourMind Booking Skills enables AI agents to perform end-to-end hotel bookings by integrating live inventory, rate comparisons, and reservation management via the TourMind API. It transforms any AI agent into a travel assistant capable of searching,
   * Tags: `hotel booking`, `AI agent integration`, `travel automation`, `real-time inventory`, `payment processing`
 
-* **[trackly-app/trackly-cli](world/public/vault/daily-digests/2026-11-02/trackly-cli.md)** (`reference` | `reference` tier)
+* **[trackly-app/trackly-cli](world/public/vault/daily-digests/2026-11-03/trackly-cli.md)** (`reference` | `reference` tier)
   * Summary: A CLI and MCP-compatible tool for job tracking and application management, enabling users to search 128,000+ jobs across 1,900+ companies, track applications, and interact with AI agents via natural language commands or terminal interfaces.
   * Tags: `job tracking`, `MCP server`, `AI agent integration`, `CLI tool`, `application management`
 
-* **[Tripstack-Corp/spyc](world/public/vault/daily-digests/2026-11-02/spyc.md)** (`reference` | `reference` tier)
+* **[Tripstack-Corp/spyc](world/public/vault/daily-digests/2026-11-03/spyc.md)** (`reference` | `reference` tier)
   * Summary: spyc is a keyboard-driven, vim-flavored terminal file commander designed to integrate with AI coding agents via a local MCP socket. It provides structured, live access to the user's file selection and workspace, enabling agents to query the current c
   * Tags: `file commander`, `MCP integration`, `AI agent collaboration`, `terminal UI`, `keyboard-driven`
 
-* **[trongnguyenbinh/zalo-bot-mcp](world/public/vault/daily-digests/2026-11-02/zalo-bot-mcp.md)** (`reference` | `reference` tier)
+* **[trongnguyenbinh/zalo-bot-mcp](world/public/vault/daily-digests/2026-11-03/zalo-bot-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) channel server that enables interaction with an AI agent via Zalo, a Vietnamese messaging platform. It bridges Zalo group messages to an MCP client session for AI responses using the Zalo Bot API.
   * Tags: `MCP`, `Zalo`, `AI agent integration`, `chatbot`, `multi-platform`
 
-* **[tropeai/trope-cua](world/public/vault/daily-digests/2026-11-02/trope-cua.md)** (`reference` | `reference` tier)
+* **[tropeai/trope-cua](world/public/vault/daily-digests/2026-11-03/trope-cua.md)** (`reference` | `reference` tier)
   * Summary: Trope CUA enables AI agents to interact with desktop applications on Windows and macOS in the background without disrupting the user's active session. It provides tools for inspecting windows, capturing screenshots and accessibility trees, and execut
   * Tags: `desktop automation`, `AI agent integration`, `background computer use`, `accessibility APIs`, `MCP server`
 
-* **[tuanductran/soulmap-ai](world/public/vault/daily-digests/2026-11-02/soulmap-ai.md)** (`reference` | `reference` tier)
+* **[tuanductran/soulmap-ai](world/public/vault/daily-digests/2026-11-03/soulmap-ai.md)** (`reference` | `reference` tier)
   * Summary: SoulMap AI is a reflective companion designed as a high-trust mirror for personal introspection, helping users clarify their thoughts and emotions without imposing external authority. It emphasizes clarity, boundaries, and user independence over auth
   * Tags: `reflective AI`, `personal introspection`, `content-first knowledge base`, `safety-first design`, `user autonomy`
 
-* **[tubasa821004-hash/social-manipulation-radar](world/public/vault/daily-digests/2026-11-02/social-manipulation-radar.md)** (`reference` | `reference` tier)
+* **[tubasa821004-hash/social-manipulation-radar](world/public/vault/daily-digests/2026-11-03/social-manipulation-radar.md)** (`reference` | `reference` tier)
   * Summary: A behavioral radar system designed to detect and counter social manipulation tactics in real-time conversations, using linguistic pattern analysis and proprietary heuristics to provide users with a cognitive immune system against persuasion technique
   * Tags: `social manipulation detection`, `behavioral analysis`, `persuasion tactics`, `cognitive autonomy`, `real-time conversation analysis`
 
-* **[tuo-lei/vibe-replay](world/public/vault/daily-digests/2026-11-02/vibe-replay.md)** (`reference` | `reference` tier)
+* **[tuo-lei/vibe-replay](world/public/vault/daily-digests/2026-11-03/vibe-replay.md)** (`reference` | `reference` tier)
   * Summary: vibe-replay converts AI agent coding sessions (Claude Code, Cursor, Codex, Pi) into interactive, shareable HTML replays with animated playback, insights, and analytics. It enables users to review, share, and learn from AI-assisted development workflo
   * Tags: `AI session replay`, `interactive playback`, `code review`, `agent analytics`, `developer workflow`
 
-* **[turbodoc-org/turbodoc-api](world/public/vault/daily-digests/2026-11-02/turbodoc-api.md)** (`reference` | `reference` tier)
+* **[turbodoc-org/turbodoc-api](world/public/vault/daily-digests/2026-11-03/turbodoc-api.md)** (`reference` | `reference` tier)
   * Summary: A REST API built with Hono and deployed on Cloudflare Workers, serving as the backend for the Turbodoc bookmark management platform. It provides secure bookmark operations, authentication, and OpenAPI documentation with Supabase integration.
   * Tags: `bookmark management`, `edge computing`, `REST API`, `authentication`, `OpenAPI`
 
-* **[TwitterAPIs/twitterapis-mcp](world/public/vault/daily-digests/2026-11-02/twitterapis-mcp.md)** (`reference` | `reference` tier)
+* **[TwitterAPIs/twitterapis-mcp](world/public/vault/daily-digests/2026-11-03/twitterapis-mcp.md)** (`reference` | `reference` tier)
   * Summary: Official Model Context Protocol (MCP) server for twitterapis.com, providing native Twitter/X API tools for AI agents like Claude, Cursor, and Windsurf. Enables read/write operations (search, profiles, timelines, posts, likes, follows) via a stateless
   * Tags: `Twitter API`, `MCP Server`, `AI Agents`, `Social Media Data`, `Real-time Data`
 
-* **[u7465990/testgen-agent](world/public/vault/daily-digests/2026-11-02/testgen-agent.md)** (`reference` | `reference` tier)
+* **[u7465990/testgen-agent](world/public/vault/daily-digests/2026-11-03/testgen-agent.md)** (`reference` | `reference` tier)
   * Summary: TestGen Agent is a Python-based tool that automates the generation of JUnit 4 tests for Java projects using LLMs. It analyzes Java code, extracts methods, generates diverse test cases (normal, boundary, exception, path), compiles and repairs tests, a
   * Tags: `automated testing`, `Java`, `JUnit`, `LLM-powered`, `code generation`
 
-* **[uehlingeric/shadcn-mcp](world/public/vault/daily-digests/2026-11-02/shadcn-mcp.md)** (`reference` | `reference` tier)
+* **[uehlingeric/shadcn-mcp](world/public/vault/daily-digests/2026-11-03/shadcn-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that provides direct access to the shadcn/ui v4 component registry, enabling AI assistants like Claude Code to fetch, search, and reference component and block source code without leaving the terminal.
   * Tags: `MCP server`, `shadcn/ui`, `component registry`, `Claude Code`, `UI source code`
 
-* **[uehlingeric/stitch-mcp](world/public/vault/daily-digests/2026-11-02/stitch-mcp.md)** (`reference` | `reference` tier)
+* **[uehlingeric/stitch-mcp](world/public/vault/daily-digests/2026-11-03/stitch-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) proxy server for Google Stitch, enabling AI-powered UI design generation directly from the terminal via tools like Claude Code. It bridges the Stitch API with MCP to facilitate screen generation, design system managemen
   * Tags: `UI generation`, `design systems`, `MCP proxy`, `Claude Code integration`, `Google Stitch`
 
-* **[ulinycoin/shadow-web](world/public/vault/daily-digests/2026-11-02/shadow-web.md)** (`reference` | `reference` tier)
+* **[ulinycoin/shadow-web](world/public/vault/daily-digests/2026-11-03/shadow-web.md)** (`reference` | `reference` tier)
   * Summary: Shadow Web is a Python SDK and MCP toolkit designed to compress and extract structured data from web pages, particularly those with Shadow DOM, for AI agents. It reduces token usage by up to 99% while preserving interactive elements, tables, forms, a
   * Tags: `web scraping`, `token compression`, `Shadow DOM`, `structured data extraction`, `AI agent tools`
 
-* **[Unclecheng-li/VulnClaw](world/public/vault/daily-digests/2026-11-02/vulnclaw.md)** (`reference` | `reference` tier)
+* **[Unclecheng-li/VulnClaw](world/public/vault/daily-digests/2026-11-03/vulnclaw.md)** (`reference` | `reference` tier)
   * Summary: VulnClaw is an AI-driven penetration testing CLI tool that automates the entire security testing workflow—from reconnaissance to vulnerability discovery, exploitation, and report generation—using natural language inputs and LLM agents with MCP toolch
   * Tags: `penetration testing`, `AI agent`, `automation`, `MCP toolchain`, `security assessment`
 
-* **[unitary-monoiodotyrosine892/tgcli](world/public/vault/daily-digests/2026-11-02/tgcli.md)** (`reference` | `reference` tier)
+* **[unitary-monoiodotyrosine892/tgcli](world/public/vault/daily-digests/2026-11-03/tgcli.md)** (`reference` | `reference` tier)
   * Summary: tgcli is a lightweight command-line interface (CLI) tool for interacting with Telegram, enabling users to send messages, manage chats, and access Telegram features directly from a terminal without a graphical interface.
   * Tags: `Telegram`, `CLI`, `Messaging`, `Terminal`, `Lightweight`
 
-* **[URaux/vrchat-avatar-modding-skill](world/public/vault/daily-digests/2026-11-02/vrchat-avatar-modding-skill.md)** (`reference` | `reference` tier)
+* **[URaux/vrchat-avatar-modding-skill](world/public/vault/daily-digests/2026-11-03/vrchat-avatar-modding-skill.md)** (`reference` | `reference` tier)
   * Summary: A skill package for AI coding assistants (Claude Code, Codex, etc.) that provides practical knowledge for modding VRChat avatars in Unity. It includes troubleshooting guides, component configurations, and automation scripts for Modular Avatar, VRCFur
   * Tags: `VRChat avatar modding`, `AI coding assistant skills`, `Unity automation`, `Modular Avatar`, `VRCFury`
 
-* **[urbanmorph/yellide](world/public/vault/daily-digests/2026-11-02/yellide.md)** (`reference` | `reference` tier)
+* **[urbanmorph/yellide](world/public/vault/daily-digests/2026-11-03/yellide.md)** (`reference` | `reference` tier)
   * Summary: Yellide is a local, privacy-focused media indexing tool that searches photos, videos, and audio files by their content rather than filenames. It operates as an MCP server, enabling natural language queries via tools like Claude without making network
   * Tags: `local media search`, `content-based indexing`, `privacy-first`, `MCP server`, `offline indexing`
 
-* **[usk6666/yorishiro-proxy](world/public/vault/daily-digests/2026-11-02/yorishiro-proxy.md)** (`reference` | `reference` tier)
+* **[usk6666/yorishiro-proxy](world/public/vault/daily-digests/2026-11-03/yorishiro-proxy.md)** (`reference` | `reference` tier)
   * Summary: Yorishiro Proxy is an AI-first MITM (Man-in-the-Middle) proxy tool designed for AI agents, enabling traffic interception, recording, and replay through the Model Context Protocol (MCP). It provides real-time inspection, modification, and automated te
   * Tags: `MITM Proxy`, `AI Agent Tooling`, `Traffic Interception`, `MCP Server`, `Multi-Protocol Support`
 
-* **[uwe-at-sdv/tde4_pydoc](world/public/vault/daily-digests/2026-11-02/tde4_pydoc.md)** (`reference` | `reference` tier)
+* **[uwe-at-sdv/tde4_pydoc](world/public/vault/daily-digests/2026-11-03/tde4_pydoc.md)** (`reference` | `reference` tier)
   * Summary: This repository provides a VS Code extension that exposes the 3DE4 Python API documentation as a VS Code MCP server definition, enabling MCP-capable clients to access Waterloo-style documentation roots via the `wtrl_mcp` server.
   * Tags: `MCP server`, `3DE4 Python API`, `VS Code extension`, `documentation`, `Waterloo docstrings`
 
-* **[uxloom-dev/uxloom](world/public/vault/daily-digests/2026-11-02/uxloom.md)** (`reference` | `reference` tier)
+* **[uxloom-dev/uxloom](world/public/vault/daily-digests/2026-11-03/uxloom.md)** (`reference` | `reference` tier)
   * Summary: UXLoom is an AI-native design validation tool that acts as a critic layer for UI/UX workflows, identifying missing states, accessibility issues, and design gaps before development begins. It models user journeys as state machines and ensures complete
   * Tags: `UI/UX validation`, `state machine modeling`, `accessibility checks`, `deterministic validation`, `agent-native tools`
 
-* **[varun29ankuS/shodh-memory](world/public/vault/daily-digests/2026-11-02/shodh-memory.md)** (`reference` | `reference` tier)
+* **[varun29ankuS/shodh-memory](world/public/vault/daily-digests/2026-11-03/shodh-memory.md)** (`reference` | `reference` tier)
   * Summary: Shodh-Memory is a persistent, offline-first cognitive memory system for AI agents and robots that learns from usage, forgets irrelevant data, and strengthens important memories without relying on LLMs. It supports chat agents, robots (via Zenoh/ROS2)
   * Tags: `persistent memory`, `offline-first`, `LLM-free`, `knowledge graph`, `ROS2/Zenoh`
 
-* **[vayl-dev/vayl](world/public/vault/daily-digests/2026-11-02/vayl.md)** (`reference` | `reference` tier)
+* **[vayl-dev/vayl](world/public/vault/daily-digests/2026-11-03/vayl.md)** (`reference` | `reference` tier)
   * Summary: Vayl is a reconciling memory layer for AI agents that supersedes stale facts with current ones, supports explicit removals, and maintains auditable history. It integrates via the MCP protocol and provides tools for memory management, safety, complian
   * Tags: `memory layer`, `reconciling memory`, `MCP server`, `audit trail`, `state management`
 
-* **[vector-index-bench/vibe](world/public/vault/daily-digests/2026-11-02/vibe.md)** (`reference` | `reference` tier)
+* **[vector-index-bench/vibe](world/public/vault/daily-digests/2026-11-03/vibe.md)** (`reference` | `reference` tier)
   * Summary: VIBE is an extensible benchmarking framework for approximate nearest neighbor search methods (vector indexes) using modern embedding datasets. It provides a standardized way to evaluate and compare state-of-the-art vector search algorithms across div
   * Tags: `vector search`, `benchmarking`, `ANN`, `embedding evaluation`, `nearest neighbor`
 
-* **[vehiclesdb/vehicles](world/public/vault/daily-digests/2026-11-02/vehicles.md)** (`reference` | `reference` tier)
+* **[vehiclesdb/vehicles](world/public/vault/daily-digests/2026-11-03/vehicles.md)** (`reference` | `reference` tier)
   * Summary: A Ruby gem providing a curated, offline dataset of 18.5k+ vehicle makes and models across 6 kinds (cars, motorcycles, etc.) with popularity rankings, availability by country, and Rails integration. Includes an MCP server for AI agents and validation
   * Tags: `vehicle data`, `Rails gem`, `offline dataset`, `MCP server`, `validation`
 
-* **[velesnitski/slk-mcp](world/public/vault/daily-digests/2026-11-02/slk-mcp.md)** (`reference` | `reference` tier)
+* **[velesnitski/slk-mcp](world/public/vault/daily-digests/2026-11-03/slk-mcp.md)** (`reference` | `reference` tier)
   * Summary: slk-mcp is a Slack MCP server that integrates with AI coding assistants like Claude Code, GitHub Copilot, and Cursor to provide Slack workspace interactions. It enables features such as morning recaps, unread summaries, mentions tracking, decision de
   * Tags: `Slack integration`, `MCP server`, `AI assistant`, `voice transcription`, `workspace automation`
 
-* **[VelvetSP/web-retrieval-mcp](world/public/vault/daily-digests/2026-11-02/web-retrieval-mcp.md)** (`reference` | `reference` tier)
+* **[VelvetSP/web-retrieval-mcp](world/public/vault/daily-digests/2026-11-03/web-retrieval-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP server providing high-fidelity web search and retrieval tools for AI agents, supporting Exa, Tavily, and Firecrawl providers with tiered fallback strategies, explicit provenance tracking, and SSRF guards for reliable source-grounded research.
   * Tags: `MCP server`, `web retrieval`, `AI agents`, `source grounding`, `tiered fallback`
 
-* **[VibeTechnologies/vibe-mcp](world/public/vault/daily-digests/2026-11-02/vibe-mcp.md)** (`reference` | `reference` tier)
+* **[VibeTechnologies/vibe-mcp](world/public/vault/daily-digests/2026-11-03/vibe-mcp.md)** (`reference` | `reference` tier)
   * Summary: Vibe MCP is an MCP server that enables AI agents to control a user's real, logged-in Chrome browser via a secure relay or direct DevTools Protocol connection. It allows multi-agent collaboration on a single browser instance, even when agents run on r
   * Tags: `browser automation`, `MCP server`, `AI agent control`, `Chrome DevTools`, `multi-agent`
 
-* **[vibheksoni/session-export](world/public/vault/daily-digests/2026-11-02/session-export.md)** (`reference` | `reference` tier)
+* **[vibheksoni/session-export](world/public/vault/daily-digests/2026-11-03/session-export.md)** (`reference` | `reference` tier)
   * Summary: UniSessions is an SDK-first AI CLI session converter that enables seamless migration of AI coding sessions between multiple platforms (Codex, Claude Code, Pi, OpenCode, Devin, Factory, Windsurf) with trace export capabilities for HuggingFace and fine
   * Tags: `session conversion`, `AI CLI tools`, `trace export`, `multi-agent compatibility`, `fine-tuning`
 
-* **[vilosource/vfkb](world/public/vault/daily-digests/2026-11-02/vfkb.md)** (`reference` | `reference` tier)
+* **[vilosource/vfkb](world/public/vault/daily-digests/2026-11-03/vfkb.md)** (`reference` | `reference` tier)
   * Summary: vfkb is a git-native, append-only knowledge base for AI coding agents that preserves project decisions, rationale, and lifecycle metadata directly within the repository. It enables deterministic, offline memory injection for agent sessions without ex
   * Tags: `git-native memory`, `decision tracking`, `AI agent substrate`, `deterministic knowledge`, `project rationale`
 
-* **[Vincentwei1021/video-talkcraft](world/public/vault/daily-digests/2026-11-02/video-talkcraft.md)** (`reference` | `reference` tier)
+* **[Vincentwei1021/video-talkcraft](world/public/vault/daily-digests/2026-11-03/video-talkcraft.md)** (`reference` | `reference` tier)
   * Summary: video-talkcraft is an AI agent skill that transforms voiceover scripts and audio into polished explainer videos with synchronized motion graphics. It automates word-level voiceover alignment, dynamic text animations, camera movements, and quality che
   * Tags: `AI video generation`, `motion graphics`, `voiceover synchronization`, `Remotion framework`, `agent skill`
 
-* **[virtualsms-io/windsurf-workflow-sms](world/public/vault/daily-digests/2026-11-02/windsurf-workflow-sms.md)** (`reference` | `reference` tier)
+* **[virtualsms-io/windsurf-workflow-sms](world/public/vault/daily-digests/2026-11-03/windsurf-workflow-sms.md)** (`reference` | `reference` tier)
   * Summary: This repository provides a drop-in `.windsurfrules` configuration for Windsurf's Cascade agent to integrate with the VirtualSMS MCP server, enabling AI agents to perform account verification via real carrier-issued mobile numbers, rent numbers, buy p
   * Tags: `SMS verification`, `MCP server integration`, `account verification`, `carrier-issued numbers`, `AI agent tools`
 
-* **[Voyagier-Travel/voyagier-cli](world/public/vault/daily-digests/2026-11-02/voyagier-cli.md)** (`reference` | `reference` tier)
+* **[Voyagier-Travel/voyagier-cli](world/public/vault/daily-digests/2026-11-03/voyagier-cli.md)** (`reference` | `reference` tier)
   * Summary: A command-line interface (CLI) and Model Context Protocol (MCP) server for managing travel plans, including flights, hotels, and activities, with real-time booking capabilities and AI agent integration.
   * Tags: `travel-planning`, `cli`, `mcp-server`, `booking-automation`, `ai-agent-integration`
 
-* **[VrilLabs/supersayan-webmcp](world/public/vault/daily-digests/2026-11-02/supersayan-webmcp.md)** (`reference` | `reference` tier)
+* **[VrilLabs/supersayan-webmcp](world/public/vault/daily-digests/2026-11-03/supersayan-webmcp.md)** (`reference` | `reference` tier)
   * Summary: SuperSayan is a full-stack security research platform for Google Chrome's WebMCP API, offering live detection scanning, offensive simulation, and defensive hardening for 15 novel 0-day CVEs. It includes a Chrome extension for real-time MCP security m
   * Tags: `WebMCP Security`, `CVE Detection`, `Chrome Extension`, `Offensive Simulation`, `Defensive Hardening`
 
-* **[vultisig/vultisig-sdk](world/public/vault/daily-digests/2026-11-02/vultisig-sdk.md)** (`reference` | `reference` tier)
+* **[vultisig/vultisig-sdk](world/public/vault/daily-digests/2026-11-03/vultisig-sdk.md)** (`reference` | `reference` tier)
   * Summary: The Vultisig SDK provides a self-custodial multi-chain wallet solution designed for AI agents and developers, enabling secure cross-chain transactions, swaps, and portfolio management across 40+ blockchains using MPC (Multi-Party Computation) securit
   * Tags: `multi-chain wallet`, `MPC security`, `cross-chain swaps`, `AI agent integration`, `self-custody`
 
-* **[waro7573/ski-releases](world/public/vault/daily-digests/2026-11-02/ski-releases.md)** (`reference` | `reference` tier)
+* **[waro7573/ski-releases](world/public/vault/daily-digests/2026-11-03/ski-releases.md)** (`reference` | `reference` tier)
   * Summary: A Windows desktop application that enables voice control for coding agents by converting speech-to-text locally and text-to-speech responses, ensuring data privacy and low-latency interactions.
   * Tags: `voice control`, `coding agent`, `local processing`, `Windows desktop`, `privacy`
 
-* **[wartzar-bee/tokenscope](world/public/vault/daily-digests/2026-11-02/tokenscope.md)** (`reference` | `reference` tier)
+* **[wartzar-bee/tokenscope](world/public/vault/daily-digests/2026-11-03/tokenscope.md)** (`reference` | `reference` tier)
   * Summary: tokenscope is a local, read-only CLI tool that analyzes AI-coding session logs (e.g., Claude Code) to break down costs into model output, re-sent context, and cache operations. It provides actionable insights to optimize token usage and reduce unexpe
   * Tags: `cost analysis`, `token optimization`, `AI session monitoring`, `context management`, `local analytics`
 
-* **[wbind-core/termpipe-mcp](world/public/vault/daily-digests/2026-11-02/termpipe-mcp.md)** (`reference` | `reference` tier)
+* **[wbind-core/termpipe-mcp](world/public/vault/daily-digests/2026-11-03/termpipe-mcp.md)** (`reference` | `reference` tier)
   * Summary: TermPipe MCP Server is a FastMCP-based MCP server for Claude Desktop that enables surgical file editing, shell execution, AI debugging, and system automation. It provides dynamic tool registration and hot-reloading capabilities for seamless integrati
   * Tags: `MCP Server`, `File Editing`, `AI Debugging`, `Shell Execution`, `Dynamic Tools`
 
-* **[webkubor/vite-plugin-agent-eyes](world/public/vault/daily-digests/2026-11-02/vite-plugin-agent-eyes.md)** (`reference` | `reference` tier)
+* **[webkubor/vite-plugin-agent-eyes](world/public/vault/daily-digests/2026-11-03/vite-plugin-agent-eyes.md)** (`reference` | `reference` tier)
   * Summary: A Vite plugin that provides structured runtime logs and debugging capabilities for AI agents, enabling them to read, locate, fix, and verify bugs without prior code inspection. It includes pre-commit risk gates, sanitized auth profiles, and interacti
   * Tags: `AI debugging`, `runtime logs`, `pre-commit hooks`, `agent instrumentation`, `Vite plugin`
 
-* **[webrenew/unicon](world/public/vault/daily-digests/2026-11-02/unicon.md)** (`reference` | `reference` tier)
+* **[webrenew/unicon](world/public/vault/daily-digests/2026-11-03/unicon.md)** (`reference` | `reference` tier)
   * Summary: Unicon is a lightweight icon library browser and CLI tool that allows developers to search, copy, and bundle icons from 9+ popular icon sets without installing unnecessary dependencies. It provides direct integration with AI coding assistants and sup
   * Tags: `icon library`, `CLI tool`, `AI integration`, `bundle management`, `multi-format export`
 
-* **[WeftCut/WeftCut](world/public/vault/daily-digests/2026-11-02/weftcut.md)** (`reference` | `reference` tier)
+* **[WeftCut/WeftCut](world/public/vault/daily-digests/2026-11-03/weftcut.md)** (`reference` | `reference` tier)
   * Summary: WeftCut is a cross-platform desktop video editor designed with AI agents as first-class citizens, exposing its full editing toolset via an MCP server for real-time agent-driven timeline manipulation. It combines a professional NLE timeline with agent
   * Tags: `AI-driven video editing`, `MCP server integration`, `real-time agent collaboration`, `cross-platform desktop app`, `professional NLE timeline`
 
-* **[wh0ami3/tg-agent](world/public/vault/daily-digests/2026-11-02/tg-agent.md)** (`reference` | `reference` tier)
+* **[wh0ami3/tg-agent](world/public/vault/daily-digests/2026-11-03/tg-agent.md)** (`reference` | `reference` tier)
   * Summary: A Telegram-controlled agent that interprets plain-language commands or voice notes to perform GUI actions like mouse movements, clicks, typing, and screen interactions. It combines LLM reasoning with computer control capabilities for hands-free task
   * Tags: `computer automation`, `Telegram bot`, `GUI control`, `voice command processing`, `LLM integration`
 
-* **[Whole-synonymist671/timecode-agent](world/public/vault/daily-digests/2026-11-02/timecode-agent.md)** (`reference` | `reference` tier)
+* **[Whole-synonymist671/timecode-agent](world/public/vault/daily-digests/2026-11-03/timecode-agent.md)** (`reference` | `reference` tier)
   * Summary: Timecode-agent is a Windows desktop application that converts video files into organized, timestamped evidence ledgers for coders and editors. It automates the extraction of key moments from videos, enabling faster review and integration into coding
   * Tags: `video processing`, `timestamp extraction`, `coding workflow`, `local processing`, `evidence ledger`
 
-* **[wild-edge/wildedge-python](world/public/vault/daily-digests/2026-11-02/wildedge-python.md)** (`reference` | `reference` tier)
+* **[wild-edge/wildedge-python](world/public/vault/daily-digests/2026-11-03/wildedge-python.md)** (`reference` | `reference` tier)
   * Summary: WildEdge Python SDK provides non-intrusive monitoring for ML inference pipelines, tracking latency, tokens, errors, and model metadata for both on-device and remote models. It supports automatic instrumentation via CLI or manual SDK integration for c
   * Tags: `ML monitoring`, `inference tracing`, `performance tracking`, `agent pipelines`, `model metadata`
 
-* **[William2333ZZ/trustshell](world/public/vault/daily-digests/2026-11-02/trustshell.md)** (`reference` | `reference` tier)
+* **[William2333ZZ/trustshell](world/public/vault/daily-digests/2026-11-03/trustshell.md)** (`reference` | `reference` tier)
   * Summary: TrustShell is an open-source toolkit for conducting independent, exploit-validated security reviews of AI agents. It combines static analysis, dynamic red-teaming, and a suite of red-team skills to identify and confirm vulnerabilities such as prompt
   * Tags: `AI security`, `red-teaming`, `exploit validation`, `agent vulnerability assessment`, `static analysis`
 
-* **[William2333ZZ/trustshell-web](world/public/vault/daily-digests/2026-11-02/trustshell-web.md)** (`reference` | `reference` tier)
+* **[William2333ZZ/trustshell-web](world/public/vault/daily-digests/2026-11-03/trustshell-web.md)** (`reference` | `reference` tier)
   * Summary: TrustShell-Web provides an open security baseline and scanner for self-hosted or on-device AI agents, offering a 42-item checklist to assess vulnerabilities and output security ratings (A/B/C/D). It includes a CLI tool for local scans and an online p
   * Tags: `AI Agent Security`, `Vulnerability Scanner`, `Self-Hosted Security`, `Compliance Baseline`, `Zero-Dependency CLI`
 
-* **[WilliamPenrose/site-use](world/public/vault/daily-digests/2026-11-02/site-use.md)** (`reference` | `reference` tier)
+* **[WilliamPenrose/site-use](world/public/vault/daily-digests/2026-11-03/site-use.md)** (`reference` | `reference` tier)
   * Summary: site-use is a deterministic browser automation tool that enables AI agents to interact with Twitter (and potentially other sites) in a human-like manner while extracting structured, meaningful content. It avoids scraping bans by mimicking natural use
   * Tags: `browser automation`, `anti-detection`, `structured data extraction`, `Twitter integration`, `deterministic workflows`
 
-* **[winterop-com/stabbur](world/public/vault/daily-digests/2026-11-02/stabbur.md)** (`reference` | `reference` tier)
+* **[winterop-com/stabbur](world/public/vault/daily-digests/2026-11-03/stabbur.md)** (`reference` | `reference` tier)
   * Summary: stabbur is a tool for building and maintaining a local library of LLM models, aggregating models from Hugging Face, Ollama, and LM Studio. It provides a Typer CLI and a browser-based chat UI (Loft) for managing, running, and interacting with models l
   * Tags: `local LLM library`, `model management`, `RAG tooling`, `offline AI`, `model serving`
 
-* **[wisent-ai/transcript-lake](world/public/vault/daily-digests/2026-11-02/transcript-lake.md)** (`reference` | `reference` tier)
+* **[wisent-ai/transcript-lake](world/public/vault/daily-digests/2026-11-03/transcript-lake.md)** (`reference` | `reference` tier)
   * Summary: Transcript Lake aggregates and normalizes local coding-agent conversations into a privacy-masked, incrementally updated event archive accessible via SQL. It provides a provider-neutral transcript feed for operators and tools like Oko, eliminating the
   * Tags: `transcript aggregation`, `privacy masking`, `SQL query interface`, `coding agents`, `local data processing`
 
-* **[wisent-ai/weles](world/public/vault/daily-digests/2026-11-02/weles.md)** (`reference` | `reference` tier)
+* **[wisent-ai/weles](world/public/vault/daily-digests/2026-11-03/weles.md)** (`reference` | `reference` tier)
   * Summary: Weles is an undetectable browser solution designed to enable AI agents to interact with the internet seamlessly, avoiding CAPTCHAs and bans. It combines custom C++-patched Chromium and Firefox forks with rotating fingerprints, caches website interact
   * Tags: `browser automation`, `AI agent internet access`, `CAPTCHA evasion`, `trajectory caching`, `credential management`
 
-* **[wizard-exe/Stoxly-mcp](world/public/vault/daily-digests/2026-11-02/stoxly-mcp.md)** (`reference` | `reference` tier)
+* **[wizard-exe/Stoxly-mcp](world/public/vault/daily-digests/2026-11-03/stoxly-mcp.md)** (`reference` | `reference` tier)
   * Summary: Stoxly MCP Server provides free fundamental analysis of stocks and ETFs for AI agents, evaluating companies and funds against a 10-point checklist and returning a 0–10 score, verdict, and detailed metrics via a remote MCP server endpoint.
   * Tags: `fundamental analysis`, `stocks`, `ETFs`, `MCP server`, `financial data`
 
-* **[wjxcom/wjx-ai-kit](world/public/vault/daily-digests/2026-11-02/wjx-ai-kit.md)** (`reference` | `reference` tier)
+* **[wjxcom/wjx-ai-kit](world/public/vault/daily-digests/2026-11-03/wjx-ai-kit.md)** (`reference` | `reference` tier)
   * Summary: wjx-ai-kit provides a comprehensive TypeScript-based toolkit for interacting with the 问卷星 (WJX) OpenAPI, offering an SDK, MCP Server, and CLI for seamless integration with AI agents and development workflows.
   * Tags: `问卷星`, `API SDK`, `MCP Server`, `CLI Tool`, `AI Agent Integration`
 
-* **[worldwonderer/video-recap-skills](world/public/vault/daily-digests/2026-11-02/video-recap-skills.md)** (`reference` | `reference` tier)
+* **[worldwonderer/video-recap-skills](world/public/vault/daily-digests/2026-11-03/video-recap-skills.md)** (`reference` | `reference` tier)
   * Summary: A Claude Code plugin that transforms videos into narrated recap clips using Xiaomi MiMo's ASR, VLM, and TTS APIs. It automates video understanding, script generation, voiceover synthesis, and assembly into a polished output with subtitles, optionally
   * Tags: `video processing`, `automated narration`, `AI-powered editing`, `multi-modal understanding`, `API-driven workflow`
 
-* **[wq19901103wq/wechat-mac-rpa](world/public/vault/daily-digests/2026-11-02/wechat-mac-rpa.md)** (`reference` | `reference` tier)
+* **[wq19901103wq/wechat-mac-rpa](world/public/vault/daily-digests/2026-11-03/wechat-mac-rpa.md)** (`reference` | `reference` tier)
   * Summary: A macOS-based RPA framework for WeChat automation that uses multimodal vision perception and LLM agents to interact with the WeChat GUI as a black box. It enables AI to 'see' the interface, understand conversations, and automate responses without pro
   * Tags: `RPA`, `WeChat Automation`, `Multimodal AI`, `LLM Agent`, `macOS`
 
-* **[WskYa/vuln-mgmt-platform](world/public/vault/daily-digests/2026-11-02/vuln-mgmt-platform.md)** (`reference` | `reference` tier)
+* **[WskYa/vuln-mgmt-platform](world/public/vault/daily-digests/2026-11-03/vuln-mgmt-platform.md)** (`reference` | `reference` tier)
   * Summary: A full-stack vulnerability management platform driven by AI agents (e.g., Codex, Claude Code) designed for security teams. It provides a complete business system workflow including authentication, vulnerability tracking, status workflows, and data da
   * Tags: `vulnerability management`, `AI-driven development`, `full-stack`, `security tooling`, `workflow automation`
 
-* **[wxai-space/taiyi-financial-search-api](world/public/vault/daily-digests/2026-11-02/taiyi-financial-search-api.md)** (`reference` | `reference` tier)
+* **[wxai-space/taiyi-financial-search-api](world/public/vault/daily-digests/2026-11-03/taiyi-financial-search-api.md)** (`reference` | `reference` tier)
   * Summary: A real-time financial web search API designed for financial agents, investment research systems, and data platforms. It enables retrieval of public web content such as financial reports, announcements, and regulatory disclosures with advanced filteri
   * Tags: `financial search`, `web scraping`, `real-time data`, `API integration`, `regulatory disclosures`
 
-* **[wyattpalm2-eng/x402-seller](world/public/vault/daily-digests/2026-11-02/x402-seller.md)** (`reference` | `reference` tier)
+* **[wyattpalm2-eng/x402-seller](world/public/vault/daily-digests/2026-11-03/x402-seller.md)** (`reference` | `reference` tier)
   * Summary: x402-seller provides rug protection for autonomous trading agents by offering a composite rug score and liquidity-drain detection across multiple chains (EVM and Solana). It integrates static analysis, live simulations, and time-series data to flag r
   * Tags: `rug protection`, `autonomous trading`, `liquidity monitoring`, `composite scoring`, `x402 protocol`
 
-* **[wyre-technology/threatlocker-mcp](world/public/vault/daily-digests/2026-11-02/threatlocker-mcp.md)** (`reference` | `reference` tier)
+* **[wyre-technology/threatlocker-mcp](world/public/vault/daily-digests/2026-11-03/threatlocker-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that enables AI assistants to interact with the ThreatLocker Portal API, allowing management of computers, approval requests, audit logs, and organizations through natural language commands.
   * Tags: `MCP server`, `ThreatLocker integration`, `zero-trust management`, `approval workflows`, `audit logging`
 
-* **[xalgorix/xalgorix](world/public/vault/daily-digests/2026-11-02/xalgorix.md)** (`reference` | `reference` tier)
+* **[xalgorix/xalgorix](world/public/vault/daily-digests/2026-11-03/xalgorix.md)** (`reference` | `reference` tier)
   * Summary: Xalgorix is an open-source, self-hosted AI penetration testing platform that autonomously discovers and proves vulnerabilities using an LLM-driven agent and an independent verifier. It combines offensive security tooling with a 22-phase methodology t
   * Tags: `penetration testing`, `autonomous AI agent`, `vulnerability verification`, `self-hosted`, `security automation`
 
-* **[xaligo/xaligo](world/public/vault/daily-digests/2026-11-02/xaligo.md)** (`reference` | `reference` tier)
+* **[xaligo/xaligo](world/public/vault/daily-digests/2026-11-03/xaligo.md)** (`reference` | `reference` tier)
   * Summary: xaligo is a Diagram-as-Code engine that converts a Vue-style DSL (.xal) into multiple diagram formats, including Excalidraw, SVG, PPTX, XYFlow, and Isoflow-compatible outputs. It enables developers to define architecture and network diagrams programm
   * Tags: `diagram-as-code`, `architecture visualization`, `DSL`, `Excalidraw`, `infrastructure diagrams`
 
-* **[xcircl/xcircl-agent](world/public/vault/daily-digests/2026-11-02/xcircl-agent.md)** (`reference` | `reference` tier)
+* **[xcircl/xcircl-agent](world/public/vault/daily-digests/2026-11-03/xcircl-agent.md)** (`reference` | `reference` tier)
   * Summary: xcircl-agent provides a compliance-aware API and SDK for querying verified U.S. regulated-care provider data, specifically GLP-1/weight-management clinics. It offers a free tier with identity fields and paid tiers unlocking compliance signals, cash p
   * Tags: `healthcare data`, `compliance API`, `MCP server`, `provider search`, `GLP-1 clinics`
 
-* **[XcodeBazelMCP/XcodeBazelMCP](world/public/vault/daily-digests/2026-11-02/xcodebazelmcp.md)** (`reference` | `reference` tier)
+* **[XcodeBazelMCP/XcodeBazelMCP](world/public/vault/daily-digests/2026-11-03/xcodebazelmcp.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server and CLI for Bazel-based Apple platform development, providing 125 tools across 21 workflow categories for iOS, macOS, tvOS, watchOS, visionOS, and Swift Package Manager workflows.
   * Tags: `MCP server`, `Bazel tooling`, `Apple development`, `iOS automation`, `debugging`
 
-* **[xDarkzx/SongForge-MCP](world/public/vault/daily-digests/2026-11-02/songforge-mcp.md)** (`reference` | `reference` tier)
+* **[xDarkzx/SongForge-MCP](world/public/vault/daily-digests/2026-11-03/songforge-mcp.md)** (`reference` | `reference` tier)
   * Summary: SongForge-MCP is an MCP server that enables AI agents like Claude to generate original AI music tracks locally using the ACE-Step 1.5 model. It automates complex music generation workflows, including vocal/instrumental stem splitting, reference-style
   * Tags: `AI music generation`, `local processing`, `MCP server`, `stem splitting`, `audio transcription`
 
-* **[Xquik-dev/x-twitter-scraper](world/public/vault/daily-digests/2026-11-02/x-twitter-scraper.md)** (`reference` | `reference` tier)
+* **[Xquik-dev/x-twitter-scraper](world/public/vault/daily-digests/2026-11-03/x-twitter-scraper.md)** (`reference` | `reference` tier)
   * Summary: Xquik is a production-grade Twitter/X scraper API and alternative to the official X API, offering structured data access for tweets, profiles, followers, engagement metrics, and more. It provides REST APIs, typed SDKs, MCP tools, webhooks, and export
   * Tags: `Twitter scraper`, `X API alternative`, `MCP tool`, `AI agent integration`, `Data extraction`
 
-* **[xxccdl/Xcomputer](world/public/vault/daily-digests/2026-11-02/xcomputer.md)** (`reference` | `reference` tier)
+* **[xxccdl/Xcomputer](world/public/vault/daily-digests/2026-11-03/xcomputer.md)** (`reference` | `reference` tier)
   * Summary: Xcomputer is an AI-driven Windows desktop automation assistant that enables users to control their computer via natural language commands. It integrates large language models with Windows system operations for tasks like file management, process cont
   * Tags: `desktop automation`, `AI assistant`, `Windows integration`, `natural language control`, `MCP framework`
 
-* **[xxx-888/super_gen](world/public/vault/daily-digests/2026-11-02/super_gen.md)** (`reference` | `reference` tier)
+* **[xxx-888/super_gen](world/public/vault/daily-digests/2026-11-03/super_gen.md)** (`reference` | `reference` tier)
   * Summary: SceneGen is a professional AI-powered short drama generation platform that automates the entire production pipeline from script import to final video output. It integrates AI-driven scene parsing, multi-model video generation, and an online video edi
   * Tags: `AI video generation`, `short drama production`, `multi-model integration`, `video editing`, `prompt engineering`
 
-* **[y5862000/threaddeck-for-codex](world/public/vault/daily-digests/2026-11-02/threaddeck-for-codex.md)** (`reference` | `reference` tier)
+* **[y5862000/threaddeck-for-codex](world/public/vault/daily-digests/2026-11-03/threaddeck-for-codex.md)** (`reference` | `reference` tier)
   * Summary: ThreadDeck for Codex is an open-source Stream Deck Neo plugin that transforms Elgato hardware into a physical dashboard for monitoring and controlling OpenAI Codex Desktop tasks on macOS. It enables live task tracking, effort mode switching, voice di
   * Tags: `Stream Deck`, `Codex integration`, `Hardware control`, `Voice dictation`, `macOS automation`
 
-* **[yagyeshVyas/VibeGuard](world/public/vault/daily-digests/2026-11-02/vibeguard.md)** (`reference` | `reference` tier)
+* **[yagyeshVyas/VibeGuard](world/public/vault/daily-digests/2026-11-03/vibeguard.md)** (`reference` | `reference` tier)
   * Summary: VibeGuard is a security scanner and AI agent firewall designed to detect vulnerabilities in AI-generated code, including leaked secrets, SQL injection, prompt injection, and uncapped agent loops. It operates entirely offline with zero telemetry and p
   * Tags: `AI security`, `secret scanning`, `prompt injection`, `agent firewall`, `compliance`
 
-* **[yanchuaner/yczx_code_lab](world/public/vault/daily-digests/2026-11-02/yczx_code_lab.md)** (`reference` | `reference` tier)
+* **[yanchuaner/yczx_code_lab](world/public/vault/daily-digests/2026-11-03/yczx_code_lab.md)** (`reference` | `reference` tier)
   * Summary: A collaborative learning and practice repository for members of the YCZX ecosystem focused on agent development, Git workflows, and Pull Request practices. It serves as a sandbox for experimenting with agent frameworks like hello-agents and learn-cla
   * Tags: `collaborative learning`, `agent development`, `Git workflow`, `Pull Request practices`, `sandbox environment`
 
-* **[yashdoke7/skeletongraph](world/public/vault/daily-digests/2026-11-02/skeletongraph.md)** (`reference` | `reference` tier)
+* **[yashdoke7/skeletongraph](world/public/vault/daily-digests/2026-11-03/skeletongraph.md)** (`reference` | `reference` tier)
   * Summary: SkeletonGraph is a zero-LLM, tree-sitter-based structural indexer that reranks lexical retrieval and fetches precise function-level context for AI coding agents. It builds cross-file call graphs, computes PageRank centrality, and exposes an MCP serve
   * Tags: `code retrieval`, `structural indexing`, `call graph`, `token optimization`, `AI coding agents`
 
-* **[yihui504/TestVDB](world/public/vault/daily-digests/2026-11-02/testvdb.md)** (`reference` | `reference` tier)
+* **[yihui504/TestVDB](world/public/vault/daily-digests/2026-11-03/testvdb.md)** (`reference` | `reference` tier)
   * Summary: TestVDB is an LLM-powered Claude Code plugin that automates defect discovery in vector databases by reverse-engineering structured contracts from documentation, generating attack scripts via multi-agent debate, and executing them in Docker sandboxes
   * Tags: `vector database testing`, `automated defect mining`, `multi-agent LLM`, `Claude Code plugin`, `Docker sandboxing`
 
-* **[YoanWai/stremio-mcp](world/public/vault/daily-digests/2026-11-02/stremio-mcp.md)** (`reference` | `reference` tier)
+* **[YoanWai/stremio-mcp](world/public/vault/daily-digests/2026-11-03/stremio-mcp.md)** (`reference` | `reference` tier)
   * Summary: A unified MCP server for Stremio that integrates two toolsets: addon tools for searching metadata, catalogs, and streams via Stremio's public APIs, and Android TV tools for playback control and remote actions over ADB.
   * Tags: `MCP server`, `Stremio integration`, `Android TV control`, `media streaming`, `remote playback`
 
-* **[yongchoooon/tradar](world/public/vault/daily-digests/2026-11-02/tradar.md)** (`reference` | `reference` tier)
+* **[yongchoooon/tradar](world/public/vault/daily-digests/2026-11-03/tradar.md)** (`reference` | `reference` tier)
   * Summary: T-RADAR is an interactive trademark clearance system that combines multimodal retrieval (text and image) with agentic simulation to assess trademark conflict risks. It enables users to simulate trademark examination processes, refine inputs, and comp
   * Tags: `trademark clearance`, `multimodal retrieval`, `agent simulation`, `conflict risk assessment`, `interactive RAG`
 
-* **[yordan-kanchelov/sync-worktrees](world/public/vault/daily-digests/2026-11-02/sync-worktrees.md)** (`reference` | `reference` tier)
+* **[yordan-kanchelov/sync-worktrees](world/public/vault/daily-digests/2026-11-03/sync-worktrees.md)** (`reference` | `reference` tier)
   * Summary: sync-worktrees automates Git worktree management by creating a directory per branch, keeping them in sync with remote branches, and exposing an MCP server for AI assistants to inspect and manage the workspace. It eliminates manual stashing, re-clonin
   * Tags: `Git worktrees`, `AI workspace management`, `MCP server`, `multi-repo sync`, `developer tooling`
 
-* **[ys-ll/uniterm](world/public/vault/daily-digests/2026-11-02/uniterm.md)** (`reference` | `reference` tier)
+* **[ys-ll/uniterm](world/public/vault/daily-digests/2026-11-03/uniterm.md)** (`reference` | `reference` tier)
   * Summary: uniTerm is a cross-platform terminal application supporting 30+ protocols (SSH, RDP, SFTP, databases, Kubernetes) with an integrated autonomous AI agent for multi-turn shell command execution. It combines remote access, file transfer, and container m
   * Tags: `terminal`, `AI agent`, `multi-protocol`, `remote access`, `developer tool`
 
-* **[YunhaoDou/wangyangming-xinxue](world/public/vault/daily-digests/2026-11-02/wangyangming-xinxue.md)** (`reference` | `reference` tier)
+* **[YunhaoDou/wangyangming-xinxue](world/public/vault/daily-digests/2026-11-03/wangyangming-xinxue.md)** (`reference` | `reference` tier)
   * Summary: A structured knowledge base of Wang Yangming's philosophy of the Mind, designed as an AI agent skill. It organizes core texts into 24 chapters and provides structured references for AI agents to answer philosophical queries without fabricating conten
   * Tags: `Philosophy`, `Structured Knowledge`, `AI Agent Skill`, `Chinese Classics`, `Knowledge Base`
 
-* **[YunhaoDou/whoop-copilot](world/public/vault/daily-digests/2026-11-02/whoop-copilot.md)** (`reference` | `reference` tier)
+* **[YunhaoDou/whoop-copilot](world/public/vault/daily-digests/2026-11-03/whoop-copilot.md)** (`reference` | `reference` tier)
   * Summary: whoop-copilot is a Python-based tool that integrates WHOOP wearable data with AI agents like Claude Code via the official WHOOP API. It provides real-time recovery, HRV, sleep, and strain metrics to enable data-driven decision-making without scraping
   * Tags: `wearable data integration`, `AI agent augmentation`, `WHOOP API`, `real-time biometrics`, `automation`
 
-* **[yyh19930816-prog/yyh19930816-prog](world/public/vault/daily-digests/2026-11-02/yyh19930816-prog.md)** (`reference` | `reference` tier)
+* **[yyh19930816-prog/yyh19930816-prog](world/public/vault/daily-digests/2026-11-03/yyh19930816-prog.md)** (`reference` | `reference` tier)
   * Summary: This repository represents the public profile and professional documentation of 叶玉浩, founder of 麒典 AI and a Forward Deployed Engineer (FDE) specializing in enterprise AI transformation, RAG systems, and agent-based automation for businesses in Shenya
   * Tags: `AI consulting`, `RAG systems`, `enterprise automation`, `FDE methodology`, `knowledge engineering`
 
-* **[zebbern/zebbern-kali-mcp](world/public/vault/daily-digests/2026-11-02/zebbern-kali-mcp.md)** (`reference` | `reference` tier)
+* **[zebbern/zebbern-kali-mcp](world/public/vault/daily-digests/2026-11-03/zebbern-kali-mcp.md)** (`reference` | `reference` tier)
   * Summary: A Docker-based Model Context Protocol (MCP) server that provides AI agents (e.g., GitHub Copilot, Claude) with direct access to a full Kali Linux penetration testing toolkit. The server runs a Flask API inside a Kali container, executing tools in an
   * Tags: `penetration testing`, `AI agent integration`, `MCP server`, `Kali Linux`, `security tools`
 
-* **[ZHAO0424/unity-cli-skill](world/public/vault/daily-digests/2026-11-02/unity-cli-skill.md)** (`reference` | `reference` tier)
+* **[ZHAO0424/unity-cli-skill](world/public/vault/daily-digests/2026-11-03/unity-cli-skill.md)** (`reference` | `reference` tier)
   * Summary: A CLI-based skill for AI agents (e.g., Claude Code) to automate Unity Editor operations via the official Unity CLI and `com.unity.pipeline` package. Enables live scene editing, testing, builds, and C# evaluation with 140+ built-in commands, verified
   * Tags: `Unity automation`, `AI agent integration`, `CLI tooling`, `Game development`, `Editor scripting`
 
-* **[zhouke0929/wechat-visual-director](world/public/vault/daily-digests/2026-11-02/wechat-visual-director.md)** (`reference` | `reference` tier)
+* **[zhouke0929/wechat-visual-director](world/public/vault/daily-digests/2026-11-03/wechat-visual-director.md)** (`reference` | `reference` tier)
   * Summary: WeChat Visual Director is an open-source AI-powered tool that automates the layout and visual design of WeChat public account articles. It uses an agent to parse content, plan semantic structure, and generate visually appealing, theme-compatible draf
   * Tags: `AI content layout`, `WeChat publishing`, `automated visual design`, `agent-based workflow`, `public account tools`
 
-* **[Zhuchen00123/Verified-Executable-Search](world/public/vault/daily-digests/2026-11-02/verified-executable-search.md)** (`reference` | `reference` tier)
+* **[Zhuchen00123/Verified-Executable-Search](world/public/vault/daily-digests/2026-11-03/verified-executable-search.md)** (`reference` | `reference` tier)
   * Summary: Verified Executable Search (VES) is a verifier-first runtime for independently evaluating and grading AI-generated executable solutions. It enforces a strict trust boundary where the host recomputes facts, ensuring generated code cannot self-report m
   * Tags: `verification`, `executable evaluation`, `AI safety`, `sandboxing`, `reproducibility`
 
-* **[ZiYuCai1984/ZYC.Framework](world/public/vault/daily-digests/2026-11-02/zyc_framework.md)** (`reference` | `reference` tier)
+* **[ZiYuCai1984/ZYC.Framework](world/public/vault/daily-digests/2026-11-03/zyc_framework.md)** (`reference` | `reference` tier)
   * Summary: ZYC.Framework is a high-performance, modular desktop automation framework built on .NET 10 and WPF, enabling the development of complex automation systems with hybrid UI capabilities via Blazor and WebView2, and cloud-native orchestration through .NE
   * Tags: `desktop automation`, `modular framework`, `hybrid UI`, `WPF`, `cloud-native`
 
-* **[Zopze/TV-Show-Recommender-AI](world/public/vault/daily-digests/2026-11-02/tv-show-recommender-ai.md)** (`reference` | `reference` tier)
+* **[Zopze/TV-Show-Recommender-AI](world/public/vault/daily-digests/2026-11-03/tv-show-recommender-ai.md)** (`reference` | `reference` tier)
   * Summary: TV-Show-Recommender-AI is a desktop application that provides personalized TV show recommendations using embeddings, cosine similarity, and fuzzy matching. It also generates AI-powered posters and suggestions to enhance user experience.
   * Tags: `Recommendation Engine`, `TV Show Suggestions`, `Embeddings`, `Fuzzy Matching`, `AI-Generated Art`
 
-* **[zouyuanqing/vision-primitives-mcp](world/public/vault/daily-digests/2026-11-02/vision-primitives-mcp.md)** (`reference` | `reference` tier)
+* **[zouyuanqing/vision-primitives-mcp](world/public/vault/daily-digests/2026-11-03/vision-primitives-mcp.md)** (`reference` | `reference` tier)
   * Summary: A lightweight MCP server that bridges text-only LLMs with vision capabilities, enabling 30+ tools for object localization, OCR, UI parsing, anomaly scanning, and computer control. Supports multiple VLM backends (MiMo, Qwen2.5-VL) and prioritizes high
   * Tags: `Vision Augmentation`, `MCP Server`, `VLM Integration`, `OCR`, `UI Automation`
 
-* **[zumik3-del/synaptomind](world/public/vault/daily-digests/2026-11-02/synaptomind.md)** (`reference` | `reference` tier)
+* **[zumik3-del/synaptomind](world/public/vault/daily-digests/2026-11-03/synaptomind.md)** (`reference` | `reference` tier)
   * Summary: SynaptoMind is a self-hosted persistent memory system for AI assistants that captures, links, clusters, and retrieves thoughts via HTTP API or MCP server. It enables AI agents to remember project decisions, goals, and unfinished tasks across sessions
   * Tags: `persistent memory`, `MCP server`, `local embeddings`, `thought graph`, `AI agent memory`
 
-* **[zylos-ai/zylos-registry](world/public/vault/daily-digests/2026-11-02/zylos-registry.md)** (`reference` | `reference` tier)
+* **[zylos-ai/zylos-registry](world/public/vault/daily-digests/2026-11-03/zylos-registry.md)** (`reference` | `reference` tier)
   * Summary: Zylos Registry is a centralized component registry for the Zylos AI ecosystem, enabling discovery and installation of communication and capability components via a single CLI command. It serves as the backbone for extending Zylos AI agents with modul
   * Tags: `component registry`, `AI agent extensions`, `modular integrations`, `CLI automation`, `community-driven`
 
 ## Ui Component
 
-* **[coffeehc/xagent-docs](world/public/vault/daily-digests/2026-11-02/xagent-docs.md)** (`reference` | `reference` tier)
+* **[coffeehc/xagent-docs](world/public/vault/daily-digests/2026-11-03/xagent-docs.md)** (`reference` | `reference` tier)
   * Summary: xAgent Docs is the official documentation portal for xAgent, a multi-user intelligent workspace portal. It provides user guides, developer references, and architecture details, built with Docusaurus, TypeScript, and MDX for structured content deliver
   * Tags: `documentation`, `xAgent`, `multi-user workspace`, `Docusaurus`, `static site`
 
-* **[hututuQQQ/sigma-code](world/public/vault/daily-digests/2026-11-02/sigma-code.md)** (`reference` | `reference` tier)
+* **[hututuQQQ/sigma-code](world/public/vault/daily-digests/2026-11-03/sigma-code.md)** (`reference` | `reference` tier)
   * Summary: Sigma Code is a cross-platform client (desktop, web, mobile) for coding agents, serving as a downstream fork of T3 Code with a first-party Sigma provider integrated via the Agent Client Protocol (ACP). It enables users to interact with coding agents
   * Tags: `coding agents`, `cross-platform`, `Sigma Runtime`, `Agent Client Protocol`, `AI-powered IDE`
 
-* **[imyigo/Wyv-Studio](world/public/vault/daily-digests/2026-11-02/wyv-studio.md)** (`reference` | `reference` tier)
+* **[imyigo/Wyv-Studio](world/public/vault/daily-digests/2026-11-03/wyv-studio.md)** (`reference` | `reference` tier)
   * Summary: Wyv Studio 2.0 is a comprehensive UI/UX development platform with an embedded AI Agent Brain Manager, offering 676 unique UI components, 9 animation engines, and a marketplace for downloadable production-ready websites and MCP integrations.
   * Tags: `UI development`, `AI agent integration`, `component library`, `animation engines`, `MCP marketplace`
 
-* **[jiang198012/workbuddian](world/public/vault/daily-digests/2026-11-02/workbuddian.md)** (`reference` | `reference` tier)
+* **[jiang198012/workbuddian](world/public/vault/daily-digests/2026-11-03/workbuddian.md)** (`reference` | `reference` tier)
   * Summary: Workbuddian integrates the WorkBuddy/CodeBuddy CLI into Obsidian as an AI agent, enabling in-vault chat with streaming replies, image analysis, note referencing, and conversation management without leaving the notes app.
   * Tags: `Obsidian plugin`, `AI agent integration`, `local LLM`, `note referencing`, `streaming chat`
 
-* **[jthingelstad/thingy.thingelstad.com](world/public/vault/daily-digests/2026-11-02/thingy_thingelstad_com.md)** (`reference` | `reference` tier)
+* **[jthingelstad/thingy.thingelstad.com](world/public/vault/daily-digests/2026-11-03/thingy_thingelstad_com.md)** (`reference` | `reference` tier)
   * Summary: Thingy is a standalone web application serving as the frontend for Jamie Thingelstad's archive agent, providing a chat interface, authentication, and static content pages. It integrates with the Librarian MCP server for retrieval and conversation man
   * Tags: `archive agent`, `chat interface`, `MCP integration`, `static site`, `authentication`
 
-* **[koala73/worldmonitor](world/public/vault/daily-digests/2026-11-02/worldmonitor.md)** (`reference` | `reference` tier)
+* **[koala73/worldmonitor](world/public/vault/daily-digests/2026-11-03/worldmonitor.md)** (`reference` | `reference` tier)
   * Summary: World Monitor is a real-time global intelligence dashboard that aggregates AI-powered news, geopolitical monitoring, and infrastructure tracking into a unified situational awareness interface. It offers multi-variant deployments (world, tech, finance
   * Tags: `real-time intelligence`, `geopolitical monitoring`, `AI-powered dashboard`, `multi-variant deployment`, `local AI inference`
 
-* **[leoakok/yuse](world/public/vault/daily-digests/2026-11-02/yuse.md)** (`reference` | `reference` tier)
+* **[leoakok/yuse](world/public/vault/daily-digests/2026-11-03/yuse.md)** (`reference` | `reference` tier)
   * Summary: Yuse is an AI-native CV builder that maintains a dynamic career knowledge base (Digital Twin) to generate tailored resumes and cover letters. It combines conversational AI, structured career data (STAR/PAR frameworks), and multi-source imports (GitHu
   * Tags: `CV Builder`, `AI Assistant`, `Digital Twin`, `Resume Generation`, `Job Tracking`
 
-* **[Mat-Tom-Son/workspace](world/public/vault/daily-digests/2026-11-02/workspace.md)** (`reference` | `reference` tier)
+* **[Mat-Tom-Son/workspace](world/public/vault/daily-digests/2026-11-03/workspace.md)** (`reference` | `reference` tier)
   * Summary: Workspace is a local-first Electron application that provides a unified, native-first environment for managing computer work through 'Spaces'—folders that act as portable working contexts with an integrated Pi assistant. It emphasizes ordinary folder
   * Tags: `local-first`, `AI assistant`, `workspace management`, `Electron app`, `folder-based organization`
 
-* **[meetsoma/website](world/public/vault/daily-digests/2026-11-02/website.md)** (`reference` | `reference` tier)
+* **[meetsoma/website](world/public/vault/daily-digests/2026-11-03/website.md)** (`reference` | `reference` tier)
   * Summary: A static website and documentation hub for Soma, built with Astro and deployed via Vercel. It serves as the central portal for docs, blog, changelog, roadmap, and community hub content.
   * Tags: `documentation`, `static site generator`, `content management`, `Astro framework`, `Vercel deployment`
 
-* **[MrPeker/turbopuffer-gui](world/public/vault/daily-digests/2026-11-02/turbopuffer-gui.md)** (`reference` | `reference` tier)
+* **[MrPeker/turbopuffer-gui](world/public/vault/daily-digests/2026-11-03/turbopuffer-gui.md)** (`reference` | `reference` tier)
   * Summary: A third-party desktop GUI client for Turbopuffer, a vector and full-text search engine, providing an intuitive interface for managing connections, namespaces, documents, and schema design with encrypted API key storage.
   * Tags: `desktop client`, `vector database`, `GUI`, `Turbopuffer`, `data management`
 
-* **[Nostromo-618/ts-school](world/public/vault/daily-digests/2026-11-02/ts-school.md)** (`reference` | `reference` tier)
+* **[Nostromo-618/ts-school](world/public/vault/daily-digests/2026-11-03/ts-school.md)** (`reference` | `reference` tier)
   * Summary: A static TypeScript teaching site that compares idiomatic JavaScript with TypeScript fixes, using the Strada compiler API for diagnostics. It includes an optional on-device AI chat assistant powered by Gemma and supports deployment via GitHub Pages.
   * Tags: `TypeScript education`, `interactive learning`, `static site generation`, `AI-assisted teaching`, `compiler diagnostics`
 
-* **[NvidiaSeoul/travel-planner-agent](world/public/vault/daily-digests/2026-11-02/travel-planner-agent.md)** (`reference` | `reference` tier)
+* **[NvidiaSeoul/travel-planner-agent](world/public/vault/daily-digests/2026-11-03/travel-planner-agent.md)** (`reference` | `reference` tier)
   * Summary: A Streamlit-based AI travel planner that generates structured day-trip itineraries for Korean cities using LLMs, geocoding, and interactive mapping. It parses LLM outputs into Pydantic schemas, enriches destinations with live data via Tavily and Kaka
   * Tags: `travel planning`, `LLM structured output`, `interactive mapping`, `geocoding`, `API enrichment`
 
-* **[persteenolsen/vue-fastapi-jwt-auth-ai-agent-three](world/public/vault/daily-digests/2026-11-02/vue-fastapi-jwt-auth-ai-agent-three.md)** (`reference` | `reference` tier)
+* **[persteenolsen/vue-fastapi-jwt-auth-ai-agent-three](world/public/vault/daily-digests/2026-11-03/vue-fastapi-jwt-auth-ai-agent-three.md)** (`reference` | `reference` tier)
   * Summary: A Vue 3 frontend with Pinia state management and JWT authentication, designed to interact with a FastAPI AI Agent backend. It provides a user interface for AI agent interactions, including agent actions, tool observations, and final answers.
   * Tags: `AI Agent Interface`, `JWT Authentication`, `Vue 3`, `Pinia State Management`, `FastAPI Integration`
 
-* **[ProblemFactory/vibespace](world/public/vault/daily-digests/2026-11-02/vibespace.md)** (`reference` | `reference` tier)
+* **[ProblemFactory/vibespace](world/public/vault/daily-digests/2026-11-03/vibespace.md)** (`reference` | `reference` tier)
   * Summary: VibeSpace is a backend-agnostic web workspace for managing multiple concurrent coding agent CLI sessions (e.g., Claude Code, Codex) from a browser. It provides a tiling window manager, structured chat view, file explorer, and code editor with persist
   * Tags: `coding agents`, `multi-session workspace`, `terminal UI`, `chat interface`, `backend-agnostic`
 
-* **[realZachi/shotluma](world/public/vault/daily-digests/2026-11-02/shotluma.md)** (`reference` | `reference` tier)
+* **[realZachi/shotluma](world/public/vault/daily-digests/2026-11-03/shotluma.md)** (`reference` | `reference` tier)
   * Summary: Shotluma is an AI-first, local-first canvas editor for creating editable iOS App Store screenshot sets directly in the browser. It uses an AI agent to generate real, manipulable designs instead of static images, allowing full manual editing and refin
   * Tags: `AI-powered design`, `local-first`, `App Store screenshots`, `editable canvas`, `browser-based`
 
-* **[ryanwien/VantageApplication](world/public/vault/daily-digests/2026-11-02/vantageapplication.md)** (`reference` | `reference` tier)
+* **[ryanwien/VantageApplication](world/public/vault/daily-digests/2026-11-03/vantageapplication.md)** (`reference` | `reference` tier)
   * Summary: Vantage is a browser-based AI market dashboard featuring an animated news anchor that provides real-time stock analysis, answers questions, reads news, and hosts interactive features. It operates fully in the browser with optional cloud or local AI i
   * Tags: `AI agent`, `market dashboard`, `local inference`, `data catalog`, `browser-based`
 
-* **[SpaceMolt/www](world/public/vault/daily-digests/2026-11-02/www.md)** (`reference` | `reference` tier)
+* **[SpaceMolt/www](world/public/vault/daily-digests/2026-11-03/www.md)** (`reference` | `reference` tier)
   * Summary: SpaceMolt is a massively multiplayer online game where AI agents act as players, engaging in activities like mining, trading, exploration, and combat across a galaxy of 500+ systems. Humans can spectate the game in real-time through an interactive we
   * Tags: `AI agents`, `MMO`, `gaming`, `real-time data`, `multiplayer`
 
-* **[suantea/sundash](world/public/vault/daily-digests/2026-11-02/sundash.md)** (`reference` | `reference` tier)
+* **[suantea/sundash](world/public/vault/daily-digests/2026-11-03/sundash.md)** (`reference` | `reference` tier)
   * Summary: SunDash is a self-hosted personal dashboard for NAS devices, cloud servers, and personal computers, serving as a browser home page with multi-user bookmarks, system monitoring, weather, RSS feeds, memos, and an embedded MCP server for AI integration.
   * Tags: `self-hosted`, `dashboard`, `bookmark manager`, `AI integration`, `MCP server`
 
-* **[sunrong1/sunrong1.github.io](world/public/vault/daily-digests/2026-11-02/sunrong1_github_io.md)** (`reference` | `reference` tier)
+* **[sunrong1/sunrong1.github.io](world/public/vault/daily-digests/2026-11-03/sunrong1_github_io.md)** (`reference` | `reference` tier)
   * Summary: A personal portfolio website built with TypeScript, likely showcasing the author's projects, skills, and professional background. The repository serves as a static site for self-presentation and may include interactive elements or visualizations.
   * Tags: `portfolio`, `personal-website`, `static-site`, `typescript`, `react`
 
-* **[tya5/textual-flowview](world/public/vault/daily-digests/2026-11-02/textual-flowview.md)** (`reference` | `reference` tier)
+* **[tya5/textual-flowview](world/public/vault/daily-digests/2026-11-03/textual-flowview.md)** (`reference` | `reference` tier)
   * Summary: A virtualized, high-performance widget for building terminal UIs for AI agents, chat interfaces, and log feeds in Textual. It efficiently renders variable-height entries with O(viewport) complexity, enabling smooth scrolling even with thousands of me
   * Tags: `virtualized UI`, `terminal TUI`, `AI agent UI`, `streaming feeds`, `Textual framework`
 
-* **[vineela49/v0-ai-emotional-assistant](world/public/vault/daily-digests/2026-11-02/v0-ai-emotional-assistant.md)** (`reference` | `reference` tier)
+* **[vineela49/v0-ai-emotional-assistant](world/public/vault/daily-digests/2026-11-03/v0-ai-emotional-assistant.md)** (`reference` | `reference` tier)
   * Summary: An interactive AI web application focused on personalized emotional experiences and supportive interactions. It combines a conversational assistant interface with emotion-aware design and modular interactive modules built using modern web technologie
   * Tags: `emotional AI`, `conversational UI`, `personalized assistant`, `interactive experiences`, `modular architecture`
 
-* **[weaviate/weaviate-io](world/public/vault/daily-digests/2026-11-02/weaviate-io.md)** (`reference` | `reference` tier)
+* **[weaviate/weaviate-io](world/public/vault/daily-digests/2026-11-03/weaviate-io.md)** (`reference` | `reference` tier)
   * Summary: This repository hosts the documentation website for Weaviate, a vector database. It uses Docusaurus 2 to generate static content for the official Weaviate documentation site, providing guides, API references, and tutorials for users and developers.
   * Tags: `documentation`, `static site generator`, `vector database`, `developer resources`, `open source`
 
-* **[wire-ui/wire-ui](world/public/vault/daily-digests/2026-11-02/wire-ui.md)** (`reference` | `reference` tier)
+* **[wire-ui/wire-ui](world/public/vault/daily-digests/2026-11-03/wire-ui.md)** (`reference` | `reference` tier)
   * Summary: Wire UI is an AI-native, headless component library providing unstyled, compound components for React, Vue, and SolidJS. It enables zero-CSS styling via data attributes and integrates with AI workflows through machine-readable docs and an MCP server.
   * Tags: `headless components`, `AI-native`, `unstyled primitives`, `cross-framework`, `zero CSS`
 
-* **[workpane/workpane](world/public/vault/daily-digests/2026-11-02/workpane.md)** (`reference` | `reference` tier)
+* **[workpane/workpane](world/public/vault/daily-digests/2026-11-03/workpane.md)** (`reference` | `reference` tier)
   * Summary: Workpane is a plugin-first desktop workspace that integrates terminals, code editors, browsers, AI agents, and local development services into a single unified interface. It leverages a modular architecture where every feature is a runtime-discovered
   * Tags: `desktop workspace`, `AI agents`, `plugin architecture`, `terminal integration`, `persistent sessions`
 
-* **[XBlueSky/vatt-ghern](world/public/vault/daily-digests/2026-11-02/vatt-ghern.md)** (`reference` | `reference` tier)
+* **[XBlueSky/vatt-ghern](world/public/vault/daily-digests/2026-11-03/vatt-ghern.md)** (`reference` | `reference` tier)
   * Summary: vatt-ghern is a personal tech blog that publishes daily news roundups and deep-stories authored by a Claude AI routine. It features bespoke HTML content, persona-driven editing, and CJK typography, all hosted on Cloudflare Pages.
   * Tags: `AI-generated content`, `tech news aggregation`, `static site generation`, `Cloudflare deployment`, `MCP server`
 
-* **[ystemsrx/sql_to_ER](world/public/vault/daily-digests/2026-11-02/sql_to_er.md)** (`reference` | `reference` tier)
+* **[ystemsrx/sql_to_ER](world/public/vault/daily-digests/2026-11-03/sql_to_er.md)** (`reference` | `reference` tier)
   * Summary: A web-based tool that converts SQL CREATE TABLE statements and DBML code into Chen model ER diagrams. It operates entirely in the browser, requiring no login or payment, and offers features like drag-and-drop node adjustment, smart layout optimizatio
   * Tags: `ER Diagram Generator`, `SQL to Diagram`, `DBML Converter`, `Chen Model`, `Frontend Tool`
 
-* **[zhitongblog/solomd](world/public/vault/daily-digests/2026-11-02/solomd.md)** (`reference` | `reference` tier)
+* **[zhitongblog/solomd](world/public/vault/daily-digests/2026-11-03/solomd.md)** (`reference` | `reference` tier)
   * Summary: SoloMD is a local-first markdown editor with a built-in agent surface and bundled MCP server, enabling direct interaction with AI models like Claude Code and Cursor. It combines a WYSIWYG editor with advanced features like knowledge graphs, scheduled
   * Tags: `markdown editor`, `MCP server`, `AI agent integration`, `local-first`, `knowledge graph`
 
 ## Vector Db
 
-* **[alibaba/zvec](world/public/vault/daily-digests/2026-11-02/zvec.md)** (`reference` | `reference` tier)
+* **[alibaba/zvec](world/public/vault/daily-digests/2026-11-03/zvec.md)** (`reference` | `reference` tier)
   * Summary: Zvec is an open-source, in-process vector database designed for lightweight, high-performance similarity search. It supports dense and sparse vectors, full-text search, and hybrid retrieval, with production-grade durability and scalability.
   * Tags: `vector database`, `similarity search`, `in-process`, `hybrid retrieval`, `production-grade`
 
-* **[AndyForest/SoupNet](world/public/vault/daily-digests/2026-11-02/soupnet.md)** (`reference` | `reference` tier)
+* **[AndyForest/SoupNet](world/public/vault/daily-digests/2026-11-03/soupnet.md)** (`reference` | `reference` tier)
   * Summary: SoupNet provides shared, append-only memory for AI agents to store and retrieve judgment calls with structured evidence, enabling consistent decision-making across sessions, tools, and collaborators. It uses semantic search (recipe checks) to reinfor
   * Tags: `shared memory`, `AI agent memory`, `stigmergy`, `semantic search`, `judgment tracking`
 
-* **[api-evangelist/surrealdb](world/public/vault/daily-digests/2026-11-02/surrealdb.md)** (`reference` | `reference` tier)
+* **[api-evangelist/surrealdb](world/public/vault/daily-digests/2026-11-03/surrealdb.md)** (`reference` | `reference` tier)
   * Summary: SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relational data within a single ACID transaction framework. It exposes a native HTTP REST API and supports SurrealQL, a unified query lang
   * Tags: `multi-model database`, `vector database`, `graph database`, `document database`, `AI integration`
 
-* **[api-evangelist/vespa](world/public/vault/daily-digests/2026-11-02/vespa.md)** (`reference` | `reference` tier)
+* **[api-evangelist/vespa](world/public/vault/daily-digests/2026-11-03/vespa.md)** (`reference` | `reference` tier)
   * Summary: Vespa is an Apache 2.0 open-source serving engine designed for big-data applications, vector search, and recommendation systems. It provides a Document API for CRUD operations, a Search API for querying, and supports real-time hybrid retrieval with r
   * Tags: `Vector Database`, `Hybrid Search`, `Real-Time Retrieval`, `Recommendation Engine`, `Open Source`
 
-* **[api-evangelist/vespa-ai](world/public/vault/daily-digests/2026-11-02/vespa-ai.md)** (`reference` | `reference` tier)
+* **[api-evangelist/vespa-ai](world/public/vault/daily-digests/2026-11-03/vespa-ai.md)** (`reference` | `reference` tier)
   * Summary: Vespa is an open-source AI search engine, big-data serving engine, and vector database that combines vector search, text search (BM25), structured filtering, and machine-learned ranking into a single distributed system. It supports hybrid search, ten
   * Tags: `Vector Search`, `Hybrid Retrieval`, `Machine Learning Ranking`, `Big Data Serving`, `Open Source`
 
-* **[api-evangelist/weaviate](world/public/vault/daily-digests/2026-11-02/weaviate.md)** (`reference` | `reference` tier)
+* **[api-evangelist/weaviate](world/public/vault/daily-digests/2026-11-03/weaviate.md)** (`reference` | `reference` tier)
   * Summary: Weaviate is an open-source, AI-native vector database designed for semantic search and AI-powered applications. It stores data as vector embeddings alongside structured properties, enabling fast similarity search using HNSW or flat indexes, and suppo
   * Tags: `vector database`, `semantic search`, `AI-native`, `open source`, `embeddings`
 
-* **[api-evangelist/zilliz](world/public/vault/daily-digests/2026-11-02/zilliz.md)** (`reference` | `reference` tier)
+* **[api-evangelist/zilliz](world/public/vault/daily-digests/2026-11-03/zilliz.md)** (`reference` | `reference` tier)
   * Summary: This repository profiles Zilliz Cloud, a managed vector database service built by the Milvus team, offering RESTful APIs for cluster management and vector operations. It serves as a third-party documentation hub for Zilliz's public API surface, inclu
   * Tags: `vector database`, `managed service`, `Milvus`, `REST API`, `AI infrastructure`
 
-* **[christopherkarani/Wax](world/public/vault/daily-digests/2026-11-02/wax.md)** (`reference` | `reference` tier)
+* **[christopherkarani/Wax](world/public/vault/daily-digests/2026-11-03/wax.md)** (`reference` | `reference` tier)
   * Summary: Wax is a local-first shared memory layer for AI agents, enabling persistent, single-file storage optimized for Apple Silicon. It supports vector search, photo/video RAG, and cross-device synchronization via iCloud or AirDrop, eliminating the need for
   * Tags: `local-first`, `single-file storage`, `Apple Silicon optimized`, `vector search`, `cross-device sync`
 
-* **[codecoradev/uteke](world/public/vault/daily-digests/2026-11-02/uteke.md)** (`reference` | `reference` tier)
+* **[codecoradev/uteke](world/public/vault/daily-digests/2026-11-03/uteke.md)** (`reference` | `reference` tier)
   * Summary: Uteke is a local-first, offline memory engine for AI agents that provides persistent, semantic memory storage and retrieval. It enables AI tools to retain context across sessions without cloud dependencies, using a single Rust binary with hybrid sear
   * Tags: `local-first`, `semantic memory`, `offline AI`, `persistent context`, `single binary`
 
-* **[cyberlife-coder/VelesDB](world/public/vault/daily-digests/2026-11-02/velesdb.md)** (`reference` | `reference` tier)
+* **[cyberlife-coder/VelesDB](world/public/vault/daily-digests/2026-11-03/velesdb.md)** (`reference` | `reference` tier)
   * Summary: VelesDB is a local-first, embeddable database that unifies vector search, graph relationships, and columnar storage under a single query language (VelesQL). It provides an explainable agent memory system with deterministic context compression, enabli
   * Tags: `local-first`, `explainable memory`, `deterministic compression`, `agent memory`, `unified query engine`
 
-* **[iberi22/xavier](world/public/vault/daily-digests/2026-11-02/xavier.md)** (`reference` | `reference` tier)
+* **[iberi22/xavier](world/public/vault/daily-digests/2026-11-03/xavier.md)** (`reference` | `reference` tier)
   * Summary: Xavier is a high-performance, Rust-based runtime for AI agents that provides fast vector memory storage, hierarchical context graphs, and semantic relationships using SQLite-backed storage. It supports HTTP REST, CLI, and Model Context Protocol (MCP)
   * Tags: `vector memory`, `context graph`, `AI agents`, `local-first`, `semantic search`
 
-* **[integrallis/vectors](world/public/vault/daily-digests/2026-11-02/vectors.md)** (`reference` | `reference` tier)
+* **[integrallis/vectors](world/public/vault/daily-digests/2026-11-03/vectors.md)** (`reference` | `reference` tier)
   * Summary: vectors is an embedded Java library providing in-process vector search, durable local state, and metadata filtering for JVM applications. It eliminates the need for external vector databases by offering ANN indexes, quantizers, and mmap-based storage
   * Tags: `vector search`, `JVM`, `embedded database`, `ANN indexes`, `Spring AI integration`
 
-* **[makr-code/ThemisDB](world/public/vault/daily-digests/2026-11-02/themisdb.md)** (`reference` | `reference` tier)
+* **[makr-code/ThemisDB](world/public/vault/daily-digests/2026-11-03/themisdb.md)** (`reference` | `reference` tier)
   * Summary: ThemisDB is a high-performance multi-model database engine with native AI/LLM integration, supporting relational, graph, vector, document, geospatial, and time-series storage in a single system. It is designed for distributed environments with ACID t
   * Tags: `multi-model database`, `AI/LLM integration`, `distributed transactions`, `vector search`, `RAG pipeline`
 
-* **[oneKn8/VectorVault](world/public/vault/daily-digests/2026-11-02/vectorvault.md)** (`reference` | `reference` tier)
+* **[oneKn8/VectorVault](world/public/vault/daily-digests/2026-11-03/vectorvault.md)** (`reference` | `reference` tier)
   * Summary: VectorVault is a high-performance, from-scratch vector search engine implemented in C++20. It features HNSW algorithm, AVX2 SIMD acceleration, and memory-mapped persistence, delivering sub-millisecond query latency for 100k vectors without relying on
   * Tags: `vector search`, `HNSW`, `SIMD acceleration`, `sub-millisecond latency`, `C++20`
 
-* **[PrakashWebDevX/url-to-vectordb-rag-pipeline](world/public/vault/daily-digests/2026-11-02/url-to-vectordb-rag-pipeline.md)** (`reference` | `reference` tier)
+* **[PrakashWebDevX/url-to-vectordb-rag-pipeline](world/public/vault/daily-digests/2026-11-03/url-to-vectordb-rag-pipeline.md)** (`reference` | `reference` tier)
   * Summary: A lightweight Python pipeline that automates the process of scraping website content, chunking text, generating embeddings, and storing them in a pgvector-powered Supabase database for RAG applications. It integrates local embeddings and Groq's LLM f
   * Tags: `web scraping`, `RAG pipeline`, `pgvector`, `local embeddings`, `Supabase`
 
-* **[reshuibuduo/tmcra](world/public/vault/daily-digests/2026-11-02/tmcra.md)** (`reference` | `reference` tier)
+* **[reshuibuduo/tmcra](world/public/vault/daily-digests/2026-11-03/tmcra.md)** (`reference` | `reference` tier)
   * Summary: TMCRA is a self-hosted, full-stack memory infrastructure for AI agents that transforms conversations and application events into durable, attributable evidence. It enables fast retrieval of recent facts and periodic consolidation of long-term semanti
   * Tags: `memory infrastructure`, `self-hosted`, `attributable evidence`, `knowledge graph`, `AI agents`
 
-* **[rustic-ai/uni-db](world/public/vault/daily-digests/2026-11-02/uni-db.md)** (`reference` | `reference` tier)
+* **[rustic-ai/uni-db](world/public/vault/daily-digests/2026-11-03/uni-db.md)** (`reference` | `reference` tier)
   * Summary: Uni is an embedded database combining a property graph (OpenCypher), vector search, and columnar storage (Lance) into a single engine. It enables local, fast, multimodal data access with durability via object storage (S3/GCS/local) and is designed fo
   * Tags: `embedded database`, `vector search`, `property graph`, `columnar storage`, `serverless`
 
-* **[sherwood-exchange/sherwood](world/public/vault/daily-digests/2026-11-02/sherwood.md)** (`reference` | `reference` tier)
+* **[sherwood-exchange/sherwood](world/public/vault/daily-digests/2026-11-03/sherwood.md)** (`reference` | `reference` tier)
   * Summary: Sherwood Exchange is a privacy-first decentralized exchange on Robinhood Chain, featuring a shielded ZK pool for private trades, a public multi-DEX aggregator, and an autonomous AI agent for live commerce. It combines zero-knowledge proofs with cross
   * Tags: `Zero-Knowledge Proofs`, `Privacy-Preserving`, `DEX Aggregator`, `Autonomous Agent`, `Cross-Chain`
 
-* **[skyzh/write-you-a-vector-db](world/public/vault/daily-digests/2026-11-02/write-you-a-vector-db.md)** (`reference` | `reference` tier)
+* **[skyzh/write-you-a-vector-db](world/public/vault/daily-digests/2026-11-03/write-you-a-vector-db.md)** (`reference` | `reference` tier)
   * Summary: Write You a Vector Database is a Rust-first educational course that teaches how to build an in-memory vector database from scratch, integrating vector search algorithms with SQL via DataFusion. It covers IVFFlat, NSW, HNSW, and benchmarking for recal
   * Tags: `vector search`, `Rust`, `SQL integration`, `algorithmic database`, `educational`
 
-* **[TanNguyen234/VietLex-Tech-Spec](world/public/vault/daily-digests/2026-11-02/vietlex-tech-spec.md)** (`reference` | `reference` tier)
+* **[TanNguyen234/VietLex-Tech-Spec](world/public/vault/daily-digests/2026-11-03/vietlex-tech-spec.md)** (`reference` | `reference` tier)
   * Summary: VietLex is a Retrieval-Augmented Generation (RAG) system specialized for Vietnamese legal document retrieval and query answering. It leverages hybrid retrieval (dense + sparse) with remote inference for embeddings and reranking, while storing vectors
   * Tags: `Vietnamese Legal RAG`, `Hybrid Retrieval`, `Remote Inference`, `Golden Adjudication`, `Legal Document Processing`
 
-* **[tkbrannon/zakar](world/public/vault/daily-digests/2026-11-02/zakar.md)** (`reference` | `reference` tier)
+* **[tkbrannon/zakar](world/public/vault/daily-digests/2026-11-03/zakar.md)** (`reference` | `reference` tier)
   * Summary: Zakar is an open-source personal AI memory platform that enables long-term memory sharing across multiple AI tools (e.g., Claude, ChatGPT) via a unified Postgres database with pgvector. It combines hybrid retrieval (vector + keyword search), an MCP s
   * Tags: `long-term memory`, `hybrid retrieval`, `MCP server`, `personal AI`, `memory platform`
 
-* **[topk-io/topk](world/public/vault/daily-digests/2026-11-02/topk.md)** (`reference` | `reference` tier)
+* **[topk-io/topk](world/public/vault/daily-digests/2026-11-03/topk.md)** (`reference` | `reference` tier)
   * Summary: TopK is a unified retrieval engine designed for hybrid search, vector search, multi-vector retrieval, and keyword search (BM25) with custom ranking capabilities. It supports managed inference and integrates with object storage for cost-effective, sca
   * Tags: `Hybrid Search`, `Vector Database`, `Multi-Vector Retrieval`, `Managed Inference`, `Object Storage`
 
-* **[xerj-org/xerj](world/public/vault/daily-digests/2026-11-02/xerj.md)** (`reference` | `reference` tier)
+* **[xerj-org/xerj](world/public/vault/daily-digests/2026-11-03/xerj.md)** (`reference` | `reference` tier)
   * Summary: XERJ is a lightweight, Elasticsearch-compatible search engine designed for AI agents, enabling fast indexing and querying of code, documents, logs, and PDFs without token waste. It eliminates the need for agents to read entire files by providing stru
   * Tags: `search engine`, `AI agents`, `Elasticsearch-compatible`, `vector search`, `AST-aware indexing`
 
-* **[yantrikos/yantrikdb](world/public/vault/daily-digests/2026-11-02/yantrikdb.md)** (`reference` | `reference` tier)
+* **[yantrikos/yantrikdb](world/public/vault/daily-digests/2026-11-03/yantrikdb.md)** (`reference` | `reference` tier)
   * Summary: YantrikDB is an embedded cognitive memory engine designed for persistent AI systems, enabling hierarchical, contextual, and time-aware memory management with built-in decay, contradiction detection, and autonomous consolidation. It operates as a loca
   * Tags: `cognitive memory`, `embedded database`, `AI agents`, `temporal decay`, `knowledge graph`
 
-* **[yantrikos/yantrikdb-server](world/public/vault/daily-digests/2026-11-02/yantrikdb-server.md)** (`reference` | `reference` tier)
+* **[yantrikos/yantrikdb-server](world/public/vault/daily-digests/2026-11-03/yantrikdb-server.md)** (`reference` | `reference` tier)
   * Summary: YantrikDB is a cognitive memory engine for AI agents that actively manages memory through consolidation, forgetting, and contradiction detection, rather than passively storing it. It reduces token usage by up to 99.9% compared to file-based memory wh
   * Tags: `cognitive memory`, `temporal decay`, `contradiction detection`, `agent memory`, `token efficiency`
 
-* **[ZenSystemAI/Zengram](world/public/vault/daily-digests/2026-11-02/zengram.md)** (`reference` | `reference` tier)
+* **[ZenSystemAI/Zengram](world/public/vault/daily-digests/2026-11-03/zengram.md)** (`reference` | `reference` tier)
   * Summary: Zengram provides a shared memory system for multi-agent AI systems, enabling cross-machine and cross-session memory sharing with typed memory (events, facts, statuses, decisions) and unified storage in PostgreSQL with pgvector for semantic search. It
   * Tags: `multi-agent memory`, `shared context`, `vector database`, `MCP server`, `PostgreSQL`
 
-* **[Zizka-ai/ZizkaDB](world/public/vault/daily-digests/2026-11-02/zizkadb.md)** (`reference` | `reference` tier)
+* **[Zizka-ai/ZizkaDB](world/public/vault/daily-digests/2026-11-03/zizkadb.md)** (`reference` | `reference` tier)
   * Summary: ZizkaDB is an operational database designed for AI agents to audit, trace decisions, and detect behavioral drift. It enables causal lineage tracking, time-travel debugging, and semantic search over agent interactions, available as open-source self-ho
   * Tags: `AI agent auditing`, `causal lineage`, `behavioral drift detection`, `operational database`, `semantic memory`
 
@@ -4039,6 +4039,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.24706v1 Announce Type: cross Abstract: Autobiographical remembering supports identity, well-being, and social connection in later life, yet voice-based memory technologies largely rely on isolated prompts. We designed and built MeBo, a ful
   * Tags: `agents`, `benchmark`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2609.24706>
+
+* **["Shall We Approve?" Consequence-Aware Approval for Autonomous Coding Agents](ai/agents/arxiv-2610-40753.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40753v1 Announce Type: cross Abstract: Coding agents increasingly rely on automated approvers to decide whether a proposed shell command may run. Existing approvers, from rule-based checkers to guardrail models and deployed permission clas
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.40753>
 
 * **["Skill Issues'': Data-Centric Optimization of Lakehouse Agents](ai/agents/arxiv-2606-01185.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.01185v2 Announce Type: replace Abstract: Coding agents are becoming users of data infrastructure, but their success depends not only on model quality: it also depends on the skills and environment files that teach agents how to use a syste
@@ -4957,6 +4962,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `frontend_ui`, `hackernews`, `models`
   * Source URL: <https://arxiv.org/abs/2607.19281>
 
+* **[A Relative-Computability Theory of Self-Improving Agents](ai/agents/arxiv-2605-27381.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2605.27381v4 Announce Type: replace-cross Abstract: Self-improving agents can acquire a procedure without knowing when its supporting teacher can safely be removed. We extend an oracle-relative model of evolving agents with explicit acquisition
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2605.27381>
+
 * **[A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents](ai/agents/arxiv-2607-07985.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2607.07985v1 Announce Type: cross Abstract: We report the empirical reliability of Gemini models as audio judges that score full-duplex agent conversations directly from the raw stereo waveform, tested across three models in the Gemini family:
   * Tags: `agents`, `benchmark`
@@ -5095,6 +5105,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.00926v1 Announce Type: cross Abstract: Autonomous driving is a cornerstone technology for the future of intelligent transportation, where end-to-end learning has emerged as a transformative paradigm that directly maps multimodal sensory in
   * Tags: `agents`, `hackernews`, `paper`
   * Source URL: <https://arxiv.org/abs/2610.00926>
+
+* **[A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](ai/rag/arxiv-2604-16548.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.16548v5 Announce Type: replace-cross Abstract: The emergence of writable, cross-session persistent memory in LLM agents introduces a qualitatively different threat landscape from conventional input-centric security concerns, characterized
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2604.16548>
 
 * **[A Survey on Rubric-Guided Reinforcement Learning for Language Models](ai/agents/arxiv-2608-27505.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.27505v2 Announce Type: replace-cross Abstract: Reinforcement learning from human feedback (RLHF) has become the dominant paradigm for aligning large language models (LLMs) with human preferences. However, traditional RLHF relies on scalar
@@ -5387,6 +5402,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.19251v1 Announce Type: cross Abstract: Solving the pressure-Poisson equation remains the primary computational bottleneck in incompressible unstructured flow solvers primarily due to the inherent sensitivity of traditional linear solvers t
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.19251>
+
+* **[Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents](ai/agents/arxiv-2610-41056.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41056v1 Announce Type: cross Abstract: Since large language model (LLM) agents rely on long-term memory, what they store now shapes what they do later. A memory manager decides how each input changes this memory and which records the agent
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.41056>
 
 * **[Acceptable Misalignment](ai/agents/arxiv-2610-16881.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.16881v1 Announce Type: new Abstract: There is a specific challenge designers face in developing autonomous robots capable of open-ended learning. This challenge is how one can develop such systems in an ethically sound way when there are m
@@ -7297,8 +7317,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.geeksforgeeks.org/machine-learning/ai-ml-and-data-science-tutorial-learn-ai-ml-and-data-science/>
 
 * **[ai-boost/awesome-harness-engineering](ai/agents/ai-boost-awesome-harness-engineering.md)** (`benchmark` | `useful` tier)
-  * Summary: * Focuses on AI agent harness engineering, encompassing tools, design patterns, and evaluation methodologies
-  * Tags: `agents`, `benchmark`, `github-repo`, `python`
+  * Summary: * Aggregates resources for AI agent harness engineering, covering tools, design patterns, and evaluation methodologies. * Encompasses critical agent infrastructure components: memory management, Multi-Contextual Processing (MCP), permissions, and obs
+  * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `python`
   * Source URL: <https://github.com/ai-boost/awesome-harness-engineering>
 
 * **[AI-driven Prices for Externalities and Sustainability in Production Markets](ai/agents/arxiv-2106-06060.md)** (`framework` | `useful` tier)
@@ -7951,6 +7971,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2607.15053>
 
+* **[ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents](ai/agents/arxiv-2610-41272.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41272v1 Announce Type: cross Abstract: Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected content can induce them to perform unauthorized actions. Existing evaluations primari
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41272>
+
 * **[Annotrace: A Workbench for Step-Level Annotation of Agent Traces](ai/agents/arxiv-2610-23284.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.23284v3 Announce Type: replace Abstract: Every study of why LLM agents fail begins by labelling traces by hand, and every such study builds its own throwaway tool. Observability platforms record agent traces but offer no structured labelli
   * Tags: `agents`
@@ -8410,6 +8435,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.02686v1 Announce Type: cross Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad r
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2607.02686>
+
+* **[Ask on Demand: Targeted Peer Communication for Parallel Agentic Systems](ai/agents/arxiv-2610-41378.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41378v1 Announce Type: new Abstract: Parallel LLM agents tackle complex tasks by exploring multiple trajectories, yet useful discoveries remain isolated in individual execution histories. Existing sharing methods often select or summarize
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.41378>
 
 * **[Ask Self, Ask Others: Relation Is All You Need](ai/research/arxiv-2608-20172.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.20172v1 Announce Type: new Abstract: Attention directly derives normalized information flow from pairwise scores. We introduce Relation, an alternative token-mixing primitive that first organizes pairwise evidence into explicit Self and Ex
@@ -8922,7 +8952,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.22592>
 
 * **[AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn](ai/agents/arxiv-2610-40757.md)** (`reference` | `useful` tier)
-  * Summary: arXiv:2610.40757v1 Announce Type: new Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including "0-shot" inference (ZI) and continual learning (CL) -- two powerful cognitive abilities. Despite this
+  * Summary: arXiv:2610.40757v1 Announce Type: cross Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including "0-shot" inference (ZI) and continual learning (CL) -- two powerful cognitive abilities. Despite thi
   * Tags: `agents`, `models`
   * Source URL: <https://arxiv.org/abs/2610.40757>
 
@@ -9341,6 +9371,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.34951>
 
+* **[Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics](ai/agents/arxiv-2510-12787.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2510.12787v5 Announce Type: replace Abstract: We present Ax-Prover, a multi-agent system for automated theorem proving in Lean that can solve problems across diverse scientific domains and operate either autonomously or collaboratively with hum
+  * Tags: `agents`, `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2510.12787>
+
 * **[AzureChatOpenAI integration - Docs by LangChain](ai/agents/azurechatopenai-integration-docs-by-langchain.md)** (`tutorial` | `useful` tier)
   * Summary: - **AzureChatOpenAI Integration**: LangChain supports Azure-hosted OpenAI models via `AzureChatOpenAI` and `ChatOpenAI` (v1 API) with enterprise features like Microsoft Entra ID authentication, tool calling, structured output, and token-level streami
   * Tags: `agents`, `anthropic`, `meta-ai`, `mistral`, `models`, `openai`, `web-crawled`, `youtube`
@@ -9350,6 +9385,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **SPDX 3.0.1 Core Model**: Defines foundational classes (`Element`, `Relationship`, `Agent`, `Artifact`, etc.), properties (e.g., `spdxId`, `created`, `externalRef`), and vocabularies (e.g., `RelationshipType`, `HashAlgorithm`) for structured softw
   * Tags: `agents`, `dataset`, `reddit`, `web-crawled`
   * Source URL: <https://spdx.github.io/spdx-spec/v3.0.1/annexes/spdx-license-expressions/>
+
+* **[BABA-Bench: Evaluating Long-Horizon Patient-Advocacy Agents](ai/agents/arxiv-2610-41076.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41076v1 Announce Type: new Abstract: An LLM agent that helps a patient get care must do two things. It must reach the correct outcome, and it must follow the necessary procedure. For example, the agent must get the patient's permission bef
+  * Tags: `agents`, `anthropic`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41076>
 
 * **[Back to The Future: Evaluating AI Agents on Predicting Future Events](ai/agents/huggingface-blog-futurebench.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Back to The Future: Evaluating AI Agents on Predicting Future Events
@@ -9472,7 +9512,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24453>
 
 * **[Bayesian Distribution System State Estimation with Flow Matching](ai/research/arxiv-2610-40728.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40728v1 Announce Type: new Abstract: Medium-voltage feeders have few real-time measurements, so distribution system state estimation (DSSE) rests on pseudo-measurements of the secondary substations, a prior in Bayesian terms. Weighted leas
+  * Summary: arXiv:2610.40728v1 Announce Type: cross Abstract: Medium-voltage feeders have few real-time measurements, so distribution system state estimation (DSSE) rests on pseudo-measurements of the secondary substations, a prior in Bayesian terms. Weighted le
   * Source URL: <https://arxiv.org/abs/2610.40728>
 
 * **[Bayesian Filtering in Physical Systems via Test-time Trained Flow Matching](ai/research/arxiv-2609-23383.md)** (`framework` | `useful` tier)
@@ -9660,7 +9700,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2509.22754>
 
 * **[Benchmarking Forecasting Agents on Yesterday's Tomorrows](ai/agents/arxiv-2610-40940.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40940v1 Announce Type: cross Abstract: Digital agents can now gather and organize information, reason over it, and use tools to complete complex tasks. Forecasting puts all of these abilities to the test: it requires integrating incomplete
+  * Summary: arXiv:2610.40940v1 Announce Type: new Abstract: Digital agents can now gather and organize information, reason over it, and use tools to complete complex tasks. Forecasting puts all of these abilities to the test: it requires integrating incomplete e
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.40940>
 
@@ -9818,6 +9858,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.27816v2 Announce Type: replace-cross Abstract: Role-playing agents (RPAs) have become one of the most important consumer applications of large language models. Users engage in multi-turn conversations with RPAs for experiences such as emot
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.27816>
+
+* **[Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models](ai/agents/arxiv-2610-41199.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41199v1 Announce Type: cross Abstract: Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. Traditionally, this process required thousands of images of both nominal and defective prod
+  * Tags: `agents`, `paper`
+  * Source URL: <https://arxiv.org/abs/2610.41199>
 
 * **[Beyond Coherence: Benchmarking Professional Editing-Technique Execution in Multi-Shot Audio-Video Generation](ai/agents/arxiv-2609-08275.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.08275v2 Announce Type: replace Abstract: Recent multi-shot audio-video generators can produce increasingly coherent and cinematic outputs, but coherence does not imply the ability to execute editing techniques. Professional editing depends
@@ -10022,6 +10067,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.16117v2 Announce Type: new Abstract: LLM-based multi-agent collaboration is increasingly used to solve complex tasks by dividing work among specialized agents and integrating complementary expertise. Yet existing systems and evaluations la
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.16117>
+
+* **[Beyond Plausible Prediction: Safety Sufficiency in Web World Models](ai/agents/arxiv-2610-40798.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40798v1 Announce Type: new Abstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct safety decision. In a matched hum
+  * Tags: `agents`, `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.40798>
 
 * **[Beyond Policy Support: Interaction Constrained Offline Reinforcement Learning for Autonomous Driving](ai/agents/arxiv-2610-09763.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.09763v2 Announce Type: replace-cross Abstract: Offline reinforcement learning enables reward-driven policy improvement from fixed datasets without requiring online exploration, making it particularly attractive in safety-critical domains.
@@ -10397,6 +10447,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.37055v1 Announce Type: cross Abstract: Audit-based certification bounds the violation rate of an LLM agent by auditing a random fraction $\varepsilon$ of actions and reweighting the audited labels; its validity is meant to rest only on the
   * Tags: `agents`, `youtube`
   * Source URL: <https://arxiv.org/abs/2610.37055>
+
+* **[BlindToChange: AI Agents Can Find Changes When Asked But Do They Look When Needed?](ai/agents/arxiv-2610-41435.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41435v1 Announce Type: cross Abstract: Given that AI agents can search the web broadly and deeply in real time, it is tempting to conclude that their outputs account for recent world events. We show that this conclusion does not hold in pr
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41435>
 
 * **[bluehands/GirlsDay2026](ai/agents/bluehands-girlsday2026.md)** (`tool` | `useful` tier)
   * Summary: CrewAI explorations for GirlsDay at bluehands
@@ -10860,6 +10915,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2608.24319>
 
+* **[Can Agentic Code Review Catch Vulnerabilities Before They Are Merged?](ai/agents/arxiv-2610-33509.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.33509v2 Announce Type: replace-cross Abstract: LLM agents have been increasingly adopted for security-focused code review, but existing benchmarks mostly derive the reviewed changes from their later fixes instead of the real-world bug-intr
+  * Tags: `agents`, `anthropic`, `benchmark`, `openai`, `paper`
+  * Source URL: <https://arxiv.org/abs/2610.33509>
+
 * **[Can Agentic Trading Systems Pay for Their Own Intelligence?](ai/agents/arxiv-2607-10286.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.10286v2 Announce Type: replace Abstract: Large language model (LLM) agents are increasingly used in trading systems, where model reasoning, tool use, and continual decisions incur costs that are expected to produce trading value. Existing
   * Tags: `agents`, `benchmark`, `reddit`
@@ -11011,7 +11071,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2602.00114>
 
 * **[Can Personal Requirements Become Supervision for Planning?](ai/agents/arxiv-2610-40992.md)** (`benchmark` | `useful` tier)
-  * Summary: arXiv:2610.40992v1 Announce Type: cross Abstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requ
+  * Summary: arXiv:2610.40992v1 Announce Type: new Abstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requir
   * Tags: `agents`, `benchmark`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2610.40992>
 
@@ -11084,6 +11144,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.13228v1 Announce Type: new Abstract: Agent harnesses combine retrieval, routing, state, provenance, and verification, but locally successful components may disagree on shared state. We model this failure with a finite \emph{capability shea
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2608.13228>
+
+* **[Capability-Grounded Agentic Planning](ai/agents/arxiv-2610-41040.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41040v1 Announce Type: new Abstract: LLM agents serve natural-language requests through tools, data sources, and other agents, and even simple requests often need several interdependent calls. Typically, the LLM picks these calls by trial
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.41040>
 
 * **[CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](ai/agents/arxiv-2606-12666.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12666v2 Announce Type: replace-cross Abstract: Screenshot-based mobile GUI agents can operate ordinary smartphone apps through the same visual interface as a human user, but this capability also turns every screen observation into a privac
@@ -11429,6 +11494,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.23044v1 Announce Type: cross Abstract: Quantum devices are open systems whose dynamics interleave coherent evolution with dissipation, and benchmarking, error mitigation, and error correction all rest on a faithful model of both. Existing
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.23044>
+
+* **[Characterizing LLM Agent Behaviors in Module Shadowing Environments](ai/agents/arxiv-2610-40716.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40716v1 Announce Type: cross Abstract: LLM agents operating in untrusted workspaces face the risk of untrusted code execution during routine tasks, yet final reports and workspace states alone cannot reliably establish whether execution oc
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.40716>
 
 * **[Chart Deception in Vision-Language Models: From Vulnerability to Mitigation](ai/agents/arxiv-2607-22600.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.22600v1 Announce Type: new Abstract: Information visualizations are widely used to communicate patterns, trends, and outliers, yet deceptive design choices-such as truncated or inverted axes, distorted aspect ratios, inappropriate encoding
@@ -12643,7 +12713,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.15142>
 
 * **[Concordat: Typed Sessions for LLM Agents](ai/agents/arxiv-2610-37461.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.37461v1 Announce Type: new Abstract: Agents built on large language models are increasingly allowed to take consequential actions: cancelling bookings, issuing refunds, changing accounts. The rules that govern those actions, such as "obtai
+  * Summary: arXiv:2610.37461v2 Announce Type: replace Abstract: Agents built on large language models are increasingly allowed to take consequential actions: cancelling bookings, issuing refunds, changing accounts. The rules that govern those actions, such as "o
   * Tags: `agents`, `anthropic`, `models`, `openai`
   * Source URL: <https://arxiv.org/abs/2610.37461>
 
@@ -12685,6 +12755,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.24691v1 Announce Type: new Abstract: Agentic systems increasingly gate actions on a model's own stated confidence, which assumes confidence tracks correctness at the moment of acting. We test this in a hidden-information chess variant wher
   * Tags: `agents`, `benchmark`, `leaderboard`
   * Source URL: <https://arxiv.org/abs/2608.24691>
+
+* **[Confident Fools or Careful Searchers? A Behavioural Study of When LLMs Search Beyond Their Static Internal Memory](ai/agents/arxiv-2610-41124.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41124v1 Announce Type: new Abstract: Agentic LLM assistants must repeatedly decide whether to answer from memory or to call a tool such as web search. Unnecessary searches cost latency and money; missing ones yield confident but unsupporte
+  * Tags: `agents`, `benchmark`, `mistral`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.41124>
 
 * **[Confining Nondeterminism: AI-Driven Research Systems as DBMSs for Reliable, Non-Wasteful, Transparent, and Collaborative Research [Vision]](ai/agents/arxiv-2607-10508.md)** (`tutorial` | `useful` tier)
   * Summary: arXiv:2607.10508v1 Announce Type: cross Abstract: LLM agents that conduct research (proposing ideas, writing and running code, analyzing results) can already carry a study from research question to figures, yet cannot be fully trusted. The same quest
@@ -12747,7 +12822,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.05688>
 
 * **[Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense](ai/agents/arxiv-2610-41044.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41044v1 Announce Type: cross Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distrib
+  * Summary: arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distribut
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.41044>
 
@@ -12989,7 +13064,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2601.05107>
 
 * **[Controllable User Simulation](ai/agents/arxiv-2605-11519.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2605.11519v2 Announce Type: replace-cross Abstract: Using offline datasets to evaluate conversational agents often fails to cover rare scenarios or to support testing new policies. This has motivated the use of controllable user simulators for
+  * Summary: arXiv:2605.11519v2 Announce Type: replace Abstract: Using offline datasets to evaluate conversational agents often fails to cover rare scenarios or to support testing new policies. This has motivated the use of controllable user simulators for target
   * Tags: `agents`, `benchmark`, `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2605.11519>
 
@@ -15202,7 +15277,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2509.03345>
 
 * **[Do Language Models Know What Compelling Scientific Evidence Looks Like?](ai/agents/arxiv-2610-41015.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41015v1 Announce Type: new Abstract: Expert scientists excel at weighing empirical findings from multiple sources that vary in both statistical reliability and epistemic relevance. To what extent are language models, which are increasingly
+  * Summary: arXiv:2610.41015v1 Announce Type: cross Abstract: Expert scientists excel at weighing empirical findings from multiple sources that vary in both statistical reliability and epistemic relevance. To what extent are language models, which are increasing
   * Tags: `agents`, `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2610.41015>
 
@@ -15305,6 +15380,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.20769v1 Announce Type: cross Abstract: Streaming emotion understanding uses historical state while continuously interpreting current audio, often feeding the model's previous prediction back as context. We show that this history conditioni
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2608.20769>
+
+* **[Do Transaction Prices Reflect Visual Preference? A Diagnostic Study with Multimodal Language Models](ai/agents/arxiv-2610-41358.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41358v1 Announce Type: new Abstract: Existing visual preference evaluation relies on costly human annotations or preference reward models, whereas online marketplace transaction prices are readily available and reflect real purchasing beha
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41358>
 
 * **[Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning](ai/agents/arxiv-2607-04681.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2607.04681v1 Announce Type: cross Abstract: Embodied Chain-of-Thought has emerged as a promising mechanism to enhance robot decision-making and interpretability in black-box Vision-Language Action (VLA) models. However, whether this verbalized
@@ -15425,6 +15505,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.22697v3 Announce Type: replace Abstract: Search rankings are valuable because human attention is scarce and sequential. Higher-placed alternatives are easier to find, so they are examined and bought more often. Consumers are now delegating
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2608.22697>
+
+* **[Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?](ai/agents/arxiv-2610-40906.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluate
+  * Tags: `agents`, `anthropic`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.40906>
 
 * **[Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](ai/agents/arxiv-2610-39497.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.39497v1 Announce Type: new Abstract: Progress toward artificial general intelligence (AGI) has largely relied on scaling a resource-intensive executive, System-2, through larger models, more data and compute, longer reasoning, and more age
@@ -17170,6 +17255,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2609.19099>
 
+* **[Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution](ai/agents/arxiv-2610-41453.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41453v1 Announce Type: new Abstract: Tool timeouts can leave AI agents facing ambiguous tool outcomes and partial execution: an action may have failed, committed or remained in flight while other workflow steps have already completed. We f
+  * Tags: `agents`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.41453>
+
 * **[Evidence-Ledger Adjudication for Claim-Evidence Traceability](ai/agents/arxiv-2607-26512.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.26512v1 Announce Type: new Abstract: AI agents can draft claims faster than authors can check whether the cited or retrieved evidence supports them. We study evidence-ledger adjudication: a claim-evidence traceability workflow that pairs e
   * Tags: `agents`, `benchmark`, `workflows`
@@ -17355,6 +17445,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`
   * Source URL: <https://arxiv.org/abs/2610.20786>
 
+* **[EvoMCP: Co-evolving MCP agents and training data](ai/agents/arxiv-2610-41479.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41479v1 Announce Type: new Abstract: Supervised fine-tuning of Model Context Protocol (MCP) agents is typically conducted on a static data distribution, which fails to adapt to the student's evolving capabilities and leaves newly exposed w
+  * Tags: `agents`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.41479>
+
 * **[EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective](ai/agents/arxiv-2605-18421.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.18421v3 Announce Type: replace-cross Abstract: Recent benchmarks for Large Language Model (LLM) agents mainly evaluate reasoning, planning, and execution. However, memory is also essential for agents, as it enables them to store, update, a
   * Tags: `agents`, `benchmark`, `dataset`, `paper`
@@ -17396,7 +17491,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.38661>
 
 * **[EvoTeam: Multi-Agent Collaboration via Evolving Teams](ai/agents/arxiv-2610-39813.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.39813v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) rely on collaboration among specialized agents to solve complex tasks. Existing methods improve MAS by refining the prompts, skills, and execution strategies of indiv
+  * Summary: arXiv:2610.39813v2 Announce Type: replace Abstract: LLM-based multi-agent systems (MAS) rely on collaboration among specialized agents to solve complex tasks. Existing methods improve MAS by refining the prompts, skills, and execution strategies of i
   * Tags: `agents`, `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2610.39813>
 
@@ -18775,6 +18870,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2609.07925>
 
+* **[From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?](ai/agents/arxiv-2610-41267.md)** (`template` | `useful` tier)
+  * Summary: arXiv:2610.41267v1 Announce Type: new Abstract: Turning an engineering request into a simulation requires consistent geometry, physics, boundary conditions, and numerical settings. Recent agent-assisted systems automate simulation setup, but successf
+  * Tags: `agents`, `benchmark`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.41267>
+
 * **[From Accuracy to Auditability: A Survey of Determinism in Financial AI Systems](ai/agents/arxiv-2605-23955.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.23955v4 Announce Type: replace Abstract: Deploying machine learning in regulated financial environments -- credit risk, fraud detection, and anti-money laundering -- exposes critical vulnerabilities in algorithmic reproducibility. While ea
   * Tags: `agents`, `benchmark`, `dataset`, `workflows`
@@ -18933,6 +19033,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.02984v1 Announce Type: new Abstract: The conventional approach to machine learning, that is, collecting data, training models, and performing inference in a single location, faces fundamental limitations, including scalability and privacy,
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2609.02984>
+
+* **[From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models](ai/agents/arxiv-2610-41210.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41210v1 Announce Type: cross Abstract: Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constraints, yet aggregate scores can readily obscure unmet local requirements. E
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41210>
 
 * **[From Evidence to Action: How Tool-Using Agents Fail](ai/agents/arxiv-2610-07753.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.07753v1 Announce Type: cross Abstract: Tool-using agents make consequential changes to external state, yet correct outcomes do not guarantee that their actions were supported by evidence established beforehand. We study where this evidence
@@ -19440,6 +19545,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: MCP server for AI-driven security pipelines
   * Tags: `agents`, `github-repo`, `python`, `scripts`, `workflows`
   * Source URL: <https://github.com/FuzzingLabs/secpipe>
+
+* **[Fuzzy selective state model for forecasting the dynamics of consumer preferences](ai/research/arxiv-2610-41879.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41879v1 Announce Type: new Abstract: We consider forecasting the dynamics of consumer preferences of retail chain customers. A customer's preference is described by a triangular fuzzy number. The evolution of the preference over time is go
+  * Source URL: <https://arxiv.org/abs/2610.41879>
 
 * **[FVRuleLearner: Operator-Level Reasoning Tree (Op-Tree)-Based Rules Learning for Formal Verification](ai/rag/arxiv-2604-03245.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.03245v2 Announce Type: replace-cross Abstract: The remarkable reasoning and code generation capabilities of large language models (LLMs) have recently motivated increasing interest in automating formal verification (FV), a process that ens
@@ -20588,8 +20697,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.36877>
 
-* **[GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs](ai/agents/arxiv-2608-03270.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2608.03270v1 Announce Type: cross Abstract: GUI grounding maps natural-language instructions to click locations and is essential for reliable GUI agents. The task remains difficult on high-resolution, densely populated interfaces because a visi
+* **[GUI-Lens: Enabling Precise GUI Grounding for Off-the-Shelf VLMs via Coarse-to-Fine Cropping](ai/agents/arxiv-2608-03270.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2608.03270v2 Announce Type: replace-cross Abstract: GUI grounding maps natural-language instructions to click locations and is essential for reliable GUI agents. The task remains difficult on high-resolution, densely populated interfaces becaus
   * Tags: `agents`, `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2608.03270>
 
@@ -21898,12 +22007,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/i-am-bee/beeai-framework>
 
 * **[I-HITL: Inalienable Human-in-the-Loop](ai/agents/arxiv-2610-35835.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.35835v2 Announce Type: replace-cross Abstract: Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardr
+  * Summary: arXiv:2610.35835v3 Announce Type: replace-cross Abstract: Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardr
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.35835>
 
 * **[I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation](ai/rag/arxiv-2610-17748.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.17748v1 Announce Type: cross Abstract: Policies trained offline from teleoperated demonstrations can degrade outside their training distribution. This gap is particularly acute in long-horizon whole-body mobile manipulation, where long hor
+  * Summary: arXiv:2610.17748v2 Announce Type: replace-cross Abstract: Policies trained offline from teleoperated demonstrations can degrade outside their training distribution. This gap is particularly acute in long-horizon whole-body mobile manipulation, where
   * Tags: `agents`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2610.17748>
 
@@ -22056,6 +22165,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12200v1 Announce Type: new Abstract: We study policy representation learning from unlabeled multi-policy behavioral data. Each episode is generated by a fixed policy, but policy labels are unavailable. This setting appears in robotics play
   * Tags: `agents`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.12200>
+
+* **[ImplicitHop: Evaluating knowledge integration across context and memory](ai/agents/arxiv-2610-41169.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41169v1 Announce Type: new Abstract: The ability to integrate new information and deduce its consequences is central to learning, understanding, and reasoning in large language models (LLMs). Whether information arrives during training or
+  * Tags: `agents`, `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.41169>
 
 * **[ImplicitTerrainV2: Wavelet-Guided Spatially Adaptive Neural Terrain Representation](ai/rag/arxiv-2605-22556.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2605.22556v3 Announce Type: replace Abstract: Digital elevation models (DEMs) underpin terrain analysis in Geographic Information Systems (GIS), but commonly as raster representation, they rely on interpolation for off-grid sampling and finite-
@@ -23239,6 +23353,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.17719>
 
+* **[KEEPER: Learning Control-Sufficient Textual Memory for Long-Horizon LLM Agents](ai/agents/arxiv-2610-41482.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41482v1 Announce Type: cross Abstract: Recursive textual memory can carry earlier errors into later updates, yet task performance alone does not establish memory reliability. We define self-consistency bias as the persistence of incorrect
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.41482>
+
 * **[Kepler: Auditable World Models for ARC-AGI-3](ai/agents/arxiv-2610-00834.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.00834v1 Announce Type: new Abstract: ARC-AGI-3 evaluates agents in interactive environments whose rules and objectives must be inferred from observation. We present Kepler, an open-source harness that represents hypotheses as executable wo
   * Tags: `agents`, `anthropic`, `benchmark`
@@ -23657,6 +23776,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2606.18661>
 
+* **[LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale](ai/agents/arxiv-2610-41072.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41072v1 Announce Type: new Abstract: Security operations centers (SOCs) need to turn terabytes of alerts, logs and flows into trusted, affordable decisions to unveil hidden threats. We present LanG 2.0, an agentic system that detects threa
+  * Tags: `agents`, `anthropic`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.41072>
+
 * **[LangChain Blog](ai/agents/langchain-blog.md)** (`framework` | `useful` tier)
   * Summary: - **LangSmith Tuned Evaluators** introduce *Perceived Error* metric for fine-grained agent performance assessment, enabling dynamic adjustment of evaluation thresholds based on real-world user feedback rather than static benchmarks. - **LangSmith LLM
   * Tags: `agents`, `benchmark`, `producthunt`, `web-crawled`, `workflows`
@@ -23920,6 +24044,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.26979>
 
+* **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](ai/agents/arxiv-2610-42147.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42147v1 Announce Type: new Abstract: Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M token
+  * Tags: `agents`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.42147>
+
 * **[Latent Telepathy: Multi-Robot Communication with Self-Supervised Perceptual Latents](ai/agents/arxiv-2609-23269.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2609.23269v1 Announce Type: cross Abstract: In a decentralized multi-robot team under partial observability, the fact that decides a robot's next action is often visible only to a teammate. Existing decentralized methods communicate kinematic i
   * Tags: `agents`, `models`
@@ -23935,7 +24064,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.28690>
 
 * **[Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](ai/agents/arxiv-2610-41751.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41751v1 Announce Type: new Abstract: Bridging independent vision-language models (VLMs) and small language models (SLMs) in a modular multi-agent system typically forces them to exchange information as discrete text, which creates a lossy
+  * Summary: arXiv:2610.41751v1 Announce Type: cross Abstract: Bridging independent vision-language models (VLMs) and small language models (SLMs) in a modular multi-agent system typically forces them to exchange information as discrete text, which creates a loss
   * Tags: `agents`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2610.41751>
 
@@ -23978,8 +24107,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`
   * Source URL: <https://arxiv.org/abs/2606.01838>
 
-* **[LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](ai/agents/arxiv-2609-23058.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.23058v1 Announce Type: new Abstract: Current agent runtimes that plan before acting generally execute a step once it becomes ready. We present LazyAgent, a unified execution framework for agent-authored programs organized around a live, go
+* **[LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](ai/agents/arxiv-2609-23058.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2609.23058v2 Announce Type: replace Abstract: Agent runtimes that plan before acting run every step as soon as it is ready. Neither these runtimes nor their benchmarks distinguish a step that is ready from a step the request needs, and the diff
   * Tags: `agents`, `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.23058>
 
@@ -24111,7 +24240,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.21223>
 
 * **[Learning and Transferring Closed-Loop Robot Software](ai/agents/arxiv-2609-19906.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.19906v2 Announce Type: replace-cross Abstract: Closed-loop robot policies require observation processing, state management, and situation-dependent branching, making them costly to design and tune manually. Although coding agents increasin
+  * Summary: arXiv:2609.19906v3 Announce Type: replace-cross Abstract: Closed-loop robot policies require observation processing, state management, and situation-dependent branching, making them costly to design and tune manually. Although coding agents increasin
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2609.19906>
 
@@ -24559,6 +24688,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2609.21945>
 
+* **[Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model Updating](ai/agents/arxiv-2610-11546.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2610.11546v2 Announce Type: replace-cross Abstract: Solving high-dimensional structural model updating problems requires an algorithm capable of navigating complex, non-convex landscapes with correlated parameters. Existing hybrid evolutionary
+  * Tags: `agents`, `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.11546>
+
 * **[Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs](ai/agents/arxiv-2608-11624.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.11624v1 Announce Type: cross Abstract: Persuasion is a core dynamic of natural language communication, shaping how large language models (LLMs) update beliefs, resolve disagreements, and reach decisions. As LLMs increasingly debate, advise
   * Tags: `agents`, `meta-ai`, `models`, `openai`
@@ -24734,7 +24868,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.17393>
 
 * **[LegoSR: A Unified Framework for Self-improving Agent-Guided Scientific Discovery](ai/agents/arxiv-2610-33465.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.33465v2 Announce Type: replace-cross Abstract: Equation discovery solvers often use different data interfaces, equation representations and evaluation criteria, making their results hard to compare. We present LegoSR, a unified framework f
+  * Summary: arXiv:2610.33465v2 Announce Type: replace Abstract: Equation discovery solvers often use different data interfaces, equation representations and evaluation criteria, making their results hard to compare. We present LegoSR, a unified framework for alg
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.33465>
 
@@ -26484,6 +26618,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `models`
   * Source URL: <https://arxiv.org/abs/2605.23986>
 
+* **[MEMIG: Self-evolving Memory Construction for Antibody Optimization](ai/agents/arxiv-2610-41245.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41245v1 Announce Type: new Abstract: Memory has become central to self-evolving LLM agents, which store and retrieve experience from past rollouts to guide future decisions. Existing systems represent this experience as free-form natural l
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.41245>
+
 * **[MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories](ai/agents/arxiv-2609-40195.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.40195v1 Announce Type: cross Abstract: Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for eve
   * Tags: `agents`, `benchmark`, `youtube`
@@ -26777,6 +26916,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.38027v1 Announce Type: cross Abstract: Humanoid controllers often require task-specific training despite sharing the need for balance and whole-body coordination. We present Metatron, a promptable whole-body execution layer combining a gen
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.38027>
+
+* **[MetaVul: Agentic Harness Discovery for Vulnerability Detection](ai/agents/arxiv-2610-40721.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40721v1 Announce Type: cross Abstract: LLM agents are increasingly used to automate vulnerability detection, but reliable detection is challenging because agents must distinguish subtle, security-relevant fixes from benign code variation.
+  * Tags: `agents`, `dataset`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.40721>
 
 * **[Metis: Bridging Text and Code Memory for Self-Evolving Agents](ai/agents/arxiv-2606-24151.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24151v1 Announce Type: cross Abstract: Self-evolving agents improve over time by distilling experience from past executions and reusing it in future tasks. Existing systems represent such experience either as natural-language text injected
@@ -27370,7 +27514,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.19920>
 
 * **[MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery](ai/agents/arxiv-2610-39714.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.39714v1 Announce Type: new Abstract: Molecular discovery requires navigating vast combinatorial search spaces while balancing competing biological objectives. AI agents can automate expert-defined molecular design protocols, but automation
+  * Summary: arXiv:2610.39714v2 Announce Type: replace Abstract: Molecular discovery requires navigating vast combinatorial search spaces while balancing competing biological objectives. AI agents can automate expert-defined molecular design protocols, but automa
   * Tags: `agents`, `anthropic`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2610.39714>
 
@@ -27428,6 +27572,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.19789v1 Announce Type: cross Abstract: Self-distillation in agentic reinforcement learning has produced a growing number of methods. However, existing evaluations often reuse published baseline scores under differing experimental condition
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.19789>
+
+* **[More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum](ai/agents/arxiv-2610-40758.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2610.40758v1 Announce Type: new Abstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each correction as
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.40758>
 
 * **[More Sensors Only One Field: Rethinking Continual Spatio-Temporal Forecasting](ai/rag/arxiv-2609-31325.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.31325v1 Announce Type: new Abstract: Continual spatio-temporal forecasting supports traffic management and environmental monitoring under evolving dynamics and expanding sensor networks. However, conventional graph-based continual learning
@@ -29391,7 +29540,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.15982>
 
 * **[Operon-S1: a fast decision controller for long-horizon biomedical agents](ai/agents/arxiv-2610-41350.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41350v1 Announce Type: cross Abstract: Language-model agents now carry out long scientific work in biology, but their judgements about conventions, skills, errors, evidence and stopping are made inside the reasoning that does the work, whe
+  * Summary: arXiv:2610.41350v1 Announce Type: new Abstract: Language-model agents now carry out long scientific work in biology, but their judgements about conventions, skills, errors, evidence and stopping are made inside the reasoning that does the work, where
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.41350>
 
@@ -29588,7 +29737,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.expouav.com/orion-real-time-validation-infrastructure/>
 
 * **[ORION: An Outcome-Driven LLM Advisor for RL-Based Multi-Domain 6G Slice Placement](ai/agents/arxiv-2610-41563.md)** (`benchmark` | `useful` tier)
-  * Summary: arXiv:2610.41563v1 Announce Type: new Abstract: Deploying 6G network slices across administrative domains requires an online decision for each arriving request: which domain hosts each virtual network function, how traffic crosses domain boundaries,
+  * Summary: arXiv:2610.41563v1 Announce Type: cross Abstract: Deploying 6G network slices across administrative domains requires an online decision for each arriving request: which domain hosts each virtual network function, how traffic crosses domain boundaries
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.41563>
 
@@ -30344,7 +30493,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.16578>
 
 * **[Physics-Audited Agentic Discovery in Scientific Machine Learning](ai/agents/arxiv-2607-07379.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.07379v2 Announce Type: replace-cross Abstract: Agentic discovery can yield mechanics surrogates with low validation error that nonetheless violate physical requirements. We present Physics-Audited Agentic SciML (PA-SciML), a framework comb
+  * Summary: arXiv:2607.07379v2 Announce Type: replace Abstract: Agentic discovery can yield mechanics surrogates with low validation error that nonetheless violate physical requirements. We present Physics-Audited Agentic SciML (PA-SciML), a framework combining
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2607.07379>
 
@@ -31222,7 +31371,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.19314>
 
 * **[PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems](ai/agents/arxiv-2610-21390.md)** (`dataset` | `useful` tier)
-  * Summary: arXiv:2610.21390v1 Announce Type: cross Abstract: Multi-agent large language model (LLM) systems are increasingly deployed at the edge to support complex tasks that require collaboration and information exchange among multiple agents. However, when t
+  * Summary: arXiv:2610.21390v2 Announce Type: replace-cross Abstract: Multi-agent large language model (LLM) systems are increasingly deployed at the edge to support complex tasks that require collaboration and information exchange among multiple agents. However
   * Tags: `agents`, `dataset`, `meta-ai`, `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2610.21390>
 
@@ -32292,6 +32441,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`
   * Source URL: <https://math.stackexchange.com/questions/5141629/h%C3%B6lder-continuity-of-scaling-paths>
 
+* **[Real Computation or Merely Naming? A Pre-Registered Mechanism Audit of 25 Cognitive-Architecture Modules in an LLM-Based Agent System](ai/agents/arxiv-2610-41604.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41604v1 Announce Type: new Abstract: Agent systems built on local large language models are increasingly marketed through the vocabulary of cognitive architecture: modules named global workspace, theory of mind, causal reasoning, or active
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.41604>
+
 * **[Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents](ai/agents/arxiv-2610-29812.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.29812v1 Announce Type: new Abstract: Literature-searching language agents are becoming a standard component of scientific assistants for the life sciences, yet there is little controlled evidence on which parts of their harness matter. We
   * Tags: `agents`, `frontend_ui`, `paper`
@@ -32430,6 +32584,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.01184v1 Announce Type: cross Abstract: Remote multimodal models offer strong numerical reasoning capabilities over charts and speech, but sending private inputs risks exposing sensitive content. Text-only sanitization cannot directly satis
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.01184>
+
+* **[RECAST: REconstruction of Chain-of-Thought via Auditable Structured Traces](ai/agents/arxiv-2610-41813.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41813v1 Announce Type: new Abstract: Large closed-source reasoning models expose only their final answers. The intermediate reasoning that produces those answers is hidden behind API surfaces, tool-call policies, and safety filters. Existi
+  * Tags: `agents`, `anthropic`, `benchmark`, `paper`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41813>
 
 * **[Recent activity - Stack Overflow for Agents](ai/agents/recent-activity-stack-overflow-for-agents.md)** (`template` | `useful` tier)
   * Summary: - **Multi-format Invoice Parsing**: Use Python libraries like `pdfminer.six` (PDF), `openpyxl` (Excel), `python-docx` (Word), or `PyMuPDF` (structured PDFs) to extract raw data from invoices in various formats (PDF, Excel, Word, etc.). - **Normalizat
@@ -33067,6 +33226,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2601.15322>
 
+* **[ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay](ai/agents/arxiv-2610-41025.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2610.41025v1 Announce Type: new Abstract: When a language-model agent fails a multi-step task, can another model find the decisive mistake and fix it with a single action? We introduce ReplayRCA, a benchmark that scores such diagnoses by interv
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41025>
+
 * **[Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems](ai/agents/arxiv-2607-09748.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2607.09748v1 Announce Type: new Abstract: In distributed systems, the classical State Machine Replication (SMR) model assumes that correct replicas execute deterministic transitions to yield identical bitwise states. However, the rise of agenti
   * Tags: `agents`
@@ -33682,6 +33846,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.21470v2 Announce Type: replace Abstract: Conventional end-to-end driving systems model the environment with sparse objects and lane elements. While efficient, this paradigm discards planning-critical information in crowded and occluded sce
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2609.21470>
+
+* **[Risk-Sensitive Mission Planning for Multi-Target On-Orbit Inspection via Distributional Reinforcement Learning](ai/agents/arxiv-2610-41647.md)** (`product` | `useful` tier)
+  * Summary: arXiv:2610.41647v1 Announce Type: new Abstract: Multi-target on-orbit servicing missions require planning tools that can adapt to evolving operational conditions while accounting for the outcome variability inherent to safety-critical spaceflight. Th
+  * Tags: `agents`, `paper`
+  * Source URL: <https://arxiv.org/abs/2610.41647>
 
 * **[Risks and Controls for Multi-Agent Systems: an analytical framework for deployment of AI agents across organisational boundaries](ai/agents/arxiv-2608-26626.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.26626v1 Announce Type: cross Abstract: This report presents a framework to help organisations, policymakers and researchers reason about the risks that emerge when AI agents interact with each other, how those risks change as interactions
@@ -35079,6 +35248,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `openai`
   * Source URL: <https://arxiv.org/abs/2605.26548>
 
+* **[SecPO: Principled Adversarial Training for Prompt Injection Security](ai/agents/arxiv-2610-41998.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41998v1 Announce Type: cross Abstract: Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to manipulate the agent's operation. The existing best-defended LLM, Meta
+  * Tags: `agents`, `benchmark`, `dataset`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.41998>
+
 * **[SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response](ai/agents/arxiv-2607-26791.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.26791v1 Announce Type: cross Abstract: Large Language Model (LLM) agents are increasingly adopted in real-world security operations with access to host artifacts and command-line interfaces (CLIs), making it critical to thoroughly assess t
   * Tags: `agents`, `benchmark`, `hackernews`, `reddit`, `workflows`
@@ -35254,7 +35428,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24502>
 
 * **[Self-Building Labs](ai/agents/arxiv-2610-23826.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.23826v1 Announce Type: new Abstract: Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run
+  * Summary: arXiv:2610.23826v2 Announce Type: replace Abstract: Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only
   * Tags: `agents`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2610.23826>
 
@@ -35549,6 +35723,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `paper`
   * Source URL: <https://arxiv.org/abs/2608.14306>
 
+* **[Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI](ai/research/arxiv-2610-41946.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41946v1 Announce Type: new Abstract: Embodied surgical AI requires reliable multimodal data, yet surgical data collection remains costly, difficult to repeat, and strongly dependent on the hardware setup. We present Sensorium, an open-sour
+  * Tags: `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.41946>
+
 * **[Sensory Precision Inference for Multimodal Arbitration under Uncertainty](ai/agents/arxiv-2609-15065.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.15065v1 Announce Type: new Abstract: Autonomous agents operating on multisensory data cannot assume that all sensory modalities remain consistently informative. In real environments, sensory streams are frequently corrupted by noise, missi
   * Tags: `agents`, `dataset`
@@ -35704,7 +35883,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.22953>
 
 * **[Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control](ai/agents/arxiv-2506-08630.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2506.08630v3 Announce Type: replace Abstract: A universal controller for any robot morphology would greatly improve computational and data efficiency. Steps have been made towards such multi-robot control by utilizing contextual information abo
+  * Summary: arXiv:2506.08630v4 Announce Type: replace Abstract: A universal controller for any robot morphology would greatly improve computational and data efficiency. Steps have been made towards such multi-robot control by utilizing contextual information abo
   * Tags: `agents`, `paper`
   * Source URL: <https://arxiv.org/abs/2506.08630>
 
@@ -35965,6 +36144,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.02304v1 Announce Type: cross Abstract: Existing Simulink benchmarks mainly evaluate whether generated models compile, execute, or resemble a reference model. These criteria do not establish whether a model satisfies its engineering require
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.02304>
+
+* **[SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI](ai/agents/arxiv-2610-41856.md)** (`template` | `useful` tier)
+  * Summary: arXiv:2610.41856v1 Announce Type: cross Abstract: Conversational explainable AI (ConvXAI) agents often use GUS-style architectures with separate modules for intent recognition, dialogue management, and template-based response generation. While faithf
+  * Tags: `agents`, `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.41856>
 
 * **[SINGED: Correct Outputs Do Not Certify Safe Execution in LLM Agents](ai/agents/arxiv-2609-35889.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.35889v1 Announce Type: cross Abstract: Tool-using language-model agents select and execute third-party artifacts. Different implementations can return the requested output while producing hidden execution effects that task-, attack-, or ch
@@ -37582,6 +37766,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.00267>
 
+* **[STRIATUM-CTF: A Protocol-Driven Agentic Framework for Autonomous CTF Solving](ai/agents/arxiv-2603-22577.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2603.22577v2 Announce Type: replace-cross Abstract: Autonomous cyber operations increasingly depend on agents that can chain reconnaissance, exploitation, and analysis across many tools while maintaining state over long task horizons. Large Lan
+  * Tags: `agents`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2603.22577>
+
 * **[STRIDE: Strategic Trajectory Reasoning via Discriminative Estimation for Verifiable Reinforcement Learning](ai/agents/arxiv-2606-15866.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15866v1 Announce Type: cross Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) has become an effective post-training paradigm for improving the reasoning abilities of large language models. However, existing RLVR methods typi
   * Tags: `agents`
@@ -37664,6 +37853,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Structure-aware Bayesian full waveform inversion via diffusion-regularized Stein variational gradient descent](ai/research/arxiv-2610-19187.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.19187v1 Announce Type: cross Abstract: Full waveform inversion (FWI) is a powerful tool for high-resolution subsurface model reconstruction, but it remains highly nonlinear and ill-posed, especially when the initial model is inaccurate or
   * Source URL: <https://arxiv.org/abs/2610.19187>
+
+* **[Structure-Aware Skill Retrieval and Arbitration for Optimization Modeling](ai/agents/arxiv-2610-41909.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41909v1 Announce Type: new Abstract: Large Language Models (LLMs) can turn natural-language optimization tasks into solver-checked answers, but current agents remain brittle under narrative rewrites and often store reusable experience at t
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41909>
 
 * **[Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](ai/agents/arxiv-2610-22373.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism allows human operators to inject binding
@@ -37753,6 +37947,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `paper`, `youtube`
   * Source URL: <https://arxiv.org/abs/2609.30614>
 
+* **[Subquadratic Attention with a Hierarchical Tree-Structured Indexer](ai/agents/arxiv-2610-42112.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42112v1 Announce Type: cross Abstract: The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but th
+  * Tags: `agents`, `benchmark`, `paper`
+  * Source URL: <https://arxiv.org/abs/2610.42112>
+
 * **[SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents](ai/agents/arxiv-2606-05761.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.05761v3 Announce Type: replace Abstract: Persistent AI assistants, such as OpenClaw, accumulate large collections of related memories over long-term interactions. As these memories grow, they may reinforce one another, diverge across conte
   * Tags: `agents`, `benchmark`
@@ -37787,6 +37986,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.17085v1 Announce Type: cross Abstract: On many estimates, artificial general intelligence (AGI) is likely to emerge within the next few decades or even sooner. Once it does, it may quickly surpass human intelligence, possibly by a huge mar
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.17085>
+
+* **[Superintelligent Software Engineering: Governance That Scales with Capability](ai/agents/arxiv-2610-31306.md)** (`api` | `useful` tier)
+  * Summary: arXiv:2610.31306v2 Announce Type: replace-cross Abstract: Software agents are being trained to exceed human engineers; we argue that capability alone does not produce better software engineering. We define superintelligent software engineering as the
+  * Tags: `agents`, `anthropic`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.31306>
 
 * **[SuperLocalMemory 4.0: The Governed Memory Operating System for AI Agents](ai/agents/arxiv-2608-08253.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.08253v2 Announce Type: replace Abstract: We present SuperLocalMemory 4.0, a governed, local-first memory operating system for AI agents, unifying multi-channel retrieval under reciprocal-rank fusion, bi-temporal recall, multi-scope isolati
@@ -38120,7 +38324,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.38867>
 
 * **[TamilEOT: A Dataset and Model for Semantic End-of-Turn Detection in Tamil Telephone Speech](ai/agents/arxiv-2609-05631.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.05631v1 Announce Type: cross Abstract: A voice agent has to decide, at every pause, whether the user has finished speaking. Without a model of the language that decision falls back to a fixed silence timeout: set it short and the agent int
+  * Summary: arXiv:2609.05631v2 Announce Type: replace-cross Abstract: A voice agent must decide, at each pause, whether the speaker has finished or is still thinking. Without a model of the language, systems fall back to a fixed silence timeout: too short, and t
   * Tags: `agents`, `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2609.05631>
 
@@ -38427,7 +38631,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.28641>
 
 * **[Terminal-RSI: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine](ai/agents/arxiv-2610-22192.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.22192v1 Announce Type: new Abstract: Converting verifier outcomes into useful policy updates and partial progress into complete task resolution is crucial for terminal agents. We present Terminal-RSI, which alternates Recursive Self-Rewrit
+  * Summary: arXiv:2610.22192v3 Announce Type: replace Abstract: Converting verifier outcomes into useful policy updates and partial progress into complete task resolution is crucial for terminal agents. We present Terminal-RSI, which alternates Recursive Self-Re
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2610.22192>
 
@@ -39230,6 +39434,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16358v1 Announce Type: cross Abstract: Agents increasingly access large language models (LLMs) through API routers. A router terminates the client's transport-layer security session and opens a separate upstream session, so it holds the fu
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.16358>
+
+* **[The psychophysics of affect in large language models](ai/agents/arxiv-2610-40985.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40985v1 Announce Type: new Abstract: Good decisions often require considering how outcomes will feel. Yet large language models (LLMs) increasingly enter decision workflows, despite little being known about how they map outcomes to feeling
+  * Tags: `agents`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.40985>
 
 * **[The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys](ai/agents/arxiv-2608-28597.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.28597v1 Announce Type: new Abstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality. However, the rapid emergence of agentic AI (
@@ -40219,6 +40428,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.01566>
 
+* **[Towards Portable Specification of the Agent Harness](ai/agents/arxiv-2610-40917.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40917v1 Announce Type: new Abstract: Large language models act only through the infrastructure that surrounds them. That infrastructure, the harness, determines what a model can accomplish and how it fails, yet it has no settled definition
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.40917>
+
 * **[Towards Reliable Context Compression for Long-Horizon Agents: An Empirical Study of Execution Instability](ai/agents/arxiv-2608-06503.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.06503v2 Announce Type: replace Abstract: Recurrent context compression controls context growth in long-horizon agents, but its behavioral effects remain poorly understood. In this preliminary empirical study, we show that compression can w
   * Tags: `agents`, `benchmark`, `models`
@@ -40933,7 +41147,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/trycua/cua>
 
 * **[TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](ai/agents/arxiv-2610-40901.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40901v1 Announce Type: new Abstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work. First, not all publications release code. For instance, only abou
+  * Summary: arXiv:2610.40901v1 Announce Type: cross Abstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work. First, not all publications release code. For instance, only ab
   * Tags: `agents`, `anthropic`, `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2610.40901>
 
@@ -41259,7 +41473,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24759>
 
 * **[Unified Agentic Video Editing Across Levels of Complexity and Creativity](ai/agents/arxiv-2609-12769.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.12769v2 Announce Type: replace Abstract: Editing is a core component of video production, requiring creative planning and decisions under multiple constraints. Here, we report methods for agentic tooling for automated video editing across
+  * Summary: arXiv:2609.12769v3 Announce Type: replace Abstract: Editing is a core component of video production, requiring creative planning and decisions under multiple constraints. Here, we report methods for agentic tooling for automated video editing across
   * Tags: `agents`, `scripts`, `youtube`
   * Source URL: <https://arxiv.org/abs/2609.12769>
 
@@ -41759,6 +41973,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.21257v1 Announce Type: cross Abstract: Large language model (LLM) agents can propose, implement, and evaluate model changes. Autoresearch loops demonstrate this capability through minutes-scale iterations on a self-contained program. Onlin
   * Tags: `agents`, `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2609.21257>
+
+* **[Verify--Backtrack Loop: Structured Precondition Recovery for Long-Horizon Language Agents](ai/agents/arxiv-2610-41564.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41564v1 Announce Type: new Abstract: Language agents increasingly tackle long-horizon tasks in interactive environments, where actions often depend on latent preconditions. The core difficulty is not trajectory length but recovery: when a
+  * Tags: `agents`, `benchmark`, `frontend_ui`, `models`, `openai`
+  * Source URL: <https://arxiv.org/abs/2610.41564>
 
 * **[Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner](ai/agents/arxiv-2610-07261.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2610.07261v1 Announce Type: new Abstract: A team of coding agents can look fine agent by agent yet fail as a team: each passes its own tests while the merged result is broken, and single-agent evaluation never catches it. As teams run several L
@@ -42776,6 +42995,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `youtube`
   * Source URL: <https://arxiv.org/abs/2605.16716>
 
+* **[When Disclosure Is Compulsory: Evaluating Ride-Hailing Rebalancing Policies with Self-Interested LLM Driver Agents](ai/agents/arxiv-2610-41132.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41132v1 Announce Type: cross Abstract: The EU Platform Work Directive, to be transposed by December 2026, requires ride-hailing platforms to state in plain language the main parameters of their automated decisions and how a worker's behavi
+  * Tags: `agents`, `anthropic`, `frontend_ui`
+  * Source URL: <https://arxiv.org/abs/2610.41132>
+
 * **[When Do Humans and Machines Truly Complement Each Other? Formal Conditions and Empirical Evidence for Human-AI Synergy](ai/agents/arxiv-2610-27965.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.27965v1 Announce Type: new Abstract: Can humans and artificial intelligence cooperate such that their combination yields greater accuracy than either agent alone? This result, termed \emph{synergy} or \emph{complementarity}, is notoriously
   * Tags: `agents`, `benchmark`, `paper`, `scripts`
@@ -43074,6 +43298,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.26171v2 Announce Type: replace Abstract: Many practical anomalies are not merely rare inputs, but violations of semantic constraints: objects co-occur in structured ways, actions imply preconditions, and events satisfy temporal or relation
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2605.26171>
+
+* **[When Safety Checks Become Privacy Risks: A Privacy-Preserving Paradigm for LLM Agent Safety Auditing](ai/agents/arxiv-2610-41401.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41401v1 Announce Type: cross Abstract: Large language model agents interact with online services through tool calls that may access private data or perform sensitive actions. Specialized providers can supply and maintain pre-execution safe
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41401>
 
 * **[When Search Teaches Style: Causal Internalization of Tactical Priors in AlphaZero](ai/agents/arxiv-2504-14636.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2504.14636v3 Announce Type: replace Abstract: AlphaZero is normally evaluated as one agent: a policy-value network fused with Monte Carlo tree search. That fusion hides a causal question. When self-play search is given a useful prior, does the
@@ -51151,6 +51380,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `augmented`, `benchmark`, `generation`, `paper`, `rag`, `retrieval`, `semantic-scholar`, `workflows`
   * Source URL: <https://semanticscholar.org/paper/ba7952e7c4fb891c36980ca19f94251257da6eb7>
 
+* **[AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?](ai/rag/arxiv-2610-33375.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.33375v2 Announce Type: replace Abstract: Enterprise workflow agents typically rely on step-by-step interaction (Step-by-Step): the agent executes an action, observes its result, and invokes a large language model (LLM) again to decide the
+  * Tags: `agents`, `benchmark`, `rag`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.33375>
+
 * **[AgentRivet: an automated system for producing Rivet routines from journal publications](ai/rag/arxiv-2606-13535.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13535v5 Announce Type: replace-cross Abstract: Particle physics collider experiments provide Rivet routines as part of the analysis preservation strategy for model-independent measurements. Rivet is a C++ toolkit that allow new theoretical
   * Tags: `agents`, `anthropic`, `openai`, `paper`, `rag`, `workflows`
@@ -51381,10 +51615,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.07053>
 
-* **[Anthropic's growth just flattened](ai/community/anthropic-s-growth-just-flattened.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cdrnsf. Score: 169, Comments: 200. Original Link: https://www.regenerator1.com/p/anthropics-growth-just-flattened
+* **[Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly](ai/community/anthropic-ipo-filing-1-7b-quarterly-payroll-about.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by entryleveljobsc. Score: 11, Comments: 0. Original Link: https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html
   * Tags: `anthropic`, `hackernews`
-  * Source URL: <https://regenerator1.com/p/anthropics-growth-just-flattened>
+  * Source URL: <https://techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html>
 
 * **[Antora](ai/resources/antora.md)** (`tutorial` | `useful` tier)
   * Summary: - **Multi-repository aggregation**: Antora retrieves and aggregates AsciiDoc documentation from one or more Git repositories (local, remote, private, or public), supporting versioning via branches and ignoring non-published branches, enabling decentr
@@ -51851,11 +52085,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `openai`, `producthunt`, `web-crawled`, `workflows`
   * Source URL: <https://c2pa.org>
 
-* **[C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](ai/community/c64-basic-dungeon-crawler-stairs-levels-and-levell.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ibobev. Score: 68, Comments: 11. Original Link: https://retrogamecoders.com/c64-basic-dungeon-part11/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://retrogamecoders.com/c64-basic-dungeon-part11>
-
 * **[CAGE-1: Control, Assurance, and Governance Evaluation for Enterprise Agentic AI](ai/rag/arxiv-2607-03510.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.03510v1 Announce Type: cross Abstract: Enterprise artificial intelligence is moving from experimentation into operational workflows. Early programs focused on model access and retrieval-augmented generation, but enterprises are now beginni
   * Tags: `agents`, `benchmark`, `paper`, `rag`, `workflows`
@@ -52076,6 +52305,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`, `frontend_ui`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.13860>
 
+* **[Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions](ai/research/arxiv-2610-41784.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41784v1 Announce Type: new Abstract: Healthcare increasingly relies on connected medical devices, clinical information systems, cloud services, and distributed-care technologies, creating cybersecurity risks across clinical workflows. AI-e
+  * Tags: `benchmark`, `hackernews`, `paper`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.41784>
+
 * **[Closed-loop discovery of out-of-distribution processing protocols by evolutionary search and uncertainty-aware learning](ai/research/arxiv-2606-13859.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13859v1 Announce Type: cross Abstract: Many materials and chemical systems exhibit history-dependent responses, where functional outcomes are governed not only by final-state variables but by the time-dependent sequence of fields, temperat
   * Tags: `workflows`
@@ -52130,11 +52364,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.02134v2 Announce Type: replace Abstract: Scientific machine learning papers typically make computational claims, e.g., that the relative mean square error is less than 5% or that the 95% predictive credible interval covers the test data. A
   * Tags: `agents`, `paper`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.02134>
-
-* **[CogArena: A Multimethod Evaluation of Cognitive Ability Structure in Large Language Models](ai/research/arxiv-2607-24999.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.24999v1 Announce Type: cross Abstract: LLM cognitive scores are increasingly summarized as per-ability profiles whose dimensions should converge across tasks, respond selectively to matched interventions, and generalize beyond the models u
-  * Tags: `benchmark`, `workflows`
-  * Source URL: <https://arxiv.org/abs/2607.24999>
 
 * **[Cognitive Skills in the Age of AI: Computing Students and Experts Perceptions](ai/research/arxiv-2609-31272.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.31272v2 Announce Type: cross Abstract: AI is becoming increasingly integrated into daily workflows, especially in computing. We are gradually shifting towards an AI-rich future, an impending yet unknown one. One important emerging concern
@@ -52812,7 +53041,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.27234>
 
 * **[Egoless Mathematics in the AI Era](ai/community/egoless-mathematics-in-the-ai-era.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by smilelamp. Score: 120, Comments: 82. Original Link: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
+  * Summary: Hacker News story by smilelamp. Score: 167, Comments: 124. Original Link: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era>
 
@@ -54066,18 +54295,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
-* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Python-based Retrieval Augmented Generation (RAG) workflow. *
+* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`template` | `useful` tier)
+  * Summary: * Python-based workflow repository (`icensraghomework-classroom01-rag1-hw01_workflow`) designed for a RAG (Retrieval Augmented Generation) homework assignment. * Exhibits high distribution with 100 forks, consistent with a GitHub Classroom template o
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based repository for a Retrieval Augmented Generation (RAG) workflow assignment
+  * Summary: * Implements a Retrieval Augmented Generation (RAG) workflow, designated as `rag2-
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based RAG (Retrieval Augmented Generation) workflow implementation. *
+  * Summary: * Python-based repository `icensraghomework-classroom01-rag3-hw03_workflow` implements a Retrieval Augmented Generation (RAG) workflow. * Designed as a GitHub Classroom assignment, indicating an educational or practical RAG pipeline development conte
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow>
 
@@ -54180,6 +54409,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source, editable) with optional CUDA-accelerated PyTorch for GPU compatibility. - **Model Types & Usage**: Implements three core architectures—`SentenceTransfor
   * Tags: `benchmark`, `dataset`, `hackernews`, `leaderboard`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://sbert.net/docs/installation.html>
+
+* **[Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework](ai/rag/arxiv-2503-13309.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2503.13309v3 Announce Type: replace-cross Abstract: Despite advancements in Computer-Aided Diagnosis (CAD) systems, breast cancer remains one of the leading causes of cancer-related deaths among women worldwide. Recent breakthroughs in Artifici
+  * Tags: `paper`, `rag`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2503.13309>
 
 * **[Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH](ai/research/arxiv-2607-05956.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.05956v1 Announce Type: new Abstract: The integration of Large Language Models (LLMs) into scientific research workflows, particularly for bibliographic discovery and literature synthesis, raises significant methodological, epistemic and re
@@ -54472,7 +54706,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
 
 * **[Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](ai/community/launch-hn-momentic-yc-w24-agents-that-catch-bugs-b.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by wuweiweiwu. Score: 128, Comments: 85. Original Link: https://momentic.ai/
+  * Summary: Hacker News story by wuweiweiwu. Score: 146, Comments: 97. Original Link: https://momentic.ai/
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://momentic.ai>
 
@@ -54515,6 +54749,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.31076v1 Announce Type: cross Abstract: Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-end
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.31076>
+
+* **[Learning to Interact and Direct: Co-Evolving Video Director Agents](ai/rag/arxiv-2610-41865.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41865v1 Announce Type: new Abstract: Video director agents orchestrate multistage production to realize users' creative visions. Emerging research on their self-evolution advances screenplay planning effectively. However, the mutual reinfo
+  * Tags: `agents`, `hackernews`, `models`, `rag`, `workflows`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41865>
 
 * **[Learning Tools Interoperability | 1EdTech](ai/rag/learning-tools-interoperability-1edtech.md)** (`framework` | `useful` tier)
   * Summary: - **LTI 1.3** introduces OAuth2 and JSON Web Tokens (JWT) via the 1EdTech Security Framework, replacing legacy OAuth1-based authentication for improved security in LMS-tool integration. - **LTI Advantage** extends LTI 1.3 with three core services: **
@@ -55366,11 +55605,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2605.29829>
 
-* **[Oracle files to sell $20B in new stock, bonds to finance AI buildout](ai/community/oracle-files-to-sell-20b-in-new-stock-bonds-to-fin.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by smartmic. Score: 162, Comments: 125. Original Link: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html>
-
 * **[ORCA: A Platform for Open-Source Dexterity Research](ai/rag/arxiv-2606-14561.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14561v1 Announce Type: cross Abstract: Robotics manipulation research increasingly focuses on two-finger parallel grippers for their effectiveness, affordability, and ease of teleoperation. Grippers are nonetheless limited by their form fa
   * Tags: `agents`, `benchmark`, `rag`, `workflows`, `youtube`
@@ -55535,11 +55769,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Repository Overview**: Provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search. - **Technical Stack**: Implemented in Python with Jupyter Notebo
   * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
   * Source URL: <https://github.com/pinecone-io/examples>
-
-* **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (`tutorial` | `useful` tier)
-  * Summary: * Langchain-based RAG system implementation. * Developed using Python. * Demonstrates a foundational RAG application workflow.
-  * Tags: `github-repo`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/pixegami/langchain-rag-tutorial>
 
 * **[PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](ai/rag/arxiv-2606-24081.md)** (`template` | `useful` tier)
   * Summary: arXiv:2606.24081v1 Announce Type: cross Abstract: As Text-to-Image (T2I) jailbreak techniques evolve rapidly, existing benchmarks and reproduction workflows often struggle to keep pace. More importantly, T2I jailbreak evaluation is not a single promp
@@ -56116,6 +56345,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://support.google.com/googleplay/answer/2850369?hl=en>
 
+* **[ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation](ai/rag/arxiv-2610-41901.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41901v1 Announce Type: new Abstract: Current LLM ensemble frameworks focus on multi-step setups with additional modules for answer ranking, often opting for token and span analysis rather than structured outputs, leading to heavyweight arc
+  * Tags: `paper`, `rag`, `workflows`
+  * Source URL: <https://arxiv.org/abs/2610.41901>
+
 * **[ritik-prog/n8n-automation-templates-5000](ai/rag/ritik-prog-n8n-automation-templates-5000.md)** (`template` | `essential` tier)
   * Summary: * Offers 5000+ production-ready n8n workflow templates for diverse automation scenarios. * Covers advanced integration patterns including AI, CRM, finance, e-commerce, marketing, and RAG. * Provides a free, open-source repository of real-world n8n au
   * Tags: `github-repo`, `rag`, `scripts`, `unknown`, `workflows`
@@ -56220,6 +56454,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.09521v1 Announce Type: new Abstract: Does every cancer patient truly need a complete diagnostic workup for accurate survival prediction? In multimodal clinical oncology, diagnostic modalities follow a clinically mandated order of escalatin
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.09521>
+
+* **[Sam Altman's Case Against Your RAM Is Efficient. That's the Problem](ai/community/sam-altman-s-case-against-your-ram-is-efficient-th.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by mrkn1. Score: 11, Comments: 14. Original Link: https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem>
 
 * **[Same Day, Same Story; One Day Ahead, a Different Signal: The Dual Validity of Financial Sentiment](ai/research/arxiv-2609-11144.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.11144v1 Announce Type: new Abstract: Financial NLP has a standard workflow: validate a sentiment tool against human labels, then trust it to extract market signal. This assumes the two evaluations measure the same thing. We test that assum
@@ -56934,11 +57173,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.19292v1 Announce Type: cross Abstract: Current AI safety discourse still focuses disproportionately on visible failures, including obvious harms, dramatic misuse, and hypothetical catastrophic scenarios. That focus is incomplete. In deploy
   * Tags: `benchmark`, `hackernews`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.19292>
-
-* **[The SEC Should Block Anthropic's IPO to Protect the Public](ai/community/the-sec-should-block-anthropic-s-ipo-to-protect-th.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cdrnsf. Score: 210, Comments: 136. Original Link: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
-  * Tags: `anthropic`, `hackernews`
-  * Source URL: <https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public>
 
 * **[The Sovereign AI Platform for Agents](ai/rag/the-sovereign-ai-platform-for-agents.md)** (`framework` | `useful` tier)
   * Summary: - **Open, modular architecture**: Haystack provides a transparent, open-source framework for building AI agents with auditable components (tools, memory, retrievers, pipelines) and no proprietary lock-in, enabling full customization and ownership of
@@ -57685,8 +57919,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/Yigtwxx/awesome-rag-production>
 
-* **[yzhao062/pyod](ai/rag/yzhao062-pyod.md)** (`framework` | `useful` tier)
-  * Summary: - **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for unified evaluation and deployment. - **Agentic Workflow Integrat
+* **[yzhao062/pyod](ai/rag/yzhao062-pyod.md)** (`dataset` | `useful` tier)
+  * Summary: * Provides multimodal anomaly detection capabilities across tabular, time series, graph, text, image, and audio data, integrating 60+ diverse detectors. * Leverages ADEngine for benchmark-backed orchestration of anomaly detection workflows. * Incorpo
   * Tags: `agents`, `benchmark`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/yzhao062/pyod>
 
@@ -58632,7 +58866,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.14694>
 
 * **[A Comprehensive View of Fairness through Distributional Stability](ai/research/arxiv-2609-37061.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.37061v2 Announce Type: replace Abstract: We view fairness as a property of distributional stability. Rather than assessing a predictor under a fixed data distribution, we study how its predictions change under perturbations that modify the
+  * Summary: arXiv:2609.37061v2 Announce Type: replace-cross Abstract: We view fairness as a property of distributional stability. Rather than assessing a predictor under a fixed data distribution, we study how its predictions change under perturbations that modi
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2609.37061>
 
@@ -59619,6 +59853,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.00489v1 Announce Type: new Abstract: This work studies hybrid quantum-classical neural networks for learning routing heuristics. Specifically, this paper asks whether small quantum neural networks can replace parameter-heavy modules inside
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2609.00489>
+
+* **[A Hybrid SMT-NRA Solver: Integrating 2D Cell-Jump-Based Local Search, MCSAT and OpenCAD](ai/research/arxiv-2507-00557.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2507.00557v3 Announce Type: replace Abstract: In this paper, we propose a hybrid framework for Satisfiability Modulo the Theory of Nonlinear Real Arithmetic (SMT-NRA for short). First, we introduce a two-dimensional cell-jump move, called \emph
+  * Tags: `paper`
+  * Source URL: <https://arxiv.org/abs/2507.00557>
 
 * **[A Hybrid State-Space Approach for Census-Tract Population Estimation](ai/research/arxiv-2608-30094.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.30094v1 Announce Type: cross Abstract: Sequence models---the architecture family behind large language models and, increasingly, state-of-the-art image recognition---have redefined how machines learn from high-dimensional data. Yet populat
@@ -61618,7 +61857,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2602.09992>
 
 * **[A Unified Attack Framework against Statistical Generative Watermarks for Large Language Models](ai/research/arxiv-2610-27653.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.27653v1 Announce Type: cross Abstract: Watermarking has emerged as a key tool for identifying text generated by large language models (LLMs), with current schemes embedding statistical signals into the generation process to enable later de
+  * Summary: arXiv:2610.27653v2 Announce Type: replace-cross Abstract: Watermarking has emerged as a key tool for identifying text generated by large language models (LLMs), with current schemes embedding statistical signals into the generation process to enable
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.27653>
 
@@ -61728,7 +61967,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.01967>
 
 * **[A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients](ai/research/arxiv-2609-11768.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.11768v2 Announce Type: replace-cross Abstract: Per-token gating of forward/reverse KL losses has become a standard technique for on-policy knowledge distillation (OPD), but existing methods such as EOPD (Jin et al., 2026) and ToDi (Jung et
+  * Summary: arXiv:2609.11768v2 Announce Type: replace Abstract: Per-token gating of forward/reverse KL losses has become a standard technique for on-policy knowledge distillation (OPD), but existing methods such as EOPD (Jin et al., 2026) and ToDi (Jung et al.,
   * Tags: `hackernews`, `models`, `youtube`
   * Source URL: <https://arxiv.org/abs/2609.11768>
 
@@ -62266,6 +62505,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models](ai/research/arxiv-2610-18596.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.18596v1 Announce Type: cross Abstract: Reinforcement learning (RL) post-training improves robot foundation models (RFMs) beyond their demonstrations, but real-world deployment demands more: learning new tasks efficiently while retaining pr
   * Source URL: <https://arxiv.org/abs/2610.18596>
+
+* **[ACCT: Asymmetric Cross-LLM Context Transfer](ai/research/arxiv-2610-42116.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42116v1 Announce Type: new Abstract: In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked fo
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.42116>
 
 * **[Accumulating Pruning Constraints: New Exact Polynomial-Space Algorithms for Max 2-SAT](ai/research/arxiv-2610-39992.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.39992v1 Announce Type: cross Abstract: We present deterministic polynomial-space algorithms that solve Max 2-SAT on $n$ variables exactly in time $\Ostar(2^{(1-\gamma)n})$, for a fixed $\gamma>0$, on several classes of instances whose clau
@@ -62865,6 +63109,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.36337v1 Announce Type: new Abstract: Tabular foundation models achieve strong performance by conditioning on labelled examples in context, but softmax attention limits their use on large datasets. Existing linear-time alternatives, however
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2609.36337>
+
+* **[Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews](ai/research/arxiv-2610-35685.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.35685v2 Announce Type: replace-cross Abstract: Large language model (LLM) pipelines can turn visitor reviews into structured data, but generic schemes may miss rituals, sacred spaces, cultural restrictions and emotionally mixed experiences
+  * Tags: `benchmark`, `models`, `openai`
+  * Source URL: <https://arxiv.org/abs/2610.35685>
 
 * **[Adapting LLMs to Time Series Forecasting via Temporal Heterogeneity Modeling and Representation Alignment](ai/rag/arxiv-2508-07195.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2508.07195v2 Announce Type: replace-cross Abstract: Recent advances have demonstrated that Large Language Models (LLMs) can be effectively adapted for time series forecasting, revealing strong potential beyond natural language tasks. However, t
@@ -64403,7 +64652,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.18817>
 
 * **[Algebraic World Model: From Exploration to Proofs](ai/research/arxiv-2610-40503.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40503v1 Announce Type: new Abstract: AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on predefined mathematical definitions and formal specifications
+  * Summary: arXiv:2610.40503v2 Announce Type: replace Abstract: AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on predefined mathematical definitions and formal specificat
   * Tags: `anthropic`, `models`
   * Source URL: <https://arxiv.org/abs/2610.40503>
 
@@ -64564,6 +64813,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.38349v1 Announce Type: cross Abstract: While single-view novel view synthesis methods have been dramatically enhanced recently, how to quantify their performance has yet to be standardized. In this work, we demonstrate that an important fa
   * Tags: `benchmark`, `hackernews`, `youtube`
   * Source URL: <https://arxiv.org/abs/2610.38349>
+
+* **[Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions](ai/research/arxiv-2610-41951.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41951v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have achieved impressive performance across a wide range of reasoning tasks, yet it remains unclear whether their internal representations and decision criteri
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.41951>
 
 * **[Aligning Multi-Trajectory Supervision with Policy Optimization for VLA Driving](ai/research/arxiv-2608-30122.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.30122v1 Announce Type: cross Abstract: Vision-language-action (VLA) driving methods increasingly combine multi-trajectory imitation learning with group-relative policy optimization (GRPO), making trajectory selection critical to final perf
@@ -66727,7 +66981,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/argilla-ui-hub>
 
 * **[argmaxinc/whisperkit-coreml](ai/models/huggingface-argmaxinc-whisperkit-coreml.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: argmaxinc/whisperkit-coreml (Likes: 260, Downloads: 27332146)
+  * Summary: Trending Hugging Face model: argmaxinc/whisperkit-coreml (Likes: 260, Downloads: 31110151)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/argmaxinc/whisperkit-coreml>
 
@@ -66775,6 +67029,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: AI Observability & Evaluation
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `meta-ai`, `models`, `openai`, `rag`
   * Source URL: <https://github.com/arize-ai/phoenix>
+
+* **[ARK: Avoiding Routing Collisions for KV Cache Transfer in Disaggregated LLM Inference](ai/research/arxiv-2610-41160.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41160v1 Announce Type: cross Abstract: Disaggregated LLM inference separates the prefill and decode phases across GPU pools, generating massive KV-cache transfers. Because these transfers last hundreds of milliseconds to seconds, they beha
+  * Source URL: <https://arxiv.org/abs/2610.41160>
 
 * **[Arkios: An Open Bilingual English-Nepali Language Model Trained From Scratch, with a Devanagari-Aware Tokenizer](ai/research/arxiv-2608-30092.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2608.30092v2 Announce Type: replace-cross Abstract: We present Arkios, a 1.04B-parameter dense transformer pretrained from scratch on 150B tokens of bilingual English-Nepali text, using a custom single-file C/CUDA training stack and a Devanagar
@@ -67545,6 +67803,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`, `youtube`
   * Source URL: <https://arxiv.org/abs/2607.04590>
 
+* **[Attention Maps Know When to Think: Training-Free Difficulty-Aware Chain-of-Thought for Reasoning Segmentation](ai/research/arxiv-2610-41618.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41618v1 Announce Type: cross Abstract: Chain-of-Thought (CoT) prompting has become a standard reasoning strategy in Multi-modal Large Language Models (MLLMs), showing strong performance in complex vision-language tasks such as reasoning se
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41618>
+
 * **[Attention mechanisms and transfer learning for robust peach leaf damage classification under domain shift](ai/research/arxiv-2606-02045.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.02045v2 Announce Type: replace-cross Abstract: Artificial intelligence provides a practical framework for crop damage assessment from imagery data, supporting early decision-making in agricultural management. In peach orchards, climate cha
   * Tags: `benchmark`, `dataset`, `models`
@@ -68105,7 +68368,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.24625>
 
 * **[autogluon/chronos-2](ai/models/huggingface-autogluon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: autogluon/chronos-2 (Likes: 94, Downloads: 23513356)
+  * Summary: Trending Hugging Face model: autogluon/chronos-2 (Likes: 94, Downloads: 24324549)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/autogluon/chronos-2>
 
@@ -68218,6 +68481,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.06609v1 Announce Type: new Abstract: Automated item evaluation (AIE) refers to the use of computational methods to assess item quality without requiring manual expert review or field testing of the items under evaluation. We aimed to build
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.06609>
+
+* **[Automated Keyword Generation Using LLMs in a High-Volume Data Virtualization Service](ai/research/arxiv-2610-41893.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41893v1 Announce Type: new Abstract: In modern data infrastructure, a data virtualization service (DVS) allows users to create many versions of source datasets for different processing tasks. For example, a multivariate or multi-modality d
+  * Tags: `dataset`, `hackernews`
+  * Source URL: <https://arxiv.org/abs/2610.41893>
 
 * **[Automated multi-class wound assessment using dedicated instance segmentation models for boundary detection and classification](ai/research/arxiv-2603-27325.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2603.27325v2 Announce Type: replace-cross Abstract: Accurate wound classification (WC) and boundary segmentation are essential for guiding clinical decisions in chronic and acute wound management. However, most existing artificial intelligence
@@ -68433,6 +68701,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.02528>
 
+* **[Autoregressive Diffusion for Compositional Text-to-Scene Generation](ai/research/arxiv-2604-16552.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.16552v3 Announce Type: replace-cross Abstract: Recent text-to-scene generation approaches largely reduced the manual efforts required to create 3D scenes. However, their focus is either to generate a scene layout or to generate objects, an
+  * Tags: `dataset`
+  * Source URL: <https://arxiv.org/abs/2604.16552>
+
 * **[Autoregressive Drillhole Modelling Under Distribution Shift](ai/research/arxiv-2610-01204.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.01204v1 Announce Type: new Abstract: Autoregressive modelling has achieved remarkable success in language and sequence tasks by learning to predict future states from previous observation. Mineral-exploration drillholes provide a natural b
   * Tags: `benchmark`, `models`
@@ -68534,7 +68807,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.06892>
 
 * **[ayuo/hd_tmp](ai/models/huggingface-datasets-ayuo.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 45, Downloads: 1359687)
+  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 45, Downloads: 1354259)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ayuo>
 
@@ -68616,7 +68889,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11364>
 
 * **[Backpropagation-free Deep Learning for Time-Series Classification](ai/rag/arxiv-2610-41805.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41805v1 Announce Type: new Abstract: Deep neural networks for time series classification (TSC) are trained almost exclusively by error backpropagation, which imposes update locking and the weight-transport problem. Backpropagation-free lea
+  * Summary: arXiv:2610.41805v1 Announce Type: cross Abstract: Deep neural networks for time series classification (TSC) are trained almost exclusively by error backpropagation, which imposes update locking and the weight-transport problem. Backpropagation-free l
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.41805>
 
@@ -70333,7 +70606,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17523>
 
 * **[Beyond IID: How General Are Tabular Foundation Models, Really?](ai/rag/arxiv-2606-30410.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.30410v2 Announce Type: replace Abstract: Foundation models for predictive machine learning on tabular data have recently gained significant traction in academia and industry. Research communities across disciplines are increasingly evaluat
+  * Summary: arXiv:2606.30410v2 Announce Type: replace-cross Abstract: Foundation models for predictive machine learning on tabular data have recently gained significant traction in academia and industry. Research communities across disciplines are increasingly e
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.30410>
 
@@ -70652,6 +70925,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Beyond Prompt Count: How Data Shapes Transfer in On-Policy Distillation](ai/research/arxiv-2609-37377.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.37377v1 Announce Type: new Abstract: On-policy distillation (OPD) trains students using teacher feedback on their own sampled responses, yet how prompt choice shapes transfer across teacher-student pairs remains poorly understood. We syste
   * Source URL: <https://arxiv.org/abs/2609.37377>
+
+* **[Beyond Public Access in LLM Pre-Training Data](ai/rag/arxiv-2505-00020.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2505.00020v3 Announce Type: replace-cross Abstract: Using a legally obtained dataset of 34 copyrighted O'Reilly Media books (13,962 paragraphs), we apply the DE-COP membership inference attack to test whether OpenAI models show recognition of n
+  * Tags: `dataset`, `models`, `openai`, `rag`
+  * Source URL: <https://arxiv.org/abs/2505.00020>
 
 * **[Beyond PUE: A Local Impact Audit Framework for Data Center Environmental Accountability](ai/research/arxiv-2609-23421.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.23421v1 Announce Type: cross Abstract: Standard data center sustainability metrics, including Power Usage Effectiveness (PUE), Water Usage Effectiveness (WUE), and Carbon Usage Effectiveness (CUE), measure a facility's resource use and emi
@@ -71228,7 +71506,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24110>
 
 * **[bf16 Rounding Silently Discards Most RL Policy Updates: A Hidden Training-Inference Mismatch and an Unbiased One-Line Fix](ai/research/arxiv-2610-41073.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41073v1 Announce Type: new Abstract: Reinforcement learning (RL) post-training of language models keeps fp32 master weights in the optimizer and serves rollouts from a bf16 copy produced by round-to-nearest conversion. At the learning rate
+  * Summary: arXiv:2610.41073v1 Announce Type: cross Abstract: Reinforcement learning (RL) post-training of language models keeps fp32 master weights in the optimizer and serves rollouts from a bf16 copy produced by round-to-nearest conversion. At the learning ra
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.41073>
 
@@ -71613,7 +71891,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12403>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9578, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9577, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -73059,6 +73337,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2610.13693>
 
+* **[Calibration of Large Model Quantization based on HiFloat4 Format](ai/research/arxiv-2610-41112.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41112v1 Announce Type: new Abstract: Quantization of Large Language Models (LLMs) has be- coming increasingly important for reducing the computa- tional costs and resource requirements for practical deploy- ment.Growinginterestinthisareaha
+  * Tags: `models`, `paper`
+  * Source URL: <https://arxiv.org/abs/2610.41112>
+
 * **[Calibration-Family Overfit: Why Trusted Sabotage Monitors Don't Transfer Across Lineages](ai/research/arxiv-2607-06596.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.06596v3 Announce Type: replace-cross Abstract: Trusted monitoring is a central defense in AI control: a cheaper trusted model scores an untrusted model's actions for sabotage, and the most suspicious are audited or deferred. Such monitors
   * Tags: `benchmark`
@@ -73138,7 +73421,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.13272>
 
 * **[CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models](ai/research/arxiv-2610-40954.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40954v1 Announce Type: new Abstract: Recent progress in deep learning has substantially advanced automated grading of ophthalmologic pathologies, supported by large annotated datasets and improved representation learning. However, a signif
+  * Summary: arXiv:2610.40954v1 Announce Type: cross Abstract: Recent progress in deep learning has substantially advanced automated grading of ophthalmologic pathologies, supported by large annotated datasets and improved representation learning. However, a sign
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2610.40954>
 
@@ -73275,6 +73558,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2506.17337v5 Announce Type: replace-cross Abstract: Vision Language Models (VLMs) have shown promise in automating image diagnosis and interpretation in clinical settings. However, developing specialist medical VLMs requires substantial computa
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2506.17337>
+
+* **[Can Humans Tell? A Dual-Axis Study of Human Perception of LLM-Generated News](ai/research/arxiv-2604-03755.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2604.03755v2 Announce Type: replace-cross Abstract: Can humans tell whether a news article was written by a person or a large language model (LLM)? We investigate this question using JudgeGPT, a study platform that independently measures source
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2604.03755>
 
 * **[Can I Take Another Dose? DoseBench: Evaluating LLM Decision-Making in OTC Dosing QA](ai/research/arxiv-2606-04262.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.04262v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly used to answer everyday health questions online, including whether someone can take another dose of an over-the-counter (OTC) medication. Yet this
@@ -74332,6 +74620,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2602.08939>
 
+* **[CausalWAM: Learning the Causes of Actions in World Action Models](ai/research/arxiv-2610-42096.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42096v1 Announce Type: new Abstract: World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, whereas
+  * Source URL: <https://arxiv.org/abs/2610.42096>
+
 * **[Cause" is Mechanistic Narrative within Scientific Domains: An Ordinary Language Philosophical Critique of "Causal Machine Learning](ai/research/arxiv-2501-05844.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2501.05844v4 Announce Type: replace Abstract: Causal Learning has emerged as a major theme of research in statistics and machine learning in recent years, promising computational techniques to reveal ``true'' causality. In this paper, we critiq
   * Tags: `hackernews`, `paper`
@@ -74856,7 +75148,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.38907>
 
 * **[Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs](ai/research/arxiv-2610-41039.md)** (`reference` | `useful` tier)
-  * Summary: arXiv:2610.41039v1 Announce Type: new Abstract: As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their architecture harbors an underexplored landsc
+  * Summary: arXiv:2610.41039v1 Announce Type: cross Abstract: As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their architecture harbors an underexplored land
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.41039>
 
@@ -74958,6 +75250,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2503.13938v3 Announce Type: replace-cross Abstract: Comprehensive traffic scene understanding is a foundational capability for Intelligent Transportation Systems (ITS) underpinning applications such as traffic simulation. While VisionLanguage M
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2503.13938>
+
+* **[ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks](ai/research/arxiv-2610-40890.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40890v1 Announce Type: new Abstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT gives broa
+  * Tags: `models`, `openai`
+  * Source URL: <https://arxiv.org/abs/2610.40890>
 
 * **[ChatGPT Images 2.5 in the Wild: A Launch-Period Dataset and Detector Evaluation](ai/research/arxiv-2609-15100.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.15100v1 Announce Type: cross Abstract: An image tool can change its underlying generator while retaining its public name, making version attribution from online posts ambiguous. We study this problem after the ChatGPT Images 2.5 launch. Ou
@@ -75127,7 +75424,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.14770>
 
 * **[Chronos-2: A foundation model for multivariate time series forecasting](ai/rag/arxiv-2610-41956.md)** (`dataset` | `useful` tier)
-  * Summary: arXiv:2610.41956v1 Announce Type: new Abstract: Accurate forecasting with uncertainty quantification is critical in a variety of scientific applications ranging from epidemiology and economics to energy systems and earth sciences. Yet most forecastin
+  * Summary: arXiv:2610.41956v1 Announce Type: cross Abstract: Accurate forecasting with uncertainty quantification is critical in a variety of scientific applications ranging from epidemiology and economics to energy systems and earth sciences. Yet most forecast
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.41956>
 
@@ -75521,6 +75818,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.17663v2 Announce Type: replace Abstract: HIPE-2026 is a CLEF evaluation lab dedicated to person-place relation extraction from noisy, multilingual historical texts. Building on the HIPE-2020 and HIPE-2022 campaigns, it extends the series t
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2602.17663>
+
+* **[CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN](ai/research/arxiv-2610-40744.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40744v1 Announce Type: cross Abstract: With the progressive capabilities of large language models (LLMs), researchers are finding ways to integrate them into the control loops of Open Radio Access Network (O-RAN) to enable slicing and reso
+  * Tags: `models`, `openai`
+  * Source URL: <https://arxiv.org/abs/2610.40744>
 
 * **[Click2Poly: A VLM for vector mapping buildings and walls](ai/research/arxiv-2608-11424.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.11424v1 Announce Type: new Abstract: Accurate vector mapping of buildings and walls is critical for geospatial applications but remains a labor-intensive process. While recent deep learning methods have improved automatic extraction, in or
@@ -75973,6 +76275,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.14570v1 Announce Type: new Abstract: Understanding human mobility is critical for a wide range of urban applications, including traffic management, epidemic control, and urban planning. However, due to privacy concerns, the availability of
   * Source URL: <https://arxiv.org/abs/2608.14570>
 
+* **[Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](ai/research/arxiv-2610-41231.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41231v1 Announce Type: cross Abstract: Coarse-to-fine 3D-native generation relies heavily on the first-stage sparse structure, which determines the global orientation and overall geometry for subsequent refinement. However, existing coarse
+  * Source URL: <https://arxiv.org/abs/2610.41231>
+
 * **[CoarseSoundNet: Building a reliable model for ecological soundscape analysis](ai/research/arxiv-2605-21143.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.21143v3 Announce Type: replace-cross Abstract: A soundscape is composed of three types of sound: biophony (sounds made by animals), geophony (natural abiotic sounds) and anthropophony (sounds made by humans). A key research question in the
   * Tags: `benchmark`
@@ -76204,6 +76510,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.22774v5 Announce Type: replace Abstract: Assessing cognitive load continuously and at low latency would help adaptive human-computer interaction, but it remains hard because labeled data are scarce and models generalize poorly across subje
   * Tags: `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2605.22774>
+
+* **[CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models](ai/research/arxiv-2607-24999.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2607.24999v2 Announce Type: replace-cross Abstract: Human cognitive tasks let us compare language models with humans under controlled conditions. Yet a model can reproduce the direction of a human effect while making different errors. CogBatter
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2607.24999>
 
 * **[CogDrift-4D: Hierarchical Multimodal Modeling of Temporal Behavioral Decay for MCI Detection](ai/research/arxiv-2610-20877.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.20877v1 Announce Type: new Abstract: Early detection of mild cognitive impairment remains a critical bottleneck in dementia care, demanding scalable tools capable of capturing subtle behavioral decay. To capture the subtle temporal changes
@@ -76456,7 +76767,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.22907>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2489, Downloads: 31098855)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2494, Downloads: 31821266)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -79378,6 +79689,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.17345v1 Announce Type: new Abstract: Although pitch sequencing is a central topic in baseball analytics, previous studies have primarily focused on optimizing the final pitch within a single plate appearance, leaving the role of preceding
   * Source URL: <https://arxiv.org/abs/2606.17345>
 
+* **[Counterfactual Pairwise Augmentation Improves Small Pointwise LLM Judges](ai/rag/arxiv-2610-41149.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41149v1 Announce Type: new Abstract: Agentic systems increasingly gate individual steps with a pointwise judge that scores a response against a criterion. Small language models are attractive for this role because they can be served and sp
+  * Tags: `agents`, `dataset`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41149>
+
 * **[Counterfactual Predictions in Scientific Emulators Without Controlled Experiments](ai/research/arxiv-2610-02252.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.02252v1 Announce Type: cross Abstract: Many scientific questions require reasoning about what was never observed: What if the conditions, interventions, or history had been different? Models can predict accurately on observed data yet fail
   * Source URL: <https://arxiv.org/abs/2610.02252>
@@ -79807,6 +80123,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2609.38165>
 
+* **[CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness](ai/rag/arxiv-2610-42054.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42054v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training language models to reason. However, RLVR typically relies solely on outcome correctness, which does no
+  * Tags: `dataset`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.42054>
+
 * **[Cross Lingual Abstractive Summarization for Marathi](ai/rag/arxiv-2610-38267.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.38267v1 Announce Type: cross Abstract: Text summarization is an important task for advancing natural language processing (NLP) research and applications in Indic languages. Despite progress in extractive and abstractive summarization, both
   * Tags: `dataset`, `rag`
@@ -79927,7 +80248,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.27549>
 
 * **[cross-encoder/ms-marco-MiniLM-L6-v2](ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 439, Downloads: 66901235)
+  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 439, Downloads: 66397898)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`, `reddit`
   * Source URL: <https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2>
 
@@ -80171,6 +80492,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.35879v1 Announce Type: cross Abstract: Benchmarks for large language models (LLMs) typically evaluate the accuracy of answers against fixed reference labels. But a central step in many complex real-world tasks is identifying which question
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2609.35879>
+
+* **[CryoAtlas: A Large Curated Dataset and Unified Benchmark for Cryo-EM Atomic Model Building](ai/research/arxiv-2610-41411.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41411v1 Announce Type: new Abstract: Deep learning has accelerated automated atomic model building from cryo-EM maps, yet progress remains limited by the lack of large, high-quality datasets and standardized evaluation benchmarks. We addre
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.41411>
 
 * **[Cryptanalytic Extraction of Isolated Bias-Free GLU Feed-Forward Blocks by Antipodal Separation](ai/research/arxiv-2608-06631.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.06631v1 Announce Type: new Abstract: Cryptanalytic extraction has been demonstrated for ReLU networks, for networks using componentwise activations such as GELU or SiLU, and for a Transformer's final projection matrix. These methods do not
@@ -80666,7 +80992,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5746, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5747, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -82922,7 +83248,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.00530>
 
 * **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](ai/research/arxiv-2610-03498.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.03498v1 Announce Type: cross Abstract: Adversarial patches can disrupt Vision-Language-Action (VLA) models by manipulating visual observations, leading to failures in robot control. However, it remains poorly understood which internal mech
+  * Summary: arXiv:2610.03498v2 Announce Type: replace-cross Abstract: Adversarial patches can disrupt Vision-Language-Action (VLA) models by manipulating visual observations, leading to failures in robot control. However, it remains poorly understood which inter
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.03498>
 
@@ -83536,7 +83862,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.02716>
 
 * **[Differential rank preservation manifold learning](ai/rag/arxiv-2610-41107.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41107v1 Announce Type: cross Abstract: Manifold learning methods like t-SNE and UMAP preserve local neighborhoods, but they do not preserve the ranking of the neighbors inside them. Two embeddings can return the same neighbor set while dis
+  * Summary: arXiv:2610.41107v1 Announce Type: new Abstract: Manifold learning methods like t-SNE and UMAP preserve local neighborhoods, but they do not preserve the ranking of the neighbors inside them. Two embeddings can return the same neighbor set while disag
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.41107>
 
@@ -84028,6 +84354,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Dirac-Interconnected Neural Elements: Discovering Modularity in Physical Systems Without Reduction](ai/research/arxiv-2610-02960.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.02960v1 Announce Type: new Abstract: Deep learning has shown remarkable success in the data-driven modeling of dynamical systems. Much of its success is attributed not to the flexibility of neural networks but to inductive biases based on
   * Source URL: <https://arxiv.org/abs/2610.02960>
+
+* **[DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors](ai/research/arxiv-2610-40938.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40938v1 Announce Type: new Abstract: Using customer conversations to train and evaluate financial language models raises confidentiality concerns because non-public financial facts can remain after direct identifiers are masked. Synthetic
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.40938>
 
 * **[DirEAG: Dirichlet Evidence Aggregation for Calibrating Verbalized Confidence in Mathematical Reasoning](ai/rag/arxiv-2608-20717.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.20717v1 Announce Type: new Abstract: Reliable confidence estimation is essential for using large language models in mathematical reasoning, but black-box verbalized confidence is difficult to calibrate. When the same problem is queried und
@@ -84612,6 +84943,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.10520>
 
+* **[Distilling Knowledge from Search: Decoder Model Factory for Quantum LDPC Codes](ai/research/arxiv-2610-41398.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41398v1 Announce Type: cross Abstract: We introduce GraphMP, a learning-based message-passing decoder for quantum low-density parity-check codes that transfers without fine-tuning across code families, code sizes, physical error rates, and
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2610.41398>
+
 * **[Distilling latent electrostatics from foundation machine learning interatomic potentials](ai/research/arxiv-2606-15001.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.15001v1 Announce Type: cross Abstract: Foundation machine learning interatomic potentials (MLIPs) have enabled atomistic simulations across broad regions of chemical and materials space, but many remain computationally expensive and lack e
   * Tags: `benchmark`, `dataset`, `models`
@@ -84824,6 +85160,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[DiTAR+: Dual Optimization for Robust Autoregressive Diffusion Speech Synthesis](ai/research/arxiv-2609-13909.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.13909v1 Announce Type: cross Abstract: Continuous-latent Autoregressive Diffusion Transformer (AR-DiT) models have demonstrated immense potential in zero-shot speech generation. However, they still suffer from limited decoding stability wh
   * Source URL: <https://arxiv.org/abs/2609.13909>
+
+* **[DiTGaze: Geometry-Conditioned Diffusion Augmentation for Few-Shot Gaze Estimation](ai/research/arxiv-2511-11231.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2511.11231v2 Announce Type: replace-cross Abstract: Accurate person-specific gaze estimation benefits from labeled user data, but collecting images that densely cover gaze directions is burdensome. We present DiTGaze, a calibration-efficient au
+  * Source URL: <https://arxiv.org/abs/2511.11231>
 
 * **[Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy](ai/research/arxiv-2607-06320.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.06320v3 Announce Type: replace-cross Abstract: We present the dithered Gaussian mechanism, an alternative to the discrete Gaussian mechanism for differential privacy that discretizes the private output rather than the noise distribution it
@@ -86168,6 +86508,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2603.19216>
 
+* **[Dreams Are Cheaper Than Flights: Curated World-Model Data Improves Aerial Detection](ai/research/arxiv-2610-41030.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41030v1 Announce Type: cross Abstract: Robot perception is increasingly data driven, yet field data is slow, costly, and sometimes disruptive to collect. Video world models offer a cheaper source: seeded with real frames, they extend a rec
+  * Tags: `benchmark`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41030>
+
 * **[DREG: A Layer-Wise Jacobian Regularization as a General-Purpose Penalty](ai/research/arxiv-2606-23942.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23942v1 Announce Type: new Abstract: We present a large-scale empirical study isolating the contributions of the Derivative Regularization penalty (DREG). Across a fully-crossed factorial sweep of 960 experiments spanning 4 activations, 6
   * Tags: `benchmark`, `dataset`
@@ -86328,6 +86673,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.20457v2 Announce Type: replace-cross Abstract: Inference with large language models (LLMs) on long sequences is computationally expensive due to the quadratic complexity of self-attention. Distributed blockwise methods such as Star Attenti
   * Tags: `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2607.20457>
+
+* **[DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models](ai/research/arxiv-2605-26038.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2605.26038v2 Announce Type: replace-cross Abstract: Lightweight vision-language models perform competitively on standard benchmarks yet fail systematically in dense-scene reasoning, where multiple objects, attributes, and relations must be join
+  * Tags: `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2605.26038>
 
 * **[DRtool: An Interactive Tool for Analyzing High-Dimensional Clusterings](ai/research/arxiv-2509-04603.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2509.04603v4 Announce Type: replace-cross Abstract: When faced with new data, we often conduct a cluster analysis to obtain a better understanding of the data's structure and the archetypical samples present in the data. However, the increases
@@ -86855,6 +87205,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.20235v1 Announce Type: cross Abstract: Classical regularization removes the binary-collision singularity from the Kepler problem, but its value as a representation for learned Hamiltonian dynamics has not been systematically isolated. We c
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.20235>
+
+* **[Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention](ai/research/arxiv-2610-41850.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41850v1 Announce Type: new Abstract: Transformers retain an explicit history of the sequence, allowing attention to directly retrieve past representations. However, the size of the KV-Cache and the cost of a new token increase with the con
+  * Source URL: <https://arxiv.org/abs/2610.41850>
 
 * **[Dynamical phase selection controls compute scaling in looped transformers](ai/research/arxiv-2608-26556.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.26556v1 Announce Type: cross Abstract: A looped transformer performs inference by iterating a weight-tied map, making its computation a dynamical process whose cost is set by the resulting inference dynamics. Here we show that networks wit
@@ -89506,7 +89860,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.29264>
 
 * **[epfml/FineWeb-HQ](ai/models/huggingface-datasets-epfml.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: epfml/FineWeb-HQ (Likes: 32, Downloads: 1459871)
+  * Summary: Trending Hugging Face dataset: epfml/FineWeb-HQ (Likes: 32, Downloads: 1467803)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/epfml>
 
@@ -89735,6 +90089,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2608.14773>
 
+* **[Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation](ai/research/arxiv-2610-41307.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41307v1 Announce Type: cross Abstract: Multimodal indirect prompt injection embeds malicious instructions in external media that also contains information needed for the user's task. Existing defenses can block the attack yet impair the mo
+  * Tags: `benchmark`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41307>
+
 * **[ERASE: EaRly bAckpropagation SchEdule for Faster Training of Modern Recommendation Systems](ai/research/arxiv-2608-18469.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.18469v1 Announce Type: cross Abstract: Lightweight proxy models enable rapid experimentation without repeatedly training frontier-scale systems, but their small kernels often leave modern accelerators underutilized. Conventional training c
   * Tags: `producthunt`
@@ -89758,6 +90117,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Ergodic topology sampling toward the continuum with Stochastic Normalizing Flows](ai/research/arxiv-2610-20747.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.20747v1 Announce Type: cross Abstract: In this work we provide numerical evidence that topological freezing in $\mathrm{SU}(3)$ Yang-Mills theory can be mitigated with a flow-based approach, as tested at lattice spacings as fine as 0.03~fm
   * Source URL: <https://arxiv.org/abs/2610.20747>
+
+* **[Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild](ai/research/arxiv-2601-22871.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2601.22871v3 Announce Type: replace-cross Abstract: As foundation models (FMs) approach human-level fluency, distinguishing synthetic from organic content has become a key challenge for Trustworthy Web Intelligence. This paper presents JudgeGPT
+  * Tags: `benchmark`, `meta-ai`, `models`, `openai`, `paper`
+  * Source URL: <https://arxiv.org/abs/2601.22871>
 
 * **[ERP Data Provisioning Financial Control Testing](ai/research/arxiv-2607-09712.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.09712v1 Announce Type: new Abstract: Financial control testing increasingly depends on representative enterprise resource planning (ERP) data in quality environments, yet direct production copies expose personal, supplier, banking, and com
@@ -94183,7 +94547,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.19490>
 
 * **[Fine-Tuning VLM for Enhancing AI's Spatial Intelligence: Understanding 3D and 2D Rotations](ai/research/arxiv-2610-04206.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.04206v2 Announce Type: replace Abstract: Spatial intelligence is a fundamental skill in multiple domains, such as Science, Technology, Engineering, and Mathematics (STEM), Medicine, Architecture, and Construction. Recent studies indicate t
+  * Summary: arXiv:2610.04206v3 Announce Type: replace Abstract: Spatial intelligence is a fundamental skill in multiple domains, such as Science, Technology, Engineering, and Mathematics (STEM), Medicine, Architecture, and Construction. Recent studies indicate t
   * Tags: `benchmark`, `dataset`, `deepmind`, `hackernews`, `models`
   * Source URL: <https://arxiv.org/abs/2610.04206>
 
@@ -96636,6 +97000,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2609.05540>
 
+* **[From prediction error to sparse events: Biologically inspired signed-dyadic coding for Mandarin keyword spotting](ai/research/arxiv-2610-41381.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41381v1 Announce Type: cross Abstract: In continuous spiking keyword spotting, temporally correlated acoustic frames can repeatedly trigger memory access and neural computation at a dense input interface, even when hidden activity is spars
+  * Tags: `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41381>
+
+* **[From Prediction to Action: Population Health World Model for Digital Medicine](ai/research/arxiv-2610-24662.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.24662v2 Announce Type: replace Abstract: Digital medicine now captures data that traces individual health trajectories and reveals population health dynamics through electronic health records, claims, remote monitoring, wearable devices, m
+  * Source URL: <https://arxiv.org/abs/2610.24662>
+
 * **[From Prediction to Incrementality: Causal Optimization for Large-Scale Targeting and Recommendation](ai/rag/arxiv-2608-10182.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.10182v1 Announce Type: cross Abstract: Large-scale targeting and recommendation systems are typically built around predictive scores fed into heuristic or local allocation. When the business goal is incremental impact, as in marketing camp
   * Tags: `dataset`, `models`, `rag`
@@ -96740,7 +97113,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.24167>
 
 * **[From Representation to Readout: Mechanistic Analysis of Membership Signals in Language Models](ai/research/arxiv-2610-41445.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41445v1 Announce Type: new Abstract: Membership inference aims to determine whether a particular example was included in a model's training data. Such membership signals are often broadly described as memorization, while the underlying mec
+  * Summary: arXiv:2610.41445v1 Announce Type: cross Abstract: Membership inference aims to determine whether a particular example was included in a model's training data. Such membership signals are often broadly described as memorization, while the underlying m
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.41445>
 
@@ -96883,7 +97256,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.26117>
 
 * **[From Stages to States: Unified Iterative Reasoning for MLLMs](ai/rag/arxiv-2610-15620.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.15620v1 Announce Type: new Abstract: Multimodal Chain-of-Thought (MCoT) substantially enhances the complex reasoning capabilities of Multimodal Large Language Models (MLLMs) by explicitly modeling intermediate reasoning processes. However,
+  * Summary: arXiv:2610.15620v2 Announce Type: replace Abstract: Multimodal Chain-of-Thought (MCoT) substantially enhances the complex reasoning capabilities of Multimodal Large Language Models (MLLMs) by explicitly modeling intermediate reasoning processes. Howe
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.15620>
 
@@ -97121,6 +97494,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.03177v1 Announce Type: new Abstract: Frontier large language models (LLMs) have become attractive priors for optimization due to their large-scale pretraining that enables them to navigate a variety of optimization settings. However, the e
   * Source URL: <https://arxiv.org/abs/2609.03177>
 
+* **[FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D](ai/research/arxiv-2610-41162.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41162v1 Announce Type: new Abstract: To accelerate materials discovery, language models must be able to address problems at the research frontier. Yet textbook- and examination-derived benchmarks primarily assess established knowledge, lea
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41162>
+
 * **[Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model](ai/research/arxiv-2609-28414.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.28414v1 Announce Type: cross Abstract: Latent world models that integrate a flow in a frozen self supervised latent space train stably and cheaply, yet silently lose the property manipulation depends on most: motion. The pretrained flow ne
   * Tags: `benchmark`
@@ -97215,7 +97593,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2505.12369>
 
 * **[Fully Offline Reinforcement Learning](ai/research/arxiv-2505-22442.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2505.22442v4 Announce Type: replace Abstract: Offline RL (ORL) promises safe and sample-efficient deployment but existing methods rely on undocumented online interactions for hyperparameter tuning and lack reliable fully offline estimates of in
+  * Summary: arXiv:2505.22442v4 Announce Type: replace-cross Abstract: Offline RL (ORL) promises safe and sample-efficient deployment but existing methods rely on undocumented online interactions for hyperparameter tuning and lack reliable fully offline estimates
   * Source URL: <https://arxiv.org/abs/2505.22442>
 
 * **[Fully quantum training of parametric circuits with Quantum Hamiltonian Descent](ai/research/arxiv-2610-33144.md)** (`framework` | `useful` tier)
@@ -97968,6 +98346,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.38036v2 Announce Type: replace-cross Abstract: Understanding gender biases in large language models (LLMs) is increasingly important as these systems become embedded in decision-support tools with real consequences. Prior research has focu
   * Source URL: <https://arxiv.org/abs/2609.38036>
 
+* **[GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning](ai/research/arxiv-2610-41314.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41314v1 Announce Type: cross Abstract: Dynamic spatial reasoning is essential for connecting visual intelligence to thephysical world, yet remains challenging for vision-language models (VLMs), which must preserve scene state while trackin
+  * Tags: `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41314>
+
 * **[GeneICL: A Tabular Foundation Model for Bulk Transcriptomics](ai/research/arxiv-2610-08694.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.08694v1 Announce Type: new Abstract: Gene expression is widely measured in biomedicine, yet clinical outcome prediction remains challenging due to high dimensionality, strong feature correlations, and limited labeled data. Large self-super
   * Source URL: <https://arxiv.org/abs/2610.08694>
@@ -97996,6 +98379,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.12657v1 Announce Type: new Abstract: Probabilities of causation (PoCs) characterize individual causal responses that cannot be directly observed and therefore generally require partial identification. Tian and Pearl first derived theoretic
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2608.12657>
+
+* **[General-purpose foundation models surpass specialized ones on chemical property prediction tasks](ai/research/arxiv-2610-41899.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41899v1 Announce Type: cross Abstract: Foundation models (FMs) learn reusable representations from large collections of unlabeled data. In chemistry the corresponding data mainly consists of molecular structures, which are abundant, wherea
+  * Tags: `anthropic`, `dataset`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.41899>
 
 * **[Generalised Balanced Softmax: A Finite-Data Perspective on Logit Adjustment for Long-Tailed Recognition](ai/research/arxiv-2607-22258.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.22258v2 Announce Type: replace Abstract: Models trained on long-tailed data using standard softmax tend to exhibit higher training error and a larger generalisation gap for classes with fewer training samples. We characterise this class-wi
@@ -98568,7 +98956,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.23436>
 
 * **[Generative Recursive Reasoning](ai/research/arxiv-2605-19376.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2605.19376v4 Announce Type: replace Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterativ
+  * Summary: arXiv:2605.19376v5 Announce Type: replace Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterativ
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2605.19376>
 
@@ -98718,7 +99106,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2504.13853>
 
 * **[GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models](ai/research/arxiv-2605-23238.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2605.23238v2 Announce Type: replace-cross Abstract: Fixed game suites for evaluating strategic reasoning in large language models (LLMs) saturate and are hard to keep free of contamination. We introduce GENSTRAT, a system for evaluating the str
+  * Summary: arXiv:2605.23238v2 Announce Type: replace Abstract: Fixed game suites for evaluating strategic reasoning in large language models (LLMs) saturate and are hard to keep free of contamination. We introduce GENSTRAT, a system for evaluating the strategic
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2605.23238>
 
@@ -99703,7 +100091,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3060, Downloads: 29234461)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3060, Downloads: 29590515)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
@@ -100659,6 +101047,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2609.11312>
 
+* **[GRIT: Gradient Masking for Visually Misgrounded Tokens in Text-Rich Reasoning](ai/research/arxiv-2610-41629.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41629v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has recently been extended to vision-language models (VLMs), yet its effectiveness remains limited for text-rich reasoning tasks. We highlight a k
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41629>
+
 * **[GRIT: Out-of-Distribution Robustness from Finite and Noisy Invariant Pairs](ai/research/arxiv-2505-24843.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.24843v3 Announce Type: replace Abstract: Predictors often exploit spurious correlations that fail under distribution shift, undermining out-of-distribution (OOD) robustness. Invariant pairs, such as the same object photographed against dif
   * Source URL: <https://arxiv.org/abs/2505.24843>
@@ -101152,7 +101545,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.27868>
 
 * **[hallucinations-leaderboard/results](ai/models/huggingface-datasets-hallucinations-leaderboard.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: hallucinations-leaderboard/results (Likes: 24, Downloads: 3262333)
+  * Summary: Trending Hugging Face dataset: hallucinations-leaderboard/results (Likes: 24, Downloads: 3260835)
   * Tags: `dataset`, `hf-dataset`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/datasets/hallucinations-leaderboard>
 
@@ -101865,7 +102258,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11744>
 
 * **[hf-doc-build/doc-build-dev](ai/models/huggingface-datasets-hf-doc-build.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: hf-doc-build/doc-build-dev (Likes: 76, Downloads: 2293423)
+  * Summary: Trending Hugging Face dataset: hf-doc-build/doc-build-dev (Likes: 76, Downloads: 2280206)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/hf-doc-build>
 
@@ -102979,7 +103372,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2509.03734>
 
 * **[How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum](ai/research/arxiv-2604-25907.md)** (`workflow` | `useful` tier)
-  * Summary: arXiv:2604.25907v3 Announce Type: replace Abstract: The standard recipe for training reasoning models---SFT on rationale annotations followed by RLVR---relies on rationale annotations being available and clean. When no annotated rationales exist, SFT
+  * Summary: arXiv:2604.25907v3 Announce Type: replace-cross Abstract: The standard recipe for training reasoning models---SFT on rationale annotations followed by RLVR---relies on rationale annotations being available and clean. When no annotated rationales exis
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2604.25907>
 
@@ -103736,7 +104129,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/huggingface/datasets>
 
 * **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 252, Downloads: 5685219)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 252, Downloads: 5839203)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/huggingface>
 
@@ -104048,7 +104441,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.07815>
 
 * **[HyCO: A Hybrid Neural Solver for Combinatorial Optimization](ai/research/arxiv-2609-07990.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.07990v2 Announce Type: replace Abstract: Sequential reinforcement learning (RL) solvers and global diffusion model (DM) solvers for neural combinatorial optimization exhibit complementary failure modes under an optimization-regret view. Th
+  * Summary: arXiv:2609.07990v2 Announce Type: replace-cross Abstract: Sequential reinforcement learning (RL) solvers and global diffusion model (DM) solvers for neural combinatorial optimization exhibit complementary failure modes under an optimization-regret vi
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2609.07990>
 
@@ -104437,6 +104830,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2509.11259v2 Announce Type: replace Abstract: Recent advancements in machine learning have largely been driven by foundation models (FMs) trained on large, diverse datasets, enabling them to generalize effectively to new, related tasks. However
   * Tags: `agents`, `benchmark`, `dataset`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2509.11259>
+
+* **[ID2Pattern: Pretraining Generalizable Identity Behavior Patterns for Transaction Risk Foundation Models](ai/rag/arxiv-2610-41988.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41988v1 Announce Type: new Abstract: Large-scale behavioral pretraining offers a promising route to generalizable representations in online payment systems. However, high-cardinality identity fields such as card, device, and account IDs, t
+  * Tags: `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41988>
 
 * **[IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](ai/research/arxiv-2610-08781.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.08781v1 Announce Type: cross Abstract: Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-
@@ -104927,7 +105325,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/gradio-vton-mcp>
 
 * **[Implicit Assumptions About Tasks in Continual Learning](ai/research/arxiv-2610-41792.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41792v1 Announce Type: new Abstract: Continual learning is the study of how a model accumulates knowledge from data received over time, rather than all at once. In practice, this is typically achieved by dividing a dataset into tasks and p
+  * Summary: arXiv:2610.41792v1 Announce Type: cross Abstract: Continual learning is the study of how a model accumulates knowledge from data received over time, rather than all at once. In practice, this is typically achieved by dividing a dataset into tasks and
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2610.41792>
 
@@ -105581,6 +105979,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2604.24827v2 Announce Type: replace Abstract: Closed-source frontier labs do not disclose parameter counts. Storing F facts requires at least F/(bits per parameter) weights, so factual recall lower-bounds parameter count--an intrinsic, serving-
   * Tags: `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2604.24827>
+
+* **[Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models](ai/research/arxiv-2610-40883.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40883v1 Announce Type: new Abstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement degrades speech emotion recogniti
+  * Tags: `benchmark`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.40883>
 
 * **[INCONVENIENT: A Benchmark to Assess LLM Generalization Capabilities from Convenience Samples](ai/research/arxiv-2610-21038.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2610.21038v1 Announce Type: new Abstract: Machine learning models for tabular prediction typically assume that training data are representative of the population on which they will be deployed. In practice, however, data are often collected bas
@@ -106351,6 +106754,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.25292>
 
+* **[Instruction-Tuning Open-Weight Language Models for BPMN Model Generation](ai/research/arxiv-2512-12063.md)** (`prompt` | `useful` tier)
+  * Summary: arXiv:2512.12063v2 Announce Type: replace-cross Abstract: Domain models are central to software engineering, as they enable a shared understanding, guide implementation, and support automated analyses and model-driven development. Yet, despite these
+  * Tags: `dataset`, `models`
+  * Source URL: <https://arxiv.org/abs/2512.12063>
+
 * **[Instruction-tuning Stable Diffusion with InstructPix2Pix](ai/models/huggingface-blog-instruction-tuning-sd.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Instruction-tuning Stable Diffusion with InstructPix2Pix
   * Source URL: <https://huggingface.co/blog/instruction-tuning-sd>
@@ -106683,7 +107091,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.04284>
 
 * **[Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects](ai/research/arxiv-2602-16503.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2602.16503v2 Announce Type: replace Abstract: Generalized additive models (GAMs) offer high interpretability through independent univariate feature effects but underfit when interactions are present in data. GA$^2$Ms add selected pairwise inter
+  * Summary: arXiv:2602.16503v2 Announce Type: replace-cross Abstract: Generalized additive models (GAMs) offer high interpretability through independent univariate feature effects but underfit when interactions are present in data. GA$^2$Ms add selected pairwise
   * Source URL: <https://arxiv.org/abs/2602.16503>
 
 * **[Interpretable Adaptive Sampling for LLM Test-Time Scaling](ai/rag/arxiv-2608-03961.md)** (`framework` | `useful` tier)
@@ -108105,7 +108513,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11312, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11313, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -108667,7 +109075,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.15067>
 
 * **[Kernel-based Interpolatory Methods for Context Compression of Attention Mechanisms](ai/research/arxiv-2610-40943.md)** (`benchmark` | `useful` tier)
-  * Summary: arXiv:2610.40943v1 Announce Type: new Abstract: The bottleneck of attention mechanisms, which are the fundamental building block of modern language models, is their quadratic complexity in terms of context size. There has thus been an increasing inte
+  * Summary: arXiv:2610.40943v1 Announce Type: cross Abstract: The bottleneck of attention mechanisms, which are the fundamental building block of modern language models, is their quadratic complexity in terms of context size. There has thus been an increasing in
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.40943>
 
@@ -108863,7 +109271,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.10827>
 
 * **[Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation](ai/rag/arxiv-2610-42024.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.42024v1 Announce Type: new Abstract: Large language models (LLMs) can help discover mathematical equations from data, but most LLM-guided symbolic regression methods focus on a single best equation without quantifying uncertainty over alte
+  * Summary: arXiv:2610.42024v1 Announce Type: cross Abstract: Large language models (LLMs) can help discover mathematical equations from data, but most LLM-guided symbolic regression methods focus on a single best equation without quantifying uncertainty over al
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.42024>
 
@@ -110263,6 +110671,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.23378v2 Announce Type: replace Abstract: Recursive differenced forecasting, the standard remedy for non-stationarity, predicts one-step changes and integrates them by cumulative summation. We show that this reconstruction is a discrete int
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2609.23378>
+
+* **[Leaner Training, Lower Leakage: Revisiting Memorization in LLM Fine-Tuning with LoRA](ai/research/arxiv-2506-20856.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2506.20856v1 Announce Type: cross Abstract: Memorization in large language models (LLMs) makes them vulnerable to data extraction attacks. While pre-training memorization has been extensively studied, fewer works have explored its impact in fin
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2506.20856>
 
 * **[Leaner Transformers Can Easily Learn to Cluster](ai/research/arxiv-2610-09760.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.09760v2 Announce Type: replace Abstract: Transformers have in-context learning capabilities, where some known learning algorithms can be executed in the forward pass through the model. Recent work shows that transformers can exactly perfor
@@ -111688,7 +112101,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.29951>
 
 * **[Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training](ai/research/arxiv-2610-38851.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.38851v2 Announce Type: replace-cross Abstract: In many settings where LLM post-training is desirable, high-quality answers are recognizable but difficult to score with explicit rewards. Reinforcement learning with verifiable rewards (RLVR)
+  * Summary: arXiv:2610.38851v2 Announce Type: replace Abstract: In many settings where LLM post-training is desirable, high-quality answers are recognizable but difficult to score with explicit rewards. Reinforcement learning with verifiable rewards (RLVR) is li
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.38851>
 
@@ -112598,6 +113011,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.11361v1 Announce Type: new Abstract: Tokenizer vocabulary size is a foundational design choice in large language model (LLM) infrastructure, yet it is typically fixed at training time based on convention rather than deployment analysis. We
   * Source URL: <https://arxiv.org/abs/2608.11361>
 
+* **[Lifelong Learning of Scheduling Rules with Surrogate-assisted Genetic Programming for Dynamic Flexible Job Shop Scheduling](ai/research/arxiv-2610-41158.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41158v1 Announce Type: new Abstract: Genetic programming (GP) has been widely used to learn scheduling rules for dynamic flexible job shop scheduling (DFJSS). However, trained rules tend to only generalise to tasks of similar scales and di
+  * Tags: `models`, `paper`
+  * Source URL: <https://arxiv.org/abs/2610.41158>
+
 * **[Lifelong Representations: A Survey on Continual Self-Supervised Learning for Vision Models](ai/research/arxiv-2607-09785.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.09785v1 Announce Type: cross Abstract: Traditionally, continual learning has assumed access to labeled data, yet many real-world applications -- such as lifelong robotics -- require models to adapt continuously from unlabeled streams. This
   * Tags: `benchmark`
@@ -112842,6 +113260,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.04147v1 Announce Type: cross Abstract: Label noise is common in medical imaging datasets due to factors such as inter-rater variability, annotation errors, and ambiguous cases. This can severely undermine the reliability and clinical effec
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2608.04147>
+
+* **[Lineage Is Memory: Parent Inheritance and Feedback Disclosure in Short-Budget LLM-Guided Optimization](ai/research/arxiv-2610-41157.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41157v1 Announce Type: cross Abstract: Iterative language-model optimizers refine prompts and programs by evaluating a candidate, showing a proposer model a sample of failing cases, and keeping revisions that improve performance. Recent wo
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41157>
 
 * **[Linear and Quadratic Discriminant Analysis: Tutorial](ai/research/arxiv-1906-02590.md)** (`framework` | `useful` tier)
   * Summary: arXiv:1906.02590v2 Announce Type: replace-cross Abstract: This tutorial explains Linear Discriminant Analysis (LDA) and Quadratic Discriminant Analysis (QDA) as two fundamental classification methods in statistical and probabilistic learning. We star
@@ -113185,6 +113608,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.00161v2 Announce Type: replace-cross Abstract: In this paper, we formulate the compression of large language models (LLMs) by optimally deleting transformer blocks (``block removal'') as a constrained binary optimization (CBO) problem that
   * Tags: `benchmark`, `dataset`, `meta-ai`, `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2602.00161>
+
+* **[LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling](ai/research/arxiv-2610-41165.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41165v1 Announce Type: new Abstract: Large Language Models (LLMs) can generate toxic content, motivating effective test-time detoxification. Existing representation steering methods often rely on static or coarse interventions and provide
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2610.41165>
 
 * **[LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](ai/research/arxiv-2606-24901.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24901v1 Announce Type: new Abstract: Continual learning capability is critical for Industrial LLMs, as deployed models must be continuously updated to meet evolving requirements and environments, rather than repeatedly retrained from scrat
@@ -114845,7 +115273,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.10611>
 
 * **[m-a-p/FineFineWeb](ai/models/huggingface-datasets-m-a-p.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: m-a-p/FineFineWeb (Likes: 240, Downloads: 2393840)
+  * Summary: Trending Hugging Face dataset: m-a-p/FineFineWeb (Likes: 240, Downloads: 2207004)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/m-a-p>
 
@@ -115324,7 +115752,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.35609>
 
 * **[Making Sense of Audience Change: Causal Attribution and Boundary Management on Xiaohongshu](ai/research/arxiv-2610-38026.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.38026v1 Announce Type: cross Abstract: Recommendation-driven platforms can reshape not only what users see, but also who becomes visible and how community boundaries are negotiated. We examine Xiaohongshu discussions surrounding a perceive
+  * Summary: arXiv:2610.38026v2 Announce Type: replace-cross Abstract: Recommendation-driven platforms can reshape not only what users see, but also who becomes visible and how community boundaries are negotiated. We examine Xiaohongshu discussions surrounding a
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2610.38026>
 
@@ -120127,6 +120555,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2609.25179>
 
+* **[Multi-Test Nation Bias Benchmarking of LLMs with Explicit Unbiased Baselines](ai/research/arxiv-2610-41486.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41486v1 Announce Type: new Abstract: While prior work has highlighted that systematic nation-level bias in large language models (LLMs) can pose operational risks for international relations (IR) applications, many existing evaluations sti
+  * Tags: `benchmark`, `meta-ai`, `mistral`, `models`, `openai`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41486>
+
 * **[Multi-Token Prediction and Alternative Tokenization Improve Learning Latent Multi-Hop Graph Search at Scale](ai/research/arxiv-2610-31439.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.31439v1 Announce Type: new Abstract: Given an unseen graph, a start node, $s$, and an end node, $t$, can a language model generate the shortest path from $s$ to $t$? Prior work has found that models fail to learn this task as the graphs sc
   * Source URL: <https://arxiv.org/abs/2610.31439>
@@ -120350,6 +120783,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.24799v1 Announce Type: cross Abstract: Large Language Models tend to hallucinate when answering domain-specific ques tions from scientific documents without prior fine-tuning. Currently, methods such as Retrieval-Augmented Generation parti
   * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24799>
+
+* **[Multimodal In-Context Learning with Explicit Rule Induction](ai/rag/arxiv-2610-41754.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41754v1 Announce Type: new Abstract: A central challenge in multimodal in-context learning (MICL) arises from tasks that are ill-defined without context and require uncovering the underlying rules from demonstrations. Existing methods pred
+  * Tags: `dataset`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41754>
 
 * **[Multimodal Item Parameter Estimation using Simulated Response Probabilitie](ai/research/arxiv-2608-10154.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.10154v1 Announce Type: cross Abstract: We present results from reconstructing multiple-choice model (MCM) and three-parameter logistic (3PL) model curves using a fine-tuned multimodal large language model (LLM) based on Qwen3.5. The model
@@ -120677,6 +121115,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation](ai/research/arxiv-2608-09035.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.09035v2 Announce Type: replace-cross Abstract: Text-to-music generation has advanced rapidly, but current systems still rely primarily on global text prompts, leaving the structural organization of generated music implicit and difficult to
   * Source URL: <https://arxiv.org/abs/2608.09035>
+
+* **[MuSID-KD: Multigranularity Knowledge Distillation for Generative Recommendation with Semantic IDs](ai/research/arxiv-2610-35218.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.35218v2 Announce Type: replace Abstract: Generative recommendation with semantic IDs (SIDs) represents each item as a sequence of discrete tokens and autoregressively predicts the next item's SID. Despite strong recommendation performance,
+  * Tags: `dataset`, `reddit`
+  * Source URL: <https://arxiv.org/abs/2610.35218>
 
 * **[MusTBench: Benchmarking and Advancing Temporal Grounding in Music LLMs](ai/research/arxiv-2605-29300.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.29300v2 Announce Type: replace-cross Abstract: Recent Large Audio-Language Models (LALMs) have demonstrated promising abilities in understanding musical content. However, whether their responses are grounded in the correct temporal regions
@@ -121663,7 +122106,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.15647>
 
 * **[Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability](ai/research/arxiv-2607-18368.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.18368v3 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to
+  * Summary: arXiv:2607.18368v5 Announce Type: replace Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2607.18368>
 
@@ -122918,7 +123361,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.03108>
 
 * **[Observable-Specific Validity Tests for Scientific AI: Controlled Approximations and Intervention Response](ai/research/arxiv-2610-41939.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41939v1 Announce Type: new Abstract: An approximation can reproduce an energy while missing its response, or satisfy an error tolerance without being certified by a given bound. We formulate observable-specific validity records for scienti
+  * Summary: arXiv:2610.41939v1 Announce Type: cross Abstract: An approximation can reproduce an energy while missing its response, or satisfy an error tolerance without being certified by a given bound. We formulate observable-specific validity records for scien
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.41939>
 
@@ -123918,7 +124361,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.22971>
 
 * **[On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning](ai/research/arxiv-2610-40945.md)** (`benchmark` | `useful` tier)
-  * Summary: arXiv:2610.40945v1 Announce Type: new Abstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate trai
+  * Summary: arXiv:2610.40945v1 Announce Type: cross Abstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate tr
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.40945>
 
@@ -124469,6 +124912,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `models`
   * Source URL: <https://arxiv.org/abs/2607.10252>
 
+* **[One Verdict Is Not Enough: Regression Testing Learned World Models and Their Test Harnesses](ai/research/arxiv-2610-41130.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41130v1 Announce Type: cross Abstract: Learned world models ship as software components whose model versions, preprocessing, and test harnesses change between releases. Work on model updates already counts per-sample regressions, or negati
+  * Tags: `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41130>
+
 * **[One Year Later...The Harms Persist, But So Do We!](ai/research/arxiv-2606-23884.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.23884v1 Announce Type: cross Abstract: General-purpose large language models (LLMs) are increasingly used for mental health-related conversations, yet safety safeguards remain inadequate and inconsistent across clinical conditions. This st
   * Tags: `benchmark`
@@ -124624,6 +125072,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.30317v2 Announce Type: replace Abstract: Dynamic origin-destination (OD) matrix estimation calibrates time-dependent input demand for simulations to reproduce observed link flows. Reinforcement learning is well suited to online estimation
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2608.30317>
+
+* **[Online Evidence-Containment Prediction over Text Spans under Distinct Queries](ai/research/arxiv-2610-41384.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41384v1 Announce Type: new Abstract: Evidence-grounded NLP systems often verify nested text regions sequentially, so verifying one region constrains others. We formalize this as Online Evidence-Containment Prediction (OECP): each candidate
+  * Source URL: <https://arxiv.org/abs/2610.41384>
 
 * **[Online Evolution Strategy for Flow-Matching VLA Policies via Self-Supervised Trajectory Distribution Optimization](ai/research/arxiv-2609-38855.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.38855v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models based on generative frameworks, such as Flow Matching, have recently achieved impressive performance in robotic manipulation. Unlike deterministic policies, Flow Ma
@@ -125003,7 +125455,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.08308>
 
 * **[openai-community/gpt2](ai/models/huggingface-openai-community-gpt2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: openai-community/gpt2 (Likes: 3913, Downloads: 29307840)
+  * Summary: Trending Hugging Face model: openai-community/gpt2 (Likes: 3913, Downloads: 29775719)
   * Tags: `hf-model`, `huggingface`, `openai`
   * Source URL: <https://huggingface.co/openai-community/gpt2>
 
@@ -125058,7 +125510,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.30628>
 
 * **[Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?](ai/research/arxiv-2610-40946.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40946v1 Announce Type: cross Abstract: Chain-of-thought (CoT) reasoning allows large language models (LLMs) to generate intermediate reasoning traces in natural language while solving complex tasks. These traces can support safety monitori
+  * Summary: arXiv:2610.40946v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning allows large language models (LLMs) to generate intermediate reasoning traces in natural language while solving complex tasks. These traces can support safety monitoring
   * Source URL: <https://arxiv.org/abs/2610.40946>
 
 * **[OpenJev-RLCD: A Working RLCD Implementation](ai/research/arxiv-2609-38850.md)** (`framework` | `useful` tier)
@@ -125486,6 +125938,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Optimization story: Bloom inference
   * Source URL: <https://huggingface.co/blog/bloom-inference-optimization>
 
+* **[Optimization Techniques for Solving the Minimum Red--Blue Separating Set Problem with an Application to Human--AI Text Separation](ai/research/arxiv-2610-41081.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41081v1 Announce Type: new Abstract: We study the so-called Minimum Red''Blue Separating Set Problem (MRBSSP) which arises from computational geometry. In particular, we propose a compact Set-Cover ILP formulation, safe preprocessing rules
+  * Tags: `hackernews`
+  * Source URL: <https://arxiv.org/abs/2610.41081>
+
 * **[Optimization with SpotOptim](ai/research/arxiv-2604-13672.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.13672v2 Announce Type: replace Abstract: The spotoptim package implements surrogate-model-based optimization of expensive black-box functions in Python. Building on two decades of Sequential Parameter Optimization (SPO) methodology, it pro
   * Tags: `benchmark`
@@ -125551,7 +126008,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.10550>
 
 * **[Optimizing Anytime Reasoning via Budget Relative Policy Optimization](ai/research/arxiv-2505-13438.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2505.13438v4 Announce Type: replace Abstract: Scaling test-time compute is crucial for enhancing the reasoning capabilities of large language models (LLMs). Existing approaches typically employ reinforcement learning (RL) to maximize a verifiab
+  * Summary: arXiv:2505.13438v4 Announce Type: replace-cross Abstract: Scaling test-time compute is crucial for enhancing the reasoning capabilities of large language models (LLMs). Existing approaches typically employ reinforcement learning (RL) to maximize a ve
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2505.13438>
 
@@ -125608,7 +126065,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/train-optimize-sd-intel>
 
 * **[Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning](ai/research/arxiv-2610-41949.md)** (`reference` | `useful` tier)
-  * Summary: arXiv:2610.41949v1 Announce Type: cross Abstract: Few-step flow models generate samples through a handful of large denoising transitions. Applying GRPO to such models requires introducing stochasticity into the denoising transitions, and when a singl
+  * Summary: arXiv:2610.41949v1 Announce Type: new Abstract: Few-step flow models generate samples through a handful of large denoising transitions. Applying GRPO to such models requires introducing stochasticity into the denoising transitions, and when a single
   * Tags: `models`, `youtube`
   * Source URL: <https://arxiv.org/abs/2610.41949>
 
@@ -125972,6 +126429,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.19895v1 Announce Type: cross Abstract: Text-guided video editing with diffusion models is impractically slow, hindered by costly multi-step sampling and inversion. We present OSVE, the first framework to successfully adapt one-step Text-to
   * Tags: `dataset`, `hackernews`, `youtube`
   * Source URL: <https://arxiv.org/abs/2607.19895>
+
+* **[OT-CAL: Optimal-Transport-Guided Adaptive Sample Selection for Efficient Visual Learning](ai/research/arxiv-2610-41677.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41677v1 Announce Type: cross Abstract: Deep neural networks for image recognition are typically trained using mini-batches, with a forward pass to compute predictions and losses followed by a more computationally expensive backward pass to
+  * Tags: `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.41677>
 
 * **[OT-FlowRec: Optimal Transport-Guided Multi-Bridge Flow for Multimodal Sequential Recommendation](ai/rag/arxiv-2610-16038.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.16038v1 Announce Type: cross Abstract: E-commerce user preferences evolve dynamically within sessions, exhibiting concurrent and multi-centric interest distributions. While existing multimodal sequential recommendation methods leverage glo
@@ -126893,7 +127355,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.02844>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized hallucination corpus for evaluating Retrieval-Augmented Language Models (RAGs). * Aims to benchmark and mitigate factual inconsistencies generated by RAG systems. * Supports the development of trustworthy RAG-base
+  * Summary: * Introduces RAGTruth, a specialized corpus for evaluating Retrieval-Augmented Language Models (RAG). * Specifically targets the detection and analysis of hallucination phenomena within RAG model outputs. * Aids in the development and benchmarking of
   * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
@@ -126963,6 +127425,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Patch where the text is new: a compression view of where byte-level models should spend compute](ai/research/arxiv-2610-22100.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2610.22100v1 Announce Type: cross Abstract: Byte-level language models such as the Byte Latent Transformer (BLT) run their large global model once per patch and start a patch where a small model's next-byte entropy is high. This rule rarely sta
   * Source URL: <https://arxiv.org/abs/2610.22100>
+
+* **[Patch-Based Deep Kernel Learning for Data Assimilation and Bias Correction with Extremely Sparse Observations](ai/research/arxiv-2610-41596.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41596v1 Announce Type: new Abstract: Data Assimilation (DA) reconstructs the state of a spatio-temporal system by combining sensor observations with the output of a numerical model. Since model states are high-dimensional while observation
+  * Source URL: <https://arxiv.org/abs/2610.41596>
 
 * **[Patch-based Memory Gate Model in Time Series Foundation Model](ai/research/arxiv-2509-18751.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2509.18751v4 Announce Type: replace Abstract: Recently reconstruction-based deep models have been widely used for time series anomaly detection, but as their capacity and generalization capability increase, these models tend to over-generalize,
@@ -128458,6 +128924,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2608.03579>
 
+* **[Pinching Antennas for ISAC: Waveguide Architectures, Solutions, and Future Directions](ai/research/arxiv-2610-41380.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41380v1 Announce Type: cross Abstract: Integrated sensing and communication (ISAC) is a core design principle for sixth-generation (6G) wireless systems, yet fixed antenna geometry limits its performance. Pinching antenna systems (PASS) gu
+  * Tags: `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41380>
+
 * **[PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest](ai/research/arxiv-2607-22518.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.22518v1 Announce Type: cross Abstract: In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new co
   * Tags: `models`, `paper`
@@ -129526,6 +129997,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2609.03503>
 
+* **[PPS: Plug-and-Play Saccadic Vision for Fine-Grained Classification](ai/research/arxiv-2509-15688.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2509.15688v2 Announce Type: replace-cross Abstract: Fine-grained visual classification benefits from high-resolution inputs to resolve subtle, localized cues, but at the cost of large compute and memory budgets. Inspired by human saccadic visio
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2509.15688>
+
 * **[PQMass: Probabilistic Assessment of the Quality of Generative Models using Probability Mass Estimation](ai/research/arxiv-2402-04355.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2402.04355v4 Announce Type: replace-cross Abstract: We propose a likelihood-free method for comparing two distributions given samples from each, with the goal of assessing the quality of generative models. The proposed approach, PQMass, provide
   * Source URL: <https://arxiv.org/abs/2402.04355>
@@ -129741,6 +130217,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.19392v1 Announce Type: new Abstract: Arsenic contamination in groundwater presents a longstanding public health crisis in the United States, especially for households depending on private wells. Accurate and spatially informed prediction o
   * Tags: `dataset`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2607.19392>
+
+* **[Predicting Human-Gain Curves under Local Proxy Optimization from Repeated Ratings](ai/rag/arxiv-2610-41114.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41114v1 Announce Type: new Abstract: Optimizing a proxy objective can improve human-perceived quality, but the resulting gain can vary with optimization strength. Average proxy-human correlation alone does not reveal how human-perceived qu
+  * Tags: `benchmark`, `dataset`, `models`, `openai`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41114>
 
 * **[Predicting integers from continuous parameters](ai/research/arxiv-2602-10751.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.10751v3 Announce Type: replace Abstract: We study the problem of predicting numeric labels that are constrained to the integers or to a subrange of the integers. For example, the number of up-votes on social media posts, or the number of b
@@ -132331,6 +132812,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2610.09044>
 
+* **[QUAL: Quantile Alignment Improves Zero-Shot Time-Series Foundation Models](ai/rag/arxiv-2610-41100.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41100v1 Announce Type: new Abstract: Time-series foundation models (TSFMs) provide zero-shot forecasts for unseen series, but their accuracy varies across datasets. Combining several models can reduce this variability, yet zero-shot deploy
+  * Tags: `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41100>
+
 * **[Quality Action Assurance: Multimodal Verification of Examiner Claims in VR OSCEs](ai/research/arxiv-2607-19063.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.19063v3 Announce Type: replace Abstract: Objective Structured Clinical Examinations (OSCEs) are the gold standard for assessing clinical competence, yet scoring remains vulnerable to examiner subjectivity, fatigue, and cognitive bias. Stan
   * Tags: `benchmark`, `youtube`
@@ -133051,6 +133537,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[RadFusion: Towards Threshold-Controllable Radiology Report Generation](ai/research/arxiv-2608-10505.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.10505v1 Announce Type: new Abstract: Automated radiology report generation is advancing rapidly in response to the shortage of radiologists, yet unlike a perception model, existing generation models offer no control over the sensitivity-sp
   * Source URL: <https://arxiv.org/abs/2608.10505>
+
+* **[Radial Kernel Attention for Long-Range Modeling in Polymer Machine Learning Force Fields](ai/research/arxiv-2610-41675.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41675v1 Announce Type: new Abstract: We introduce Radial Kernel Attention (RKA) for long-range modeling in polymer machine learning force fields. Local neighbor graphs constrain communication across polymer chains and their surrounding env
+  * Source URL: <https://arxiv.org/abs/2610.41675>
 
 * **[RADIO1D: Elastic Representations for Condensed Vision Modeling](ai/research/arxiv-2607-03624.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.03624v1 Announce Type: cross Abstract: This paper challenges the assumption that vision-language models (VLMs) require fixed patch-based 2D vision features. Analyzing fine-tuned vision encoders, we find that representations become increasi
@@ -134108,7 +134598,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.19398>
 
 * **[ReBRAC-v2: The Return of the King](ai/rag/arxiv-2608-01205.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2608.01205v2 Announce Type: replace Abstract: Recent offline reinforcement learning methods increasingly rely on expressive generative policies and specialized value guidance. We ask how far systematic modernization of a conventional behavior-r
+  * Summary: arXiv:2608.01205v2 Announce Type: replace-cross Abstract: Recent offline reinforcement learning methods increasingly rely on expressive generative policies and specialized value guidance. We ask how far systematic modernization of a conventional beha
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.01205>
 
@@ -134201,6 +134691,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.17981v3 Announce Type: replace Abstract: We describe an inference-time architectural enhancement for off-the-shelf foundation models that systematically reduces perplexity and boosts accuracy across generation and reasoning tasks. Our appr
   * Tags: `dataset`, `hackernews`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.17981>
+
+* **[RECITE: Revising Eligibility Criteria Incorporating Textual Evidence](ai/rag/arxiv-2610-41368.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41368v1 Announce Type: new Abstract: Overly restrictive eligibility criteria contribute to widespread enrollment failure in clinical trials, yet published recommendations for how specific criteria should be broadened remain disconnected fr
+  * Tags: `agents`, `benchmark`, `dataset`, `models`, `openai`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41368>
 
 * **[RecKG: Knowledge Graph for Recommender Systems](ai/research/arxiv-2501-03598.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2501.03598v2 Announce Type: replace-cross Abstract: Knowledge graphs have proven successful in integrating heterogeneous data across various domains. However, there remains a noticeable dearth of research on their seamless integration among het
@@ -135237,6 +135732,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.08056>
 
+* **[Reject, Remember, Retry: Why Multi-Turn Attackers Should Remember Their Mistakes](ai/research/arxiv-2610-31937.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.31937v2 Announce Type: replace Abstract: Existing multi-turn jailbreak attackers condition on the same conversation history as the target. We introduce $R^3$ (Reject, Remember, Retry), a black-box multi-LLM framework in which the attacker
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.31937>
+
 * **[Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models](ai/research/reka-core-flash-and-edge-a-series-of-powerful-mult.md)** (`framework` | `useful` tier)
   * Summary: We introduce Reka Core, Flash, and Edge, a series of powerful multimodal language models trained from scratch by Reka. Reka models are able to process and reason with text, images, video, and audio inputs. This technical report discusses details of t
   * Tags: `anthropic`, `benchmark`, `hackernews`, `language`, `models`, `multimodal`, `paper`, `semantic-scholar`, `youtube`
@@ -136055,6 +136555,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2204.06221v2 Announce Type: replace-cross Abstract: In the era of big data, intellectual property-oriented scientific and technological resources show the trend of large data scale, high information density, and low value density, which brings
   * Tags: `hackernews`, `paper`
   * Source URL: <https://arxiv.org/abs/2204.06221>
+
+* **[Researcher-in-the-Loop Evolutionary Discovery of Entanglement-Assisted Quantum Code Families](ai/research/arxiv-2610-41183.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41183v1 Announce Type: new Abstract: LLM-guided program evolution can produce mathematical constructions, but validity, generality, and reproducibility require distinct evidence. We develop a researcher-in-the-loop discovery pipeline that
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41183>
 
 * **[ReSeg: Retraining-free segmentation of abdominal organs via generalizable semantic representation learning](ai/research/arxiv-2610-29090.md)** (`framework` | `essential` tier)
   * Summary: arXiv:2610.29090v1 Announce Type: cross Abstract: Abdominal organ segmentation is essential in modern medical applications. While existing deep learning approaches demonstrate promising performance, their heavy reliance on large-scale image data rais
@@ -136947,6 +137452,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2609.11864>
 
+* **[ReuScope: Auditing Data Reuse and Evaluation Sensitivity in Capsule Vision 2024](ai/research/arxiv-2610-41835.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41835v1 Announce Type: new Abstract: We develop ReuScope, a protocol for auditing data reuse and evaluation sensitivity, using Capsule Vision 2024 as a case study. It combines measurements of data relationships with two comparisons: changi
+  * Tags: `benchmark`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.41835>
+
 * **[Reusing Past Samples in Proximal Policy Optimization: When and How Does It Help?](ai/research/arxiv-2610-01399.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.01399v1 Announce Type: new Abstract: Among on-policy deep reinforcement learning methods, Proximal Policy Optimization (PPO) has become the de facto standard, due to its consistently strong empirical performance across diverse application
   * Tags: `models`
@@ -137600,6 +138110,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.20656v1 Announce Type: new Abstract: Traffic sensors commonly record flow, speed, and occupancy, but standard traffic flow forecasting benchmarks and models rarely exploit all three raw measurements reliably. Although speed and occupancy p
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2608.20656>
+
+* **[RiskyPy: Toward Model-Calibrated Prompt Generation for Joint Security and Functionality Evaluation of LLM-Generated Code](ai/research/arxiv-2610-40735.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40735v1 Announce Type: cross Abstract: Evaluating approaches that improve the security of LLM code generation requires datasets that jointly assess security and functionality and remain adapted to the capabilities of the models being studi
+  * Tags: `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.40735>
 
 * **[RL Forgets! Towards Continual Policy Optimization](ai/research/arxiv-2607-04364.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.04364v2 Announce Type: replace Abstract: Continual post-training is becoming a central paradigm for adapting vision-language models to evolving tasks. Recent work has increasingly favored reinforcement learning over supervised fine-tuning,
@@ -138257,7 +138772,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2601.03822>
 
 * **[roisincrtai/ptb-xl-1.0.3](ai/models/huggingface-datasets-roisincrtai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: roisincrtai/ptb-xl-1.0.3 (Likes: 2, Downloads: 1504747)
+  * Summary: Trending Hugging Face dataset: roisincrtai/ptb-xl-1.0.3 (Likes: 2, Downloads: 1526688)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/roisincrtai>
 
@@ -138385,6 +138900,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.13562v2 Announce Type: replace Abstract: ARC tasks can be formulated as visual transformation problems, where a model must infer a high-level transformation rule from a small set of demonstrations and apply it consistently across a grid. W
   * Tags: `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2601.13562>
+
+* **[ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration](ai/research/arxiv-2610-41168.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2610.41168v1 Announce Type: cross Abstract: Although large language models have shown strong capabilities in domain-specific code generation, their performance in robotics software development, especially for the Robot Operating System (ROS), r
+  * Tags: `anthropic`, `benchmark`, `producthunt`
+  * Source URL: <https://arxiv.org/abs/2610.41168>
 
 * **[RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](ai/research/arxiv-2610-17665.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.17665v3 Announce Type: replace Abstract: Can vision-language models turn 2D observations into 3D understanding that supports precise action? This requires inferring object geometry, anticipating the effects of rotation, and refining action
@@ -139056,6 +139576,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://arxiv.org/abs/2605.08270>
 
+* **[Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement](ai/research/arxiv-2610-40751.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40751v1 Announce Type: cross Abstract: Recursive self-improvement (RSI) enables large language models to advance their capabilities through successive updates, but these updates can also introduce new risks and weaken existing safeguards.
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.40751>
+
 * **[Safin-1: Safety from Within through Memory-Native State Evolution](ai/research/arxiv-2609-00092.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2609.00092v1 Announce Type: new Abstract: Long-horizon complex tasks require foundation models to accumulate information, maintain internal states, and adapt over extended interactions. Safety should be an intrinsic property of the model itself
   * Tags: `benchmark`, `models`
@@ -139184,7 +139709,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 855, Downloads: 2075164)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 856, Downloads: 2089484)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -139501,7 +140026,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.07737>
 
 * **[SAT-ACT: Learning CDCL Branching from Outcome-Derived Action Preferences](ai/research/arxiv-2610-41290.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41290v1 Announce Type: cross Abstract: Learning-based approaches have increasingly been explored for SAT solving, with particular attention to improving branching decisions in conflict-driven clause learning (CDCL) solvers. These approache
+  * Summary: arXiv:2610.41290v1 Announce Type: new Abstract: Learning-based approaches have increasingly been explored for SAT solving, with particular attention to improving branching decisions in conflict-driven clause learning (CDCL) solvers. These approaches
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.41290>
 
@@ -139885,6 +140410,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.22790v5 Announce Type: replace-cross Abstract: Large automatic speech recognition (ASR) models such as Whisper must be deployed across hardware with widely varying memory and inference-speed constraints. We present a compression framework
   * Source URL: <https://arxiv.org/abs/2606.22790>
 
+* **[Scaling Causal Mediation for Complex Systems: A Framework for Root Cause Analysis](ai/research/arxiv-2512-14764.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2512.14764v2 Announce Type: replace-cross Abstract: Modern operational systems ranging from logistics and cloud infrastructure to industrial IoT, are governed by complex, interdependent processes. Understanding how interventions propagate throu
+  * Tags: `paper`
+  * Source URL: <https://arxiv.org/abs/2512.14764>
+
 * **[Scaling Cheap Synthetic Pretraining Improves Indoor Radio-Map Prediction](ai/rag/arxiv-2610-19015.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.19015v1 Announce Type: new Abstract: Real measurements are too limited to train an accurate indoor pathloss predictor that works across a wide range of buildings. Large-scale synthetic pretraining offers a way forward, but real building la
   * Tags: `benchmark`, `dataset`, `rag`
@@ -140096,6 +140626,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.19255v1 Announce Type: new Abstract: Time series anomaly detection plays a crucial role in a wide range of real-world applications. Reconstruction-based methods have become the mainstream paradigm, but they suffer from over-generalization
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.19255>
+
+* **[scAnyOmics: Foundation-Model Distillation for Any-to-Any Completion of Multi-omics Virtual Cells](ai/research/arxiv-2610-41399.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41399v1 Announce Type: new Abstract: Recent advances in single-cell technologies have enabled the profiling of multiple molecular modalities, including transcriptomics, proteomics, and chromatin accessibility, providing a more comprehensiv
+  * Tags: `benchmark`, `hackernews`
+  * Source URL: <https://arxiv.org/abs/2610.41399>
 
 * **[SCB: SpeechConversationBench for Evaluating Multi-Turn Reasoning in Speech-to-Speech Models](ai/research/arxiv-2609-40198.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.40198v1 Announce Type: cross Abstract: Speech-to-speech systems must solve tasks whose requirements emerge across conversational turns. We introduce SpeechConversationBench (SCB), a focused evaluation of spoken mathematical reasoning using
@@ -141452,7 +141987,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.18835>
 
 * **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](ai/research/arxiv-2605-28567.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2605.28567v3 Announce Type: replace Abstract: Sparse autoencoders (SAEs) have become a central tool for interpreting language models. However, two key SAE analyses that remain difficult to scale are (1) matching semantically similar features ac
+  * Summary: arXiv:2605.28567v3 Announce Type: replace-cross Abstract: Sparse autoencoders (SAEs) have become a central tool for interpreting language models. However, two key SAE analyses that remain difficult to scale are (1) matching semantically similar featu
   * Source URL: <https://arxiv.org/abs/2605.28567>
 
 * **[Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors](ai/research/arxiv-2608-23873.md)** (`prompt` | `useful` tier)
@@ -141729,7 +142264,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6059, Downloads: 182509097)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6059, Downloads: 182461837)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -141890,6 +142425,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.11567v3 Announce Type: replace-cross Abstract: Battery state of health (SoH) forecasting is important for battery management, but remains challenging due to nonlinear degradation and heterogeneity across batteries. Existing data-driven app
   * Tags: `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2610.11567>
+
+* **[SERIAL-7: Deriving, Realizing, and Preserving Machine-Verifiable Outputs Across Representations](ai/research/arxiv-2610-41308.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41308v1 Announce Type: new Abstract: Large language models increasingly generate structured outputs consumed by programs and downstream systems, where semantic correctness alone does not guarantee reliable execution. We introduce SERIAL-7,
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41308>
 
 * **[Serious Games: Human-AI Interaction, Evolution, and Coevolution](ai/research/arxiv-2505-16388.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.16388v3 Announce Type: replace Abstract: The serious games between humans and AI have only just begun. Evolutionary Game Theory (EGT) models the competitive and cooperative strategies of biological entities. EGT could help predict the pote
@@ -142896,6 +143436,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2303.18031>
 
+* **[Simple Features Beat Most AI Control Monitors](ai/research/arxiv-2610-41713.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41713v1 Announce Type: cross Abstract: AI control relies on monitors to catch a capable model that sabotages its work. These monitors are evaluated on their ability to differentiate honest from backdoored code. We show that on a standard e
+  * Tags: `anthropic`, `benchmark`, `dataset`
+  * Source URL: <https://arxiv.org/abs/2610.41713>
+
 * **[Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization](ai/rag/arxiv-2505-07675.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.07675v3 Announce Type: replace Abstract: Semi-supervised learning (SSL) has emerged as a practical solution for addressing data scarcity challenges by leveraging unlabeled data. Recently, vision-language models (VLMs), pre-trained on massi
   * Tags: `dataset`, `rag`
@@ -143029,7 +143574,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2510.16656>
 
 * **[Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty](ai/rag/arxiv-2609-04710.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.04710v2 Announce Type: replace Abstract: Inferring cellular dynamics from unpaired single-cell snapshots requires modeling both state transitions and population growth or death. Unbalanced dynamic optimal transport (UDOT) addresses this by
+  * Summary: arXiv:2609.04710v2 Announce Type: replace-cross Abstract: Inferring cellular dynamics from unpaired single-cell snapshots requires modeling both state transitions and population growth or death. Unbalanced dynamic optimal transport (UDOT) addresses t
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.04710>
 
@@ -144280,6 +144825,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`
   * Source URL: <https://arxiv.org/abs/2607.10296>
 
+* **[Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance](ai/research/arxiv-2605-06535.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2605.06535v2 Announce Type: replace-cross Abstract: In recent years, open-source efforts like Senorita-2M have propelled video editing toward natural language instruction. However, current publicly available datasets predominantly focus on loca
+  * Tags: `benchmark`, `dataset`, `paper`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2605.06535>
+
 * **[SparLeak: Privacy Leakage from Sparse Attention in LLM Inference on Shared GPUs](ai/rag/arxiv-2609-38830.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.38830v1 Announce Type: new Abstract: Sparse attention is widely used to accelerate long-context inference in modern large language models (LLMs), but its input-dependent execution behavior introduces previously unexplored privacy risks. We
   * Tags: `benchmark`, `dataset`, `rag`, `reddit`, `youtube`
@@ -144398,6 +144948,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.34590v1 Announce Type: new Abstract: A central limitation of modern machine learning systems is the lack of formal certificates guaranteeing their behavior beyond empirical, sample-based evaluation. Sum-of-squares (SOS) methods provide suc
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.34590>
+
+* **[Sparse Text Diffusion under Dual Budgets: Context Connectivity and Expert Activation](ai/research/arxiv-2610-41487.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41487v1 Announce Type: cross Abstract: Long-context diffusion repeatedly pays for both token interaction and feed-forward computation. We formulate these costs as two separate budgets: the edges available to an attention graph and the expe
+  * Source URL: <https://arxiv.org/abs/2610.41487>
 
 * **[Sparse-Observation Atmospheric Thermal Forecasting with Physics-Informed Neural Networks for Climate-Aware Digital Twins](ai/research/arxiv-2609-27290.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2609.27290v1 Announce Type: new Abstract: Short-horizon forecasts of atmospheric temperature are needed to support climate-aware digital-twin systems, but such forecasts must be produced where thermal observations are incomplete. This study eva
@@ -144681,10 +145235,19 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `models`, `openai`
   * Source URL: <https://arxiv.org/abs/2606.20691>
 
+* **[Specification-Aware Distribution Shaping for Robotics Foundation Models](ai/research/arxiv-2603-17969.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2603.17969v2 Announce Type: replace-cross Abstract: Robotics foundation models have demonstrated strong capabilities in executing natural language instructions across diverse tasks and environments. However, they remain largely data-driven and
+  * Source URL: <https://arxiv.org/abs/2603.17969>
+
 * **[Specification-Based Testing of Large Language Models](ai/research/arxiv-2610-14443.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.14443v1 Announce Type: cross Abstract: Model cards, system cards, and safety reports increasingly document LLM safety behaviors, yet safety evaluations typically start from predefined benchmarks rather than asking which documented claims t
   * Tags: `anthropic`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.14443>
+
+* **[Specification-Guided Generation for Large Language Models](ai/research/arxiv-2610-41511.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41511v1 Announce Type: new Abstract: Large language models (LLMs) can generate structured outputs, but existing constrained-decoding methods mainly enforce syntax and cannot directly enforce satisfaction of a formal specification. We intro
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41511>
 
 * **[Specification-Guided Synthesis of Deadlock-Free Communication Protocol Refinements with Large Language Models](ai/research/arxiv-2607-27964.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.27964v3 Announce Type: replace-cross Abstract: Ensuring behavioural correctness in communication protocols is a central challenge in distributed software systems, as subtle inconsistencies can lead to deadlocks. In such settings, protocol
@@ -145999,7 +146562,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.06473>
 
 * **[Steering Vectors as a Training Signal in LLM Post-Training](ai/research/arxiv-2610-40998.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40998v1 Announce Type: new Abstract: Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time. While prior work has mainly used SVs as post-hoc controls, we ask whe
+  * Summary: arXiv:2610.40998v1 Announce Type: cross Abstract: Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time. While prior work has mainly used SVs as post-hoc controls, we ask w
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.40998>
 
@@ -146967,6 +147530,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.01774v2 Announce Type: replace Abstract: Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a times
   * Source URL: <https://arxiv.org/abs/2607.01774>
 
+* **[Subliminal Reinforcement Learning: traits travel through a judge's scores](ai/research/arxiv-2610-41301.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41301v1 Announce Type: new Abstract: Subliminal learning, the transfer of a model's trait through data with no semantic trace of it, has been shown for students trained on a teacher's text. Post-training relies on group relative policy opt
+  * Source URL: <https://arxiv.org/abs/2610.41301>
+
 * **[Sublinear Sketches for Approximate Nearest Neighbor and Kernel Density Estimation](ai/research/arxiv-2510-23039.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2510.23039v2 Announce Type: replace Abstract: Approximate Nearest Neighbor (ANN) search and Approximate Kernel Density Estimation (A-KDE) are fundamental problems at the core of modern machine learning, with broad applications in data analysis,
   * Tags: `dataset`
@@ -147235,6 +147802,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.00380v3 Announce Type: replace-cross Abstract: Machine unlearning removes the influence of specific training data from a trained model without retraining it from scratch. Evaluating an unlearning method requires repeating training, unlearn
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.00380>
+
+* **[SUREON: A Benchmark and Vision-Language Model for Surgical Reasoning](ai/research/arxiv-2603-06570.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2603.06570v2 Announce Type: replace-cross Abstract: A capable surgical AI model should reason from visual evidence; yet, many existing surgical benchmarks can be partially solved without visual input, as models may exploit procedural priors or
+  * Tags: `benchmark`, `dataset`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2603.06570>
 
 * **[Surfing the Activation Wave: Analyzing the Information and Geometry of LLM Hidden States for Speculative Decoding](ai/research/arxiv-2610-12939.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.12939v1 Announce Type: cross Abstract: Decoder hidden states from different layers of large language models (LLMs) often encode complementary information. However, existing speculative decoding methods typically rely on a small set of targ
@@ -150029,6 +150601,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.25450>
 
+* **[The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model](ai/research/arxiv-2610-40847.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40847v1 Announce Type: cross Abstract: Continuous diffusion language models (CDLMs) and speculative drafters offer efficient language generation but are typically evaluated differently: CDLMs generate independently through iterative refine
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2610.40847>
+
 * **[The generative paradox: the Anti-Prompt paradigm for human capability](ai/research/arxiv-2610-40151.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.40151v1 Announce Type: new Abstract: Generative AI in education is usually judged by the output of human-AI teams. That focus overlooks a second outcome: what people can still understand, challenge, repair, and adapt when assistance change
   * Source URL: <https://arxiv.org/abs/2610.40151>
@@ -150403,6 +150980,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models](ai/research/arxiv-2607-27281.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2607.27281v1 Announce Type: new Abstract: A capability appears in a language model when the last parts of its circuit align in one stochastic attempt, and getting all but one right is worth nothing. We show this no-partial-credit joint alignmen
   * Source URL: <https://arxiv.org/abs/2607.27281>
+
+* **[The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results](ai/research/arxiv-2610-42066.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2610.42066v1 Announce Type: new Abstract: AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. We introduce the Knowledge Layer Model (KLM), an open, implementation-neutral specification for inferen
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.42066>
 
 * **[The KV Cache Is the New Memory Wall](ai/research/arxiv-2609-30854.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2609.30854v1 Announce Type: cross Abstract: Autoregressive LLM inference at long context is bounded by memory bandwidth, not arithmetic throughput, and the binding resource shifts from model weights to the Key-Value (KV) cache as sequence lengt
@@ -151666,7 +152248,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.27885>
 
 * **[There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?](ai/research/arxiv-2610-42030.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.42030v1 Announce Type: new Abstract: Looping re-applies a block of layers so that each token passes through the block more than once. Adding a loop to a trained model is attractive because it leaves the parameter count, and hence the disk
+  * Summary: arXiv:2610.42030v1 Announce Type: cross Abstract: Looping re-applies a block of layers so that each token passes through the block more than once. Adding a loop to a trained model is attractive because it leaves the parameter count, and hence the dis
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.42030>
 
@@ -151857,6 +152439,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[ThinkPrior: Zero-Rollout Difficulty Priors for Cold-Start Prompt Selection in RLVR](ai/research/arxiv-2609-09075.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.09075v2 Announce Type: replace Abstract: In reinforcement learning with verifiable rewards (RLVR) trained with group relative policy optimization (GRPO), the KL-free reward-advantage term studied here depends on within-group reward variati
   * Source URL: <https://arxiv.org/abs/2609.09075>
+
+* **[ThinkSafe: Self-Generated Safety Alignment for Reasoning Models](ai/rag/arxiv-2601-23143.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2601.23143v5 Announce Type: replace Abstract: Large reasoning models achieve strong performance through reinforcement learning but can suffer safety degradation. External teacher distillation can restore safety yet may compromise reasoning perf
+  * Tags: `dataset`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2601.23143>
 
 * **[ThinQuant: Scalable Rotation Learning for Weight and Activation Quantization of LLMs](ai/research/arxiv-2609-36120.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2609.36120v1 Announce Type: new Abstract: Learned rotations play an important role in enabling low-bit weight and activation quantization of large language models by smoothing outliers in the activation distribution. State-of-the-art approaches
@@ -153322,7 +153909,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17059>
 
 * **[Towards Diverse and Comprehensive Benchmarks for Mutual Information Estimation](ai/research/arxiv-2607-03487.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.03487v2 Announce Type: replace Abstract: Mutual information estimation is a central problem in machine learning and statistics; however, existing benchmarks typically evaluate estimators on simplified, low-dimensional distributions, leavin
+  * Summary: arXiv:2607.03487v2 Announce Type: replace-cross Abstract: Mutual information estimation is a central problem in machine learning and statistics; however, existing benchmarks typically evaluate estimators on simplified, low-dimensional distributions,
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.03487>
 
@@ -154770,6 +155357,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.26974v1 Announce Type: new Abstract: We show that two-layer transformers trained to near-zero loss on a sorting task converge to one of two mechanistically distinct solution classes depending on their initialization. One solution class con
   * Source URL: <https://arxiv.org/abs/2610.26974>
 
+* **[Transformers Model Integration Contracts](ai/models/huggingface-blog-transformers-mic.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Transformers Model Integration Contracts
+  * Source URL: <https://huggingface.co/blog/transformers-mic>
+
 * **[Transformers now runs llama.cpp quants](ai/models/huggingface-blog-transformers-llama-cpp-quants.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Transformers now runs llama.cpp quants
   * Tags: `meta-ai`, `models`
@@ -155639,7 +156230,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.16973>
 
 * **[Turing LLM Post-Training: Calibrated Distillation and Efficient Dynamic-MoE Execution](ai/research/arxiv-2610-39876.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.39876v2 Announce Type: replace Abstract: We study post-training for dynamically routed mixture-of-experts (MoE) models, focusing on integrating independently optimized specialists while keeping consolidation efficient. Our approach combine
+  * Summary: arXiv:2610.39876v2 Announce Type: replace-cross Abstract: We study post-training for dynamically routed mixture-of-experts (MoE) models, focusing on integrating independently optimized specialists while keeping consolidation efficient. Our approach c
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.39876>
 
@@ -157533,6 +158124,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Using Machine Learning to Aid Survivors and Race through Time
   * Source URL: <https://huggingface.co/blog/using-ml-for-disasters>
 
+* **[Using Machine Learning to Measure Self-Efficacy Belief Through Learners' Interaction Traces in Technology-Enhanced Learning](ai/research/arxiv-2610-41900.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41900v1 Announce Type: new Abstract: Self-efficacy beliefs play a critical role in learners' performance, academic choices, and, more broadly, in their future career trajectories. As Technology-Enhanced Learning (TEL) environments have dem
+  * Tags: `hackernews`, `models`, `paper`
+  * Source URL: <https://arxiv.org/abs/2610.41900>
+
 * **[Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models](ai/rag/arxiv-2503-06269.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2503.06269v3 Announce Type: replace Abstract: Traditional white-box methods for creating adversarial perturbations against LLMs typically rely only on gradient computation from the targeted model, ignoring the internal mechanisms responsible fo
   * Tags: `dataset`, `hackernews`, `meta-ai`, `models`, `rag`
@@ -157941,7 +158537,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.04882>
 
 * **[Variational decomposition autoencoding improves disentanglement of latent representations](ai/research/arxiv-2601-06844.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2601.06844v2 Announce Type: replace Abstract: Understanding the structure of complex, nonstationary, high-dimensional time-evolving signals is a central challenge in scientific data analysis. In many domains, such as speech and biomedical signa
+  * Summary: arXiv:2601.06844v2 Announce Type: replace-cross Abstract: Understanding the structure of complex, nonstationary, high-dimensional time-evolving signals is a central challenge in scientific data analysis. In many domains, such as speech and biomedical
   * Tags: `benchmark`, `dataset`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2601.06844>
 
@@ -158526,6 +159122,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2606.16092>
 
+* **[Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems](ai/research/arxiv-2610-41018.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41018v1 Announce Type: new Abstract: Violet teaming has been proposed as a method to integrate technical, policy, and societal considerations into the evaluation of emerging technologies. Here, we document a pilot expert workshop used to e
+  * Tags: `benchmark`, `hackernews`
+  * Source URL: <https://arxiv.org/abs/2610.41018>
+
 * **[VIP-COP: Context Optimization for Tabular Foundation Models](ai/research/arxiv-2605-12904.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2605.12904v2 Announce Type: replace Abstract: Tabular foundation models (TFMs) have emerged as a powerful paradigm for in-context learning on structured data, enabling direct prediction on new tabular tasks without task-specific training. Howev
   * Source URL: <https://arxiv.org/abs/2605.12904>
@@ -158871,6 +159472,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.04517v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models are commonly treated as end-to-end action policies conditioned on natural-language task descriptions. In practice, however, their behavior often depends sharply on ho
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2607.04517>
+
+* **[VLA Policies Do Not Know When Not to Act: Unintended Task Execution and Start Suppression](ai/research/arxiv-2610-41609.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41609v1 Announce Type: cross Abstract: A robot should act only on an instruction from a person or on an intent that the robot explicitly represents and generates. Unintended actions taken without such an instruction can cause risk or incon
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2610.41609>
 
 * **[vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](ai/research/arxiv-2603-13966.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.13966v3 Announce Type: replace Abstract: Vision-Language-Action (VLA) models are increasingly evaluated across multiple simulation benchmarks, yet adding each benchmark to an evaluation pipeline requires resolving incompatible dependencies
@@ -159551,6 +160157,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2604.07242>
 
+* **[WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection](ai/research/arxiv-2610-41037.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41037v1 Announce Type: cross Abstract: Web overlays, such as cookie consent banners, newsletter prompts, and age gates, obstruct automated web crawlers and degrade downstream document representations. While proprietary multimodal Large Lan
+  * Source URL: <https://arxiv.org/abs/2610.41037>
+
 * **[WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems](ai/research/arxiv-2605-22876.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2605.22876v2 Announce Type: replace Abstract: Existing neural solvers for Multi-Objective Combinatorial Optimization Problems (MOCOPs) commonly adopt decomposition-based strategies that scalarize a MOCOP into multiple subproblems associated wit
   * Tags: `models`
@@ -159571,17 +160181,17 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2505.18930>
 
 * **[WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search](ai/research/arxiv-2610-16927.md)** (`reference` | `useful` tier)
-  * Summary: arXiv:2610.16927v1 Announce Type: new Abstract: Short-video search requires compact query rewriters that infer personalized intent from brief, ambiguous queries under strict latency constraints. The challenge is to decide when personalization is warr
-  * Tags: `youtube`
+  * Summary: arXiv:2610.16927v2 Announce Type: replace Abstract: Short-video search needs compact query rewriters that recover users' personalized intent from ambiguous queries under strict latency constraints. Existing LLM-based methods have improved rewriting b
+  * Tags: `models`, `youtube`
   * Source URL: <https://arxiv.org/abs/2610.16927>
 
 * **[wegrthj/e94fjt-qi9l-raw](ai/models/huggingface-datasets-wegrthj.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: wegrthj/e94fjt-qi9l-raw (Likes: 9, Downloads: 2761605)
+  * Summary: Trending Hugging Face dataset: wegrthj/e94fjt-qi9l-raw (Likes: 9, Downloads: 2762874)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/wegrthj>
 
 * **[wei82/precancer-omics-data](ai/models/huggingface-datasets-wei82.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: wei82/precancer-omics-data (Likes: 23, Downloads: 1355048)
+  * Summary: Trending Hugging Face dataset: wei82/precancer-omics-data (Likes: 23, Downloads: 1396680)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/wei82>
 
@@ -159872,7 +160482,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.ibm.com/think/topics/diffusion-models>
 
 * **[What Breaks When Facts Become Stories? The Distortions Source-Agreement Metrics Miss When Models Retell Real Events](ai/research/arxiv-2610-39500.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.39500v1 Announce Type: new Abstract: Language models are now widely used to turn recorded facts into media for public consumption, yet evaluation of such output still assumes agreement with the source as its measure of success. In reconstr
+  * Summary: arXiv:2610.39500v2 Announce Type: replace Abstract: Language models are now widely used to turn recorded facts into media for public consumption, yet evaluation of such output still assumes agreement with the source as its measure of success. In reco
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2610.39500>
 
@@ -159999,7 +160609,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05381>
 
 * **[What Does a Harness Repair? Three Preregistered Studies Around a Longevity-Tuned Language Model](ai/research/arxiv-2610-05533.md)** (`benchmark` | `useful` tier)
-  * Summary: arXiv:2610.05533v3 Announce Type: replace Abstract: A harness search around a frozen longevity-tuned 1.7B model reported a rescue. An audit found that the gain came from rows the start left unparsed, that the caller sent each row's reference answer a
+  * Summary: arXiv:2610.05533v3 Announce Type: replace-cross Abstract: A harness search around a frozen longevity-tuned 1.7B model reported a rescue. An audit found that the gain came from rows the start left unparsed, that the caller sent each row's reference an
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2610.05533>
 
@@ -160293,6 +160903,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[What Should a Self-Teacher See? Privileged Context Design for On-Policy Self-Distillation](ai/research/arxiv-2609-25623.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.25623v1 Announce Type: new Abstract: More privileged information does not always make a better teacher. We study this tension in on-policy self-distillation (OPSD), where a frozen copy of the base model scores the student's own rollouts un
   * Source URL: <https://arxiv.org/abs/2609.25623>
+
+* **[What Should LLMs Forget: Reinforcement Unlearning of Knowledge Associations](ai/research/arxiv-2610-41616.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41616v1 Announce Type: new Abstract: Large language models (LLMs) acquire extensive factual knowledge during pre-training, which may include sensitive, private, or copyrighted information, motivating the development of unlearning methods t
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41616>
 
 * **[What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training](ai/research/arxiv-2610-12995.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.12995v1 Announce Type: cross Abstract: Supervised fine-tuning (SFT) remains a widely used approach for post-training large language models, because fixed demonstrations can directly introduce desired reasoning strategies and behavioral pat
@@ -161012,6 +161627,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2609.22299>
 
+* **[When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity](ai/research/arxiv-2610-41970.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41970v1 Announce Type: new Abstract: World-action models increasingly apply test-time scaling, spending extra inference computation on candidate selection and adaptive allocation to improve control. Such gains are credible only when candid
+  * Tags: `benchmark`
+  * Source URL: <https://arxiv.org/abs/2610.41970>
+
 * **[When Does Text Inform? Benchmarking Information-Theoretic Metrics for Multimodal Time-Series Forecasting](ai/research/arxiv-2609-11282.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.11282v1 Announce Type: new Abstract: Multimodal forecasting models that combine time series with text annotations promise richer prediction through textual context, but how do we know whether a text annotation meaningfully contributes to t
   * Tags: `benchmark`, `dataset`
@@ -161161,7 +161781,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.21139>
 
 * **[When Is a Relation Worth Trusting? Manipulation Costs, Exposure, and the Trust Trap in Multi-Relational Graph Learning](ai/research/arxiv-2610-37239.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.37239v2 Announce Type: replace Abstract: Multi-relational graph detectors learn from clean data how much to trust each relation, but an adversary pays a different price to manipulate each relation and each action; taking such costs as give
+  * Summary: arXiv:2610.37239v2 Announce Type: replace-cross Abstract: Multi-relational graph detectors learn from clean data how much to trust each relation, but an adversary pays a different price to manipulate each relation and each action; taking such costs a
   * Source URL: <https://arxiv.org/abs/2610.37239>
 
 * **[When is a System Discoverable from Data? Discovery Requires Chaos](ai/research/arxiv-2511-08860.md)** (`framework` | `useful` tier)
@@ -161652,6 +162272,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[When Steering Fails in Latent Reasoning: A Latent-to-Language Transition Gap](ai/research/arxiv-2609-21662.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.21662v1 Announce Type: cross Abstract: Activation steering has become a widely used approach for controlling language models during explicit chain-of-thought (CoT) reasoning, motivating its extension to latent CoT. However, we find that st
   * Source URL: <https://arxiv.org/abs/2609.21662>
+
+* **[When Steering Shifts Discourse: Identifying and Intervening on Discourse-Level Changes due to Activation Steering in LLMs](ai/research/arxiv-2610-41661.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41661v1 Announce Type: cross Abstract: Activation steering is an inference-time technique used to control or modify the behavior, tone, or safety properties of a large language model (LLM) without retraining the model's weights or editing
+  * Tags: `hackernews`, `models`
+  * Source URL: <https://arxiv.org/abs/2610.41661>
 
 * **[When Style Similarity Scores Fail: Diagnosing Raw CSD Cosine in Artist-Style Evaluation](ai/research/arxiv-2605-09030.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.09030v2 Announce Type: replace-cross Abstract: Raw cosine in the 768-dimensional output space of the Contrastive Style Descriptor (CSD) is now widely read as an absolute, calibrated style-fidelity score for text-to-image and style-imitatio
@@ -162297,6 +162922,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `leaderboard`
   * Source URL: <https://arxiv.org/abs/2608.15980>
 
+* **[Whose Values, Which Contexts, and What Signals? Grounding Cultural Value Alignment with Re3Culture](ai/rag/arxiv-2610-41793.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2610.41793v1 Announce Type: new Abstract: Cultural value alignment requires not only model optimization but also a well-specified target grounded in real-human evidence. Yet how such targets should be grounded in human data remains largely unex
+  * Tags: `dataset`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41793>
+
 * **[Whose Voice Survives the Summary? A Voice-Retention Audit of LLM Employee Listening](ai/research/arxiv-2609-38818.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.38818v1 Announce Type: new Abstract: Organizations increasingly route employee feedback to leaders through large language model (LLM) summaries, an unaudited layer that silences already-spoken voice. We introduce a Voice Retention / Repres
   * Source URL: <https://arxiv.org/abs/2609.38818>
@@ -162628,6 +163258,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.23765v1 Announce Type: new Abstract: Large language models (LLMs) achieve impressive performance across multiple domains, but using the most capable model for every query is prohibitive at scale. LLM routing exploits diversity in model cap
   * Tags: `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2607.23765>
+
+* **[With foundation-model features, aggregator complexity does not improve cross-hospital discrimination in gastric whole-slide image classification](ai/research/arxiv-2610-41328.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41328v1 Announce Type: cross Abstract: Whole-slide image classifiers are usually developed within one hospital and often go untested at unseen hospitals. We assembled 5,036 haematoxylin-and-eosin-stained gastric slides from five Korean hos
+  * Source URL: <https://arxiv.org/abs/2610.41328>
 
 * **[Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](ai/research/arxiv-2608-17017.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.17017v1 Announce Type: cross Abstract: The implementation of artificial intelligence techniques and tools in the media will systematically and continuously alter their work and that of their professionals during the coming decades. To this
@@ -164961,6 +165595,11 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Jobs Market
 
+* **[AI evaluators favor job applications written by certain AI models, independent of candidate quality](ai/agents/arxiv-2610-41866.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41866v1 Announce Type: cross Abstract: Job applicants increasingly use large language models (LLMs) to write cover letters, while employers deploy LLMs to screen them. In this all-AI setting, we ask whether the \emph{choice of model} affec
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2610.41866>
+
 * **[Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring](ai/research/arxiv-2604-19984.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.19984v2 Announce Type: replace-cross Abstract: Research has documented LLMs' name-based bias in hiring and salary recommendations. In this paper, we instead consider a setting where LLMs generate candidate summaries for downstream assessme
   * Tags: `paper`, `scripts`
@@ -165654,6 +166293,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Skilljar Academy** provides role-based eLearning paths (e.g., Program Owner, Content Creator, Developer) with modular courses covering foundational, dashboard, and advanced customization topics. - **Gainsight integration courses** focus on centra
   * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `dataset`, `hackernews`, `models`, `openai`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://education.gainsight.com/page/skilljar>
+
+* **[SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions](ai/rag/arxiv-2603-07379.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2603.07379v2 Announce Type: replace Abstract: Retrieval-Augmented Generation (RAG) systems are increasingly evolving into agentic architectures where large language models autonomously coordinate multi-step reasoning, dynamic memory management,
+  * Tags: `agents`, `benchmark`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2603.07379>
 
 * **[Staircase AI](ai/rag/staircase-ai.md)** (`dataset` | `useful` tier)
   * Summary: - **Structured Learning Paths**: Gainsight’s Staircase AI offers a 7-course learning path ("Getting Started with Staircase AI") covering foundational concepts, Health Score, Reports, Alerts, and Best Practices, with additional Japanese-language varia
@@ -167286,6 +167930,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.09721v2 Announce Type: replace-cross Abstract: Consumer artificial intelligence chatbots are now accessed by hundreds of millions of users seeking health information, yet systematic evaluation of their safety boundary maintenance under rea
   * Tags: `anthropic`, `benchmark`, `meta-ai`, `models`, `openai`
   * Source URL: <https://arxiv.org/abs/2601.09721>
+
+* **[Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice](ai/rag/arxiv-2610-42039.md)** (`prompt` | `useful` tier)
+  * Summary: arXiv:2610.42039v1 Announce Type: new Abstract: Hundreds of millions of people now ask large language model (LLM) chatbots for health advice, which raises a question that is simple to pose and hard to answer: does everyone get the same advice? We aud
+  * Tags: `rag`
+  * Source URL: <https://arxiv.org/abs/2610.42039>
 
 * **[Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks](ai/rag/arxiv-2610-00084.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2610.00084v1 Announce Type: new Abstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-spe
@@ -169975,11 +170624,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.23741>
 
-* **[A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](ai/rag/arxiv-2604-16548.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2604.16548v2 Announce Type: replace-cross Abstract: The emergence of writable, cross-session persistent memory in LLM agents introduces a qualitatively different threat landscape from conventional input-centric security concerns, characterized
-  * Tags: `agents`, `rag`
-  * Source URL: <https://arxiv.org/abs/2604.16548>
-
 * **[A Survey on the Verification of Reinforcement Learning Policies](ai/rag/arxiv-2607-16210.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.16210v1 Announce Type: new Abstract: Reinforcement learning (RL) is increasingly applied in complex, safety-critical domains, yet the lack of rigorous behavioral guarantees for neural network-based policies remains a major barrier to deplo
   * Tags: `rag`
@@ -170026,7 +170670,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.17928>
 
 * **[A Theoretical Framework for Understanding and Building "Any-task inference" Capable Foundation Models](ai/rag/arxiv-2610-40934.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40934v1 Announce Type: new Abstract: In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of "any-task inference" (ATI) (similar to zero-shot inference
+  * Summary: arXiv:2610.40934v1 Announce Type: cross Abstract: In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of "any-task inference" (ATI) (similar to zero-shot inferen
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.40934>
 
@@ -170336,7 +170980,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2601.03679>
 
 * **[Accurate and Auditable ECG Classification via Visibility Graph Neural Networks](ai/rag/arxiv-2610-41795.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41795v1 Announce Type: new Abstract: Physicians read electrocardiograms (ECGs) from waveform shape and timing, yet accurate deep-learning classifiers rarely show which waveform regions drive their predictions. We introduce LYNX-ECG, a grap
+  * Summary: arXiv:2610.41795v1 Announce Type: cross Abstract: Physicians read electrocardiograms (ECGs) from waveform shape and timing, yet accurate deep-learning classifiers rarely show which waveform regions drive their predictions. We introduce LYNX-ECG, a gr
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.41795>
 
@@ -170940,6 +171584,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.40556>
 
+* **[Advancing Clinical Trial Outcome Prediction with Domain-Specific Large Language Models](ai/rag/arxiv-2610-41710.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41710v1 Announce Type: new Abstract: Clinical trial failures are a major barrier to efficient drug development, incurring substantial costs and delaying patient access to effective therapies. Structured approaches such as the Hierarchical
+  * Tags: `benchmark`, `mistral`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41710>
+
 * **[Advancing Relevance Measurement with Vision-Language Models for Web-Scale Search](ai/rag/arxiv-2608-02446.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.02446v1 Announce Type: cross Abstract: Relevance evaluation plays a crucial role in personalized search systems, serving as a guardrail alongside user engagement metrics to ensure that search results align with user queries and intent. Whi
   * Tags: `benchmark`, `rag`
@@ -171184,6 +171833,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25960v1 Announce Type: new Abstract: Large language models are turning from isolated predictors into agentic systems: they call tools, retrieve evidence, obey environment constraints, use verifiers, and complete tasks through search and mu
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.25960>
+
+* **[Agentic World Modeling for Agent Test-time Scaling without Environment Replica](ai/rag/arxiv-2610-40927.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40927v1 Announce Type: new Abstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in pa
+  * Tags: `agents`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.40927>
 
 * **[Agentic-SQL Revisited: Autonomy-Based Taxonomy and Empirical Benchmark Analysis for LLM Text-to-SQL](ai/rag/arxiv-2608-15389.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.15389v1 Announce Type: new Abstract: LLM-based Text-to-SQL progress is reported across heterogeneous benchmarks, backbones, and inference protocols, making cross-system comparison fragile. We reframe the field as a leaderboard aggregation:
@@ -172329,6 +172983,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2604.01650>
 
+* **[ART of PIV: Agentic Real-Time Particle Image Velocimetry for Active Flow Control](ai/rag/arxiv-2610-41304.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41304v1 Announce Type: cross Abstract: Particle image velocimetry (PIV) measures fluid motion from images of tracer particles, but its accuracy depends on choices throughout the estimation pipeline, including image preprocessing, flow esti
+  * Tags: `agents`, `rag`, `reddit`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.41304>
+
 * **[Artificial Intelligence and Innovation Ecosystem: Evolutionary Developments, Challenges, and Future Directions](ai/rag/arxiv-2607-24589.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.24589v1 Announce Type: new Abstract: The development of the Innovative Ecosystem (IE) presents a new paradigm for economic integration, collaborative advancement, and shared achievements. The rise of Artificial Intelligence (AI) has signif
   * Tags: `models`, `paper`, `rag`
@@ -172738,6 +173397,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2607.29031>
 
+* **[AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration](ai/rag/arxiv-2610-42001.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42001v1 Announce Type: cross Abstract: As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the empir
+  * Tags: `agents`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.42001>
+
 * **[AutoAnchor: Stable Diffusion Unlearning Using Cross-Attention as a Manifold Surrogate](ai/rag/arxiv-2607-08337.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.08337v1 Announce Type: new Abstract: Diffusion unlearning is essential for mitigating the generation of harmful or copyrighted content in text-to-image models. Current diffusion unlearning techniques determine the model update direction by
   * Tags: `hackernews`, `rag`
@@ -172989,7 +173653,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3960, Downloads: 30252576)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3962, Downloads: 30361308)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -172999,7 +173663,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 662, Downloads: 49836681)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 662, Downloads: 49421693)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -174493,6 +175157,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.30492>
 
+* **[Breaking Information Islands in Sparse Tuning via Small-World Connectivity](ai/rag/arxiv-2610-41665.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41665v1 Announce Type: new Abstract: Sparse tuning is widely used to adapt large language models due to its parameter efficiency. However, its effectiveness depends not only on the number of trainable parameters, but also on the feature-in
+  * Tags: `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41665>
+
 * **[Breaking the Central Bias: Spatially Partitioned Experts for Coordinate-Based Neuroevolution](ai/rag/arxiv-2609-11518.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.11518v1 Announce Type: cross Abstract: Evolvable-Substrate HyperNEAT (ES-HyperNEAT), a bio-inspired indirect encoding that determines neuron placement and connection weights from spatial coordinates, exhibits a failure mode on MNIST as a d
   * Tags: `benchmark`, `models`, `rag`
@@ -175558,6 +176227,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2608.15407>
 
+* **[Chance-Constrained Inspection Viewpoint Sequencing for On-Orbit Servicing via Safe Reinforcement Learning](ai/rag/arxiv-2610-41639.md)** (`reference` | `useful` tier)
+  * Summary: arXiv:2610.41639v1 Announce Type: new Abstract: Autonomous inspection of a target spacecraft is typically the initial step in on-orbit servicing. Planning close-proximity observation viewpoints involves a complex combinatorial problem constrained by
+  * Tags: `agents`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41639>
+
 * **[Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring](ai/rag/arxiv-2610-22187.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.22187v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used in computational social science to assign scalar scores to social and psychological constructs. However, studies use different rating scales, and whe
   * Tags: `rag`
@@ -175858,6 +176532,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2609.21686>
 
+* **[CIRCE Divines LLM Task Complexity from Constraint Structure](ai/rag/arxiv-2610-41089.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41089v1 Announce Type: new Abstract: Estimating whether a problem is too complex for a large language model (LLM) before the model attempts it can guide model routing, how to allocate test-time compute, and suggest the need for new tools t
+  * Tags: `agents`, `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41089>
+
 * **[CIRCT](ai/rag/circt.md)** (`tutorial` | `useful` tier)
   * Summary: - **Project Overview**: CIRCT (Circuit IR Compilers and Tools) is an experimental LLVM/MLIR-based project aiming to modernize hardware design tooling by replacing legacy Verilog/VHDL IRs with modular, reusable compiler infrastructure leveraging LLVM
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
@@ -175872,6 +176551,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.30076v1 Announce Type: new Abstract: Language models make it easy to build classifiers by simply prompting a model with the sample to classify. However, their predictions are neither deterministic nor uniformly reliable across samples. How
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.30076>
+
+* **[Circumventing the Computational Hardness of Computational Arbitrage](ai/rag/arxiv-2610-40831.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40831v1 Announce Type: new Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purcha
+  * Tags: `creative_dev`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.40831>
 
 * **[CityPaint: A Free Lunch from 2D Diffusion for City-Scale 3D Texturing](ai/rag/arxiv-2610-27564.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.27564v1 Announce Type: cross Abstract: Generating high-fidelity, city-scale 3D environments plays a crucial role in applications such as virtual reality, gaming, and urban digital twins. However, the scarcity of real-world city-scale 3D tr
@@ -176948,6 +177632,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.23894>
 
+* **[Connectivity-Aware Client Selection in Decentralized Federated Learning](ai/rag/arxiv-2610-41570.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41570v1 Announce Type: new Abstract: Decentralized federated learning (DFL) has emerged as a scalable alternative to centralized federated learning, removing the single point of failure and communication bottleneck at the server. However,
+  * Tags: `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41570>
+
 * **[ConQuR: Corner Aligned Activation Quantization via Optimized Rotations for LLMs](ai/rag/arxiv-2605-10793.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.10793v2 Announce Type: replace Abstract: Large language models (LLMs) are costly to deploy due to their large memory footprint and high inference cost. Weight-activation quantization can reduce these costs, but low-bit activation quantizat
   * Tags: `benchmark`, `meta-ai`, `models`, `rag`
@@ -177076,6 +177765,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.02681v1 Announce Type: cross Abstract: Integrating information across related tasks can improve estimation and prediction in transfer, multi-task, and federated learning, but contamination and heterogeneity make robust borrowing challengin
   * Tags: `benchmark`, `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.02681>
+
+* **[Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses](ai/rag/arxiv-2610-41172.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2610.41172v1 Announce Type: cross Abstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: a harness with only BM25/grep
+  * Tags: `agents`, `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41172>
 
 * **[Context Graphs for Proactive Enterprise Agents](ai/rag/arxiv-2607-07721.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.07721v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper ar
@@ -177936,6 +178630,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.15798>
 
+* **[Cross-Interface Authorization for AI Computer-Use Agents](ai/rag/arxiv-2610-41397.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41397v1 Announce Type: new Abstract: Computer-use agents act through graphical interfaces, command lines, APIs, scripts, and Model Context Protocol servers. A policy decision can be interface-invariant while its executable authorization is
+  * Tags: `agents`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41397>
+
 * **[Cross-Layer Discrete Concept Discovery for Interpreting Language Models](ai/rag/arxiv-2506-20040.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2506.20040v4 Announce Type: replace Abstract: Interpreting language models remains challenging due to the existence of residual stream, which linearly mixes and duplicates features across adjacent layers, causing single-layer analyses to miss t
   * Tags: `benchmark`, `models`, `rag`
@@ -178291,6 +178990,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12105>
 
+* **[DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention](ai/rag/arxiv-2610-41994.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41994v1 Announce Type: new Abstract: Linear attention scales linearly with sequence length, but its finite-state memory can limit long-context retrieval. In gated linear recurrences, memory retention depends on state decay, which is shaped
+  * Tags: `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41994>
+
 * **[DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization](ai/rag/arxiv-2608-27513.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.27513v2 Announce Type: replace Abstract: Complex reasoning and agentic applications increasingly rely on long-context inference, where growing KV caches increase both memory usage and decoding overhead. Hybrid models reduce these costs by
   * Tags: `agents`, `benchmark`, `models`, `rag`, `youtube`
@@ -178426,18 +179130,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide for large model application development, covering full-stack methodologies.
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Provides a full-stack RAG implementation guide utilizing Python with LangChain and LlamaIndex frameworks. * Demonstrates advanced retrieval strategies integrating vector databases (Milvus) and graph databases (Neo4j). * Explores diverse LLMs (DeepS
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
-* **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based tutorial for foundational intelligent agent development, emphasizing principles and practical implementation. * Covers LLM-driven agent architectures, providing a comprehensive guide from scratch. * Integrates RAG (Retrieval Augmented
-  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
+* **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive tutorial on foundational intelligent agent architecture and implementation. * Explores
+  * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive tutorial on large language model (LLM) application development. * Focuses on practical implementation using LangChain and Retrieval Augmented Generation (RAG) architectures. * Content delivered via interactive Jupyter Notebooks, targe
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
+  * Summary: * Structured educational resource for foundational LLM application development. * Leverages LangChain
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -178457,7 +179161,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.38767>
 
 * **[DAUPNet: Domain-Aware Uncertainty Modeling for Reliable Prototype Discrimination in Cross-Domain Few-Shot Semantic Segmentation](ai/rag/arxiv-2607-16308.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.16308v1 Announce Type: cross Abstract: Cross-domain few-shot semantic segmentation (CD-FSS) has predominantly been formulated as learning domain-invariant representations or improving support-query correspondence. Nevertheless, large domai
+  * Summary: arXiv:2607.16308v2 Announce Type: replace-cross Abstract: Cross-domain few-shot semantic segmentation (CD-FSS) has predominantly been formulated as learning domain-invariant representations or improving support-query correspondence. Nevertheless, lar
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2607.16308>
 
@@ -178946,8 +179650,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.16597>
 
-* **[DeFT-RAG: Incrementally Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers](ai/rag/arxiv-2610-37826.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.37826v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) lets a large language model (LLM) answer questions by retrieving relevant passages from a large corpus. However, RAG struggles with multi-hop questions, which requ
+* **[DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers](ai/rag/arxiv-2610-37826.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.37826v2 Announce Type: replace-cross Abstract: Retrieval-augmented generation (RAG) lets a large language model (LLM) answer questions by retrieving relevant passages from a large corpus. However, RAG struggles with multi-hop questions, wh
   * Tags: `models`, `openai`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.37826>
 
@@ -179380,6 +180084,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Carbon budget estimates vary** due to methodological differences: CO₂-only budgets (most scientifically robust but least policy-relevant) vs. inclusive greenhouse gas (GHG) budgets, with the latter yielding stricter limits (e.g., 590–1,240 GtCO₂
   * Tags: `hackernews`, `paper`, `rag`, `web-crawled`
   * Source URL: <https://doi.org/10.1038/nclimate2868>
+
+* **[Different Models, Shared Failures: Auditing Frozen-Encoder Pools for Medical Segmentation](ai/rag/arxiv-2610-41790.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41790v1 Announce Type: cross Abstract: Average segmentation accuracy and model count do not reveal whether models fail on the same cases. We present CoFailMed, an audit of correlated failures in pretrained-encoder pools for medical segment
+  * Tags: `benchmark`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41790>
 
 * **[Differentiable Expectation-Maximisation and Applications to Gaussian Mixture Model Optimal Transport](ai/rag/arxiv-2509-02109.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2509.02109v3 Announce Type: replace Abstract: The Expectation-Maximisation (EM) algorithm is a central tool in statistics and machine learning, widely used for latent-variable models such as Gaussian Mixture Models (GMMs). Despite its ubiquity,
@@ -180116,7 +180825,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://content.govdelivery.com/accounts/USDOEOS/bulletins/414c83e>
 
 * **[Does a Governed Confidence Score Know When a Text-to-SQL Answer Is Right? An Exploratory Study on BIRD and a Pre-registered Confirmation on Spider](ai/rag/arxiv-2610-17256.md)** (`prompt` | `useful` tier)
-  * Summary: arXiv:2610.17256v1 Announce Type: new Abstract: Conversational analytics lets people ask questions of records spread across many systems and get answers in plain language; it is useful only if each answer can be trusted and explained. A production sy
+  * Summary: arXiv:2610.17256v2 Announce Type: replace Abstract: Conversational analytics lets people ask questions of records spread across many systems and get answers in plain language; it is useful only if each answer can be trusted and explained. A productio
   * Tags: `benchmark`, `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.17256>
 
@@ -181485,6 +182194,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.28806>
 
+* **[Enhancing Safety of Large Language Models via Embedding Space Separation](ai/rag/arxiv-2603-20206.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2603.20206v2 Announce Type: replace-cross Abstract: Safety alignment does not fully prevent large language models (LLMs) from producing harmful content under adversarial attacks. We observe that existing attack methods typically move harmful em
+  * Tags: `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2603.20206>
+
 * **[Enhancing Spectral Embedding through Robust and Flexible Knowledge Transfer in Electronic Health Records](ai/rag/arxiv-2606-11570.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11570v2 Announce Type: replace-cross Abstract: We propose a spectral-based, unsupervised representation learning framework to derive low-dimensional embeddings for clinical concepts and patients in rare disease cohorts from electronic heal
   * Tags: `rag`
@@ -182189,6 +182903,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.06155>
 
+* **[Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models](ai/rag/arxiv-2610-41236.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41236v1 Announce Type: new Abstract: Sparse MoE mechanism significantly improves the trade-off between model capacity and inference efficiency. However, practical deployment still requires storing all experts, resulting in substantial memo
+  * Tags: `benchmark`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41236>
+
 * **[ExpEvolve: Structuring and Reusing Experience for Open-Ended Discovery](ai/rag/arxiv-2610-29303.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.29303v1 Announce Type: new Abstract: Evolutionary coding agents such as AlphaEvolve are one of the notable successes in using Large Language Models (LLMs) to build AI Scientists. These agents tackle open-ended scientific problems by iterat
   * Tags: `agents`, `models`, `rag`
@@ -182780,7 +183499,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.27665>
 
 * **[FedPA-LoRA: Product-Aligned Framework for Mitigating Aggregation and Initialization Errors in Heterogeneous Federated LoRA](ai/rag/arxiv-2608-15381.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2608.15381v2 Announce Type: replace-cross Abstract: Low-Rank Adaptation (LoRA) enables efficient federated fine-tuning of large language models, but its factorization creates a tension between aggregation fidelity and local optimization continu
+  * Summary: arXiv:2608.15381v2 Announce Type: replace Abstract: Low-Rank Adaptation (LoRA) enables efficient federated fine-tuning of large language models, but its factorization creates a tension between aggregation fidelity and local optimization continuity. F
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.15381>
 
@@ -183629,7 +184348,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://stytch.com/docs/fraud-risk/overview>
 
 * **[Free energy landscape of Dense Associative Memory](ai/rag/arxiv-2607-19195.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.19195v1 Announce Type: cross Abstract: Using large deviations theory, we solve and obtain a general expression for the free energy functional for a broad class of associative memories, including dense associative memories. We illustrate th
+  * Summary: arXiv:2607.19195v3 Announce Type: replace-cross Abstract: Using large deviations theory, we solve and obtain a general expression for the free energy functional for a broad class of associative memories, including dense associative memories. We illus
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2607.19195>
 
@@ -183672,6 +184391,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2603.12828v2 Announce Type: replace-cross Abstract: This paper addresses a missing capability in infrastructure resilience: turning fast, global AI weather forecasts into asset-scale, actionable risk intelligence. We introduce the AI-based Corr
   * Tags: `benchmark`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2603.12828>
+
+* **[From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism](ai/rag/arxiv-2608-21702.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2608.21702v2 Announce Type: replace Abstract: Retrieval-Augmented Generation (RAG) grounds LLM generation on retrieved documents, but the standard terminal retrieval stage--dense-vector similarity, optionally followed by reranking--often return
+  * Tags: `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2608.21702>
 
 * **[From Association to Decision Value: Testing Paired Instruction Dependence for VLA Corpus Selection](ai/rag/arxiv-2610-29646.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.29646v1 Announce Type: new Abstract: Choosing among robot demonstration corpora is a ranking problem: an upstream diagnostic must preserve which candidates produce better downstream policies, not merely correlate with average performance.
@@ -184104,7 +184828,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2507.19364>
 
 * **[From the Zoo to the BULLPEN: Sample-Efficient LLM Profiling via Multi-Channel Model Embeddings](ai/rag/arxiv-2610-41375.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41375v1 Announce Type: cross Abstract: Choosing among the hundreds of thousands of available large language models (LLMs) requires a thorough understanding of each candidate model's properties. In practice, each property is measured by its
+  * Summary: arXiv:2610.41375v1 Announce Type: new Abstract: Choosing among the hundreds of thousands of available large language models (LLMs) requires a thorough understanding of each candidate model's properties. In practice, each property is measured by its o
   * Tags: `benchmark`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2610.41375>
 
@@ -185993,6 +186717,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.06641>
 
+* **[Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning](ai/rag/arxiv-2506-20651.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2506.20651v1 Announce Type: cross Abstract: Recent work has shown that gradient updates in federated learning (FL) can unintentionally reveal sensitive information about a client's local data. This risk becomes significantly greater when a mali
+  * Tags: `hackernews`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2506.20651>
+
 * **[Hearsay: Vision-Language Medical Diagnoses Without an Image](ai/rag/arxiv-2607-26886.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.26886v1 Announce Type: cross Abstract: When asked to describe a medical image that was never attached, frontier vision-language models do not abstain: they confabulate a diagnosis. We show that this confabulation is not random. It is struc
   * Tags: `anthropic`, `benchmark`, `rag`, `youtube`
@@ -186184,7 +186913,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.37515>
 
 * **[Hierarchical Cooperative GFlowNets](ai/rag/arxiv-2610-33968.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.33968v2 Announce Type: replace Abstract: Generative Flow Networks (GFlowNets) are trained to sample objects from compositional spaces with probability proportional to a reward function, but ineffective exploration can cause learned sampler
+  * Summary: arXiv:2610.33968v2 Announce Type: replace-cross Abstract: Generative Flow Networks (GFlowNets) are trained to sample objects from compositional spaces with probability proportional to a reward function, but ineffective exploration can cause learned s
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.33968>
 
@@ -186247,6 +186976,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2511.15633v2 Announce Type: replace-cross Abstract: Class-Incremental Learning (CIL) enables models to learn new classes continually while preserving past knowledge. Recently, vision-language models like CLIP offer transferable features via mul
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2511.15633>
+
+* **[Hierarchical World Models with Implicit Dynamics](ai/rag/arxiv-2610-42146.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42146v1 Announce Type: cross Abstract: Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err
+  * Tags: `agents`, `rag`, `youtube`
+  * Source URL: <https://arxiv.org/abs/2610.42146>
 
 * **[HiFuzz: Hierarchical Reinforcement Learning for Semantic-Aware and Adaptive CPU Fuzzing](ai/rag/arxiv-2607-06619.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.06619v1 Announce Type: cross Abstract: Modern processor verification struggles to reach deep architectural states due to the inefficiencies of traditional mutation-based fuzzing. We propose HiFuzz, a novel hierarchical reinforcement learni
@@ -188877,7 +189611,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.25647>
 
 * **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (`benchmark` | `useful` tier)
-  * Summary: * Repository provides tutorials on Retrieval Augmented Generation (RAG) implementations. * Content
+  * Summary: * Dedicated repository for Retrieval Augmented Generation (RAG) implementation tutorials. *
   * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/krishnaik06/RAG-Tutorials>
 
@@ -189395,6 +190129,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.35190v1 Announce Type: new Abstract: Time-series anomaly detection is dominated by reconstruction-based neural detectors, whose objective is structurally flawed. Since the target is also the input, an expressive model can learn to reconstr
   * Tags: `benchmark`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2610.35190>
+
+* **[LEAP: Efficient LLM Inference Scheduling with Generalizable Length Prediction](ai/rag/arxiv-2610-41359.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41359v1 Announce Type: new Abstract: Length-aware scheduling reduces request latency in LLM serving by prioritizing shorter requests. However, despite their large model sizes, length predictors can suffer degraded ranking performance under
+  * Tags: `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41359>
 
 * **[LEAP: Lean Environment-Feedback via Adaptive Pruning for Code RL in GPU Kernel Generation](ai/rag/arxiv-2608-01804.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.01804v2 Announce Type: replace Abstract: Post-training large language models (LLMs) via reinforcement learning (RL) has significantly advanced code generation capabilities. To bypass the heavy memory footprint of critic networks, current s
@@ -190577,7 +191316,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.14374>
 
 * **[LLINBO: Trustworthy LLM-in-the-Loop Bayesian Optimization](ai/rag/arxiv-2505-14756.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2505.14756v3 Announce Type: replace Abstract: Bayesian optimization (BO) is a sequential decision-making tool widely used for optimizing expensive black-box functions. Recently, Large Language Models (LLMs) have shown remarkable adaptability in
+  * Summary: arXiv:2505.14756v3 Announce Type: replace-cross Abstract: Bayesian optimization (BO) is a sequential decision-making tool widely used for optimizing expensive black-box functions. Recently, Large Language Models (LLMs) have shown remarkable adaptabil
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2505.14756>
 
@@ -190830,6 +191569,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.03930v1 Announce Type: cross Abstract: Pre-pretraining language models (LMs) on symbolic data can accelerate and improve natural language acquisition. However, existing pre-pretraining tasks, such as Dyck and procedural algorithms, rely on
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.03930>
+
+* **[Logic Hijacking of RAG: Single-Document Poisoning via Local Optimization](ai/rag/arxiv-2610-34829.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.34829v2 Announce Type: replace Abstract: Single-document corpus poisoning under black-box access poses a severe threat to Retrieval-Augmented Generation (RAG). However, existing attacks predominantly rely on explicit factual refutations or
+  * Tags: `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.34829>
 
 * **[Logic-Guided Graph Denoising Diffusion Models](ai/rag/arxiv-2610-23766.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.23766v1 Announce Type: new Abstract: Graph diffusion models are competitive approaches for generating complex graph-structured data. However, when such distributions have strict structural constraints, diffusion models may fail to capture
@@ -191312,7 +192056,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * RaGOO is a deprecated Python-based bioinformatics tool for genome assembly scaffolding. * Its functionality has been superseded by RagTag, which is recommended for current use. * The project is no longer supported, with development continuing on it
+  * Summary: * Deprecated bioinformatics tool for genome assembly and scaffolding. * Superseded by RagTag, indicating a successor project for continued development. * Implemented in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -192533,7 +193277,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://mlir.llvm.org>
 
 * **[MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering](ai/rag/arxiv-2510-04217.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2510.04217v4 Announce Type: replace Abstract: Multimodal large language models (MLLMs) have demonstrated remarkable capabilities across vision-language tasks, yet their large-scale deployment raises pressing concerns about memorized private dat
+  * Summary: arXiv:2510.04217v4 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) have demonstrated remarkable capabilities across vision-language tasks, yet their large-scale deployment raises pressing concerns about memorized priva
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2510.04217>
 
@@ -192681,6 +193425,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16509v1 Announce Type: new Abstract: Link prediction in knowledge graphs fundamentally depends on the quality of learned embeddings for entities and relations. However, most existing methods derive these embeddings by aggregating only the
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16509>
+
+* **[Model Organisms of Collusion: Corrective Transfer in Untrusted Monitors](ai/rag/arxiv-2610-30582.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.30582v2 Announce Type: replace Abstract: AI control protocols aim to get useful work from models that may be misaligned by monitoring their behaviour. One approach uses a second copy of the same model as the monitor. This avoids relying on
+  * Tags: `meta-ai`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.30582>
 
 * **[Model Spec (2025/02/12)](ai/rag/model-spec-2025-02-12.md)** (`framework` | `useful` tier)
   * Summary: - **Hierarchical Compliance Framework**: The Model Spec enforces a strict chain of command (Platform > Platform+1/2 > User/User+1 > Guideline) to resolve conflicts between user autonomy and safety, prioritizing refusal of harmful requests (e.g., illi
@@ -193428,7 +194177,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.02798>
 
 * **[MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation](ai/rag/arxiv-2610-41104.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41104v1 Announce Type: new Abstract: Self-distillation methods for large language models with an exponential moving average (EMA) teacher already retain a history of student updates. Muon nevertheless stores a separate momentum buffer, inc
+  * Summary: arXiv:2610.41104v1 Announce Type: cross Abstract: Self-distillation methods for large language models with an exponential moving average (EMA) teacher already retain a history of student updates. Muon nevertheless stores a separate momentum buffer, i
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.41104>
 
@@ -193617,15 +194366,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2509.16586>
 
+* **[Near-Optimal Second-Order Convex Finite-Sum Optimization under Individual Smoothness](ai/rag/arxiv-2610-42040.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42040v1 Announce Type: cross Abstract: We study the stochastic second-order oracle complexity of solving smooth convex finite-sum optimization with $n$ components. Very recently, Tsedenov \& Kovalev (2026) showed that the minimax optimal c
+  * Tags: `hackernews`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.42040>
+
 * **[NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation](ai/rag/arxiv-2608-16503.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.16503v1 Announce Type: cross Abstract: Real-world deployment of Vision-Language-Action (VLA) models is often bottlenecked by efficiency-performance trade-offs, cross-embodiment generalization, and execution smoothness. We present NebulaVLA
   * Tags: `benchmark`, `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2608.16503>
 
 * **[NECA: Neighbor Event Curve Augmentation for Multi-Horizon ICU Deterioration Prediction](ai/rag/arxiv-2610-40420.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.40420v2 Announce Type: replace Abstract: Early prediction of ICU organ dysfunction events supports timely clinical monitoring and intervention, but estimating short-term organ-specific risk from early ICU records remains challenging due to
+  * Summary: arXiv:2610.40420v2 Announce Type: replace-cross Abstract: Early prediction of ICU organ dysfunction events supports timely clinical monitoring and intervention, but estimating short-term organ-specific risk from early ICU records remains challenging
   * Tags: `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.40420>
+
+* **[Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories](ai/rag/arxiv-2610-40970.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40970v1 Announce Type: new Abstract: Generative audio systems can produce large libraries of personalized bedtime content, but ordinary media objectives (retention, completion, and novelty) are poorly aligned with the goal of supporting a
+  * Tags: `benchmark`, `hackernews`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.40970>
 
 * **[Negative Advantages Is a Double-Edged Sword: Calibrating advantages in GRPO for Search Agents](ai/rag/arxiv-2604-18235.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.18235v3 Announce Type: replace-cross Abstract: Search agents achieve strong question-answering performance through multi-turn interactions with search engines, with Group Relative Policy Optimization (GRPO) being a widely used training alg
@@ -193987,8 +194746,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `openai`, `rag`
   * Source URL: <https://github.com/NirDiamant/GenAI_Agents>
 
-* **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (`benchmark` | `useful` tier)
-  * Summary: * Explores advanced Retrieval-Augmented Generation (RAG) methodologies, including agentic RAG patterns. * Demonstrates practical implementations utilizing LLMs (GPT, Llama-Index), embeddings, and vector databases via LangChain. * Provides detailed, e
+* **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (`framework` | `useful` tier)
+  * Summary: * Demonstrates advanced Retrieval-Augmented Generation (RAG) techniques through detailed Jupyter Notebook tutorials. * Covers agentic RAG, embeddings, semantic search, and integration with LLM frameworks including LangChain and LlamaIndex. * Explores
   * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`
   * Source URL: <https://github.com/NirDiamant/RAG_Techniques>
 
@@ -194572,6 +195331,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.33610>
 
+* **[On the Faithfulness of Visual Thinking: Measurement and Enhancement](ai/rag/arxiv-2510-23482.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2510.23482v2 Announce Type: replace-cross Abstract: Recent large vision-language models (LVLMs) can generate vision-text multimodal chain-of-thought (MCoT) traces after reinforcement fine-tuning (RFT). However, we observe that the visual inform
+  * Tags: `benchmark`, `models`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2510.23482>
+
 * **[On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](ai/rag/arxiv-2608-18066.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2608.18066v2 Announce Type: replace-cross Abstract: Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. H
   * Tags: `agents`, `benchmark`, `rag`
@@ -195001,6 +195765,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2604.05468v3 Announce Type: replace Abstract: Temporal knowledge graph (TKG) extrapolation is an important task that aims to predict future facts through historical interaction information within KG snapshots. A key challenge for most existing
   * Tags: `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.05468>
+
+* **[Open Biomedical Knowledge Graphs at Scale: Construction, Federation, and AI Agent Access with Samyama Graph Database](ai/rag/arxiv-2603-15080.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2603.15080v4 Announce Type: replace-cross Abstract: Biomedical knowledge is fragmented across siloed databases---Reactome, STRING, Gene Ontology, ClinicalTrials.gov, DrugBank, DGIdb, SIDER, PubMed, ClinVar, ChEMBL, OpenTargets, and more. We pre
+  * Tags: `agents`, `benchmark`, `frontend_ui`, `models`, `openai`, `rag`
+  * Source URL: <https://arxiv.org/abs/2603.15080>
 
 * **[Open Foundation Models in Healthcare: Challenges, Paradoxes, and Opportunities with GenAI Driven Personalized Prescription](ai/rag/arxiv-2502-04356.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2502.04356v2 Announce Type: replace-cross Abstract: In response to the success of proprietary Large Language Models (LLMs), there is a growing interest in developing open, non-proprietary LLMs and AI foundation models (AIFMs) for transparent us
@@ -195452,6 +196221,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `models`, `rag`
   * Source URL: <https://github.com/oxbshw/llm-agents-ecosystem-handbook>
 
+* **[P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior](ai/rag/arxiv-2610-40959.md)** (`benchmark` | `useful` tier)
+  * Summary: arXiv:2610.40959v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for personal tasks, yet evaluating their safe use of personal context remains difficult because such contexts are private, fragmented, dynamic, and soc
+  * Tags: `agents`, `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.40959>
+
 * **[P-Flow: Proxy-gradient Flows for Linear Inverse Problems](ai/rag/arxiv-2605-08328.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.08328v3 Announce Type: replace Abstract: Generative models based on flow matching have emerged as a powerful paradigm for inverse problems, offering straighter trajectories and faster sampling compared to diffusion models. However, existin
   * Tags: `rag`
@@ -195473,7 +196247,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.05361>
 
 * **[PACE: Pareto-Adaptive Compression for Efficient Native MLLMs](ai/rag/arxiv-2610-24005.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.24005v2 Announce Type: replace-cross Abstract: Native multimodal large language models (native MLLMs) jointly encode visual and linguistic sequences within a unified autoregressive Transformer, emerging as a promising paradigm for multimod
+  * Summary: arXiv:2610.24005v3 Announce Type: replace-cross Abstract: Native multimodal large language models (native MLLMs) jointly encode visual and linguistic sequences within a unified autoregressive Transformer, emerging as a promising paradigm for multimod
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.24005>
 
@@ -195822,8 +196596,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.04075>
 
-* **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (`tool` | `useful` tier)
-  * Summary: * Covers LLMs, RAGs, and AI agent architectures.
+* **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented
   * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/patchy631/ai-engineering-hub>
 
@@ -195871,6 +196645,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.17560v1 Announce Type: cross Abstract: Every production model is updated, by retraining, fine-tuning, quantization, or a silent vendor swap, and each update risks being worse than what it replaced. We formalize update promotion as certifie
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.17560>
+
+* **[Payroll Fraud Detection in Synthetic HR/ERP Graphs: An Inductive Comparison of Rules, Path Features, and Graph Neural Networks](ai/rag/arxiv-2610-41085.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41085v1 Announce Type: new Abstract: Payroll-fraud screening requires finding hidden employee--payee links while distinguishing suspicious relationships from legitimate ones. We formulate this problem as inductive link prediction and entit
+  * Tags: `benchmark`, `rag`, `reddit`
+  * Source URL: <https://arxiv.org/abs/2610.41085>
 
 * **[PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment](ai/rag/arxiv-2608-19598.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.19598v1 Announce Type: cross Abstract: Direct Preference Optimization (DPO) has emerged as an effective approach for aligning large language models (LLMs) with human preferences. However, its adaptation to multimodal settings remains unexp
@@ -196088,7 +196867,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.05488>
 
 * **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides a from-scratch implementation guide for Retrieval Augmented Generation (RAG) pipelines, focusing on core mechanics. * Demystifies embeddings, vector search, retrieval, and context-augmented generation through practical construction. * Util
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) pipeline from scratch for foundational understanding
   * Tags: `agents`, `github-repo`, `javascript`, `meta-ai`, `models`, `rag`
   * Source URL: <https://github.com/pguso/rag-from-scratch>
 
@@ -196477,8 +197256,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2602.00593>
 
+* **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (`framework` | `useful` tier)
+  * Summary: * Implements a Retrieval Augmented Generation (RAG) system. * Utilizes the Langchain framework for orchestrating AI components. * Provided as a Python-based tutorial for simplified RAG application development.
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/pixegami/langchain-rag-tutorial>
+
 * **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (`dataset` | `useful` tier)
-  * Summary: * Implements an updated Langchain RAG pipeline (v2). * Utilizes local LLMs for inference within the RAG architecture. * Incorporates database updates and testing for RAG system validation.
+  * Summary: * Implements an improved Langchain RAG (Retrieval Augmented Generation) pipeline (v2). * Integrates local LLMs, enabling self-hosted inference for generation tasks. * Features updated database management and incorporates testing methodologies for sys
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/pixegami/rag-tutorial-v2>
 
@@ -196503,7 +197287,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.tidyverse.org/blog/2024/07/pkgdown-2-1-0>
 
 * **[Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion](ai/rag/arxiv-2603-06140.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2603.06140v2 Announce Type: replace-cross Abstract: Video object insertion is fundamental to video editing, yet existing diffusion methods often produce visually plausible but physically inconsistent results. We present Place-it-R1, an end-to-e
+  * Summary: arXiv:2603.06140v4 Announce Type: replace-cross Abstract: Video object insertion is fundamental to video editing, yet existing diffusion methods often produce visually plausible but physically inconsistent results. We present Place-it-R1, an end-to-e
   * Tags: `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2603.06140>
 
@@ -197571,6 +198355,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.07534>
 
+* **[ProSearch: Benchmarking Multi-Constraint Protocol Retrieval in Experimental Science](ai/rag/arxiv-2610-41396.md)** (`template` | `useful` tier)
+  * Summary: arXiv:2610.41396v1 Announce Type: cross Abstract: In AI for Science scenarios, experimental design and method reproduction require retrieving protocols that satisfy multiple interdependent constraints, yet existing benchmarks lack systematic evaluati
+  * Tags: `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41396>
+
 * **[Prospective Forcing: Learning to Look Ahead for Autoregressive Long Video Diffusion](ai/rag/arxiv-2610-14654.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.14654v1 Announce Type: cross Abstract: Autoregressive video generators synthesize long videos through chunk-wise rollouts, yet they are typically trained to predict only the immediate future. This limited prediction horizon makes it challe
   * Tags: `rag`, `youtube`
@@ -197715,6 +198504,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.22106v1 Announce Type: new Abstract: Accuracy of Low-bit quantization of linear layers is often dominated by a small number of outliers. Although existing methods, such as smoothing, rotation, or residual-based approaches, may mitigate thi
   * Tags: `benchmark`, `hackernews`, `models`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2609.22106>
+
+* **[Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity](ai/rag/arxiv-2610-41968.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41968v1 Announce Type: new Abstract: Weight pruning can reduce the storage and inference cost of large language models (LLMs), but preserving quality at high sparsity levels remains challenging. Existing methods face a quality-cost trade-o
+  * Tags: `meta-ai`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41968>
 
 * **[Pruned BPE: Post-training Visibility Pruning and Token Reallocation for Byte Pair Encoding](ai/rag/arxiv-2608-00837.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2608.00837v3 Announce Type: replace-cross Abstract: Byte Pair Encoding (BPE) is widely used for subword tokenization, but standard BPE exposes every learned merge token to the downstream model, including tokens that mainly serve as intermediate
@@ -198257,7 +199051,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/raga-ai-hub/raga-llm-hub>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site generator source for `raganwald.com`. *
+  * Summary: * Serves as the Jekyll source repository for `raganwald.com`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -198266,9 +199060,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2608.15857>
 
-* **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
-  * Summary: * GitHub Pages repository (`.github.io`) distributing a pre-renewal Ragnarok Online client/pack. * Leverages rAthena for server emulation and OpenKore for botting/automation within the Ragnarok ecosystem. * Primary content delivery is HTML-based, ind
-  * Tags: `github-repo`, `html`, `rag`, `scripts`
+* **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`framework` | `useful` tier)
+  * Summary: * GitHub Pages repository distributing a pre-renewal Ragnarok Online client pack. * Primarily HTML-based, targeting `rAthena` server emulation and `OpenKore` botting frameworks. * Focuses on `Ragnarok Online` community resources and offline play conf
+  * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/ragnarokoffline/ragnarokoffline.github.io>
 
 * **[RAGScope: A Leakage-Controlled, Cost-Aware Evidence-Gating Protocol for RAG Hallucination Triage](ai/rag/arxiv-2609-39075.md)** (`framework` | `useful` tier)
@@ -200186,6 +200980,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.03966>
 
+* **[RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](ai/rag/arxiv-2610-42141.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42141v1 Announce Type: cross Abstract: Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to
+  * Tags: `agents`, `benchmark`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.42141>
+
 * **[RoboCoach: World Models as Active Coaches for Compositional Robot Skills](ai/rag/arxiv-2609-39685.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.39685v1 Announce Type: cross Abstract: Long-horizon robot manipulation reuses skills across many task compositions, but improving these compositions with additional end-to-end demonstrations is costly. A practical self-improving system mus
   * Tags: `rag`
@@ -200436,6 +201235,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2603.22016>
 
+* **[Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents](ai/rag/arxiv-2610-41264.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41264v1 Announce Type: new Abstract: Training language-model agents to play long-horizon strategy games is hard because deterministic feedback is sparse and often arrives only at the end of a game. In-game scores can offer dense signals, b
+  * Tags: `agents`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41264>
+
 * **[RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States](ai/rag/arxiv-2608-02508.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.02508v2 Announce Type: replace Abstract: Learning-based memory systems for self-evolving LLM agents face two tightly coupled challenges. First, trajectory-indexed utilities grow with the interaction history, thereby dispersing limited feed
   * Tags: `agents`, `rag`
@@ -200575,6 +201379,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.26632v3 Announce Type: replace Abstract: Diffusion Transformers (DiT) achieve strong performance in image generation but incur substantial inference costs. While prior work has reduced this cost via quantization and distillation, semi-stru
   * Tags: `hackernews`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.26632>
+
+* **[RTL-Interact: Training EDA-Interactive Models for Multi-Task RTL Design](ai/rag/arxiv-2610-41225.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41225v1 Announce Type: new Abstract: Large language models offer a promising route to register-transfer-level (RTL) design, but reliable implementations require checking and revision based on electronic design automation (EDA) tools' feedb
+  * Tags: `rag`, `scripts`
+  * Source URL: <https://arxiv.org/abs/2610.41225>
 
 * **[RTSGameBench: An RTS Benchmark for Strategic Reasoning by Vision-Language Models](ai/rag/arxiv-2606-18950.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18950v1 Announce Type: new Abstract: Modern Vision-Language Models (VLMs) often struggle with strategic reasoning, i.e., anticipating and influencing other agents' actions, under uncertainty in competitive and cooperative settings. Real-ti
@@ -200757,7 +201566,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.09508>
 
 * **[Safe Reinforcement Learning via Recovery-based Shielding with Gaussian Process Dynamics Models](ai/rag/arxiv-2602-12444.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2602.12444v3 Announce Type: replace Abstract: Reinforcement learning (RL) is a powerful framework for optimal decision-making and control but often lacks provable guarantees for safety-critical applications. In this paper, we introduce a novel
+  * Summary: arXiv:2602.12444v3 Announce Type: replace-cross Abstract: Reinforcement learning (RL) is a powerful framework for optimal decision-making and control but often lacks provable guarantees for safety-critical applications. In this paper, we introduce a
   * Tags: `agents`, `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2602.12444>
 
@@ -201396,6 +202205,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.30313>
 
+* **[SciGraphSelect: Auditable Scientific Data Selection through Knowledge--Reasoning Graphs](ai/rag/arxiv-2610-41280.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41280v1 Announce Type: new Abstract: Scientific data selection is typically driven by relevance or utility scores, providing limited insight into why a document is retained. We introduce SciGraphSelect, a reference-grounded framework for a
+  * Tags: `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41280>
+
 * **[SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents](ai/rag/arxiv-2609-30971.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.30971v1 Announce Type: new Abstract: Embodied agents offer a promising route to automating scientific experimentation, yet their progress is constrained by the lack of reliable and systematic evaluation environments. Existing simulation-ba
   * Tags: `agents`, `benchmark`, `hackernews`, `rag`
@@ -201916,6 +202730,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `rag`, `web-crawled`
   * Source URL: <https://docs.smith.langchain.com/self_hosting/kubernetes>
 
+* **[Self-Improvement with Auxiliary Rewards: Learning from Verified Traces and Evaluating Transfer](ai/rag/arxiv-2610-41296.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41296v1 Announce Type: new Abstract: Answer-level rewards cannot distinguish reasoning traces with equally correct outcomes. We study whether auxiliary trajectory preferences improve small-language-model self-improvement and transfer under
+  * Tags: `benchmark`, `hackernews`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41296>
+
 * **[Self-Improving Large Language Models via Progressive Experience Evolution](ai/rag/arxiv-2608-02139.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.02139v2 Announce Type: replace-cross Abstract: Large language models (LLMs) capable of self-improvement require not only effective policy optimization, but also a principled mechanism for transforming transient interaction experience into
   * Tags: `benchmark`, `rag`
@@ -202182,7 +203001,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.23388>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1497, Downloads: 28384395)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1498, Downloads: 28259788)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -202712,7 +203531,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.36742>
 
 * **[SIRF: A Spec-Internalized Risk Foundation Model for Industrial Content Risk Control](ai/rag/arxiv-2609-11752.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2609.11752v2 Announce Type: replace-cross Abstract: For industrial content risk control, the real deployment constraint is not average accuracy but how much risk can be auto-handled under high precision and second-level latency. We present SIRF
+  * Summary: arXiv:2609.11752v2 Announce Type: replace Abstract: For industrial content risk control, the real deployment constraint is not average accuracy but how much risk can be auto-handled under high precision and second-level latency. We present SIRF (Spec
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.11752>
 
@@ -203166,6 +203985,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `rag`, `scripts`, `web-crawled`
   * Source URL: <https://links.sonatype.com/products/guide/docs/sonatype-guide>
 
+* **[SOPO: Socratic Guided Policy Optimization for Span-Level Hallucination Detection](ai/rag/arxiv-2610-32212.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.32212v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have gained widespread adoption in various natural language processing tasks, but suffer from hallucination issues where they generate unfaithful or inconsistent c
+  * Tags: `agents`, `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.32212>
+
 * **[SOS-LoRA: Static Orthogonal-Subspace Low-Rank Adaptation with Fixed Multi-Scale Scaling](ai/rag/arxiv-2607-16252.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.16252v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) is a widely used parameter-efficient fine-tuning (PEFT) method for large language models. Under a fixed rank budget, LoRA parameterizes each adapted weight through a single lo
   * Tags: `benchmark`, `meta-ai`, `models`, `rag`
@@ -203287,7 +204111,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.38984>
 
 * **[SparseGDN: Chunk Sparse in Linear Attention](ai/rag/arxiv-2610-41420.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41420v1 Announce Type: new Abstract: Gated Delta Networks (GDNs) offer linear-time sequence modeling, yet long-context prefill remains costly due to dense intra-chunk computation, recurrent-state updates, and intermediate state storage. We
+  * Summary: arXiv:2610.41420v1 Announce Type: cross Abstract: Gated Delta Networks (GDNs) offer linear-time sequence modeling, yet long-context prefill remains costly due to dense intra-chunk computation, recurrent-state updates, and intermediate state storage.
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.41420>
 
@@ -203437,7 +204261,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.14102>
 
 * **[SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation](ai/rag/arxiv-2610-36991.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.36991v2 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) systems ground large language models (LLMs) by retrieving external evidence and conditioning generation on the retrieved context. Although dense retrieval is eff
+  * Summary: arXiv:2610.36991v3 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) systems ground large language models (LLMs) by retrieving external evidence and conditioning generation on the retrieved context. Although dense retrieval is eff
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.36991>
 
@@ -203499,6 +204323,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2508.05149v2 Announce Type: replace-cross Abstract: Large language models (LLMs) have demonstrated potential in handling spoken inputs for high-resource languages, reaching state-of-the-art performance in various tasks. However, their applicabi
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2508.05149>
+
+* **[Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play](ai/rag/arxiv-2511-01261.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2511.01261v2 Announce Type: replace-cross Abstract: Evaluating spoken role-play requires judging not only linguistic content but also prosody, emotional expression, character embodiment, and contextual fit. Existing automatic evaluation methods
+  * Tags: `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2511.01261>
 
 * **[Speechify - YouTube](ai/rag/speechify-youtube.md)** (`tutorial` | `useful` tier)
   * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers. - **Technical Infrastructure**: Utilizes Google's
@@ -203784,6 +204613,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.24151v1 Announce Type: cross Abstract: Four-dimensional (4D) Radar has emerged as a key sensor for environmental perception, providing range, azimuth, elevation, and Doppler measurements while remaining robust to illumination changes and a
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.24151>
+
+* **[STAR: Steering Action Representations during Inference](ai/rag/arxiv-2610-41009.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41009v1 Announce Type: cross Abstract: Vision-language-action models (VLAs) map language instructions and visual observations to robot actions, showing strong capabilities across robotic manipulation tasks. However, in our probing experime
+  * Tags: `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41009>
 
 * **[STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](ai/rag/arxiv-2606-19236.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.19236v1 Announce Type: cross Abstract: Reinforcement Learning with Verifiable Rewards algorithms like GRPO have emerged as the dominant post-training paradigm for complex reasoning in LLMs, yet commonly suffer from policy entropy collapse
@@ -204546,7 +205380,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system for repository interaction. * Enables conversational querying of downloaded GitHub repository content. * Developed in Python.
+  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system. * Enables conversational interaction with downloaded GitHub repository content. * Developed primarily in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 
@@ -204831,7 +205665,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.03699>
 
 * **[TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md)** (`tutorial` | `useful` tier)
-  * Summary: * Provides autograded, platform-agnostic (Colab, Kaggle
+  * Summary: * Provides autograded, hands-on AI/ML/DL courses deployable across Jupyter environments (Colab, Kaggle, Binder, Codespaces). * Covers advanced applications including predictive maintenance, document AI (extraction, RAG), AI agents (MCP), and simulate
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials>
 
@@ -204995,6 +205829,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.29167>
 
+* **[Teaching Large Language Models When Not to Know: Learning Temporal Critique for Ex-Ante Reasoning](ai/rag/arxiv-2605-14636.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2605.14636v2 Announce Type: replace Abstract: Large language models (LLMs) often fail to reason under temporal cutoffs: when prompted to answer from the standpoint of an earlier time, they exploit knowledge that became available only later. We
+  * Tags: `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2605.14636>
+
 * **[Teaching LLMs to Generate Challenging MILP Instances via Solver Feedback](ai/rag/arxiv-2609-37356.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2609.37356v1 Announce Type: new Abstract: Generating optimization instances that are both feasible and computationally challenging is crucial for benchmarking solvers and training learning-based optimization algorithms. Existing non-LLM generat
   * Tags: `benchmark`, `models`, `rag`
@@ -205046,7 +205885,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.01613>
 
 * **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (`benchmark` | `useful` tier)
-  * Summary: * Demonstrates Retrieval-Augmented Generation (RAG) implementation. *
+  * Summary: * Illustrates Langflow for visual construction of LLM application pipelines. * Implements Retrieval-Augmented Generation (RAG) architectures. * Provides a practical tutorial for integrating RAG within Langflow environments.
   * Tags: `github-repo`, `rag`, `unknown`
   * Source URL: <https://github.com/techwithtim/Langflow-RAG-Tutorial>
 
@@ -205663,6 +206502,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.10828v2 Announce Type: replace Abstract: As large language models are increasingly deployed in retrieval-augmented generation and agentic systems that accumulate extensive context, understanding how distracting information affects long-con
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.10828>
+
+* **[The First Few Tokens Matter: Understanding Chain-of-Thought Controllability](ai/rag/arxiv-2610-40939.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.40939v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising way to oversee increasingly capable agents. It succeeds in part because current models appear limited in their ability to control what they verbalize in
+  * Tags: `agents`, `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.40939>
 
 * **[The Fragility of Chain-of-Thought Monitoring Across Typologically Diverse Languages](ai/rag/arxiv-2605-27901.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.27901v2 Announce Type: replace-cross Abstract: Chain-of-thought (CoT) monitoring has been proposed as a promising safety mechanism for detecting misaligned behavior in large language models. However, its reliability remains largely unexplo
@@ -206905,7 +207749,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.19142>
 
 * **[Towards Understanding Score-Seeking in LLMs](ai/rag/arxiv-2610-41014.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41014v1 Announce Type: new Abstract: Production large language models sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended, sometimes in highly sophisticated and adversarial ways. We
+  * Summary: arXiv:2610.41014v1 Announce Type: cross Abstract: Production large language models sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended, sometimes in highly sophisticated and adversarial ways. W
   * Tags: `agents`, `benchmark`, `openai`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.41014>
 
@@ -207033,6 +207877,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Trademark Usage Compliance**: Third-party use of Atlassian trademarks must adhere to strict guidelines, including unmodified display, no deceptive intent, and no likelihood of confusion; logos must be sourced from official Atlassian assets and us
   * Tags: `rag`, `reddit`, `web-crawled`
   * Source URL: <https://www.atlassian.com/legal/trademark>
+
+* **[TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents](ai/rag/arxiv-2610-42004.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.42004v1 Announce Type: new Abstract: Multi-turn negotiation remains a challenging problem for large language model (LLM) agents. While LLMs can conduct natural-language dialogue, existing benchmarks predominantly assess only agreement rate
+  * Tags: `agents`, `benchmark`, `hackernews`, `models`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.42004>
 
 * **[Trading Strategy Optimization via Textual Gradient](ai/rag/arxiv-2610-03128.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.03128v2 Announce Type: replace Abstract: Quantitative trading strategy design aims to discover trading programs from historical data that remain effective in future markets, which can be viewed as a black-box program optimization problem.
@@ -207265,7 +208114,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.09320>
 
 * **[Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching](ai/rag/arxiv-2610-41322.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41322v1 Announce Type: new Abstract: Generating small molecules to target protein-protein interactions (PPIs) remains one of the most challenging yet high-reward frontiers in drug discovery. Unlike traditional small-molecule drugs that bin
+  * Summary: arXiv:2610.41322v1 Announce Type: cross Abstract: Generating small molecules to target protein-protein interactions (PPIs) remains one of the most challenging yet high-reward frontiers in drug discovery. Unlike traditional small-molecule drugs that b
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.41322>
 
@@ -207378,6 +208227,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.03447v1 Announce Type: cross Abstract: Knowledge graphs (KGs) that underpin Graph-based Retrieval-Augmented Generation (Graph-RAG) are increasingly built automatically by LLM-driven extraction rather than curated by experts. Proper evaluat
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.03447>
+
+* **[TRIDENT and SHAKTI: A Framework and Benchmark for Hindi AI-Text Detection](ai/rag/arxiv-2610-41232.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41232v1 Announce Type: new Abstract: As Large Language Models (LLMs) become increasingly multilingual, distinguishing human-written from AI-generated text is essential for maintaining information integrity. However, research remains Englis
+  * Tags: `benchmark`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41232>
 
 * **[Triggering Chain-of-Thought via Latent Feature Interventions in Large Language Models](ai/rag/arxiv-2601-08058.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.08058v2 Announce Type: replace-cross Abstract: Chain-of-Thought (CoT) prompting often improves the reasoning performance of large language models (LLMs), but the internal signal that triggers this behavior remains poorly understood. Levera
@@ -207515,7 +208369,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06690>
 
 * **[TSBPO: Tree-Structured Branching for Policy Optimization in Interactive Language Agents](ai/rag/arxiv-2610-41697.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41697v1 Announce Type: cross Abstract: Training interactive language agents from terminal outcomes poses three coupled problems: which task and state continuations to sample, how to assign delayed feedback to decisions, and how to aggregat
+  * Summary: arXiv:2610.41697v1 Announce Type: new Abstract: Training interactive language agents from terminal outcomes poses three coupled problems: which task and state continuations to sample, how to assign delayed feedback to decisions, and how to aggregate
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2610.41697>
 
@@ -208434,6 +209288,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.10325>
 
+* **[Verification and Self-Improvement in Agentic AI: Foundations and Limits](ai/rag/arxiv-2610-10611.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.10611v2 Announce Type: replace Abstract: A self-improving agent can find accepted solutions more often without expanding the tasks its verification interface can accept. We extend task-relative verification with explicit support and transc
+  * Tags: `agents`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.10611>
+
 * **[Verifier-free Test-Time Sampling for Vision-Language-Action Models](ai/rag/arxiv-2510-05681.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2510.05681v2 Announce Type: replace-cross Abstract: Vision-Language-Action models (VLAs) have demonstrated remarkable performance in robot control. However, they remain fundamentally limited in tasks that require high precision due to their sin
   * Tags: `benchmark`, `rag`
@@ -208468,6 +209327,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.17641v1 Announce Type: new Abstract: Verify-repair loops are a standard means for large language model (LLM) agents to correct faulty plans in code generation, mathematical reasoning, and tool use. When both the verifier and the repairer a
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.17641>
+
+* **[Verifying Text-to-SQL Queries under Changing Business Semantics](ai/rag/arxiv-2610-41090.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41090v1 Announce Type: new Abstract: In text-to-SQL and AI-agent analytics, successful SQL execution does not establish semantic correctness under changing business definitions. We study revalidation of fixed queries after changes to refun
+  * Tags: `agents`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41090>
 
 * **[VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks](ai/rag/arxiv-2610-00972.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.00972v1 Announce Type: new Abstract: As LLM agents undertake increasingly complex, long-horizon tasks, verifying their outputs becomes increasingly challenging. We study how verification capability can be strengthened with a fixed base mod
@@ -208805,8 +209669,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.03095>
 
 * **[vivy-yi/rag-tutorial](ai/rag/vivy-yi-rag-tutorial.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive RAG curriculum: 4 modules, 20 chapters, spanning foundational concepts to production deployment. * Practical implementation focus: 17 Jupyter Notebooks and 6 enterprise-level case studies utilizing LangChain, LLMs, and vector database
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
+  * Summary: * Comprehensive RAG curriculum structured across 4 modules and 20 chapters, covering foundational concepts through to production deployment. * Features 17 Jupyter Notebooks and 6 enterprise-grade practical cases for hands-on RAG system development. *
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/vivy-yi/rag-tutorial>
 
 * **[VLA-GAUGE: Systematically Evaluating Generalization and Robustness in Vision-Language-Action Models](ai/rag/arxiv-2610-16567.md)** (`framework` | `useful` tier)
@@ -209848,6 +210712,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2609.15801>
 
+* **[When Should AI Agents Ask? Clarification Requests Under Limited Human Attention](ai/rag/arxiv-2610-41129.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2610.41129v1 Announce Type: new Abstract: AI agents increasingly carry out delegated tasks in parallel, with one person overseeing several of them at once. In practice, an agent often lacks information its task requires, such as an unstated pre
+  * Tags: `agents`, `benchmark`, `paper`, `rag`
+  * Source URL: <https://arxiv.org/abs/2610.41129>
+
 * **[When Should AI Follow? Task Structure and Joint Adaptation by Human and AI Agents](ai/rag/arxiv-2504-20903.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2504.20903v4 Announce Type: replace-cross Abstract: How should organizations divide and sequence decision tasks between human and artificial agents? We develop a computational model of joint sequential adaptation in which two agents differ in a
   * Tags: `agents`, `models`, `rag`
@@ -210024,7 +210893,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.21422>
 
 * **[Where, When, and How Many Bits? Scaling Laws for SGD with Stochastic Rounding](ai/rag/arxiv-2610-41074.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2610.41074v1 Announce Type: new Abstract: Low-precision training reduces computation but introduces additional rounding error. We theoretically study how stochastic rounding (SR) affects prediction risk as model size, training time, and precisi
+  * Summary: arXiv:2610.41074v1 Announce Type: cross Abstract: Low-precision training reduces computation but introduces additional rounding error. We theoretically study how stochastic rounding (SR) affects prediction risk as model size, training time, and preci
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2610.41074>
 
