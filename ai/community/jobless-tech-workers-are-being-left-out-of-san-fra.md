@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:jobless-tech-workers-are-being-left-out-of-san-fra
 first_seen: '2026-11-03T00:01:22.726708+05:30'
 last_seen: '2026-11-03T00:01:22.726708+05:30'
 last_checked: '2026-11-03T00:01:22.726708+05:30'
 health_score: 100
 ---
+
 
 # Jobless tech workers are being left out of San Francisco's AI boom
 

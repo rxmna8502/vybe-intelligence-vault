@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:last-night-an-ai-agent-performed-brain-surgery-on
 first_seen: '2026-11-03T00:01:23.167137+05:30'
 last_seen: '2026-11-03T00:01:23.167137+05:30'
 last_checked: '2026-11-03T00:01:23.167137+05:30'
 health_score: 100
 ---
+
 
 # Last night an AI agent performed brain surgery on a mouse
 

@@ -4799,7 +4799,6 @@ Resources organized by keyword tags.
   - [LargeMonitor: Monitoring Online Task-Free Continual Learning via Large Pretrained Models](../ai/rag/arxiv-2606-09430.md)
   - [Last Secure Code Benchmark: Is the Code You Vibe Secure?](../ai/agents/arxiv-2610-14766.md)
   - [Last Step Matters: Early Uncertainty Cannot Predict Failure in Long-Horizon Agents](../ai/agents/arxiv-2608-29685.md)
-  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
   - [LatBridge: Efficient and Stable Model Replacement in Latent-Communication Multi-Agent Systems](../ai/agents/arxiv-2610-27813.md)
   - [Latent Actions from Factorized Transition Effects under Agent Ambiguity](../ai/agents/arxiv-2606-30544.md)
   - [Latent Collaboration in Multi-Agent Systems](../ai/rag/arxiv-2511-20639.md)
@@ -9758,10 +9757,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
   - [C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](../ai/community/c64-basic-dungeon-crawler-stairs-levels-and-levell.md)
-  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
-  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
+  - [Egoless Mathematics in the AI Era](../ai/community/egoless-mathematics-in-the-ai-era.md)
+  - [Oracle files to sell $20B in new stock, bonds to finance AI buildout](../ai/community/oracle-files-to-sell-20b-in-new-stock-bonds-to-fin.md)
 
 ## animation
 
@@ -9875,7 +9873,7 @@ Resources organized by keyword tags.
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
-  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
+  - [Anthropic's growth just flattened](../ai/community/anthropic-s-growth-just-flattened.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -10250,7 +10248,6 @@ Resources organized by keyword tags.
   - [JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution](../ai/agents/arxiv-2608-25593.md)
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
   - [JetBrains AI - The JetBrains Blog](../ai/rag/jetbrains-ai-the-jetbrains-blog.md)
-  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
@@ -10579,6 +10576,7 @@ Resources organized by keyword tags.
   - [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark](../ai/rag/arxiv-2608-11469.md)
   - [The One-Word Census: Answer-Choice Conformity Across 105 Language Models](../ai/rag/arxiv-2607-12796.md)
   - [The Quality of Claude AI-authored Python Tests Is Not Weaker Than Human-authored Tests](../ai/research/arxiv-2608-15188.md)
+  - [The SEC Should Block Anthropic's IPO to Protect the Public](../ai/community/the-sec-should-block-anthropic-s-ipo-to-protect-th.md)
   - [The Situated Identity Test: Distinguishing Persistent Cognitive Identity from Persona Imitation](../ai/rag/arxiv-2609-22195.md)
   - [The Troy Moment of AI: Why SomeWill Cheat and SomeWill Follow?](../ai/agents/arxiv-2609-15494.md)
   - [The average-farmer illusion in language-model simulations of agricultural decisions](../ai/rag/arxiv-2609-15038.md)
@@ -21674,6 +21672,7 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -33700,6 +33699,7 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -39006,7 +39006,7 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
+  - [Anthropic's growth just flattened](../ai/community/anthropic-s-growth-just-flattened.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -39907,6 +39907,7 @@ Resources organized by keyword tags.
   - [Efficient bias mitigation in T2I diffusion models using Concept Graphs](../ai/research/arxiv-2607-03397.md)
   - [EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts](../ai/agents/arxiv-2606-18967.md)
   - [EfficientTDMPC: Improved MPC Objectives for Sample-Efficient Continuous Control](../ai/rag/arxiv-2605-16692.md)
+  - [Egoless Mathematics in the AI Era](../ai/community/egoless-mathematics-in-the-ai-era.md)
   - [EidosDoc: Implicit Structure Encoding for Cost-Effective Semi-Structured Document QA](../ai/rag/arxiv-2609-27784.md)
   - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](../ai/rag/elasticsearch-the-official-distributed-search-anal.md)
   - [Electricity Maps: The world's most comprehensive electricity data platform](../ai/rag/electricity-maps-the-world-s-most-comprehensive-el.md)
@@ -40767,7 +40768,6 @@ Resources organized by keyword tags.
   - [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md)
   - [Jira | Atlassian Community](../ai/rag/jira-atlassian-community.md)
   - [Job Application for Synack Red Team - Pentester at Synack SRT](../ai/resources/job-application-for-synack-red-team-pentester-at-s.md)
-  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
   - [Join | Mozilla Data Collective](../ai/resources/join-mozilla-data-collective.md)
   - [Joint Detection of Fraud and Concept Drift inOnline Conversations with LLM-Assisted Judgment](../ai/research/arxiv-2505-07852.md)
   - [Joint Development Foundation](../ai/resources/joint-development-foundation.md)
@@ -40874,7 +40874,6 @@ Resources organized by keyword tags.
   - [Large Transformer Model Inference Optimization | Lil'Log](../ai/rag/large-transformer-model-inference-optimization-lil.md)
   - [Large language models can effectively convince people to believe conspiracies](../ai/rag/arxiv-2601-05050.md)
   - [Large-scale factor analysis shows machine intelligence is only partially interpretable](../ai/research/arxiv-2609-36515.md)
-  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
   - [Latency optimization | OpenAI API](../ai/rag/latency-optimization-openai-api.md)
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
@@ -41464,6 +41463,7 @@ Resources organized by keyword tags.
   - [Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making](../ai/research/arxiv-2606-18598.md)
   - [Optimizing Sparse Boolean Rule Networks using Mixed Integer Linear Programming](../ai/rag/arxiv-2610-20170.md)
   - [Oracle Web Sites Terms of Use | Oracle](../ai/agents/oracle-web-sites-terms-of-use-oracle.md)
+  - [Oracle files to sell $20B in new stock, bonds to finance AI buildout](../ai/community/oracle-files-to-sell-20b-in-new-stock-bonds-to-fin.md)
   - [Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning](../ai/research/arxiv-2610-10499.md)
   - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](../ai/rag/arxiv-2606-24799.md)
   - [OrchNAS: Orchestrated Neural Architecture Search Service for Personalised Federated Edge Intelligence](../ai/rag/arxiv-2607-22805.md)
@@ -42514,6 +42514,7 @@ Resources organized by keyword tags.
   - [The Role of Quantization in Loss Spikes](../ai/research/arxiv-2610-38277.md)
   - [The Role of Rigor in Artificial Intelligence](../ai/research/arxiv-2607-03634.md)
   - [The Rust Programming Language, 3rd Edition | No Starch Press](../ai/resources/the-rust-programming-language-3rd-edition-no-starc.md)
+  - [The SEC Should Block Anthropic's IPO to Protect the Public](../ai/community/the-sec-should-block-anthropic-s-ipo-to-protect-th.md)
   - [The Santa Clara Principles on Transparency and Accountability in Content Moderation](../ai/rag/the-santa-clara-principles-on-transparency-and-acc.md)
   - [The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog](../ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md)
   - [The Sparsity Whisperer](../ai/research/arxiv-2608-06630.md)
@@ -54142,7 +54143,6 @@ Resources organized by keyword tags.
   - [Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](../ai/rag/arxiv-2604-27724.md)
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
-  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs](../ai/research/arxiv-2607-14099.md)
@@ -77531,6 +77531,7 @@ Resources organized by keyword tags.
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
   - [platform/system/update_engine - Git at Google](../ai/rag/platform-system-update-engine-git-at-google.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
+  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -87208,4 +87209,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-03T00:17:46.389157+05:30*
+*Index generated on 2026-11-03T08:16:19.632712+05:30*

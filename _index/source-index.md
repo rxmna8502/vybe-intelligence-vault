@@ -38887,11 +38887,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
+  - [Anthropic's growth just flattened](../ai/community/anthropic-s-growth-just-flattened.md)
   - [C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](../ai/community/c64-basic-dungeon-crawler-stairs-levels-and-levell.md)
-  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
-  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
+  - [Egoless Mathematics in the AI Era](../ai/community/egoless-mathematics-in-the-ai-era.md)
   - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](../ai/community/launch-hn-momentic-yc-w24-agents-that-catch-bugs-b.md)
+  - [Oracle files to sell $20B in new stock, bonds to finance AI buildout](../ai/community/oracle-files-to-sell-20b-in-new-stock-bonds-to-fin.md)
+  - [The SEC Should Block Anthropic's IPO to Protect the Public](../ai/community/the-sec-should-block-anthropic-s-ipo-to-protect-th.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42795,4 +42796,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-03T00:17:46.690242+05:30*
+*Index generated on 2026-11-03T08:16:20.168337+05:30*
