@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-momentic-yc-w24-agents-that-catch-bugs-b
 first_seen: '2026-11-03T00:01:19.747261+05:30'
 last_seen: '2026-11-03T17:33:19.267918+05:30'
 last_checked: '2026-11-03T17:33:19.267918+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
 

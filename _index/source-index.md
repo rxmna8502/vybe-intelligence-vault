@@ -39065,10 +39065,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly](../ai/community/anthropic-ipo-filing-1-7b-quarterly-payroll-about.md)
-  - [Egoless Mathematics in the AI Era](../ai/community/egoless-mathematics-in-the-ai-era.md)
-  - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](../ai/community/launch-hn-momentic-yc-w24-agents-that-catch-bugs-b.md)
-  - [Sam Altman's Case Against Your RAM Is Efficient. That's the Problem](../ai/community/sam-altman-s-case-against-your-ram-is-efficient-th.md)
+  - [Fujifilm to boost tape production 5x as AI fuels archiving demand](../ai/community/fujifilm-to-boost-tape-production-5x-as-ai-fuels-a.md)
+  - [Google will turn off search for schools that reject AI](../ai/community/google-will-turn-off-search-for-schools-that-rejec.md)
+  - [I use AI (Oct 2026)](../ai/community/i-use-ai-oct-2026.md)
+  - [Jailbreaking my car's navigation system just so I can change the time](../ai/community/jailbreaking-my-car-s-navigation-system-just-so-i.md)
+  - [OpenAI seems to be silently re-enabling model training on Codex chats](../ai/community/openai-seems-to-be-silently-re-enabling-model-trai.md)
+  - [Postman silently auto-installs AI plugins and attempts to share all API data](../ai/community/postmanlabs-postman-app-support.md)
+  - [USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance](../ai/community/arxiv-2611-02618.md)
+  - [We're Training a Figma-Fluent Editing Model](../ai/community/we-re-training-a-figma-fluent-editing-model.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39205,8 +39209,8 @@ Resources organized by publisher feed and query sources.
   - [CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard](../ai/models/huggingface-blog-leaderboard-emissions-analysis.md)
   - [CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG](../ai/rag/huggingface-blog-intel-fast-embedding.md)
   - [CUGA on Hugging Face: Democratizing Configurable AI Agents](../ai/agents/huggingface-blog-ibm-research-cuga-on-hugging-face.md)
+  - [CWE-bench v2: More coverage, quality, and transparency](../ai/rag/huggingface-blog-cwe-bench.md)
   - [Can foundation models label data like humans?](../ai/models/huggingface-blog-open-llm-leaderboard-rlhf.md)
-  - [Can we trust LLMs to judge whether a research idea is novel?](../ai/models/huggingface-blog-allenai-novelty-bench.md)
   - [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](../ai/models/huggingface-blog-infinity-cpu-performance.md)
   - [Chat Templates: An End to the Silent Performance Killer](../ai/models/huggingface-blog-chat-templates.md)
   - [CinePile 2.0 - making stronger datasets with adversarial refinement](../ai/models/huggingface-blog-cinepile2.md)
@@ -39283,7 +39287,6 @@ Resources organized by publisher feed and query sources.
   - [Efficient MultiModal Data Pipeline](../ai/models/huggingface-blog-mmdp.md)
   - [Efficient Request Queueing – Optimizing LLM Performance](../ai/models/huggingface-blog-tngtech-llm-performance-request-queueing.md)
   - [Efficient Table Pre-training without Real Data: An Introduction to TAPEX](../ai/models/huggingface-blog-tapex.md)
-  - [Ensemble forecasting with IBM Granite time-series models](../ai/models/huggingface-blog-ibm-research-granite-timeseries-ensemble-r1.md)
   - [Ethical Guidelines for developing the Diffusers library](../ai/models/huggingface-blog-ethics-diffusers.md)
   - [Ethics and Society Newsletter #1](../ai/models/huggingface-blog-ethics-soc-1.md)
   - [Ethics and Society Newsletter #3: Ethical Openness at Hugging Face](../ai/models/huggingface-blog-ethics-soc-3.md)
@@ -39680,6 +39683,7 @@ Resources organized by publisher feed and query sources.
   - [PRX Part 3 — Training a Text-to-Image Model in 24h!](../ai/models/huggingface-blog-photoroom-prx-part3.md)
   - [PRX Part 4: Our Data Strategy](../ai/models/huggingface-blog-photoroom-prx-part4-data.md)
   - [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](../ai/models/huggingface-blog-paddlepaddle-paddleocr-transformers.md)
+  - [Palette: teaching a small model to build decks in your design language](../ai/models/huggingface-blog-ibm-research-palette-deck-building.md)
   - [PaliGemma 2 Mix - New Instruction Vision Language Models by Google](../ai/models/huggingface-blog-paligemma2mix.md)
   - [PaliGemma – Google's Cutting-Edge Open Vision Language Model](../ai/models/huggingface-blog-paligemma.md)
   - [Panel on Hugging Face](../ai/models/huggingface-blog-panel-on-hugging-face.md)
@@ -39786,6 +39790,7 @@ Resources organized by publisher feed and query sources.
   - [State of Open Models: Summer 2026 Observations](../ai/models/huggingface-blog-state-of-open-models-summer-2026.md)
   - [State of Open Source on Hugging Face: Spring 2026](../ai/models/huggingface-blog-huggingface-state-of-os-hf-spring-2026.md)
   - [State of open video generation models in Diffusers](../ai/models/huggingface-blog-video-gen.md)
+  - [StateBench: Testing how language models track state changes over long documents](../ai/models/huggingface-blog-allenai-statebench.md)
   - [Streaming datasets: 100x More Efficient](../ai/models/huggingface-blog-streaming-datasets.md)
   - [Student Ambassador Program’s call for applications is open!](../ai/models/huggingface-blog-ambassadors.md)
   - [Subscribe to Enterprise Hub with your AWS Account](../ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md)
@@ -40158,6 +40163,7 @@ Resources organized by publisher feed and query sources.
   - [Next.js Security Update for Upstream Vulnerabilities](../web-development/nextjs/next-js-security-update-for-upstream-vulnerabiliti.md)
   - [Next.js Security Update for a Critical Upstream Issue](../web-development/nextjs/next-js-security-update-for-a-critical-upstream-is.md)
   - [Next.js Security Update: December 11, 2025](../web-development/nextjs/next-js-security-update-december-11-2025.md)
+  - [November 2026 Security Release](../web-development/nextjs/november-2026-security-release.md)
   - [Our Journey with Caching](../web-development/nextjs/our-journey-with-caching.md)
   - [React 19 Upgrade Guide](../web-development/react-19-upgrade-guide.md)
   - [React 19.2](../web-development/react-19-2.md)
@@ -42973,4 +42979,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-03T17:50:45.864238+05:30*
+*Index generated on 2026-11-04T01:38:51.198650+05:30*

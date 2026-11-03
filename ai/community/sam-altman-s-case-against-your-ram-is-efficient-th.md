@@ -13,13 +13,14 @@ collected_at: '2026-11-03T17:33:20.421864+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:sam-altman-s-case-against-your-ram-is-efficient-th
 first_seen: '2026-11-03T17:33:20.421864+05:30'
 last_seen: '2026-11-03T17:33:20.421864+05:30'
 last_checked: '2026-11-03T17:33:20.421864+05:30'
 health_score: 100
 ---
+
 
 # Sam Altman's Case Against Your RAM Is Efficient. That's the Problem
 
