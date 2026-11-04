@@ -14,13 +14,14 @@ collected_at: '2026-11-04T17:48:04.499727+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:show-hn-uncracked-city-detective-game-where-you-qu
 first_seen: '2026-11-04T17:48:04.499727+05:30'
 last_seen: '2026-11-04T17:48:04.499727+05:30'
 last_checked: '2026-11-04T17:48:04.499727+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Uncracked City, detective game where you question LLM suspects that lie
 

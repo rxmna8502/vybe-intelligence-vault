@@ -13,13 +13,14 @@ collected_at: '2026-11-04T17:48:06.232474+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:we-re-training-a-figma-fluent-editing-model
 first_seen: '2026-11-04T01:21:45.581087+05:30'
 last_seen: '2026-11-04T17:48:06.232474+05:30'
 last_checked: '2026-11-04T17:48:06.232474+05:30'
 health_score: 100
 ---
+
 
 # We're training a Figma-fluent editing model
 

@@ -13,13 +13,14 @@ collected_at: '2026-11-04T17:48:01.649845+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:jailbreaking-my-car-s-navigation-system-just-so-i
 first_seen: '2026-11-04T01:21:43.044956+05:30'
 last_seen: '2026-11-04T17:48:01.649845+05:30'
 last_checked: '2026-11-04T17:48:01.649845+05:30'
 health_score: 100
 ---
+
 
 # Jailbreaking my car's navigation system just so I can change the time
 

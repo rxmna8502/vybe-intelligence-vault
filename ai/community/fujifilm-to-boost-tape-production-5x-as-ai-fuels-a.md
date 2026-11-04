@@ -13,13 +13,14 @@ collected_at: '2026-11-04T17:48:04.781611+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fujifilm-to-boost-tape-production-5x-as-ai-fuels-a
 first_seen: '2026-11-04T01:21:43.313502+05:30'
 last_seen: '2026-11-04T17:48:04.781611+05:30'
 last_checked: '2026-11-04T17:48:04.781611+05:30'
 health_score: 100
 ---
+
 
 # Fujifilm to boost tape production 5x as AI fuels archiving demand
 

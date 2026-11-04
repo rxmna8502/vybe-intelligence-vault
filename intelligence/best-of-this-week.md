@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [Examining the Vulnerability of Multi-Agent Medical Systems to Human Interventions for Clinical Reasoning](https://arxiv.org/abs/2609.02191) (Score: 70) - Category: `ai-coding-agents/`
-*   [DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation](https://arxiv.org/abs/2608.28590) (Score: 70) - Category: `ai-coding-agents/`
-*   [Do Language Models Know What Compelling Scientific Evidence Looks Like?](https://arxiv.org/abs/2610.41015) (Score: 70) - Category: `ai-coding-agents/`
-*   [Staying on Task: Testing the Foundations of Long-Horizon Agent Reliability](https://arxiv.org/abs/2609.38712) (Score: 70) - Category: `ai-coding-agents/`
-*   [Agent Data Injection Attacks are Realistic Threats to AI Agents](https://arxiv.org/abs/2607.05120) (Score: 70) - Category: `ai-coding-agents/`
-*   [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Score: 70) - Category: `ai-coding-agents/`
-*   [The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents](https://arxiv.org/abs/2606.24470) (Score: 70) - Category: `ai-coding-agents/`
-*   [Motus2: A Self-Evolving General World Model for Dexterous Manipulation](https://arxiv.org/abs/2608.30237) (Score: 70) - Category: `ai-coding-agents/`
-*   [MedCTA: A Benchmark for Clinical Tool Agents](https://arxiv.org/abs/2606.11702) (Score: 70) - Category: `ai-coding-agents/`
-*   [Outperforming 1000 Euclidean Layers With Hyperbolic Goal-Conditioned RL](https://arxiv.org/abs/2610.20009) (Score: 70) - Category: `ai-coding-agents/`
-*   [Graph-based Target Back-Propagation for Context Adaptation in Multi-LLM Agentic Systems](https://arxiv.org/abs/2606.14155) (Score: 70) - Category: `ai-coding-agents/`
-*   [Scaling Lean Theorem Proving for Real-World Code Verification](https://arxiv.org/abs/2610.38174) (Score: 70) - Category: `ai-coding-agents/`
-*   [RollArt: Disaggregated Multi-Task Agentic RL Training at Scale](https://arxiv.org/abs/2512.22560) (Score: 70) - Category: `ai-coding-agents/`
-*   [Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://arxiv.org/abs/2607.04334) (Score: 70) - Category: `ai-coding-agents/`
-*   [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](https://arxiv.org/abs/2606.26080) (Score: 70) - Category: `ai-coding-agents/`
+*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
+*   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
+*   [Prompt-to-Paper: Agentic AI System for Bioinformatics](https://arxiv.org/abs/2607.05456) (Score: 70) - Category: `ai-coding-agents/`
+*   [Better Stack - 30x cheaper than Datadog, Exceptional support](https://betterstack.com/) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784) (Score: 70) - Category: `ai-coding-agents/`
+*   [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) (Score: 70) - Category: `ai-coding-agents/`
+*   [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) (Score: 70) - Category: `ai-coding-agents/`
+*   [Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration](https://arxiv.org/abs/2608.21208) (Score: 70) - Category: `ai-coding-agents/`
+*   [SC-JEPA: Stabilizing Latent Predictive Learning for Time-Series Anomaly Prediction](https://arxiv.org/abs/2602.04643) (Score: 70) - Category: `ai-coding-agents/`
+*   [Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents](https://arxiv.org/abs/2605.21347) (Score: 70) - Category: `ai-coding-agents/`
+*   [Evaluating the Retrieval Robustness of Large Language Models](https://arxiv.org/abs/2505.21870) (Score: 70) - Category: `ai-coding-agents/`
+*   [ReproBAIT: Can coding agents build their own biological AI tools?](https://arxiv.org/abs/2610.19810) (Score: 70) - Category: `ai-coding-agents/`
+*   [Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations](https://arxiv.org/abs/2609.30345) (Score: 70) - Category: `ai-coding-agents/`
+*   [DeepSurvey: Agent-Oriented Automated Survey Generation with Analytical Depth and Citation Reliability](https://arxiv.org/abs/2605.29522) (Score: 70) - Category: `ai-coding-agents/`
+*   [RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents](https://arxiv.org/abs/2609.04898) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

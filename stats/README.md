@@ -7,4 +7,4 @@ Real-time statistics detailing database sizes, category distributions, sources, 
 *   [Latest Sync Update Details](latest-update.md)
 *   [Source Coverage Overview](source-coverage.md)
 
-Last computed: 2026-11-04 18:06 IST
+Last computed: 2026-11-05 01:47 IST

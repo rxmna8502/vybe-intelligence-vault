@@ -13,13 +13,14 @@ collected_at: '2026-11-04T17:48:03.871124+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:geoffrey-hinton-it-might-turn-out-we-were-better-o
 first_seen: '2026-11-04T17:48:03.871124+05:30'
 last_seen: '2026-11-04T17:48:03.871124+05:30'
 last_checked: '2026-11-04T17:48:03.871124+05:30'
 health_score: 100
 ---
+
 
 # Geoffrey Hinton: it might turn out we were better off without AI
 

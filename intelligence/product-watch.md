@@ -4,25 +4,25 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 
 | Product | Focus Area | Score |
 | :--- | :--- | :--- |
-| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | `mcp-registry/` | 70 |
-| [semgrep/mcp](https://github.com/semgrep/mcp) | `mcp-registry/` | 70 |
-| [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
-| [acuvity/minibridge](https://github.com/acuvity/minibridge) | `mcp-registry/` | 70 |
-| [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | `mcp-registry/` | 70 |
-| [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) | `mcp-registry/` | 70 |
-| [Prompts - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/prompts) | `mcp-registry/` | 70 |
-| [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
-| [cloudflare/mcp](https://github.com/cloudflare/mcp) | `mcp-registry/` | 70 |
-| [Tools - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/tools) | `mcp-registry/` | 70 |
-| [Black Forest Labs · GitHub](https://github.com/black-forest-labs) | `mcp-registry/` | 70 |
-| [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
-| [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
-| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | `mcp-registry/` | 70 |
-| [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
-| [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | `mcp-registry/` | 70 |
-| [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
-| [Welcome to the Planetary Data System](https://pds.nasa.gov) | `mcp-registry/` | 70 |
-| [Five Big Improvements to Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-updates) | `mcp-registry/` | 70 |
+| [udecode/plate](https://github.com/udecode/plate) | `mcp-registry/` | 70 |
+| [Jpisnice/shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server) | `mcp-registry/` | 70 |
+| [Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines](https://arxiv.org/abs/2601.23132) | `mcp-registry/` | 70 |
+| [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138) | `mcp-registry/` | 70 |
+| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | `mcp-registry/` | 70 |
+| [When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling](https://arxiv.org/abs/2608.17275) | `mcp-registry/` | 70 |
+| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | `mcp-registry/` | 70 |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | `mcp-registry/` | 70 |
+| [AEGIS: Preventing Cross-Domain Resource Abuse in MCP](https://arxiv.org/abs/2608.20481) | `mcp-registry/` | 70 |
+| [A Taxonomy of Runtime Faults in Model Context Protocol Servers](https://arxiv.org/abs/2606.05339) | `mcp-registry/` | 70 |
+| [GitHub Copilot CLI command reference - GitHub Docs](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference) | `mcp-registry/` | 70 |
+| [How ServiceNow uses LangSmith to get visibility into its customer success agents](https://blog.langchain.com/customers-servicenow/) | `mcp-registry/` | 70 |
+| [One Teacher, Many Views: Reducing Reference Sensitivity in On-Policy Self-Distillation](https://arxiv.org/abs/2610.30880) | `mcp-registry/` | 70 |
+| [PhysAI-Bench: A Benchmark for LLM-Based Agentic Decision-Making in Autonomous UAV-Centric Physical AI](https://arxiv.org/abs/2609.23695) | `mcp-registry/` | 70 |
+| [ASTRA - Agentic System for Ticket Resolution and Analysis](https://arxiv.org/abs/2608.28790) | `mcp-registry/` | 70 |
+| [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) | `mcp-registry/` | 70 |
+| [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) | `mcp-registry/` | 70 |
+| [Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations](https://arxiv.org/abs/2610.02432) | `mcp-registry/` | 70 |
+| [Intro | Zod](https://zod.dev) | `mcp-registry/` | 70 |
+| [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

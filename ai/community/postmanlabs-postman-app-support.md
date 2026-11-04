@@ -13,13 +13,14 @@ collected_at: '2026-11-04T17:48:05.710775+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:postmanlabs/postman-app-support
 first_seen: '2026-11-04T01:21:42.753799+05:30'
 last_seen: '2026-11-04T17:48:05.710775+05:30'
 last_checked: '2026-11-04T17:48:05.710775+05:30'
 health_score: 100
 ---
+
 
 # Postman silently auto-installs AI plugins and attempts to share all API data
 
