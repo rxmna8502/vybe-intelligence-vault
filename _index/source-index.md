@@ -33609,7 +33609,6 @@ Resources organized by publisher feed and query sources.
   - [The Limits of Speculation: Bounding Speculative Decoding in Mixture-of-Experts](../ai/research/arxiv-2609-22156.md)
   - [The Linear Representation Hypothesis Needs a Group Action](../ai/research/arxiv-2609-27158.md)
   - [The Linear Representation Hypothesis for Vision-Language-Action Models](../ai/research/arxiv-2609-30996.md)
-  - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](../ai/research/arxiv-2605-29713.md)
   - [The Logic of Machine Self-Preservation](../ai/agents/arxiv-2608-20940.md)
   - [The Long Delay to Arithmetic Generalization](../ai/research/arxiv-2604-13082.md)
   - [The Loss Does Not See the Basis, but Adam Does](../ai/research/arxiv-2608-05136.md)
@@ -39066,13 +39065,16 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Fujifilm to boost tape production 5x as AI fuels archiving demand](../ai/community/fujifilm-to-boost-tape-production-5x-as-ai-fuels-a.md)
-  - [Google will turn off search for schools that reject AI](../ai/community/google-will-turn-off-search-for-schools-that-rejec.md)
-  - [I use AI (Oct 2026)](../ai/community/i-use-ai-oct-2026.md)
+  - [How I use AI (Oct 2026)](../ai/community/i-use-ai-oct-2026.md)
   - [Jailbreaking my car's navigation system just so I can change the time](../ai/community/jailbreaking-my-car-s-navigation-system-just-so-i.md)
-  - [OpenAI seems to be silently re-enabling model training on Codex chats](../ai/community/openai-seems-to-be-silently-re-enabling-model-trai.md)
   - [Postman silently auto-installs AI plugins and attempts to share all API data](../ai/community/postmanlabs-postman-app-support.md)
+  - [Show HN: Kairos – Open-source risk and fraud decisioning platform](../ai/community/finic-ai-kairos.md)
+  - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](../ai/research/arxiv-2605-29713.md)
+  - [There is no posttraining data commons](../ai/community/there-is-no-posttraining-data-commons.md)
+  - [US tech giants' hidden AI debt swells 90% to $3.2T in 6 months](../ai/community/us-tech-giants-hidden-ai-debt-swells-90-to-3-2t-in.md)
   - [USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance](../ai/community/arxiv-2611-02618.md)
   - [We're Training a Figma-Fluent Editing Model](../ai/community/we-re-training-a-figma-fluent-editing-model.md)
+  - [macOS 27 does not support CoreStorage volumes](../ai/community/macos-27-does-not-support-corestorage-volumes.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42979,4 +42981,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-04T01:38:51.198650+05:30*
+*Index generated on 2026-11-04T06:28:13.462036+05:30*

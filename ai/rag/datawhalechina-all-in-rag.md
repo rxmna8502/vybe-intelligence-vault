@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-11-04T01:22:39.260784+05:30'
+collected_at: '2026-11-04T06:12:35.748163+05:30'
 published_at: '2026-11-03T14:43:34Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-30T21:49:22Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-11-04T01:22:39.260784+05:30'
-last_seen: '2026-11-04T01:22:39.260784+05:30'
-last_checked: '2026-11-04T01:22:39.260784+05:30'
+first_seen: '2026-11-04T06:12:35.748163+05:30'
+last_seen: '2026-11-04T06:12:35.748163+05:30'
+last_checked: '2026-11-04T06:12:35.748163+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a comprehensive, full-stack guide for Retrieval Augmented Generation (RAG) system development.
-*   Utilizes `langchain` and `llama-index` for RAG orchestration, integrating `milvus` and `neo4j` for vector and graph database management, respectively.
-*   Demonstrates practical RAG implementations with `deepseek` and `kimi-k2` LLMs, supporting `multimodal` capabilities, primarily developed in Python.
+*   Comprehensive RAG full-stack development guide, encompassing data ingestion, retrieval, and generation phases.
+*   Utilizes `langchain` and `llama-index` for RAG orchestration, integrating `milvus` for vector search and `neo4j` for graph-based knowledge retrieval.
+*   Explores advanced `embedding` techniques and `multimodal` RAG, demonstrating practical LLM integration with models like `deepseek` and `kimi-k2`.
 
 ## Why It Matters
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-seems-to-be-silently-re-enabling-model-trai
 first_seen: '2026-11-04T01:21:43.584268+05:30'
 last_seen: '2026-11-04T01:21:43.584268+05:30'
 last_checked: '2026-11-04T01:21:43.584268+05:30'
 health_score: 100
 ---
+
 
 # OpenAI seems to be silently re-enabling model training on Codex chats
 
