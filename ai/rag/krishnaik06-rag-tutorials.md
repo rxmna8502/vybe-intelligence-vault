@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/RAG-Tutorials
-collected_at: '2026-11-03T17:35:17.852060+05:30'
-published_at: '2026-11-02T11:23:20Z'
+collected_at: '2026-11-04T17:48:59.703839+05:30'
+published_at: '2026-11-03T15:55:17Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 505
+stars: 507
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-03T03:41:25Z'
 pushed_at: '2026-04-03T17:43:05Z'
 resource_id: github:krishnaik06/rag-tutorials
-first_seen: '2026-11-03T17:35:17.852060+05:30'
-last_seen: '2026-11-03T17:35:17.852060+05:30'
-last_checked: '2026-11-03T17:35:17.852060+05:30'
+first_seen: '2026-11-04T17:48:59.703839+05:30'
+last_seen: '2026-11-04T17:48:59.703839+05:30'
+last_checked: '2026-11-04T17:48:59.703839+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Dedicated repository for Retrieval Augmented Generation (RAG) implementation tutorials.
-*
+*   Focuses on Retrieval-Augmented Generation (RAG) architectures and implementations.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 505
+- Stars: 507
 - Forks: 446
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-11-02T11:23:20Z
+- Last Updated: 2026-11-03T15:55:17Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-09-03T03:41:25Z

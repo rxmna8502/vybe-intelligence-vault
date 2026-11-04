@@ -12,17 +12,17 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
-- [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [LangSmith Cloud changelog - Docs by LangChain](https://changelog.langchain.com/) (prompt - USEFUL Tier)
-- [Microsoft Academic Graph - Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (tutorial - USEFUL Tier)
+- [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
+- [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (framework - USEFUL Tier)
+- [The knowledge layer for AI | GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-LBKK1y7h_XWAtuRJG9X-4037718589&utm_content=site_S8gms) (mcp-server - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [supabase/supabase](https://github.com/supabase/supabase)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
+- [supabase/supabase](https://github.com/supabase/supabase)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-11-04 06:30 IST*
+*Last updated: 2026-11-04 18:06 IST*

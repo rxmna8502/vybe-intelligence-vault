@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
-collected_at: '2026-11-03T17:35:22.767649+05:30'
-published_at: '2026-11-02T21:11:14Z'
+collected_at: '2026-11-04T17:49:04.674058+05:30'
+published_at: '2026-11-04T06:55:59Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 4021
+stars: 4023
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2017-07-13T19:46:01Z'
 pushed_at: '2026-11-02T21:11:33Z'
 resource_id: github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials
-first_seen: '2026-11-03T17:35:22.767649+05:30'
-last_seen: '2026-11-03T17:35:22.767649+05:30'
-last_checked: '2026-11-03T17:35:22.767649+05:30'
+first_seen: '2026-11-04T17:49:04.674058+05:30'
+last_seen: '2026-11-04T17:49:04.674058+05:30'
+last_checked: '2026-11-04T17:49:04.674058+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides autograded, hands-on AI/ML/DL courses deployable across Jupyter environments (Colab, Kaggle, Binder, Codespaces).
-*   Covers advanced applications including predictive maintenance, document AI (extraction, RAG), AI agents (MCP), and simulated humanoid robotics.
-*   Focuses on practical implementation of EU AI Act conformity, model validation, and responsible AI principles.
+*   Provides autograded, hands-on AI/ML/DL courses deployable across diverse Jupyter environments (Colab, Kaggle, Binder, Codespaces).
+*   Covers advanced AI applications including EU AI Act conformity, model risk management, predictive maintenance, document AI (extraction, RAG), and AI agents with simulated humanoid robotics.
+*   Leverages Python and Jupyter Notebooks, emphasizing MLOps, Responsible AI, and practical implementation for enterprise AI solutions.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TarrySingh
-- Stars: 4021
+- Stars: 4023
 - Forks: 1619
 - Language: Python
 - Topics: ai-agents, ai-governance, artificial-intelligence, autograding, deep-learning, document-ai, eu-ai-act, google-colab, humanoid-robotics, jupyter-notebook, machine-learning, mlops, model-risk-management, mujoco, online-course, predictive-maintenance, python, rag, responsible-ai, synapsa
-- Last Updated: 2026-11-02T21:11:14Z
+- Last Updated: 2026-11-04T06:55:59Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2017-07-13T19:46:01Z

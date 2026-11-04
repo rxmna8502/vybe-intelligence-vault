@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-10-23T19:09:01.428859+05:30'
-published_at: '2026-10-23T11:54:56Z'
+collected_at: '2026-11-04T17:52:14.763120+05:30'
+published_at: '2026-11-04T08:43:20Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 27536
+stars: 27615
 language: Python
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-10-22T16:22:32Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-10-23T19:09:01.428859+05:30'
-last_seen: '2026-10-23T19:09:01.428859+05:30'
-last_checked: '2026-10-23T19:09:01.428859+05:30'
+first_seen: '2026-11-04T17:52:14.763120+05:30'
+last_seen: '2026-11-04T17:52:14.763120+05:30'
+last_checked: '2026-11-04T17:52:14.763120+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Operates as a fully local, API-free autonomous agent, eliminating recurring costs beyond electricity.
-*   Provides advanced agentic capabilities including reasoning, web browsing, and code generation/execution.
-*   Implemented in Python, leveraging the DeepSeek-R1 LLM as its core intelligence
+*   Implements a fully local, API-independent autonomous agent for general AI tasks.
+*   Enables agentic capabilities including reasoning, web navigation, and code generation.
+*   Operates solely on local compute resources, eliminating API costs and leveraging models like DeepSeek-R1 for inference.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 27536
-- Forks: 3084
+- Stars: 27615
+- Forks: 3101
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-10-23T11:54:56Z
+- Last Updated: 2026-11-04T08:43:20Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

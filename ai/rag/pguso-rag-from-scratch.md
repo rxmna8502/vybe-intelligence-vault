@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-11-03T17:35:22.786634+05:30'
+collected_at: '2026-11-04T17:49:04.624901+05:30'
 published_at: '2026-11-03T10:43:05Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-11-03T17:35:22.786634+05:30'
-last_seen: '2026-11-03T17:35:22.786634+05:30'
-last_checked: '2026-11-03T17:35:22.786634+05:30'
+first_seen: '2026-11-04T17:49:04.624901+05:30'
+last_seen: '2026-11-04T17:49:04.624901+05:30'
+last_checked: '2026-11-04T17:49:04.624901+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) pipeline from scratch for foundational understanding
+*   Implements a Retrieval-Augmented Generation (RAG) pipeline from scratch, focusing on core components: embeddings, vector search, retrieval, and context-augmented generation.
+*   Utilizes local LLMs via `node-llama-cpp` within a Node.js environment, prioritizing transparency over black-box solutions.
+*   Aims to provide a fundamental understanding of RAG mechanics through hands-on, component-level construction.
 
 ## Why It Matters
 
