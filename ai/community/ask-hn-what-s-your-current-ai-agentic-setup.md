@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-what-s-your-current-ai-agentic-setup
 first_seen: '2026-11-05T06:31:31.935074+05:30'
 last_seen: '2026-11-05T18:00:57.747238+05:30'
 last_checked: '2026-11-05T18:00:57.747238+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: What's your current AI agentic setup?
 

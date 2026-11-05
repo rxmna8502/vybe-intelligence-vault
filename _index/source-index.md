@@ -39607,13 +39607,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI is forcing us to pay off 40 years of technical debt](../ai/community/ai-is-forcing-us-to-pay-off-40-years-of-technical.md)
-  - [Ask HN: What's your current AI agentic setup?](../ai/community/ask-hn-what-s-your-current-ai-agentic-setup.md)
   - [Baidu released ERNIE 5.5 Flash Base](../ai/community/baidu-released-ernie-5-5-flash-base.md)
-  - [Future Maintenance of Mbed TLS](../ai/community/future-maintenance-of-mbed-tls.md)
-  - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](../ai/community/launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide.md)
-  - [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](../ai/community/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-ca.md)
-  - [Spreading Liquid with Three.js](../web-development/community/spreading-liquid-with-three-js.md)
+  - [Hungary: Communist-era files released, up to 60k former agents revealed](../ai/community/hungary-communist-era-files-released-up-to-60k-for.md)
+  - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](../ai/community/rivet-dev-rivet.md)
+  - [MCP Explained](../ai/community/mcp-explained.md)
+  - [MS Paint Remote Code Execution Vulnerability](../ai/community/ms-paint-remote-code-execution-vulnerability.md)
+  - [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](../ai/community/show-hn-a-decent-text-to-image-model-trained-for-2.md)
+  - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](../ai/community/tencent-launches-hy4-one-of-the-leading-open-sourc.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -40182,6 +40182,7 @@ Resources organized by publisher feed and query sources.
   - [Nemotron-Personas-Japan: ソブリン AI のための合成データセット](../ai/models/huggingface-blog-nvidia-nemotron-personas-japan-ja.md)
   - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](../ai/models/huggingface-blog-hcompany-neomme.md)
   - [Neural Super Sampling is here!](../ai/models/huggingface-blog-arm-neural-super-sampling.md)
+  - [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](../ai/models/huggingface-blog-nvidia-cosmos-interactive-world-simulation.md)
   - [New ViT and ALIGN Models From Kakao Brain](../ai/models/huggingface-blog-vit-align.md)
   - [New in llama.cpp: Model Management](../ai/models/huggingface-blog-ggml-org-model-management-in-llamacpp.md)
   - [Newer Models, Same Advantage](../ai/models/huggingface-blog-dharma-ai-newer-models-same-advantages.md)
@@ -40496,7 +40497,6 @@ Resources organized by publisher feed and query sources.
   - [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](../ai/models/huggingface-blog-huggingface-hub-v1.md)
   - [mmBERT: ModernBERT goes Multilingual](../ai/models/huggingface-blog-mmbert.md)
   - [nanoVLM: The simplest repository to train your VLM in pure PyTorch](../ai/models/huggingface-blog-nanovlm.md)
-  - [nemotron-halloween](../ai/models/huggingface-blog-nvidia-nemotron-halloween.md)
   - [tokenizers v1: encode, decode and scaling, measured](../ai/models/huggingface-blog-tokenizers-v1.md)
   - [vLLM V0 to V1: Correctness Before Corrections in RL](../ai/models/huggingface-blog-servicenow-ai-correctness-before-corrections.md)
   - [~Don't~ Repeat Yourself](../ai/models/huggingface-blog-transformers-design-philosophy.md)
@@ -43522,4 +43522,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-05T18:22:00.032913+05:30*
+*Index generated on 2026-11-06T03:55:50.569516+05:30*

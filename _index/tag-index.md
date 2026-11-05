@@ -1096,7 +1096,6 @@ Resources organized by keyword tags.
   - [Ascent: An Agentic System over the Model Context Protocol for Real-World Clinical Data Analysis](../ai/rag/arxiv-2609-24620.md)
   - [Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents](../ai/agents/arxiv-2609-13543.md)
   - [Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization](../ai/agents/arxiv-2609-05258.md)
-  - [Ask HN: What's your current AI agentic setup?](../ai/community/ask-hn-what-s-your-current-ai-agentic-setup.md)
   - [Ask on Demand: Targeted Peer Communication for Parallel Agentic Systems](../ai/agents/arxiv-2610-41378.md)
   - [Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense](../ai/agents/arxiv-2610-09337.md)
   - [Ask the Tool, Don't Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It](../ai/agents/arxiv-2609-18849.md)
@@ -4350,6 +4349,7 @@ Resources organized by keyword tags.
   - [Humans Are More Diverse: Frontier LLMs Show Extreme Policies in Idealised AI Development Races](../ai/agents/arxiv-2608-01193.md)
   - [Humans are Missing from AI Coding Agent Research](../ai/agents/arxiv-2608-12355.md)
   - [Humans vs. Machines: A Comparison With AI Agents in Software Reverse Engineering](../ai/agents/arxiv-2610-14960.md)
+  - [Hungary: Communist-era files released, up to 60k former agents revealed](../ai/community/hungary-communist-era-files-released-up-to-60k-for.md)
   - [Hunyuan-A13B Technical Report](../ai/agents/arxiv-2609-27284.md)
   - [HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation](../ai/rag/arxiv-2608-15703.md)
   - [HySTAR: Anchored Hypergraphs for Stable Credit Assignment in Cooperative Multi-Agent Reinforcement Learning](../ai/agents/arxiv-2609-31531.md)
@@ -4913,6 +4913,7 @@ Resources organized by keyword tags.
   - [LatentSift: Policy-State Filtering for Token-Efficient Verification of Software Engineering Agents](../ai/agents/arxiv-2609-36371.md)
   - [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](../ai/rag/arxiv-2606-06087.md)
   - [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](../ai/agents/arxiv-2610-26869.md)
+  - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](../ai/community/rivet-dev-rivet.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](../ai/agents/arxiv-2606-01838.md)
   - [LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](../ai/agents/arxiv-2609-23058.md)
@@ -9946,12 +9947,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI is forcing us to pay off 40 years of technical debt](../ai/community/ai-is-forcing-us-to-pay-off-40-years-of-technical.md)
-  - [Ask HN: What's your current AI agentic setup?](../ai/community/ask-hn-what-s-your-current-ai-agentic-setup.md)
   - [Baidu released ERNIE 5.5 Flash Base](../ai/community/baidu-released-ernie-5-5-flash-base.md)
-  - [Future Maintenance of Mbed TLS](../ai/community/future-maintenance-of-mbed-tls.md)
-  - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](../ai/community/launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide.md)
-  - [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](../ai/community/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-ca.md)
+  - [MCP Explained](../ai/community/mcp-explained.md)
+  - [MS Paint Remote Code Execution Vulnerability](../ai/community/ms-paint-remote-code-execution-vulnerability.md)
+  - [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](../ai/community/show-hn-a-decent-text-to-image-model-trained-for-2.md)
+  - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](../ai/community/tencent-launches-hy4-one-of-the-leading-open-sourc.md)
 
 ## animation
 
@@ -39477,7 +39477,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI is forcing us to pay off 40 years of technical debt](../ai/community/ai-is-forcing-us-to-pay-off-40-years-of-technical.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -39747,7 +39746,6 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
-  - [Ask HN: What's your current AI agentic setup?](../ai/community/ask-hn-what-s-your-current-ai-agentic-setup.md)
   - [Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG](../ai/agents/arxiv-2607-02802.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessing the impact of dimensionality reduction on clustering performance - a systematic study](../ai/research/arxiv-2604-22099.md)
@@ -40951,7 +40949,6 @@ Resources organized by keyword tags.
   - [Functional programming - Wikipedia](../ai/rag/functional-programming-wikipedia.md)
   - [Fused Location Provider API | Google for Developers](../ai/resources/fused-location-provider-api-google-for-developers.md)
   - [Fusion techniques of time frequency-based images to predict the outcome of rTMS depression therapy](../ai/research/arxiv-2610-00380.md)
-  - [Future Maintenance of Mbed TLS](../ai/community/future-maintenance-of-mbed-tls.md)
   - [Future-Back Threat Modeling: A Foresight-Driven Security Framework](../ai/research/arxiv-2511-16088.md)
   - [FuzzInsight: Navigating the Efficiency-Effectiveness Trade-off in Coverage-Guided DNN Fuzzing](../ai/rag/arxiv-2610-23195.md)
   - [GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking](../ai/research/arxiv-2606-15788.md)
@@ -41305,6 +41302,7 @@ Resources organized by keyword tags.
   - [Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](../ai/agents/arxiv-2408-12548.md)
   - [Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows](../ai/research/arxiv-2606-17824.md)
   - [Human-in-the-Loop User Feedback Affects Perceived Accuracy and Trust, but Task Subjectivity Matters](../ai/research/arxiv-2607-17548.md)
+  - [Hungary: Communist-era files released, up to 60k former agents revealed](../ai/community/hungary-communist-era-files-released-up-to-60k-for.md)
   - [Hunyuan-A13B Technical Report](../ai/agents/arxiv-2609-27284.md)
   - [HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](../ai/rag/arxiv-2607-19398.md)
   - [HyQuant: Hybrid-Precision Quantization for LLM Attention](../ai/research/arxiv-2608-27875.md)
@@ -41591,7 +41589,7 @@ Resources organized by keyword tags.
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent space bias directions in LLMs capture confidence, not fairness](../ai/research/arxiv-2610-08559.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
-  - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](../ai/community/launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide.md)
+  - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](../ai/community/rivet-dev-rivet.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -41771,6 +41769,7 @@ Resources organized by keyword tags.
   - [MARS: Multi-Specialist LLM Relay System for Competitive Programming](../ai/rag/arxiv-2608-23918.md)
   - [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../ai/rag/arxiv-2502-11068.md)
   - [MBDiff: Multi-view Behavior-aware Diffusion Model for Probabilistic Utility Data Imputation](../ai/rag/arxiv-2607-29177.md)
+  - [MCP Explained](../ai/community/mcp-explained.md)
   - [MDN Web Docs · GitHub](../ai/resources/mdn-web-docs-github.md)
   - [MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar](../ai/rag/arxiv-2607-26016.md)
   - [MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories](../ai/rag/arxiv-2608-16357.md)
@@ -41790,6 +41789,7 @@ Resources organized by keyword tags.
   - [MOONSHOT : A Framework for Multi-Objective Pruning of Vision and Large Language Models](../ai/research/arxiv-2604-13287.md)
   - [MOSAIC: Masked Outsourcing of Secure AI Computations](../ai/research/arxiv-2607-29221.md)
   - [MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification](../ai/research/arxiv-2607-28681.md)
+  - [MS Paint Remote Code Execution Vulnerability](../ai/community/ms-paint-remote-code-execution-vulnerability.md)
   - [Mach-Mind-4-Flash Technical Report](../ai/agents/arxiv-2607-09375.md)
   - [Machine Learning Applications in the Solar Interior and Atmosphere](../ai/research/arxiv-2610-34687.md)
   - [Machine Learning Data Science Courses | GeeksforGeeks](../ai/rag/machine-learning-data-science-courses-geeksforgeek.md)
@@ -42452,7 +42452,6 @@ Resources organized by keyword tags.
   - [QGB-W$k$NN: Quantum Granular-Ball Learning for Robust Classification](../ai/research/arxiv-2609-05952.md)
   - [Quadratic Programming Approach for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](../ai/research/arxiv-2509-25618.md)
   - [QuakeML - QuakeML](../ai/resources/quakeml-quakeml.md)
-  - [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](../ai/community/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-ca.md)
   - [QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation](../ai/research/arxiv-2609-26425.md)
   - [Quantifying Explainable AI-introduced signal noise on ECG data with Spectral Entropy](../ai/research/arxiv-2606-24974.md)
   - [Quantifying Logical Consistency in Transformers via Query-Key Alignment](../ai/research/arxiv-2502-17017.md)
@@ -42866,6 +42865,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](../ai/community/show-hn-a-decent-text-to-image-model-trained-for-2.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -42978,7 +42978,6 @@ Resources organized by keyword tags.
   - [Sponsor @jgm on GitHub Sponsors · GitHub](../ai/rag/users-jgm.md)
   - [Spot the Surveillance: A VR Experience for Keeping an Eye on Big Brother | Electronic Frontier Foundation](../ai/rag/spot-the-surveillance-a-vr-experience-for-keeping.md)
   - [Spotlight: Synergizing Seed Exploration and Spot GPUs for DiT RL Post-Training](../ai/rag/arxiv-2606-19004.md)
-  - [Spreading Liquid with Three.js](../web-development/community/spreading-liquid-with-three-js.md)
   - [Springer Nature Group | Springer Nature](../ai/resources/springer-nature-group-springer-nature.md)
   - [Springer Nature author service | Editing, translation & support](../ai/rag/springer-nature-author-service-editing-translation.md)
   - [SqLinear: Balanced Square Partitioning Makes Linear Interaction Sufficient for Large-Scale Traffic Forecasting](../ai/rag/arxiv-2606-21072.md)
@@ -43137,6 +43136,7 @@ Resources organized by keyword tags.
   - [Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection](../ai/rag/arxiv-2605-29526.md)
   - [Ten Simple Rules for Taking Advantage of Git and GitHub | PLOS Computational Biology](../ai/rag/ten-simple-rules-for-taking-advantage-of-git-and-g.md)
   - [Ten Years at the Frontiers of Energy Science | Department of Energy](../ai/rag/ten-years-at-the-frontiers-of-energy-science-depar.md)
+  - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](../ai/community/tencent-launches-hy4-one-of-the-leading-open-sourc.md)
   - [Tensor Cookbook: Mastering Tensors through Diagrams](../ai/research/arxiv-2605-16610.md)
   - [Tensor Methods for Language Models: From Token Representation to Training, Adaptation, Inference, Compression, and Interpretability](../ai/rag/arxiv-2608-30505.md)
   - [Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling](../ai/rag/arxiv-2607-06841.md)
@@ -43790,6 +43790,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -52889,6 +52890,7 @@ Resources organized by keyword tags.
   - [Shortcuts in the Tail: Debiasing via Post-Hoc Spectral Compression of Fine-Tuning Updates](../ai/research/arxiv-2606-07596.md)
   - [Shot-based quantum encoding: a data-loading paradigm for quantum neural networks](../ai/research/arxiv-2604-06135.md)
   - [Should Pseudo-Labels Share Mini-Batches with Labeled Examples? Semi-Supervised Continual Active Learning with Limited Training Cost](../ai/rag/arxiv-2610-35345.md)
+  - [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](../ai/community/show-hn-a-decent-text-to-image-model-trained-for-2.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [ShutdownMod: Turning Any Trajectory into a Shutdown Evaluation](../ai/rag/arxiv-2610-35486.md)
   - [Sign in](../ai/rag/sign-in.md)
@@ -62481,7 +62483,7 @@ Resources organized by keyword tags.
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
   - [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](../ai/agents/arxiv-2610-26869.md)
-  - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](../ai/community/launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide.md)
+  - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](../ai/community/rivet-dev-rivet.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -62606,6 +62608,7 @@ Resources organized by keyword tags.
   - [Talk to Sales - SpeechifyAI API](../ai/agents/talk-to-sales-speechifyai-api.md)
   - [Teaming Up with AI: Coordination and Cooperation](../ai/agents/arxiv-2607-03181.md)
   - [Tech expert Arvind Narayanan takes helm at joint technology-policy center - Princeton Engineering](../ai/resources/tech-expert-arvind-narayanan-takes-helm-at-joint-t.md)
+  - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](../ai/community/tencent-launches-hy4-one-of-the-leading-open-sourc.md)
   - [The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100](../ai/research/arxiv-2609-03231.md)
   - [The Agent Skills Directory](../ai/agents/the-agent-skills-directory.md)
   - [The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery](../ai/rag/arxiv-2610-18933.md)
@@ -77259,7 +77262,6 @@ Resources organized by keyword tags.
   - [Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning](../ai/research/arxiv-2608-04452.md)
   - [QC-PHAST Search: Classical--Quantum Query Benchmarks for Finite-Pool Rare-Regime Discovery](../ai/rag/arxiv-2607-21995.md)
   - [QO-Bench: Diagnosing Query-Operator-Preserving Retrieval over Typed Event Tuples](../ai/rag/arxiv-2606-04646.md)
-  - [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](../ai/community/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-ca.md)
   - [Quantifying Frontier LLM Capabilities for Container Sandbox Escape](../ai/agents/arxiv-2603-02277.md)
   - [Quarto](../ai/resources/quarto.md)
   - [Quickstart - Claude Code Docs](../ai/agents/quickstart-claude-code-docs.md)
@@ -78998,10 +79000,6 @@ Resources organized by keyword tags.
   - [arXiv/arxiv-docs](../ai/resources/arxiv-arxiv-docs.md)
   - [plk/biblatex](../ai/resources/plk-biblatex.md)
 
-## three.js
-
-  - [Spreading Liquid with Three.js](../web-development/community/spreading-liquid-with-three-js.md)
-
 ## threejs
 
   - [$\mu_0$: A Scalable 3D Interaction-Trace World Model](../ai/research/arxiv-2606-13769.md)
@@ -79154,7 +79152,6 @@ Resources organized by keyword tags.
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [SparseKAN: Compressing Kolmogorov--Arnold Networks Across Basis Functions, Neurons, and Bits](../ai/research/arxiv-2608-00859.md)
   - [SplineNet: An Isogeometric Deep Learning Method for Complex Shells](../ai/research/arxiv-2607-06026.md)
-  - [Spreading Liquid with Three.js](../web-development/community/spreading-liquid-with-three-js.md)
   - [Stability-Constrained Approximation in Spline KANs: Exact Layer Balancing and Budget-Compatible Saturation](../ai/research/arxiv-2609-17619.md)
   - [Static Asset Handling | Vite](../ai/resources/static-asset-handling-vite.md)
   - [Structured Nonparametric Variational Inference for Dependent Latent Modeling](../ai/rag/arxiv-2606-15458.md)
@@ -86612,7 +86609,6 @@ Resources organized by keyword tags.
   - [Later Is Better: Token Reduction for ViTs Under Distribution Shift](../ai/research/arxiv-2610-07758.md)
   - [Latinx Success Center](../ai/resources/latinx-success-center.md)
   - [LatticeSMC: Where to Spend Inference-Time Compute in Chunked Sequence Generators](../ai/research/arxiv-2610-02774.md)
-  - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](../ai/community/launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide.md)
   - [Launchpad](../ai/resources/launchpad.md)
   - [Law Library](../ai/resources/law-library.md)
   - [LayerNorm as Implicit Gain Control in Looped Transformers](../ai/research/arxiv-2607-10681.md)
@@ -88576,4 +88572,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-05T18:21:59.593143+05:30*
+*Index generated on 2026-11-06T03:55:50.111297+05:30*

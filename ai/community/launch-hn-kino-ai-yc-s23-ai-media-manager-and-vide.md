@@ -15,13 +15,14 @@ tags:
 - hackernews
 - producthunt
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide
 first_seen: '2026-11-05T01:26:50.849872+05:30'
 last_seen: '2026-11-05T18:00:58.860655+05:30'
 last_checked: '2026-11-05T18:00:58.860655+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Kino AI (YC S23) – AI media manager and video editor
 

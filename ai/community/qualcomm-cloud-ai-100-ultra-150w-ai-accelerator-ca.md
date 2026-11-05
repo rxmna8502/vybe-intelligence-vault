@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-ca
 first_seen: '2026-11-05T06:31:29.892273+05:30'
 last_seen: '2026-11-05T18:00:58.208352+05:30'
 last_checked: '2026-11-05T18:00:58.208352+05:30'
 health_score: 100
 ---
+
 
 # Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s
 

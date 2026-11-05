@@ -14,13 +14,14 @@ tags:
 - hackernews
 - three.js
 - threejs
-status: active
+status: inactive
 resource_id: hackernews:spreading-liquid-with-three-js
 first_seen: '2026-11-05T18:00:56.623171+05:30'
 last_seen: '2026-11-05T18:00:56.623171+05:30'
 last_checked: '2026-11-05T18:00:56.623171+05:30'
 health_score: 100
 ---
+
 
 # Spreading Liquid with Three.js
 
