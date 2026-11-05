@@ -13,13 +13,14 @@ collected_at: '2026-11-05T01:26:51.984286+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tell-hn-gemini-trains-on-chat-history-even-for-sub
 first_seen: '2026-11-04T17:48:01.529621+05:30'
 last_seen: '2026-11-05T01:26:51.984286+05:30'
 last_checked: '2026-11-05T01:26:51.984286+05:30'
 health_score: 100
 ---
+
 
 # Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
 

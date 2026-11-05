@@ -38133,22 +38133,14 @@ Resources organized by publisher feed and query sources.
   - [An update on independent evaluators](../ai/companies/anthropic/an-update-on-independent-evaluators.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
-  - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
-  - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
   - [CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral](../ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md)
   - [CompanyHallo, Deutschland!Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest EconomySeptember 28, 2026By Mistral](../ai/companies/mistral/companyhallo-deutschland-mistral-opens-german-hub.md)
   - [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md)
-  - [Computer vision](../ai/companies/computer-vision.md)
-  - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Donating Agent Skills to the Agentic AI Foundation](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md)
   - [Engineering](../ai/companies/openai/engineering.md)
   - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Expanding our partnership with GSA to bring Claude to all levels of government](../ai/companies/anthropic/expanding-our-partnership-with-gsa-to-bring-claude.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
-  - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
-  - [Human language technologies](../ai/companies/human-language-technologies.md)
-  - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
@@ -38156,14 +38148,12 @@ Resources organized by publisher feed and query sources.
   - [Partnerships](../ai/companies/anthropic/partnerships.md)
   - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md)
   - [Preparing for the 2026 US midterms](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md)
-  - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [ResearchVoxtral 3Build agents that can listen, reason, speak, and act, with Voxtral 3.October 20, 2026By Mistral](../ai/companies/mistral/researchvoxtral-3build-agents-that-can-listen-reas.md)
   - [SIMAAn agent that plays, reasons, and learns with you](../ai/companies/deepmind/simaan-agent-that-plays-reasons-and-learns-with-yo.md)
   - [Safeguards](../ai/companies/anthropic/safeguards.md)
-  - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
 
@@ -39066,8 +39056,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI is forcing us to pay off 40 years of technical debt](../ai/community/ai-is-forcing-us-to-pay-off-40-years-of-technical.md)
+  - [Ask HN: What's your current AI agentic setup?](../ai/community/ask-hn-what-s-your-current-ai-agentic-setup.md)
+  - [Basically no one is using AI agents for their DoorDash orders](../ai/community/basically-no-one-is-using-ai-agents-for-their-door.md)
   - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](../ai/community/launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide.md)
-  - [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](../ai/community/tell-hn-gemini-trains-on-chat-history-even-for-sub.md)
+  - [OpenAI to acquire Pierre Computer Company](../ai/community/openai-to-acquire-pierre-computer-company.md)
+  - [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](../ai/community/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-ca.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42975,4 +42968,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-05T01:43:38.624074+05:30*
+*Index generated on 2026-11-05T06:48:31.044648+05:30*

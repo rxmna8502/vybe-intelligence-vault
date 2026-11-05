@@ -51436,7 +51436,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.schmidtsciences.org/schmidt-ai-in-science-postdocs>
 
 * **[AI is forcing us to pay off 40 years of technical debt](ai/community/ai-is-forcing-us-to-pay-off-40-years-of-technical.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pseudolus. Score: 853, Comments: 506. Original Link: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+  * Summary: Hacker News story by pseudolus. Score: 1045, Comments: 624. Original Link: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
   * Tags: `ai`, `hackernews`
   * Source URL: <https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability>
 
@@ -51690,6 +51690,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.aseprite.org/docs/basics>
 
+* **[Ask HN: What's your current AI agentic setup?](ai/community/ask-hn-what-s-your-current-ai-agentic-setup.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by eggbrain. Score: 103, Comments: 115. Original Link: None
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://news.ycombinator.com/item?id=50366117>
+
 * **[Assembling the CREW: A Collaborative Multi-agent Reinforcement Learning Framework for Automated Related Work Generation](ai/rag/arxiv-2609-15721.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.15721v1 Announce Type: new Abstract: Automatic Related Work Generation (RWG) significantly reduces the human time and effort required to author the Related Work Section (RWS) of a research paper. However, prior methods leveraging multi-age
   * Tags: `agents`, `benchmark`, `paper`, `rag`, `workflows`
@@ -51839,6 +51844,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Baseline Definition & Stages**: Baseline is a browser support standard defined by the WebDX Community Group, with features categorized into *Newly available* (interoperable across core browsers) and *Widely available* (30 months post-interoperabi
   * Tags: `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://web.dev/baseline>
+
+* **[Basically no one is using AI agents for their DoorDash orders](ai/community/basically-no-one-is-using-ai-agents-for-their-door.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by PaulHoule. Score: 60, Comments: 91. Original Link: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/
+  * Tags: `agents`, `ai`, `hackernews`, `reddit`
+  * Source URL: <https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far>
 
 * **[BCIJelly: An integrated ecosystem for brain-computer interface research](ai/rag/arxiv-2608-13576.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.13576v1 Announce Type: cross Abstract: Brain-computer interface (BCI) research relies on multistage computational pipelines, yet progress remains constrained by fragmented data formats, heterogeneous decoder implementations and hardware-sp
@@ -54286,12 +54296,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval Augmented Generation (RAG) workflow, designated as `rag2-
+  * Summary: * Python-based implementation of a Retrieval Augmented Generation (RAG) workflow. * Developed within the context of a RAG 2 homework assignment, indicating advanced RAG concepts. * Managed via GitHub Classroom, signifying an educational development e
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow>
 
-* **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based repository `icensraghomework-classroom01-rag3-hw03_workflow` implements a Retrieval Augmented Generation (RAG) workflow. * Designed as a GitHub Classroom assignment, indicating an educational or practical RAG pipeline development conte
+* **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (`workflow` | `useful` tier)
+  * Summary: * Python-based RAG workflow assignment, specifically `rag3-hw03`, within the `IcensRAGHomework` curriculum. * Repository exhibits 66 forks, indicating significant distribution or student engagement. * Last updated on 2025-02-14T09:55:08Z.
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow>
 
@@ -54691,7 +54701,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
 
 * **[Launch HN: Kino AI (YC S23) – AI media manager and video editor](ai/community/launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by lukeigel. Score: 30, Comments: 21. Original Link: None
+  * Summary: Hacker News story by lukeigel. Score: 69, Comments: 26. Original Link: None
   * Tags: `ai`, `hackernews`, `producthunt`, `youtube`
   * Source URL: <https://news.ycombinator.com/item?id=50368804>
 
@@ -55550,6 +55560,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://openssf.org/?hsLang=en>
 
+* **[OpenAI to acquire Pierre Computer Company](ai/community/openai-to-acquire-pierre-computer-company.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by itunpredictable. Score: 173, Comments: 55. Original Link: https://openai.com/index/openai-to-acquire-pierre/
+  * Tags: `ai`, `hackernews`, `openai`
+  * Source URL: <https://openai.com/index/openai-to-acquire-pierre>
+
 * **[OpenSearchCon North America | LF Events](ai/rag/opensearchcon-north-america-lf-events.md)** (`tutorial` | `useful` tier)
   * Summary: - **Event Details**: OpenSearchCon North America 2026 scheduled for **September 22-24** in **San Jose, CA**, focusing on **search, vector databases, observability, and agentic AI** with sessions on relevance tuning, plugin development, and AI-powered
   * Tags: `agents`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -56069,6 +56084,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.08196v1 Announce Type: new Abstract: This report analyzes Qiushi Engine v0.8 across all 40 test tasks in AstaBench E2E-Bench-Hard, a benchmark that requires autonomous agents to carry a research question through experimental design, code i
   * Tags: `agents`, `benchmark`, `leaderboard`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.08196>
+
+* **[Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](ai/community/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-ca.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by peter_d_sherman. Score: 94, Comments: 41. Original Link: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra
+  * Tags: `ai`, `hackernews`, `reddit`
+  * Source URL: <https://qualcomm.com/data-center/products/cloud-ai-100-ultra>
 
 * **[Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation](ai/rag/arxiv-2606-18860.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18860v1 Announce Type: cross Abstract: Reliable pixel-level uncertainty quantification holds the potential to transform clinical workflows by enabling high-fidelity longitudinal monitoring and distinguishing true pathological changes from
@@ -57048,11 +57068,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.05437v2 Announce Type: replace Abstract: Computer-use agents need to capture procedural knowledge of how people use software. User telemetry offers a scalable source of this knowledge. However, learning reusable skills from these logs requ
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2610.05437>
-
-* **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](ai/community/tell-hn-gemini-trains-on-chat-history-even-for-sub.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jameslk. Score: 539, Comments: 137. Original Link: None
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://news.ycombinator.com/item?id=50363461>
 
 * **[Tembo - Move coding agents to the cloud](ai/rag/tembo-move-coding-agents-to-the-cloud.md)** (`tutorial` | `useful` tier)
   * Summary: - **Multi-model agent orchestration**: Supports dynamic switching between frontier LLMs (e.g., Anthropic, Codex, Claude Code) via an agentic harness, enabling optimal model-task pairing without vendor lock-in. - **Isolated cloud execution environment
@@ -71886,7 +71901,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12403>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9575, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9576, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -76371,11 +76386,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://arxiv.org/abs/2609.38733>
 
-* **[Code, datasets and models](ai/companies/code-datasets-and-models.md)** (`dataset` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Code, datasets and models
-  * Tags: `blog-post`, `dataset`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/tools>
-
 * **[Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](ai/rag/arxiv-2606-06492.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.06492v2 Announce Type: replace-cross Abstract: Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency
   * Tags: `benchmark`, `dataset`, `models`, `rag`, `reddit`
@@ -76758,7 +76768,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.22907>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2516, Downloads: 31913383)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2518, Downloads: 31913383)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -120058,7 +120068,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.25334>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7758, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7759, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -166502,16 +166512,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `openai`, `openai-news`
   * Source URL: <https://openai.com/news/applied-ai>
 
-* **[Artificial intelligence](ai/companies/artificial-intelligence.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Artificial intelligence
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/artificial-intelligence>
-
-* **[Audio & acoustics](ai/companies/audio-acoustics.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Audio & acoustics
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/audio-acoustics>
-
 * **[CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral](ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
@@ -166526,16 +166526,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Mistral AI News Blog: CompanyMistral x HUMAIN August 24, 2026By Mistral
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/mistral-x-humain>
-
-* **[Computer vision](ai/companies/computer-vision.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Computer vision
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/computer-vision>
-
-* **[Data platforms and analytics](ai/companies/data-platforms-and-analytics.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Data platforms and analytics
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/data-platform-analytics>
 
 * **[Donating Agent Skills to the Agentic AI Foundation](ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Donating Agent Skills to the Agentic AI Foundation
@@ -166586,21 +166576,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Repository Overview**: Hosts examples and guides for the Google Gemini API, implemented in Jupyter Notebook format. - **Key Metrics**: 17,612 stars, 2,722 forks, last updated August 9, 2026. - **Focus Areas**: Demonstrates practical usage of the
   * Tags: `github-repo`, `hackernews`, `jupyter notebook`
   * Source URL: <https://github.com/google-gemini/cookbook>
-
-* **[Graphics & multimedia](ai/companies/graphics-multimedia.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Graphics & multimedia
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/graphics-and-multimedia>
-
-* **[Human language technologies](ai/companies/human-language-technologies.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Human language technologies
-  * Tags: `blog-post`, `hackernews`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/human-language-technologies>
-
-* **[Human-computer interaction](ai/companies/human-computer-interaction.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Human-computer interaction
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/human-computer-interaction>
 
 * **[Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)** (`framework` | `useful` tier)
   * Summary: - **Purpose & Scope**: *Imagine Intel* is a Mozilla Foundation zine documenting the 2025 *Imaginative Intelligences Assemblies*, a collaborative experiment with 91 creatives/technologists exploring **creative purpose in the AI era**, framed against "
@@ -166687,11 +166662,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/2026-us-midterms>
 
-* **[Publications](ai/companies/publications.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Publications
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/publications>
-
 * **[ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: ResearchIntroducing Mistral Large 4October 6, 2026By Mistral
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
@@ -166716,11 +166686,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Safeguards
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/safeguards>
-
-* **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (`benchmark` | `useful` tier)
-  * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
-  * Tags: `blog-post`, `microsoft-research-blog`
-  * Source URL: <https://microsoft.com/en-us/research/research-area/search-information-retrieval>
 
 * **[SIMAAn agent that plays, reasons, and learns with you](ai/companies/deepmind/simaan-agent-that-plays-reasons-and-learns-with-yo.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: SIMAAn agent that plays, reasons, and learns with you
@@ -179141,7 +179106,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive guide for full-stack Retrieval Augmented Generation (RAG) development, emphasizing practical application. * Utilizes LangChain and LlamaIndex for RAG orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) for
+  * Summary: * Comprehensive RAG implementation guide for LLM application development. * Leverages LangChain and LlamaIndex for orchestration, integrating DeepSeek and Kimi-K2 LLMs. * Covers vector database (Milvus), knowledge graph (Neo4j) retrieval, and multimo
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -179150,9 +179115,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Provides foundational tutorials for large language model (LLM) application development. * Focus
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Curriculum for foundational Large Language Model (LLM) application development. * Emphasizes LangChain framework for orchestration and Retrieval Augmented Generation (RAG) techniques. * Content delivered via interactive Jupyter Notebooks for practi
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
@@ -196552,7 +196517,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * `RAGTruth` is a specialized corpus designed for the identification and analysis of hallucinations. * Facilitates the development and evaluation of trustworthy Retrieval-Augmented Language Models (RAGs). * Aims to improve RAG system reliability by p
+  * Summary: * Introduces `RAGTruth`, a specialized corpus designed for evaluating and mitigating hallucinations in RAG systems. * Facilitates the development of trustworthy Retrieval-Augmented Language Models by providing a benchmark for hallucination detection.
   * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
@@ -199061,7 +199026,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/raga-ai-hub/raga-llm-hub>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source (raganwald.com) primarily generating HTML content. * Repository metrics: 30 stars, 59 forks, indicating moderate community engagement. * Last updated timestamp: 2026
+  * Summary: * Jekyll source repository for `raganwald.com`. * Hosted as
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -199071,7 +199036,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.15857>
 
 * **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
-  * Summary: * Provides a pre-renewal pack for Ragnarok Offline, targeting `Ragnarok Online` game mechanics. * Integrates with `openkore` and `rAthena` ecosystems for client/server interaction and emulation. * Implemented as a static site using `HTML`, hosted via
+  * Summary: * Distributes a Pre-Renewal Ragnarok Offline game client/server pack.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/ragnarokoffline/ragnarokoffline.github.io>
 
