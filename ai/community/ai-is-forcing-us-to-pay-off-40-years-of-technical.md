@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
 hn_url: https://news.ycombinator.com/item?id=50364336
-score: 1045
+score: 1211
 author: pseudolus
-comments_count: 624
+comments_count: 708
 published_at: '2026-11-04T17:22:17+05:30'
-collected_at: '2026-11-05T06:31:29.051126+05:30'
+collected_at: '2026-11-05T18:00:58.101232+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-is-forcing-us-to-pay-off-40-years-of-technical
 first_seen: '2026-11-04T17:48:00.525154+05:30'
-last_seen: '2026-11-05T06:31:29.051126+05:30'
-last_checked: '2026-11-05T06:31:29.051126+05:30'
+last_seen: '2026-11-05T18:00:58.101232+05:30'
+last_checked: '2026-11-05T18:00:58.101232+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pseudolus. Score: 1045, Comments: 624.
+Hacker News story by pseudolus. Score: 1211, Comments: 708.
 Original Link: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pseudolus
-- Score: 1045 Upvotes
-- Comments: 624 Discussions
+- Score: 1211 Upvotes
+- Comments: 708 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50364336
 - Original Article: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
 

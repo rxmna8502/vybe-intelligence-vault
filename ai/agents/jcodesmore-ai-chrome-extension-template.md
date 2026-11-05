@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/JCodesMore/ai-chrome-extension-template
-collected_at: '2026-10-23T19:09:01.402753+05:30'
+collected_at: '2026-11-05T18:09:38.378075+05:30'
 published_at: '2026-10-22T00:18:50Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-12T09:46:45Z'
 pushed_at: '2026-08-15T00:48:02Z'
 resource_id: github:jcodesmore/ai-chrome-extension-template
-first_seen: '2026-10-23T19:09:01.402753+05:30'
-last_seen: '2026-10-23T19:09:01.402753+05:30'
-last_checked: '2026-10-23T19:09:01.402753+05:30'
+first_seen: '2026-11-05T18:09:38.378075+05:30'
+last_seen: '2026-11-05T18:09:38.378075+05:30'
+last_checked: '2026-11-05T18:09:38.378075+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Autonomous AI agents drive a full-lifecycle development loop for Chrome extensions, encompassing planning, building, real browser testing, iteration, packaging, and release.
-*   The framework specifically targets Manifest V3 (MV3) Chrome extensions, utilizing integrated LLMs (e.g., Claude-code, Codex) for code generation and task execution.
-*   It provides a template for AI-driven software development, enabling agents to operate within a live browser environment for iterative testing and refinement.
+*   Autonomous AI agents orchestrate a full-stack development lifecycle for Chrome extensions, from planning and coding to in-browser testing, iteration, packaging, and release.
+*   Utilizes AI models (e.g., Claude, Codex) to generate and manage JavaScript-based Chrome MV3 extensions.
+*   Enables an iterative, self-correcting development loop where agents autonomously build, test, and refine extensions within a real browser environment.
 
 ## Why It Matters
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-to-acquire-pierre-computer-company
 first_seen: '2026-11-05T06:31:31.535174+05:30'
 last_seen: '2026-11-05T06:31:31.535174+05:30'
 last_checked: '2026-11-05T06:31:31.535174+05:30'
 health_score: 100
 ---
+
 
 # OpenAI to acquire Pierre Computer Company
 

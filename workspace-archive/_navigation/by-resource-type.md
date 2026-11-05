@@ -41,10 +41,10 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Reliable Virtual Sensing: A Multi-Domain Benchmark for Robustness Under Sensor Failures](https://arxiv.org/abs/2609.18396) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-18396.md))
 - [Uncertainty of Vision Medical Foundation Models](https://arxiv.org/abs/2608.30390) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2608-30390.md))
 - [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2610-21055.md))
+- [Routes of Reasoning: Reading and Reshaping Test-Time Compute in MoE Models](https://arxiv.org/abs/2611.05919) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2611-05919.md))
 - [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-39601.md))
 - [VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2601-19956.md))
 - [Physics-informed Diffusion Generative Model for Time-Series Data Synthesis in Dynamic Systems](https://arxiv.org/abs/2608.10941) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-10941.md))
-- [MacrOData: New Benchmarks of Thousands of Datasets for Tabular Outlier Detection](https://arxiv.org/abs/2602.09329) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2602-09329.md))
 
 ## FRAMEWORK
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-11-05 06:52 IST*
+*Last updated: 2026-11-05 18:24 IST*

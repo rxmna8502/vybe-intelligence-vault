@@ -25,7 +25,7 @@ https://github.com/vllm-project/vllm (vLLM)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](https://github.com/prometheus-eval/prometheus-eval/tree/main/BiGGen-Bench)
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
+- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-11-05 06:51 IST*
+*Last updated: 2026-11-05 18:24 IST*

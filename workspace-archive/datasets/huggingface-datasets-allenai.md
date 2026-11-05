@@ -1,5 +1,5 @@
 ---
-title: allenai/c4
+title: allenai/objaverse
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/datasets/allenai
@@ -19,7 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# allenai/c4
+# allenai/objaverse
 
 ## Why This Is In The Archive
 
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: allenai/c4 (Likes: 671, Downloads: 1277001)
+Trending Hugging Face dataset: allenai/objaverse (Likes: 482, Downloads: 1476691)
 
 ## Use Cases
 

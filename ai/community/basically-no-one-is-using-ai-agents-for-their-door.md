@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:basically-no-one-is-using-ai-agents-for-their-door
 first_seen: '2026-11-05T06:31:31.213718+05:30'
 last_seen: '2026-11-05T06:31:31.213718+05:30'
 last_checked: '2026-11-05T06:31:31.213718+05:30'
 health_score: 100
 ---
+
 
 # Basically no one is using AI agents for their DoorDash orders
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://news.ycombinator.com/item?id=50368804
 hn_url: https://news.ycombinator.com/item?id=50368804
-score: 69
+score: 91
 author: lukeigel
-comments_count: 26
+comments_count: 34
 published_at: '2026-11-04T23:01:53+05:30'
-collected_at: '2026-11-05T06:31:30.206796+05:30'
+collected_at: '2026-11-05T18:00:58.860655+05:30'
 tags:
 - ai
 - hackernews
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-kino-ai-yc-s23-ai-media-manager-and-vide
 first_seen: '2026-11-05T01:26:50.849872+05:30'
-last_seen: '2026-11-05T06:31:30.206796+05:30'
-last_checked: '2026-11-05T06:31:30.206796+05:30'
+last_seen: '2026-11-05T18:00:58.860655+05:30'
+last_checked: '2026-11-05T18:00:58.860655+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by lukeigel. Score: 69, Comments: 26.
+Hacker News story by lukeigel. Score: 91, Comments: 34.
 Original Link: None
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: lukeigel
-- Score: 69 Upvotes
-- Comments: 26 Discussions
+- Score: 91 Upvotes
+- Comments: 34 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50368804
 - Original Article: https://news.ycombinator.com/item?id=50368804
 
