@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:tencent-launches-hy4-one-of-the-leading-open-sourc
 first_seen: '2026-11-06T03:39:07.149231+05:30'
 last_seen: '2026-11-06T03:39:07.149231+05:30'
 last_checked: '2026-11-06T03:39:07.149231+05:30'
 health_score: 100
 ---
+
 
 # Tencent Launches Hy4, One of the Leading Open-Source AI Models
 

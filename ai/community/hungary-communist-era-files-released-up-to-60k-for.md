@@ -13,13 +13,14 @@ collected_at: '2026-11-06T03:39:09.662181+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:hungary-communist-era-files-released-up-to-60k-for
 first_seen: '2026-11-06T03:39:09.662181+05:30'
 last_seen: '2026-11-06T03:39:09.662181+05:30'
 last_checked: '2026-11-06T03:39:09.662181+05:30'
 health_score: 100
 ---
+
 
 # Hungary: Communist-era files released, up to 60k former agents revealed
 

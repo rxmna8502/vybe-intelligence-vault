@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: allenai/objaverse (Likes: 482, Downloads: 1476691)
+Trending Hugging Face dataset: allenai/objaverse (Likes: 484, Downloads: 1751022)
 
 ## Use Cases
 

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: neashton/windsorml (Likes: 4, Downloads: 1893525)
+Trending Hugging Face dataset: neashton/windsorml (Likes: 4, Downloads: 2406268)
 
 ## Use Cases
 

@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (Tier: `essential` | [`Local File`](../../ai/rag/run-llama-llama-deploy.md))
 
 ---
-*Last updated: 2026-11-06 03:58 IST*
+*Last updated: 2026-11-07 11:58 IST*

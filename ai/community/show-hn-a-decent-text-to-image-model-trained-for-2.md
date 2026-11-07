@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - models
-status: active
+status: inactive
 resource_id: hackernews:show-hn-a-decent-text-to-image-model-trained-for-2
 first_seen: '2026-11-06T03:39:08.629442+05:30'
 last_seen: '2026-11-06T03:39:08.629442+05:30'
 last_checked: '2026-11-06T03:39:08.629442+05:30'
 health_score: 100
 ---
+
 
 # Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)
 

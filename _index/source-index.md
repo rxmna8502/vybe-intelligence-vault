@@ -12290,7 +12290,6 @@ Resources organized by publisher feed and query sources.
   - [Every Picture Tells a Dangerous Story: Memory-Augmented Multi-Agent Jailbreak Attacks on VLMs](../ai/agents/arxiv-2604-12616.md)
   - [Every Step of the Way: Video-based Parkinsonian Turning Step Counting](../ai/rag/arxiv-2606-27918.md)
   - [Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors](../ai/research/arxiv-2607-25335.md)
-  - [Every finite group admits a just finite presentation](../ai/research/arxiv-2605-10402.md)
   - [Every pooling rule has its world: matching probability combination rules to situations and stakes](../ai/rag/arxiv-2608-11275.md)
   - [Everyone is unique: Towards Behaviorally Heterogeneous Negotiation Dialogue Systems for Debt Collection](../ai/agents/arxiv-2607-25218.md)
   - [Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training](../ai/rag/arxiv-2609-09081.md)
@@ -39607,13 +39606,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Baidu released ERNIE 5.5 Flash Base](../ai/community/baidu-released-ernie-5-5-flash-base.md)
-  - [Hungary: Communist-era files released, up to 60k former agents revealed](../ai/community/hungary-communist-era-files-released-up-to-60k-for.md)
-  - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](../ai/community/rivet-dev-rivet.md)
-  - [MCP Explained](../ai/community/mcp-explained.md)
-  - [MS Paint Remote Code Execution Vulnerability](../ai/community/ms-paint-remote-code-execution-vulnerability.md)
-  - [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](../ai/community/show-hn-a-decent-text-to-image-model-trained-for-2.md)
-  - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](../ai/community/tencent-launches-hy4-one-of-the-leading-open-sourc.md)
+  - [AI is dramatically accelerating AI research](../ai/community/ai-is-dramatically-accelerating-ai-research.md)
+  - [GitHub's new Git storage architecture](../ai/community/github-s-new-git-storage-architecture.md)
+  - [Restaurant Delivery Payment-Skimming Campaign](../ai/community/restaurant-delivery-payment-skimming-campaign.md)
+  - [The AI sell-off compared to well-known stock market crashes](../ai/community/the-ai-sell-off-compared-to-well-known-stock-marke.md)
+  - [US FAA says it will phase out floppy disks from air traffic control by 2028](../ai/community/us-faa-says-it-will-phase-out-floppy-disks-from-ai.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39830,6 +39827,7 @@ Resources organized by publisher feed and query sources.
   - [Efficient MultiModal Data Pipeline](../ai/models/huggingface-blog-mmdp.md)
   - [Efficient Request Queueing – Optimizing LLM Performance](../ai/models/huggingface-blog-tngtech-llm-performance-request-queueing.md)
   - [Efficient Table Pre-training without Real Data: An Introduction to TAPEX](../ai/models/huggingface-blog-tapex.md)
+  - [Egyptian and Nigerian English join the Open ASR Leaderboard](../ai/models/huggingface-blog-open-asr-leaderboard-liva.md)
   - [Ethical Guidelines for developing the Diffusers library](../ai/models/huggingface-blog-ethics-diffusers.md)
   - [Ethics and Society Newsletter #1](../ai/models/huggingface-blog-ethics-soc-1.md)
   - [Ethics and Society Newsletter #3: Ethical Openness at Hugging Face](../ai/models/huggingface-blog-ethics-soc-3.md)
@@ -40334,7 +40332,6 @@ Resources organized by publisher feed and query sources.
   - [State of Open Models: Summer 2026 Observations](../ai/models/huggingface-blog-state-of-open-models-summer-2026.md)
   - [State of Open Source on Hugging Face: Spring 2026](../ai/models/huggingface-blog-huggingface-state-of-os-hf-spring-2026.md)
   - [State of open video generation models in Diffusers](../ai/models/huggingface-blog-video-gen.md)
-  - [StateBench: Testing how language models track state changes over long documents](../ai/models/huggingface-blog-allenai-statebench.md)
   - [Streaming datasets: 100x More Efficient](../ai/models/huggingface-blog-streaming-datasets.md)
   - [Student Ambassador Program’s call for applications is open!](../ai/models/huggingface-blog-ambassadors.md)
   - [Subscribe to Enterprise Hub with your AWS Account](../ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md)
@@ -40388,6 +40385,7 @@ Resources organized by publisher feed and query sources.
   - [TorchNeuron: running HF models on AWS Trainium is easier than ever](../ai/models/huggingface-blog-hf-torchneuron.md)
   - [Total noob’s intro to Hugging Face Transformers](../ai/models/huggingface-blog-noob-intro-transformers.md)
   - [Towards Encrypted Large Language Models with FHE](../ai/models/huggingface-blog-encrypted-llm.md)
+  - [ToyBlocks: A controlled world for robot learning and evaluation](../ai/models/huggingface-blog-allenai-toyblocks.md)
   - [Trace & Evaluate your Agent with Arize Phoenix](../ai/agents/huggingface-blog-smolagents-phoenix.md)
   - [Train 400x faster Static Embedding Models with Sentence Transformers](../ai/models/huggingface-blog-static-embeddings.md)
   - [Train AI models with Unsloth and Hugging Face Jobs for FREE](../ai/models/huggingface-blog-unsloth-jobs.md)
@@ -40523,7 +40521,7 @@ Resources organized by publisher feed and query sources.
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [neashton/windsorml](../ai/models/huggingface-datasets-neashton.md)
-  - [roisincrtai/ptb-xl-1.0.3](../ai/models/huggingface-datasets-roisincrtai.md)
+  - [nicoboou/IDRCell100k](../ai/models/huggingface-datasets-nicoboou.md)
   - [tropos-labs/eigen-face-dataset-256](../ai/models/huggingface-datasets-tropos-labs.md)
   - [wegrthj/e94fjt-qi9l-raw](../ai/models/huggingface-datasets-wegrthj.md)
 
@@ -43522,4 +43520,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-06T03:55:50.569516+05:30*
+*Index generated on 2026-11-07T11:55:52.938374+05:30*
