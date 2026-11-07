@@ -9945,9 +9945,7 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI is dramatically accelerating AI research](../ai/community/ai-is-dramatically-accelerating-ai-research.md)
   - [Restaurant Delivery Payment-Skimming Campaign](../ai/community/restaurant-delivery-payment-skimming-campaign.md)
-  - [The AI sell-off compared to well-known stock market crashes](../ai/community/the-ai-sell-off-compared-to-well-known-stock-marke.md)
   - [US FAA says it will phase out floppy disks from air traffic control by 2028](../ai/community/us-faa-says-it-will-phase-out-floppy-disks-from-ai.md)
 
 ## animation
@@ -22082,6 +22080,7 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -39475,7 +39474,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI is dramatically accelerating AI research](../ai/community/ai-is-dramatically-accelerating-ai-research.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -43156,7 +43154,6 @@ Resources organized by keyword tags.
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
   - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](../ai/rag/arxiv-2610-01539.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
-  - [The AI sell-off compared to well-known stock market crashes](../ai/community/the-ai-sell-off-compared-to-well-known-stock-marke.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems](../ai/agents/arxiv-2608-03214.md)
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
@@ -43786,8 +43783,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -43961,7 +43956,6 @@ Resources organized by keyword tags.
   - [vibecon](../ai/rag/vibecon.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
-  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
@@ -83713,7 +83707,6 @@ Resources organized by keyword tags.
   - [Newest 'twilio' Questions - Stack Overflow](../ai/agents/newest-twilio-questions-stack-overflow.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
-  - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](../ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md)
   - [NodeGround: A Node Classification Benchmark in the Graph Foundation Model Era](../ai/research/arxiv-2609-39673.md)
@@ -84679,6 +84672,7 @@ Resources organized by keyword tags.
   - [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
+  - [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
   - [pnpm - Open Collective](../ai/rag/pnpm-open-collective.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
@@ -88568,4 +88562,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-07T11:55:52.550261+05:30*
+*Index generated on 2026-11-07T20:48:32.230465+05:30*

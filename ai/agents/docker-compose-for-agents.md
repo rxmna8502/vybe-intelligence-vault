@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-09-08T18:32:42.223370+05:30'
-published_at: '2026-09-06T05:18:52Z'
+collected_at: '2026-11-07T20:34:51.331510+05:30'
+published_at: '2026-11-07T04:12:36Z'
 tags:
 - agents
 - github-repo
@@ -15,17 +15,17 @@ tags:
 - reddit
 - typescript
 - workflows
-stars: 1030
+stars: 1072
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-05-09T09:20:04Z'
-pushed_at: '2026-09-02T19:09:39Z'
+pushed_at: '2026-10-23T20:09:28Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-09-08T18:32:42.223370+05:30'
-last_seen: '2026-09-08T18:32:42.223370+05:30'
-last_checked: '2026-09-08T18:32:42.223370+05:30'
+first_seen: '2026-11-07T20:34:51.331510+05:30'
+last_seen: '2026-11-07T20:34:51.331510+05:30'
+last_checked: '2026-11-07T20:34:51.331510+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-*   Orchestrates multi-service AI agent architectures, integrating open-source LLMs (e.g., Llama.cpp) and tools via Docker Compose.
-*   Provides example configurations for self-hosted development and deployment of agentic workflows.
-*   Facilitates local AI agent experimentation, including integration with environments like OpenAI Gym.
+*   Orchestrates multi-service AI agent architectures using Docker Compose for deployment.
+*   Provides examples for self-hosting open-source LLMs (e.g., Llama.cpp), agent runtimes, and associated tools.
+*   Facilitates agentic workflows, including integration with environments like OpenAI Gym.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: docker
-- Stars: 1030
-- Forks: 469
+- Stars: 1072
+- Forks: 483
 - Language: TypeScript
 - Topics: agentic-workflows, ai-agents, docker, docker-compose, examples, large-language-models, llama-cpp, openai-gym, self-hosted
-- Last Updated: 2026-09-06T05:18:52Z
+- Last Updated: 2026-11-07T04:12:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-09T09:20:04Z
-- Pushed At: 2026-09-02T19:09:39Z
+- Pushed At: 2026-10-23T20:09:28Z
 
 ## Possible Use Cases
 

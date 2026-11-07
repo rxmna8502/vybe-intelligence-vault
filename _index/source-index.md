@@ -39606,10 +39606,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI is dramatically accelerating AI research](../ai/community/ai-is-dramatically-accelerating-ai-research.md)
   - [GitHub's new Git storage architecture](../ai/community/github-s-new-git-storage-architecture.md)
   - [Restaurant Delivery Payment-Skimming Campaign](../ai/community/restaurant-delivery-payment-skimming-campaign.md)
-  - [The AI sell-off compared to well-known stock market crashes](../ai/community/the-ai-sell-off-compared-to-well-known-stock-marke.md)
   - [US FAA says it will phase out floppy disks from air traffic control by 2028](../ai/community/us-faa-says-it-will-phase-out-floppy-disks-from-ai.md)
 
 ## Unknown Source (type: huggingface)
@@ -43520,4 +43518,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-07T11:55:52.938374+05:30*
+*Index generated on 2026-11-07T20:48:32.772883+05:30*

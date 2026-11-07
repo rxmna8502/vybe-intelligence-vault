@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-09-03T04:18:06.167956+05:30'
-published_at: '2026-09-02T20:38:13Z'
+collected_at: '2026-11-07T20:35:16.384453+05:30'
+published_at: '2026-11-03T15:05:47Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
 - scripts
-stars: 1559
+stars: 1602
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-08-25T20:49:01Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-09-03T04:18:06.167956+05:30'
-last_seen: '2026-09-03T04:18:06.167956+05:30'
-last_checked: '2026-09-03T04:18:06.167956+05:30'
+first_seen: '2026-11-07T20:35:16.384453+05:30'
+last_seen: '2026-11-07T20:35:16.384453+05:30'
+last_checked: '2026-11-07T20:35:16.384453+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection** of tools, frameworks, and resources for developing AI-driven web agents, including browser automation, LLM benchmarking, and agent orchestration libraries.
-- **Python-centric** repository with 1,559 stars and 212 forks, actively maintained (last updated Sep 2026) under the `steel-dev` organization.
-- **Topics covered**: AI agents, LLMs, browser automation (e.g., Playwright, Selenium), and benchmarking suites for evaluating agent performance.
+*   Curated list of tools and frameworks for developing AI web agents.
+*   Focuses on LLM integration, browser automation, and agentic system design.
+*   Includes resources for benchmarking LLM performance in web agent contexts.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: steel-dev
-- Stars: 1559
-- Forks: 212
+- Stars: 1602
+- Forks: 283
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
-- Last Updated: 2026-09-02T20:38:13Z
+- Last Updated: 2026-11-03T15:05:47Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-03-06T05:23:47Z
