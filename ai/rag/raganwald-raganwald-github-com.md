@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-11-07T20:32:36.090164+05:30'
+collected_at: '2026-11-08T01:50:20.039658+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-11-07T20:32:36.090164+05:30'
-last_seen: '2026-11-07T20:32:36.090164+05:30'
-last_checked: '2026-11-07T20:32:36.090164+05:30'
+first_seen: '2026-11-08T01:50:20.039658+05:30'
+last_seen: '2026-11-08T01:50:20.039658+05:30'
+last_checked: '2026-11-08T01:50:20.039658+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,7 @@ health_score: 100
 
 ## Summary
 
-*   Jekyll source repository for a static website.
-*   Primary content language is HTML, implicitly hosted on GitHub Pages.
-*   Last updated on 2026-07-08T15:07:53Z, indicating recent maintenance.
+*   Jekyll-powered static site source for `raganwald.com`, hosted via GitHub
 
 ## Why It Matters
 

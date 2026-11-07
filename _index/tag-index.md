@@ -9945,8 +9945,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Restaurant Delivery Payment-Skimming Campaign](../ai/community/restaurant-delivery-payment-skimming-campaign.md)
-  - [US FAA says it will phase out floppy disks from air traffic control by 2028](../ai/community/us-faa-says-it-will-phase-out-floppy-disks-from-ai.md)
+  - [How Long Can Life Wait?](../ai/community/how-long-can-life-wait.md)
+  - [Optimising the Rail Cube](../ai/community/optimising-the-rail-cube.md)
+  - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
 
 ## animation
 
@@ -38132,6 +38133,7 @@ Resources organized by keyword tags.
   - [TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?](../ai/agents/arxiv-2606-13148.md)
   - [TerraTransfer++: Demonstration-Free End-to-End Planner](../ai/agents/arxiv-2610-30319.md)
   - [Text Dictates, Music Decorates: Energy-based Attention for Editable Dance Motion Generation](../ai/research/arxiv-2606-22726.md)
+  - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
   - [The Agent Skills Directory](../ai/agents/the-agent-skills-directory.md)
   - [The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel](../ai/research/arxiv-2608-13572.md)
@@ -41074,7 +41076,6 @@ Resources organized by keyword tags.
   - [GitHub Universe 2026](../ai/rag/github-universe-2026.md)
   - [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../ai/rag/resources-whitepapers.md)
   - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md)
-  - [GitHub's new Git storage architecture](../ai/community/github-s-new-git-storage-architecture.md)
   - [Glass-Box Deep Reinforcement Learning for High-Speed Flow Control](../ai/agents/arxiv-2610-27132.md)
   - [Global Automation Atlas](../ai/research/arxiv-2605-17086.md)
   - [Global CBPR Forum - Building Digital Trust through Partnerships](../ai/resources/global-cbpr-forum-building-digital-trust-through-p.md)
@@ -41268,6 +41269,7 @@ Resources organized by keyword tags.
   - [How Far Can Coding Agents Go in Visual Generation?](../ai/agents/arxiv-2610-19025.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
   - [How Language Models Differ in Redistributing Attention-Head Activity Under Serial Demand](../ai/rag/arxiv-2609-36221.md)
+  - [How Long Can Life Wait?](../ai/community/how-long-can-life-wait.md)
   - [How Much Prompt Is Enough? A Blackbox Minimization of Few-Shots in LLMs](../ai/research/arxiv-2609-36289.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
@@ -42163,6 +42165,7 @@ Resources organized by keyword tags.
   - [Optimal any-angle path planning in static and dynamic environments](../ai/rag/arxiv-2607-00065.md)
   - [Optimal approximation of smooth functions by ReLU neural networks](../ai/research/arxiv-2610-22693.md)
   - [Optimal uncertainty bounds for multivariate kernel regression under bounded noise: A Gaussian process-based dual function](../ai/research/arxiv-2603-16481.md)
+  - [Optimising the Rail Cube](../ai/community/optimising-the-rail-cube.md)
   - [Optimism Stabilizes Thompson Sampling for Adaptive Inference](../ai/research/arxiv-2602-06014.md)
   - [Optimistic Policy Regularization: Elite-Statistic Reward Shaping](../ai/rag/arxiv-2603-06793.md)
   - [Optimization Techniques for Solving the Minimum Red--Blue Separating Set Problem with an Application to Human--AI Text Separation](../ai/research/arxiv-2610-41081.md)
@@ -42619,7 +42622,6 @@ Resources organized by keyword tags.
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
   - [Resources | Zilliz](../ai/rag/resources-zilliz.md)
   - [Responsible Institutional Analytics: Interpreting Bias with AI Support](../ai/research/arxiv-2610-07205.md)
-  - [Restaurant Delivery Payment-Skimming Campaign](../ai/community/restaurant-delivery-payment-skimming-campaign.md)
   - [Restoring Gold Standard Science – The White House](../ai/rag/restoring-gold-standard-science-the-white-house.md)
   - [Restricted targeting in Personalized advertising - Advertising Policies Help](../ai/rag/restricted-targeting-in-personalized-advertising-a.md)
   - [Rethinking Anonymity Claims in Synthetic Data Generation: A Model-Centric Privacy Attack Perspective](../ai/research/arxiv-2601-22434.md)
@@ -43150,6 +43152,7 @@ Resources organized by keyword tags.
   - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../ai/research/arxiv-2602-13848.md)
   - [Texas AI](../ai/rag/texas-ai.md)
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
+  - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
   - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](../ai/rag/arxiv-2610-01539.md)
@@ -43252,6 +43255,7 @@ Resources organized by keyword tags.
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
+  - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -43423,7 +43427,6 @@ Resources organized by keyword tags.
   - [UPPAAi: Towards LLM-Assisted Modeling, Verification, Analysis and Synthesis](../ai/research/arxiv-2610-40042.md)
   - [URL Pattern Standard](../ai/rag/url-pattern-standard.md)
   - [URL Standard](../ai/rag/url-standard.md)
-  - [US FAA says it will phase out floppy disks from air traffic control by 2028](../ai/community/us-faa-says-it-will-phase-out-floppy-disks-from-ai.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [UT Austin Computer Science](../ai/rag/ut-austin-computer-science.md)
   - [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md)
@@ -43783,6 +43786,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -68022,7 +68026,6 @@ Resources organized by keyword tags.
   - [GitHub Universe 2026](../ai/rag/github-universe-2026.md)
   - [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../ai/rag/resources-whitepapers.md)
   - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md)
-  - [GitHub's new Git storage architecture](../ai/community/github-s-new-git-storage-architecture.md)
   - [GitScholar: A Dataset for Predicting AI Research Impact from GitHub Engagement](../ai/rag/arxiv-2609-26361.md)
   - [Give the Drafter a Second Chance to Guess: Parallel Reconsideration for Speculative Decoding](../ai/rag/arxiv-2611-05724.md)
   - [GlaBoost: A Multimodal Structured Framework for Glaucoma Risk Stratification](../ai/rag/arxiv-2508-03750.md)
@@ -76098,6 +76101,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
+
+## react
+
+  - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
 
 ## reddit
 
@@ -88562,4 +88569,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-07T20:48:32.230465+05:30*
+*Index generated on 2026-11-08T02:05:56.101480+05:30*

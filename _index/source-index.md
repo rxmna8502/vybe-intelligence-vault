@@ -39606,9 +39606,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [GitHub's new Git storage architecture](../ai/community/github-s-new-git-storage-architecture.md)
-  - [Restaurant Delivery Payment-Skimming Campaign](../ai/community/restaurant-delivery-payment-skimming-campaign.md)
-  - [US FAA says it will phase out floppy disks from air traffic control by 2028](../ai/community/us-faa-says-it-will-phase-out-floppy-disks-from-ai.md)
+  - [How Long Can Life Wait?](../ai/community/how-long-can-life-wait.md)
+  - [Optimising the Rail Cube](../ai/community/optimising-the-rail-cube.md)
+  - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
+  - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -43518,4 +43519,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-07T20:48:32.772883+05:30*
+*Index generated on 2026-11-08T02:05:56.455182+05:30*
