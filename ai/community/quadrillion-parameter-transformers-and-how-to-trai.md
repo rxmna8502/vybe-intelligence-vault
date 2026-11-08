@@ -13,13 +13,14 @@ collected_at: '2026-11-08T20:54:23.237803+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:quadrillion-parameter-transformers-and-how-to-trai
 first_seen: '2026-11-08T20:54:23.237803+05:30'
 last_seen: '2026-11-08T20:54:23.237803+05:30'
 last_checked: '2026-11-08T20:54:23.237803+05:30'
 health_score: 100
 ---
+
 
 # Quadrillion-parameter transformers and how to train them
 

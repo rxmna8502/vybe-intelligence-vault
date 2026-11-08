@@ -13,13 +13,14 @@ collected_at: '2026-11-08T20:54:24.916462+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:consumer-brain-wave-headsets-threaten-privacy
 first_seen: '2026-11-08T11:46:03.351488+05:30'
 last_seen: '2026-11-08T20:54:24.916462+05:30'
 last_checked: '2026-11-08T20:54:24.916462+05:30'
 health_score: 100
 ---
+
 
 # Consumer brain wave headsets threaten privacy
 

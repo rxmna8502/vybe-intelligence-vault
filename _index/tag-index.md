@@ -9947,9 +9947,11 @@ Resources organized by keyword tags.
 ## ai
 
   - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
-  - [Consumer brain wave headsets threaten privacy](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md)
-  - [Quadrillion-parameter transformers and how to train them](../ai/community/quadrillion-parameter-transformers-and-how-to-trai.md)
-  - [Uranium cubes reveal why the German nuclear project failed](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md)
+  - [Edward Hopper's Iconic Painting, "Nighthawks](../ai/community/edward-hopper-s-iconic-painting-nighthawks.md)
+  - [How I Fight AI Brain Fry](../ai/community/how-i-fight-ai-brain-fry.md)
+  - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
+  - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](../ai/community/ram-altman-linux-script-emails-sam-altman-daily-ho.md)
+  - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](../ai/community/silicon-valley-promises-ai-will-cure-disease-drugm.md)
 
 ## animation
 
@@ -40236,7 +40238,6 @@ Resources organized by keyword tags.
   - [Constraint-Driven Model Optimization: An Industry Framework for Selecting Compression and Acceleration Techniques in Modern Machine Learning Systems](../ai/research/arxiv-2607-13735.md)
   - [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](../ai/rag/arxiv-2608-12304.md)
   - [Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage](../ai/rag/arxiv-2606-12767.md)
-  - [Consumer brain wave headsets threaten privacy](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md)
   - [Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms](../ai/rag/arxiv-2607-02681.md)
   - [Context-Aware Error Mitigation Orchestration for Hybrid Quantum Reinforcement Learning on NISQ Systems](../ai/research/arxiv-2610-01253.md)
   - [Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech](../ai/research/arxiv-2609-24016.md)
@@ -40386,6 +40387,7 @@ Resources organized by keyword tags.
   - [Decision-Focused Learning for Mean-Variance Portfolio Optimization via KKT-Based Reformulation](../ai/research/arxiv-2609-21427.md)
   - [Decision-oriented joint optimization of evidence fusion based on event-conditioned credibility](../ai/research/arxiv-2504-04128.md)
   - [Declarations & Communiques – Global Privacy Assembly](../ai/resources/declarations-communiques-global-privacy-assembly.md)
+  - [Declarative Dragging](../ai/community/declarative-dragging.md)
   - [DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting](../ai/research/arxiv-2608-20052.md)
   - [Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection](../ai/research/arxiv-2609-24801.md)
   - [Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System](../ai/rag/arxiv-2602-18640.md)
@@ -40584,6 +40586,7 @@ Resources organized by keyword tags.
   - [EditPad® Pro: Text Editor for Windows](../ai/resources/editpad-r-pro-text-editor-for-windows.md)
   - [Editing Large Language Models with Geometry-Aware Regularization](../ai/research/arxiv-2611-06185.md)
   - [Education | FSI](../ai/resources/education-fsi.md)
+  - [Edward Hopper's Iconic Painting, "Nighthawks](../ai/community/edward-hopper-s-iconic-painting-nighthawks.md)
   - [Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data](../ai/rag/arxiv-2608-29001.md)
   - [Effective and Efficient Observability with OpenTelemetry - InfoQ](../ai/rag/effective-and-efficient-observability-with-opentel.md)
   - [Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations](../ai/research/arxiv-2608-27480.md)
@@ -41271,6 +41274,7 @@ Resources organized by keyword tags.
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
   - [How Far Can Coding Agents Go in Visual Generation?](../ai/agents/arxiv-2610-19025.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
+  - [How I Fight AI Brain Fry](../ai/community/how-i-fight-ai-brain-fry.md)
   - [How Language Models Differ in Redistributing Attention-Head Activity Under Serial Demand](../ai/rag/arxiv-2609-36221.md)
   - [How Much Prompt Is Enough? A Blackbox Minimization of Few-Shots in LLMs](../ai/research/arxiv-2609-36289.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
@@ -42191,6 +42195,7 @@ Resources organized by keyword tags.
   - [OsteoCAD: A Human-in-the-Loop Cloud-Edge Framework for Bone Tumor Segmentation](../ai/research/arxiv-2607-29266.md)
   - [Our Opportunities - University of California-Los Angeles Scholarship Application](../ai/resources/our-opportunities-university-of-california-los-ang.md)
   - [Out of Sync, Out of Sight: Phantom State Attacks against IIoT Intrusion Detection](../ai/research/arxiv-2610-02552.md)
+  - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
   - [Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety](../ai/agents/arxiv-2606-05461.md)
   - [Overview (egeria 6.1-SNAPSHOT API)](../ai/resources/overview-egeria-6-1-snapshot-api.md)
   - [Overview - FHIR v5.0.0](../ai/rag/overview-fhir-v5-0-0.md)
@@ -42448,7 +42453,6 @@ Resources organized by keyword tags.
   - [QCNN with Rough Path Signature Kernels](../ai/research/arxiv-2607-07634.md)
   - [QGB-W$k$NN: Quantum Granular-Ball Learning for Robust Classification](../ai/research/arxiv-2609-05952.md)
   - [Quadratic Programming Approach for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](../ai/research/arxiv-2509-25618.md)
-  - [Quadrillion-parameter transformers and how to train them](../ai/community/quadrillion-parameter-transformers-and-how-to-trai.md)
   - [QuakeML - QuakeML](../ai/resources/quakeml-quakeml.md)
   - [QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation](../ai/research/arxiv-2609-26425.md)
   - [Quantifying Explainable AI-introduced signal noise on ECG data with Spectral Entropy](../ai/research/arxiv-2606-24974.md)
@@ -42489,6 +42493,7 @@ Resources organized by keyword tags.
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
   - [RAGMark: A Comprehensive Framework for Benchmarking Retrieval-Augmented Generation Systems](../ai/rag/arxiv-2609-05760.md)
   - [RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level](../ai/agents/arxiv-2608-13428.md)
+  - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](../ai/community/ram-altman-linux-script-emails-sam-altman-daily-ho.md)
   - [RATIO: Reasoning Analysis and Token-level Inference Optimization for Quantized Reasoning Models](../ai/rag/arxiv-2609-39801.md)
   - [RCAP: Robust, Class-Aware, Probabilistic Dynamic Dataset Pruning](../ai/rag/arxiv-2606-11761.md)
   - [RCProb: Probabilistic rule extraction from classification tree ensembles](../ai/research/arxiv-2604-25304.md)
@@ -42877,6 +42882,7 @@ Resources organized by keyword tags.
   - [Signatures of semantic search in the activations of large language models](../ai/rag/arxiv-2609-35599.md)
   - [Signed random Fourier features for fast density estimation with indefinite kernels](../ai/research/arxiv-2608-29265.md)
   - [Silent Neuron Theory and Plasticity Preservation for Deep Reinforcement Learning in Adaptive Video Streaming](../ai/research/arxiv-2505-01584.md)
+  - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](../ai/community/silicon-valley-promises-ai-will-cure-disease-drugm.md)
   - [SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation](../ai/agents/arxiv-2609-03753.md)
   - [Simple Baselines are Competitive with Code Evolution](../ai/agents/arxiv-2602-16805.md)
   - [Simple Domain Generalization Methods are Strong Baselines for Open Domain Generalization](../ai/research/arxiv-2303-18031.md)
@@ -43490,7 +43496,6 @@ Resources organized by keyword tags.
   - [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](../ai/rag/arxiv-2602-21196.md)
   - [UpSafe$^\circ$C: Upcycling for Controllable Safety in Large Language Models](../ai/research/arxiv-2510-02194.md)
   - [Updates to the demographic data options on the Candid profile](../ai/rag/updates-to-the-demographic-data-options-on-the-can.md)
-  - [Uranium cubes reveal why the German nuclear project failed](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md)
   - [Urban Heat MiniCubes: An AI-Ready dataset for urban heat research](../ai/research/arxiv-2606-11534.md)
   - [Usage Policy | Cohere](../ai/rag/usage-policy-cohere.md)
   - [Use Google Play Family Library - Google Play Help](../ai/rag/use-google-play-family-library-google-play-help.md)
@@ -43787,6 +43792,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -66011,6 +66017,7 @@ Resources organized by keyword tags.
   - [Decision-Oriented Uncertainty Quantification for Risk Control in Earth System Spatiotemporal Foundation Models](../ai/rag/arxiv-2609-14821.md)
   - [DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems](../ai/rag/arxiv-2610-28522.md)
   - [DeckardGer/tanstack-agent-skills](../ai/rag/deckardger-tanstack-agent-skills.md)
+  - [Declarative Dragging](../ai/community/declarative-dragging.md)
   - [DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space](../ai/rag/arxiv-2607-25675.md)
   - [DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL](../ai/rag/arxiv-2606-17821.md)
   - [Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS](../ai/rag/arxiv-2610-29345.md)
@@ -88567,4 +88574,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-08T21:11:02.643092+05:30*
+*Index generated on 2026-11-09T02:23:41.686707+05:30*
