@@ -17,11 +17,11 @@ This index groups resources by direct developer use-cases and design goals.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/run-llama-llama-deploy.md))
+- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 
 ## Document Knowledge base & Search (RAG)
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2508-04227.md))
 
 ---
-*Last updated: 2026-11-08 05:35 IST*
+*Last updated: 2026-11-08 12:06 IST*

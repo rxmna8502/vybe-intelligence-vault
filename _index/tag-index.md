@@ -9947,8 +9947,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
-  - [How Long Can Life Wait?](../ai/community/how-long-can-life-wait.md)
-  - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](../ai/community/show-hn-an-offline-desktop-companion-to-help-maint.md)
+  - [Consumer brain wave headsets threaten privacy](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md)
   - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
   - [Uranium cubes reveal why the German nuclear project failed](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md)
 
@@ -40238,6 +40237,7 @@ Resources organized by keyword tags.
   - [Constraint-Driven Model Optimization: An Industry Framework for Selecting Compression and Acceleration Techniques in Modern Machine Learning Systems](../ai/research/arxiv-2607-13735.md)
   - [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](../ai/rag/arxiv-2608-12304.md)
   - [Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage](../ai/rag/arxiv-2606-12767.md)
+  - [Consumer brain wave headsets threaten privacy](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md)
   - [Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms](../ai/rag/arxiv-2607-02681.md)
   - [Context-Aware Error Mitigation Orchestration for Hybrid Quantum Reinforcement Learning on NISQ Systems](../ai/research/arxiv-2610-01253.md)
   - [Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech](../ai/research/arxiv-2609-24016.md)
@@ -41273,7 +41273,6 @@ Resources organized by keyword tags.
   - [How Far Can Coding Agents Go in Visual Generation?](../ai/agents/arxiv-2610-19025.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
   - [How Language Models Differ in Redistributing Attention-Head Activity Under Serial Demand](../ai/rag/arxiv-2609-36221.md)
-  - [How Long Can Life Wait?](../ai/community/how-long-can-life-wait.md)
   - [How Much Prompt Is Enough? A Blackbox Minimization of Few-Shots in LLMs](../ai/research/arxiv-2609-36289.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
@@ -42864,7 +42863,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](../ai/community/show-hn-an-offline-desktop-companion-to-help-maint.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -84590,7 +84588,6 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../ai/rag/langchain-ai-deepagents.md)
@@ -84694,6 +84691,7 @@ Resources organized by keyword tags.
   - [python-poetry/poetry](../ai/resources/python-poetry-poetry.md)
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
+  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -88575,4 +88573,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-08T05:32:50.912412+05:30*
+*Index generated on 2026-11-08T12:02:46.664722+05:30*

@@ -39607,8 +39607,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
-  - [How Long Can Life Wait?](../ai/community/how-long-can-life-wait.md)
-  - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](../ai/community/show-hn-an-offline-desktop-companion-to-help-maint.md)
+  - [Consumer brain wave headsets threaten privacy](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md)
   - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
   - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
   - [Uranium cubes reveal why the German nuclear project failed](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md)
@@ -43521,4 +43520,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-08T05:32:51.374034+05:30*
+*Index generated on 2026-11-08T12:02:47.204196+05:30*
