@@ -13,13 +13,14 @@ collected_at: '2026-11-08T11:46:03.965042+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-end-of-microsoft-research-s-ai-frontiers-group
 first_seen: '2026-11-08T01:49:35.333792+05:30'
 last_seen: '2026-11-08T11:46:03.965042+05:30'
 last_checked: '2026-11-08T11:46:03.965042+05:30'
 health_score: 100
 ---
+
 
 # The end of Microsoft Research's AI Frontiers group
 

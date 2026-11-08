@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
-collected_at: '2026-11-05T18:06:28.544676+05:30'
-published_at: '2026-11-05T11:46:45Z'
+collected_at: '2026-11-08T20:55:26.478754+05:30'
+published_at: '2026-11-08T12:01:52Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 4023
+stars: 4026
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2017-07-13T19:46:01Z'
-pushed_at: '2026-11-05T11:47:28Z'
+pushed_at: '2026-11-08T12:01:44Z'
 resource_id: github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials
-first_seen: '2026-11-05T18:06:28.544676+05:30'
-last_seen: '2026-11-05T18:06:28.544676+05:30'
-last_checked: '2026-11-05T18:06:28.544676+05:30'
+first_seen: '2026-11-08T20:55:26.478754+05:30'
+last_seen: '2026-11-08T20:55:26.478754+05:30'
+last_checked: '2026-11-08T20:55:26.478754+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Offers autograded, hands-on AI/ML/DL courses deployable across Colab, Kaggle, Binder, Codespaces, and Jupyter environments.
-*   Covers advanced AI
+*   Provides autograded, hands-on AI/ML/DL courses deploy
 
 ## Why It Matters
 
@@ -39,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TarrySingh
-- Stars: 4023
+- Stars: 4026
 - Forks: 1618
 - Language: Python
 - Topics: ai-agents, ai-governance, artificial-intelligence, autograding, deep-learning, document-ai, eu-ai-act, google-colab, humanoid-robotics, jupyter-notebook, machine-learning, mlops, model-risk-management, mujoco, online-course, predictive-maintenance, python, rag, responsible-ai, synapsa
-- Last Updated: 2026-11-05T11:46:45Z
+- Last Updated: 2026-11-08T12:01:52Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2017-07-13T19:46:01Z
-- Pushed At: 2026-11-05T11:47:28Z
+- Pushed At: 2026-11-08T12:01:44Z
 
 ## Possible Use Cases
 

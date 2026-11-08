@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-11-08T11:46:49.561173+05:30'
+collected_at: '2026-11-08T20:55:11.442578+05:30'
 published_at: '2026-11-03T07:09:27Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-11-08T11:46:49.561173+05:30'
-last_seen: '2026-11-08T11:46:49.561173+05:30'
-last_checked: '2026-11-08T11:46:49.561173+05:30'
+first_seen: '2026-11-08T20:55:11.442578+05:30'
+last_seen: '2026-11-08T20:55:11.442578+05:30'
+last_checked: '2026-11-08T20:55:11.442578+05:30'
 health_score: 100
 ---
 
@@ -28,7 +28,8 @@ health_score: 100
 
 ## Summary
 
-*   RAGTruth: A specialized hallucination corpus for evaluating Retrieval-Augmented Language
+*   `RAGTruth` is a specialized corpus designed for hallucination analysis.
+*
 
 ## Why It Matters
 

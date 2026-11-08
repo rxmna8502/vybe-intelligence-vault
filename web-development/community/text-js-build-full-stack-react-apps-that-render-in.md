@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:text-js-build-full-stack-react-apps-that-render-in
 first_seen: '2026-11-08T01:49:37.004851+05:30'
 last_seen: '2026-11-08T11:46:05.035029+05:30'
 last_checked: '2026-11-08T11:46:05.035029+05:30'
 health_score: 100
 ---
+
 
 # Text.js: Build full-stack React apps that render inside console.log
 

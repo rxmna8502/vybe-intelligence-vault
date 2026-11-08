@@ -9948,7 +9948,7 @@ Resources organized by keyword tags.
 
   - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [Consumer brain wave headsets threaten privacy](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md)
-  - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
+  - [Quadrillion-parameter transformers and how to train them](../ai/community/quadrillion-parameter-transformers-and-how-to-trai.md)
   - [Uranium cubes reveal why the German nuclear project failed](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md)
 
 ## animation
@@ -38135,7 +38135,6 @@ Resources organized by keyword tags.
   - [TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?](../ai/agents/arxiv-2606-13148.md)
   - [TerraTransfer++: Demonstration-Free End-to-End Planner](../ai/agents/arxiv-2610-30319.md)
   - [Text Dictates, Music Decorates: Energy-based Attention for Editable Dance Motion Generation](../ai/research/arxiv-2606-22726.md)
-  - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
   - [The Agent Skills Directory](../ai/agents/the-agent-skills-directory.md)
   - [The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel](../ai/research/arxiv-2608-13572.md)
@@ -42449,6 +42448,7 @@ Resources organized by keyword tags.
   - [QCNN with Rough Path Signature Kernels](../ai/research/arxiv-2607-07634.md)
   - [QGB-W$k$NN: Quantum Granular-Ball Learning for Robust Classification](../ai/research/arxiv-2609-05952.md)
   - [Quadratic Programming Approach for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](../ai/research/arxiv-2509-25618.md)
+  - [Quadrillion-parameter transformers and how to train them](../ai/community/quadrillion-parameter-transformers-and-how-to-trai.md)
   - [QuakeML - QuakeML](../ai/resources/quakeml-quakeml.md)
   - [QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation](../ai/research/arxiv-2609-26425.md)
   - [Quantifying Explainable AI-introduced signal noise on ECG data with Spectral Entropy](../ai/research/arxiv-2606-24974.md)
@@ -43154,7 +43154,6 @@ Resources organized by keyword tags.
   - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../ai/research/arxiv-2602-13848.md)
   - [Texas AI](../ai/rag/texas-ai.md)
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
-  - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
   - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](../ai/rag/arxiv-2610-01539.md)
@@ -43257,7 +43256,6 @@ Resources organized by keyword tags.
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
-  - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -43789,7 +43787,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -43926,6 +43923,7 @@ Resources organized by keyword tags.
   - [rfc5378.txt](../ai/rag/rfc5378-txt.md)
   - [rfc6480.html](../ai/rag/rfc6480-html.md)
   - [rfc8209.html](../ai/agents/rfc8209-html.md)
+  - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
   - [run-llama/llama-hub](../ai/rag/run-llama-llama-hub.md)
   - [sHAIL-Causal: A Sequential Staircase Procedure for Invariant Causal Predictor Discovery](../ai/research/arxiv-2610-07057.md)
   - [saket/telephoto](../ai/rag/saket-telephoto.md)
@@ -76105,10 +76103,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## react
-
-  - [Text.js: Build full-stack React apps that render inside console.log](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md)
-
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -84642,6 +84636,7 @@ Resources organized by keyword tags.
   - [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md)
   - [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md)
   - [langchain-ai/langgraphjs](../ai/rag/langchain-ai-langgraphjs.md)
+  - [langchain-ai/open-swe](../ai/agents/langchain-ai-open-swe.md)
   - [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md)
   - [langfuse/langfuse](../ai/agents/langfuse-langfuse.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
@@ -84691,7 +84686,6 @@ Resources organized by keyword tags.
   - [python-poetry/poetry](../ai/resources/python-poetry-poetry.md)
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
-  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -88573,4 +88567,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-08T12:02:46.664722+05:30*
+*Index generated on 2026-11-08T21:11:02.643092+05:30*
