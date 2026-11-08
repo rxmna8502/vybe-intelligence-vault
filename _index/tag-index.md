@@ -1981,6 +1981,7 @@ Resources organized by keyword tags.
   - [Classifying Directional Trajectories Near Criticality in the Three-State Majority-Vote Model with Deep Belief Networks and Bidirectional GRUs](../ai/agents/arxiv-2608-18235.md)
   - [Claude Code Plugin - Pinecone Docs](../ai/rag/claude-code-plugin-pinecone-docs.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](../ai/agents/arxiv-2606-12344.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
   - [ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](../ai/agents/arxiv-2604-18543.md)
@@ -9945,9 +9946,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [How Long Can Life Wait?](../ai/community/how-long-can-life-wait.md)
-  - [Optimising the Rail Cube](../ai/community/optimising-the-rail-cube.md)
+  - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](../ai/community/show-hn-an-offline-desktop-companion-to-help-maint.md)
   - [The end of Microsoft Research's AI Frontiers group](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md)
+  - [Uranium cubes reveal why the German nuclear project failed](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md)
 
 ## animation
 
@@ -10156,6 +10159,7 @@ Resources organized by keyword tags.
   - [Clarify Before You Draw: Proactive Agents for Robust Text-to-CAD Generation](../ai/agents/arxiv-2602-03045.md)
   - [Claude Code Plugin - Pinecone Docs](../ai/rag/claude-code-plugin-pinecone-docs.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
   - [ClawGym II: Exploring Black-Box RL on Agent Harness](../ai/agents/arxiv-2608-16798.md)
   - [ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents](../ai/agents/arxiv-2608-21101.md)
@@ -22081,7 +22085,6 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -40110,6 +40113,7 @@ Resources organized by keyword tags.
   - [Classification Based on Association Rules Algorithm for Breast Cancer](../ai/research/arxiv-2610-00174.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [Clearing the Underbrush: AI-Enhanced RF Interference Suppression](../ai/research/arxiv-2608-24974.md)
   - [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](../ai/agents/arxiv-2609-26779.md)
   - [Clinical Domain Classification from Medical Transcriptions](../ai/research/arxiv-2609-22734.md)
@@ -42165,7 +42169,6 @@ Resources organized by keyword tags.
   - [Optimal any-angle path planning in static and dynamic environments](../ai/rag/arxiv-2607-00065.md)
   - [Optimal approximation of smooth functions by ReLU neural networks](../ai/research/arxiv-2610-22693.md)
   - [Optimal uncertainty bounds for multivariate kernel regression under bounded noise: A Gaussian process-based dual function](../ai/research/arxiv-2603-16481.md)
-  - [Optimising the Rail Cube](../ai/community/optimising-the-rail-cube.md)
   - [Optimism Stabilizes Thompson Sampling for Adaptive Inference](../ai/research/arxiv-2602-06014.md)
   - [Optimistic Policy Regularization: Elite-Statistic Reward Shaping](../ai/rag/arxiv-2603-06793.md)
   - [Optimization Techniques for Solving the Minimum Red--Blue Separating Set Problem with an Application to Human--AI Text Separation](../ai/research/arxiv-2610-41081.md)
@@ -42861,6 +42864,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](../ai/community/show-hn-an-offline-desktop-companion-to-help-maint.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -43490,6 +43494,7 @@ Resources organized by keyword tags.
   - [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](../ai/rag/arxiv-2602-21196.md)
   - [UpSafe$^\circ$C: Upcycling for Controllable Safety in Large Language Models](../ai/research/arxiv-2510-02194.md)
   - [Updates to the demographic data options on the Candid profile](../ai/rag/updates-to-the-demographic-data-options-on-the-can.md)
+  - [Uranium cubes reveal why the German nuclear project failed](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md)
   - [Urban Heat MiniCubes: An AI-Ready dataset for urban heat research](../ai/research/arxiv-2606-11534.md)
   - [Usage Policy | Cohere](../ai/rag/usage-policy-cohere.md)
   - [Use Google Play Family Library - Google Play Help](../ai/rag/use-google-play-family-library-google-play-help.md)
@@ -84585,6 +84590,7 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../ai/rag/langchain-ai-deepagents.md)
@@ -88569,4 +88575,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-08T02:05:56.101480+05:30*
+*Index generated on 2026-11-08T05:32:50.912412+05:30*

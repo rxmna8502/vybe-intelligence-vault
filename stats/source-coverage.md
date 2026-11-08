@@ -166,6 +166,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+| arstechnica.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -305,8 +306,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | globalprivacyassembly.com | 2 |
 | hunch.net | 1 |
 | mceglowski.substack.com | 1 |
+| apiiro.com | 1 |
 | textjs.org | 1 |
-| owenlacey.dev | 1 |
+| eyesrhythm.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -415,7 +417,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | parsintl.com | 1 |
 | cursor.com | 1 |
 | archive.org | 1 |
-| arstechnica.com | 1 |
 | httparchive.org | 1 |
 | alphaxiv.org | 1 |
 | jupyterlab.rtfd.io | 1 |

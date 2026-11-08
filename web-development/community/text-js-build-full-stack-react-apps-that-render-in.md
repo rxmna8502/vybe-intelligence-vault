@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://textjs.org
 hn_url: https://news.ycombinator.com/item?id=50361657
-score: 62
+score: 78
 author: nateb2022
-comments_count: 29
+comments_count: 46
 published_at: '2026-11-04T10:29:36+05:30'
-collected_at: '2026-11-08T01:49:37.004851+05:30'
+collected_at: '2026-11-08T05:16:11.654173+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:text-js-build-full-stack-react-apps-that-render-in
 first_seen: '2026-11-08T01:49:37.004851+05:30'
-last_seen: '2026-11-08T01:49:37.004851+05:30'
-last_checked: '2026-11-08T01:49:37.004851+05:30'
+last_seen: '2026-11-08T05:16:11.654173+05:30'
+last_checked: '2026-11-08T05:16:11.654173+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by nateb2022. Score: 62, Comments: 29.
+Hacker News story by nateb2022. Score: 78, Comments: 46.
 Original Link: https://textjs.org/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: nateb2022
-- Score: 62 Upvotes
-- Comments: 29 Discussions
+- Score: 78 Upvotes
+- Comments: 46 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50361657
 - Original Article: https://textjs.org
 
