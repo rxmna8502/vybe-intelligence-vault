@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-08T21:15:39.459994+05:30`
+Generated at: `2026-11-09T00:12:10.098003+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Quadrillion-parameter transformers and how to train them** - Score: `37` in category `ai/community` ([Link](https://qlabs.sh/research/parameters)) ([File](../ai/community/quadrillion-parameter-transformers-and-how-to-trai.md))
+- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
 
 ## Top Trending Resources
 
-- **Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files** - Score: `478` (+173), Rank Change: `+1` ([File](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md))
-- **Consumer brain wave headsets threaten privacy** - Score: `92` (+77), Rank Change: `+2` ([File](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md))
-- **Uranium cubes reveal why the German nuclear project failed** - Score: `174` (+70), Rank Change: `+1` ([File](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+4049` ([File](../ai/agents/langchain-ai-open-swe.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+2104` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **ritik-prog/n8n-automation-templates-5000** - Score: `0` (0), Rank Change: `+5024` ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1062` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1077` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1061` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1076` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **google-gemini/gemini-fullstack-langgraph-quickstart** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
+- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
+- **steel-dev/awesome-web-agents** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/steel-dev-awesome-web-agents.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/docker-compose-for-agents.md))
+- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **masumi-network/crewai-masumi-quickstart-template** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
+- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
+- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/agent0ai-agent-zero.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **ritik-prog/n8n-automation-templates-5000** - (Rank Change: `+5024`) ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- **langchain-ai/open-swe** - (Rank Change: `+4049`) ([File](../ai/agents/langchain-ai-open-swe.md))
-- **NirDiamant/GenAI_Agents** - (Rank Change: `+2104`) ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - (Rank Change: `+1077`) ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1076`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1069`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+1064`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+1062`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1062`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **enescingoz/awesome-n8n-templates** - (Rank Change: `+1061`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **infiniflow/ragflow** - (Rank Change: `+28078`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1054`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1054`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1054`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1054`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1054`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1054`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1054`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1054`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1054`) ([File](../ai/agents/arxiv-2606-05050.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **The end of Microsoft Research's AI Frontiers group** (Category: `ai/community`) ([File](../ai/community/the-end-of-microsoft-research-s-ai-frontiers-group.md))
-- **Text.js: Build full-stack React apps that render inside console.log** (Category: `web-development/community`) ([File](../web-development/community/text-js-build-full-stack-react-apps-that-render-in.md))
+No recently active resources transitioned to inactive.
+
