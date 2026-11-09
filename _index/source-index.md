@@ -39606,17 +39606,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A Bit about Email](../ai/community/a-bit-about-email.md)
-  - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](../ai/community/air-holes-turn-silicon-wafers-into-flat-uv-focusin.md)
-  - [Apple capped engineers at a $200 daily AI budget](../ai/community/apple-capped-engineers-at-a-200-daily-ai-budget.md)
-  - [Ask HN: How do you manage your AI agents' context across clients and projects?](../ai/community/ask-hn-how-do-you-manage-your-ai-agents-context-ac.md)
-  - [Declarative Dragging](../ai/community/declarative-dragging.md)
-  - [How I Fight AI Brain Fry](../ai/community/how-i-fight-ai-brain-fry.md)
-  - [I'm not convinced the AI bubble exists](../ai/community/i-m-not-convinced-the-ai-bubble-exists.md)
-  - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](../web-development/community/ketchup-open-source-sketchup-alternative-built-wit.md)
-  - [Nvidia CEO Jensen Huang's letter to staff about affair](../ai/community/nvidia-ceo-jensen-huang-s-letter-to-staff-about-af.md)
-  - [Outlook.com is rejecting email from domains without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
-  - [Ur-Nammu Founder of the Sumerian Renaissance](../ai/community/ur-nammu-founder-of-the-sumerian-renaissance.md)
+  - [DeepX claims inference up to 100B parameters at less than 5 W](../ai/community/deepx-claims-inference-up-to-100b-parameters-at-le.md)
+  - [Fold Epic Paper Airplanes](../ai/community/fold-epic-paper-airplanes.md)
+  - [Magenta solar panels may be agrivoltaics' cleverest trick yet](../ai/community/magenta-solar-panels-may-be-agrivoltaics-cleverest.md)
+  - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](../ai/community/payments-canada-announces-launch-of-canada-s-real.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -40182,11 +40175,11 @@ Resources organized by publisher feed and query sources.
   - [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../ai/models/huggingface-blog-nvidia-physical-ai.md)
   - [Native-speed vLLM transformers modeling backend](../ai/models/huggingface-blog-native-speed-vllm-transformers-backend.md)
   - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](../ai/models/huggingface-blog-nvidia-nemotron-3-5-content-safety.md)
+  - [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](../ai/models/huggingface-blog-nvidia-nemotron-personas-finance-japan.md)
   - [Nemotron-Personas-India: Synthesized Data for Sovereign AI](../ai/models/huggingface-blog-nvidia-nemotron-personas-india.md)
   - [Nemotron-Personas-Japan: ソブリン AI のための合成データセット](../ai/models/huggingface-blog-nvidia-nemotron-personas-japan-ja.md)
   - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](../ai/models/huggingface-blog-hcompany-neomme.md)
   - [Neural Super Sampling is here!](../ai/models/huggingface-blog-arm-neural-super-sampling.md)
-  - [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](../ai/models/huggingface-blog-nvidia-cosmos-interactive-world-simulation.md)
   - [New ViT and ALIGN Models From Kakao Brain](../ai/models/huggingface-blog-vit-align.md)
   - [New in llama.cpp: Model Management](../ai/models/huggingface-blog-ggml-org-model-management-in-llamacpp.md)
   - [Newer Models, Same Advantage](../ai/models/huggingface-blog-dharma-ai-newer-models-same-advantages.md)
@@ -40495,6 +40488,7 @@ Resources organized by publisher feed and query sources.
   - [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](../ai/models/huggingface-blog-autoformer.md)
   - [You could have designed state of the art positional encoding](../ai/models/huggingface-blog-designing-positional-encoding.md)
   - [Your Agent Aced the Task. Will It Do It Again?](../ai/agents/huggingface-blog-ibm-research-altk-evolve-consistency.md)
+  - [Your Experts Have Partners. There's HOPE for Keeping Them Together](../ai/models/huggingface-blog-amazon-higher-order-pruning-experts.md)
   - [Zero-shot image segmentation with CLIPSeg](../ai/models/huggingface-blog-clipseg-zero-shot.md)
   - [Zero-shot image-to-text generation with BLIP-2](../ai/models/huggingface-blog-blip-2.md)
   - [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../ai/models/huggingface-blog-lerobot-datasets-v3.md)
@@ -43526,4 +43520,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-09T12:36:37.167753+05:30*
+*Index generated on 2026-11-10T00:41:46.861543+05:30*

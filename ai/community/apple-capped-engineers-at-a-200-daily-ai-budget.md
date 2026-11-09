@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:apple-capped-engineers-at-a-200-daily-ai-budget
 first_seen: '2026-11-09T12:19:49.687946+05:30'
 last_seen: '2026-11-09T12:19:49.687946+05:30'
 last_checked: '2026-11-09T12:19:49.687946+05:30'
 health_score: 100
 ---
+
 
 # Apple capped engineers at a $200 daily AI budget
 

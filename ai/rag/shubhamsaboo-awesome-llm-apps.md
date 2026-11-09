@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Shubhamsaboo/awesome-llm-apps
-collected_at: '2026-09-03T04:15:50.993132+05:30'
-published_at: '2026-09-02T22:36:42Z'
+collected_at: '2026-11-10T00:26:35.334410+05:30'
+published_at: '2026-11-09T18:37:28Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 135773
+stars: 144286
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-04-29T05:30:25Z'
-pushed_at: '2026-08-31T04:54:57Z'
+pushed_at: '2026-11-08T17:14:10Z'
 resource_id: github:shubhamsaboo/awesome-llm-apps
-first_seen: '2026-09-03T04:15:50.993132+05:30'
-last_seen: '2026-09-03T04:15:50.993132+05:30'
-last_checked: '2026-09-03T04:15:50.993132+05:30'
+first_seen: '2026-11-10T00:26:35.334410+05:30'
+last_seen: '2026-11-10T00:26:35.334410+05:30'
+last_checked: '2026-11-10T00:26:35.334410+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Contents**: Curated collection of 100+ open-source AI agents, agent skills, and RAG (Retrieval-Augmented Generation) applications implemented in Python, designed for extensibility and research.
-- **Technical Scope**: Focuses on modular agent architectures, LLM (Large Language Model) integrations, and RAG pipelines, enabling rapid prototyping of autonomous or semi-autonomous AI systems.
-- **Community & Maintenance**: Actively maintained (last updated 2026-09-02), with 135,773 stars and 19,973 forks, indicating strong community adoption and collaborative development.
+*   Curated repository featuring 100+ open-source AI Agents, Agent Skills, and RAG applications.
+*   Predominantly implemented in Python, reflecting the primary language for LLM application development.
+*   High community adoption (144k+ stars, 21k+ forks) signifies its utility as a resource for practical LLM integration patterns.
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Shubhamsaboo
-- Stars: 135773
-- Forks: 19973
+- Stars: 144286
+- Forks: 21232
 - Language: Python
 - Topics: agents, llms, python, rag
-- Last Updated: 2026-09-02T22:36:42Z
+- Last Updated: 2026-11-09T18:37:28Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-29T05:30:25Z
-- Pushed At: 2026-08-31T04:54:57Z
+- Pushed At: 2026-11-08T17:14:10Z
 
 ## Possible Use Cases
 

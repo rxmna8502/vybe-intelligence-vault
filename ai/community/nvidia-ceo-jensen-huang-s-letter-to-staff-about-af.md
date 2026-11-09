@@ -13,13 +13,14 @@ collected_at: '2026-11-09T12:19:51.056986+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nvidia-ceo-jensen-huang-s-letter-to-staff-about-af
 first_seen: '2026-11-09T12:19:51.056986+05:30'
 last_seen: '2026-11-09T12:19:51.056986+05:30'
 last_checked: '2026-11-09T12:19:51.056986+05:30'
 health_score: 100
 ---
+
 
 # Nvidia CEO Jensen Huang's letter to staff about affair
 

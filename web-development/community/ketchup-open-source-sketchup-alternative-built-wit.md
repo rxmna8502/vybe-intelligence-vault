@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:ketchup-open-source-sketchup-alternative-built-wit
 first_seen: '2026-11-09T12:19:50.022684+05:30'
 last_seen: '2026-11-09T12:19:50.022684+05:30'
 last_checked: '2026-11-09T12:19:50.022684+05:30'
 health_score: 100
 ---
+
 
 # KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
 

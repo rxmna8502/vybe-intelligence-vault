@@ -23,7 +23,7 @@ https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-11-09 12:38 IST*
+*Last updated: 2026-11-10 00:42 IST*

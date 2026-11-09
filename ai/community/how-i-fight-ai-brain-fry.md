@@ -13,13 +13,14 @@ collected_at: '2026-11-09T12:19:52.348753+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-i-fight-ai-brain-fry
 first_seen: '2026-11-09T02:06:58.959404+05:30'
 last_seen: '2026-11-09T12:19:52.348753+05:30'
 last_checked: '2026-11-09T12:19:52.348753+05:30'
 health_score: 100
 ---
+
 
 # How I Fight AI Brain Fry
 

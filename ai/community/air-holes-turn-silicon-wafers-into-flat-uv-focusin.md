@@ -13,13 +13,14 @@ collected_at: '2026-11-09T12:19:52.165662+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:air-holes-turn-silicon-wafers-into-flat-uv-focusin
 first_seen: '2026-11-09T12:19:52.165662+05:30'
 last_seen: '2026-11-09T12:19:52.165662+05:30'
 last_checked: '2026-11-09T12:19:52.165662+05:30'
 health_score: 100
 ---
+
 
 # Air holes turn silicon wafers into flat UV focusing mirrors for compact optics
 

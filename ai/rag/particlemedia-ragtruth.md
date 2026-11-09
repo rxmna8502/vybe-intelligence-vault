@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-11-09T12:20:39.381554+05:30'
-published_at: '2026-11-03T07:09:27Z'
+collected_at: '2026-11-10T00:26:10.418187+05:30'
+published_at: '2026-11-09T09:39:39Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - python
 - rag
-stars: 286
+stars: 287
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-11-09T12:20:39.381554+05:30'
-last_seen: '2026-11-09T12:20:39.381554+05:30'
-last_checked: '2026-11-09T12:20:39.381554+05:30'
+first_seen: '2026-11-10T00:26:10.418187+05:30'
+last_seen: '2026-11-10T00:26:10.418187+05:30'
+last_checked: '2026-11-10T00:26:10.418187+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Introduces `RAGTruth`, a specialized corpus designed for hallucination detection and mitigation.
-*   Aims to facilitate the development of trustworthy Retrieval-Augmented Language Models (RAG LMs).
-*   Provides a dataset for evaluating and improving the factual consistency of RAG-based generative systems.
+*   Introduces RAGTruth, a specialized corpus designed for identifying and analyzing hallucination in Retrieval-Augmented Language Models (RAGs).
+*   Aids in the development of trustworthy RAG systems by providing a benchmark for evaluating factual consistency and mitigating generative inaccuracies.
+*   Focuses on empirical assessment of hallucination phenomena within RAG architectures to enhance model reliability.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ParticleMedia
-- Stars: 286
+- Stars: 287
 - Forks: 36
 - Language: Python
 - Topics: None
-- Last Updated: 2026-11-03T07:09:27Z
+- Last Updated: 2026-11-09T09:39:39Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

@@ -13,13 +13,14 @@ collected_at: '2026-11-09T12:19:50.651142+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:declarative-dragging
 first_seen: '2026-11-09T02:06:59.323327+05:30'
 last_seen: '2026-11-09T12:19:50.651142+05:30'
 last_checked: '2026-11-09T12:19:50.651142+05:30'
 health_score: 100
 ---
+
 
 # Declarative Dragging
 

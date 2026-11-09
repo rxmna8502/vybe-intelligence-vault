@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-how-do-you-manage-your-ai-agents-context-ac
 first_seen: '2026-11-09T12:19:51.228685+05:30'
 last_seen: '2026-11-09T12:19:51.228685+05:30'
 last_checked: '2026-11-09T12:19:51.228685+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: How do you manage your AI agents' context across clients and projects?
 

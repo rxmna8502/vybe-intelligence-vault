@@ -13,13 +13,14 @@ collected_at: '2026-11-09T12:19:50.967191+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:outlook-com-is-quietly-rejecting-email-from-domain
 first_seen: '2026-11-09T02:06:59.231591+05:30'
 last_seen: '2026-11-09T12:19:50.967191+05:30'
 last_checked: '2026-11-09T12:19:50.967191+05:30'
 health_score: 100
 ---
+
 
 # Outlook.com is rejecting email from domains without DMARC
 
