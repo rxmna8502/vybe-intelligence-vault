@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-09T02:29:11.870555+05:30`
+Generated at: `2026-11-09T06:05:02.184843+05:30`
 
 ## Executive Summary
 
@@ -8,38 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Declarative Dragging** - Score: `97` in category `ai/community` ([Link](https://declarative-dragging.github.io)) ([File](../ai/community/declarative-dragging.md))
-- **RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC** - Score: `71` in category `ai/community` ([Link](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman)) ([File](../ai/community/ram-altman-linux-script-emails-sam-altman-daily-ho.md))
-- **Outlook.com Is Quietly Rejecting Email from Domains Without DMARC** - Score: `64` in category `ai/community` ([Link](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)) ([File](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md))
-- **Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It** - Score: `54` in category `ai/community` ([Link](https://wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)) ([File](../ai/community/silicon-valley-promises-ai-will-cure-disease-drugm.md))
-- **How I Fight AI Brain Fry** - Score: `30` in category `ai/community` ([Link](https://sergeykuhne.com/blog/fighting-ai-brain-fry)) ([File](../ai/community/how-i-fight-ai-brain-fry.md))
-- **Edward Hopper's Iconic Painting, "Nighthawks** - Score: `10` in category `ai/community` ([Link](https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks)) ([File](../ai/community/edward-hopper-s-iconic-painting-nighthawks.md))
+- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
 
 ## Top Trending Resources
 
-- **Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files** - Score: `539` (+61), Rank Change: `0` ([File](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+9` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-computer-interaction.md))
+- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/nirdiamant-genai-agents.md))
+- **ritik-prog/n8n-automation-templates-5000** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Applied AI** - (Rank Change: `+931`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+931`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+931`) ([File](../ai/companies/openai/global-affairs.md))
-- **Intelligence Age** - (Rank Change: `+931`) ([File](../ai/companies/openai/intelligence-age.md))
-- **Engineering** - (Rank Change: `+931`) ([File](../ai/companies/openai/engineering.md))
-- **Safeguards** - (Rank Change: `+129`) ([File](../ai/companies/anthropic/safeguards.md))
-- **Preparing for the 2026 US midterms** - (Rank Change: `+129`) ([File](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md))
-- **An update on independent evaluators** - (Rank Change: `+129`) ([File](../ai/companies/anthropic/an-update-on-independent-evaluators.md))
-- **Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust** - (Rank Change: `+129`) ([File](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md))
-- **Open call for guest investigators in the life sciences** - (Rank Change: `+129`) ([File](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md))
+- **infiniflow/ragflow** - (Rank Change: `+28078`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1054`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1054`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1054`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1054`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1054`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1054`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1054`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1054`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1054`) ([File](../ai/agents/arxiv-2606-05050.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -50,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Uranium cubes reveal why the German nuclear project failed** (Category: `ai/community`) ([File](../ai/community/uranium-cubes-reveal-why-the-german-nuclear-projec.md))
-- **Consumer brain wave headsets threaten privacy** (Category: `ai/community`) ([File](../ai/community/consumer-brain-wave-headsets-threaten-privacy.md))
-- **Quadrillion-parameter transformers and how to train them** (Category: `ai/community`) ([File](../ai/community/quadrillion-parameter-transformers-and-how-to-trai.md))
+No recently active resources transitioned to inactive.
+
