@@ -1096,6 +1096,7 @@ Resources organized by keyword tags.
   - [Ascent: An Agentic System over the Model Context Protocol for Real-World Clinical Data Analysis](../ai/rag/arxiv-2609-24620.md)
   - [Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents](../ai/agents/arxiv-2609-13543.md)
   - [Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization](../ai/agents/arxiv-2609-05258.md)
+  - [Ask HN: How do you manage your AI agents' context across clients and projects?](../ai/community/ask-hn-how-do-you-manage-your-ai-agents-context-ac.md)
   - [Ask on Demand: Targeted Peer Communication for Parallel Agentic Systems](../ai/agents/arxiv-2610-41378.md)
   - [Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense](../ai/agents/arxiv-2610-09337.md)
   - [Ask the Tool, Don't Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It](../ai/agents/arxiv-2609-18849.md)
@@ -1981,7 +1982,6 @@ Resources organized by keyword tags.
   - [Classifying Directional Trajectories Near Criticality in the Three-State Majority-Vote Model with Deep Belief Networks and Bidirectional GRUs](../ai/agents/arxiv-2608-18235.md)
   - [Claude Code Plugin - Pinecone Docs](../ai/rag/claude-code-plugin-pinecone-docs.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
-  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](../ai/agents/arxiv-2606-12344.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
   - [ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](../ai/agents/arxiv-2604-18543.md)
@@ -9946,12 +9946,15 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
-  - [Edward Hopper's Iconic Painting, "Nighthawks](../ai/community/edward-hopper-s-iconic-painting-nighthawks.md)
+  - [A Bit about Email](../ai/community/a-bit-about-email.md)
+  - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](../ai/community/air-holes-turn-silicon-wafers-into-flat-uv-focusin.md)
+  - [Apple capped engineers at a $200 daily AI budget](../ai/community/apple-capped-engineers-at-a-200-daily-ai-budget.md)
+  - [Ask HN: How do you manage your AI agents' context across clients and projects?](../ai/community/ask-hn-how-do-you-manage-your-ai-agents-context-ac.md)
   - [How I Fight AI Brain Fry](../ai/community/how-i-fight-ai-brain-fry.md)
-  - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
-  - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](../ai/community/ram-altman-linux-script-emails-sam-altman-daily-ho.md)
-  - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](../ai/community/silicon-valley-promises-ai-will-cure-disease-drugm.md)
+  - [I'm not convinced the AI bubble exists](../ai/community/i-m-not-convinced-the-ai-bubble-exists.md)
+  - [Nvidia CEO Jensen Huang's letter to staff about affair](../ai/community/nvidia-ceo-jensen-huang-s-letter-to-staff-about-af.md)
+  - [Outlook.com is rejecting email from domains without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
+  - [Ur-Nammu Founder of the Sumerian Renaissance](../ai/community/ur-nammu-founder-of-the-sumerian-renaissance.md)
 
 ## animation
 
@@ -10160,7 +10163,6 @@ Resources organized by keyword tags.
   - [Clarify Before You Draw: Proactive Agents for Robust Text-to-CAD Generation](../ai/agents/arxiv-2602-03045.md)
   - [Claude Code Plugin - Pinecone Docs](../ai/rag/claude-code-plugin-pinecone-docs.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
-  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
   - [ClawGym II: Exploring Black-Box RL on Agent Harness](../ai/agents/arxiv-2608-16798.md)
   - [ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents](../ai/agents/arxiv-2608-21101.md)
@@ -34335,6 +34337,7 @@ Resources organized by keyword tags.
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Partially Interpretable Decision Trees](../ai/research/arxiv-2611-06428.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -39254,6 +39257,7 @@ Resources organized by keyword tags.
   - [A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks](../ai/research/arxiv-2611-06412.md)
   - [A Baseline Assessment for the Agentic Web Technology Stack](../ai/agents/arxiv-2610-13703.md)
   - [A Benchmark & Dataset for Detecting AI-Manipulated Visual Evidence in the Court System](../ai/research/arxiv-2609-37783.md)
+  - [A Bit about Email](../ai/community/a-bit-about-email.md)
   - [A Bochner Weitzenb\"ock Decomposition for Cellular Sheaf Laplacians, Curvature and Neural Sheaf Diffusion](../ai/research/arxiv-2610-28455.md)
   - [A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch](../ai/research/arxiv-2604-00730.md)
   - [A Calibrated Instrument for Measuring How Inference Optimizations Affect Output Quality](../ai/research/arxiv-2609-18005.md)
@@ -39628,6 +39632,7 @@ Resources organized by keyword tags.
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Aggregation of Published Non-Uniform Axial Power Data for Phase II of the OECD/NEA AI/ML Critical Heat Flux Benchmark](../ai/research/arxiv-2507-00034.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
+  - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](../ai/community/air-holes-turn-silicon-wafers-into-flat-uv-focusin.md)
   - [Ajar: Measuring Open Privilege in Agent Defenses](../ai/agents/arxiv-2609-26900.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
@@ -39707,6 +39712,7 @@ Resources organized by keyword tags.
   - [AppendiGrade: An XAI-Enhanced Deep Learning Framework for Grading Appendicitis in Ultrasound with Gaussian Blur and Grad-CAM](../ai/research/arxiv-2608-17923.md)
   - [Apple Support - YouTube](../ai/resources/apple-support-youtube.md)
   - [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md)
+  - [Apple capped engineers at a $200 daily AI budget](../ai/community/apple-capped-engineers-at-a-200-daily-ai-budget.md)
   - [AppleCare - Apple](../ai/rag/applecare-apple.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Applications of Risk Science to AI Fairness Evaluation: Principles, Challenges, and Best Practices](../ai/research/arxiv-2608-29478.md)
@@ -39748,6 +39754,7 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
+  - [Ask HN: How do you manage your AI agents' context across clients and projects?](../ai/community/ask-hn-how-do-you-manage-your-ai-agents-context-ac.md)
   - [Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG](../ai/agents/arxiv-2607-02802.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessing the impact of dimensionality reduction on clustering performance - a systematic study](../ai/research/arxiv-2604-22099.md)
@@ -40113,7 +40120,6 @@ Resources organized by keyword tags.
   - [Classification Based on Association Rules Algorithm for Breast Cancer](../ai/research/arxiv-2610-00174.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
-  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
   - [Clearing the Underbrush: AI-Enhanced RF Interference Suppression](../ai/research/arxiv-2608-24974.md)
   - [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](../ai/agents/arxiv-2609-26779.md)
   - [Clinical Domain Classification from Medical Transcriptions](../ai/research/arxiv-2609-22734.md)
@@ -40586,7 +40592,6 @@ Resources organized by keyword tags.
   - [EditPad® Pro: Text Editor for Windows](../ai/resources/editpad-r-pro-text-editor-for-windows.md)
   - [Editing Large Language Models with Geometry-Aware Regularization](../ai/research/arxiv-2611-06185.md)
   - [Education | FSI](../ai/resources/education-fsi.md)
-  - [Edward Hopper's Iconic Painting, "Nighthawks](../ai/community/edward-hopper-s-iconic-painting-nighthawks.md)
   - [Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data](../ai/rag/arxiv-2608-29001.md)
   - [Effective and Efficient Observability with OpenTelemetry - InfoQ](../ai/rag/effective-and-efficient-observability-with-opentel.md)
   - [Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations](../ai/research/arxiv-2608-27480.md)
@@ -41322,6 +41327,7 @@ Resources organized by keyword tags.
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
   - [Hypothesis-guided discovery of cognitive algorithms via program refinement](../ai/agents/arxiv-2610-02523.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
+  - [I'm not convinced the AI bubble exists](../ai/community/i-m-not-convinced-the-ai-bubble-exists.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -41511,6 +41517,7 @@ Resources organized by keyword tags.
   - [KangsanKim07/VideoICL](../ai/rag/kangsankim07-videoicl.md)
   - [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md)
   - [Kernel Singular Value Decomposition with Extension to Multiple Data Sources](../ai/research/arxiv-2610-03216.md)
+  - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](../web-development/community/ketchup-open-source-sketchup-alternative-built-wit.md)
   - [Kimi K2.5: Visual Agentic Intelligence](../ai/agents/arxiv-2602-02276.md)
   - [Kinks vs. Smoothness: Identifiability of Real Analytic nICA for Laplace-like Sources](../ai/research/arxiv-2609-21926.md)
   - [Know When to Stop, Where to Restart: Accelerating Multi-Turn Agentic On-Policy Distillation](../ai/rag/arxiv-2609-14636.md)
@@ -42071,6 +42078,7 @@ Resources organized by keyword tags.
   - [NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment](../ai/research/arxiv-2609-11234.md)
   - [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](../ai/research/arxiv-2608-04030.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
+  - [Nvidia CEO Jensen Huang's letter to staff about affair](../ai/community/nvidia-ceo-jensen-huang-s-letter-to-staff-about-af.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance](../ai/agents/arxiv-2608-04524.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -42195,7 +42203,7 @@ Resources organized by keyword tags.
   - [OsteoCAD: A Human-in-the-Loop Cloud-Edge Framework for Bone Tumor Segmentation](../ai/research/arxiv-2607-29266.md)
   - [Our Opportunities - University of California-Los Angeles Scholarship Application](../ai/resources/our-opportunities-university-of-california-los-ang.md)
   - [Out of Sync, Out of Sight: Phantom State Attacks against IIoT Intrusion Detection](../ai/research/arxiv-2610-02552.md)
-  - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
+  - [Outlook.com is rejecting email from domains without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
   - [Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety](../ai/agents/arxiv-2606-05461.md)
   - [Overview (egeria 6.1-SNAPSHOT API)](../ai/resources/overview-egeria-6-1-snapshot-api.md)
   - [Overview - FHIR v5.0.0](../ai/rag/overview-fhir-v5-0-0.md)
@@ -42493,7 +42501,6 @@ Resources organized by keyword tags.
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
   - [RAGMark: A Comprehensive Framework for Benchmarking Retrieval-Augmented Generation Systems](../ai/rag/arxiv-2609-05760.md)
   - [RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level](../ai/agents/arxiv-2608-13428.md)
-  - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](../ai/community/ram-altman-linux-script-emails-sam-altman-daily-ho.md)
   - [RATIO: Reasoning Analysis and Token-level Inference Optimization for Quantized Reasoning Models](../ai/rag/arxiv-2609-39801.md)
   - [RCAP: Robust, Class-Aware, Probabilistic Dynamic Dataset Pruning](../ai/rag/arxiv-2606-11761.md)
   - [RCProb: Probabilistic rule extraction from classification tree ensembles](../ai/research/arxiv-2604-25304.md)
@@ -42882,7 +42889,6 @@ Resources organized by keyword tags.
   - [Signatures of semantic search in the activations of large language models](../ai/rag/arxiv-2609-35599.md)
   - [Signed random Fourier features for fast density estimation with indefinite kernels](../ai/research/arxiv-2608-29265.md)
   - [Silent Neuron Theory and Plasticity Preservation for Deep Reinforcement Learning in Adaptive Video Streaming](../ai/research/arxiv-2505-01584.md)
-  - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](../ai/community/silicon-valley-promises-ai-will-cure-disease-drugm.md)
   - [SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation](../ai/agents/arxiv-2609-03753.md)
   - [Simple Baselines are Competitive with Code Evolution](../ai/agents/arxiv-2602-16805.md)
   - [Simple Domain Generalization Methods are Strong Baselines for Open Domain Generalization](../ai/research/arxiv-2303-18031.md)
@@ -43496,6 +43502,7 @@ Resources organized by keyword tags.
   - [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](../ai/rag/arxiv-2602-21196.md)
   - [UpSafe$^\circ$C: Upcycling for Controllable Safety in Large Language Models](../ai/research/arxiv-2510-02194.md)
   - [Updates to the demographic data options on the Candid profile](../ai/rag/updates-to-the-demographic-data-options-on-the-can.md)
+  - [Ur-Nammu Founder of the Sumerian Renaissance](../ai/community/ur-nammu-founder-of-the-sumerian-renaissance.md)
   - [Urban Heat MiniCubes: An AI-Ready dataset for urban heat research](../ai/research/arxiv-2606-11534.md)
   - [Usage Policy | Cohere](../ai/rag/usage-policy-cohere.md)
   - [Use Google Play Family Library - Google Play Help](../ai/rag/use-google-play-family-library-google-play-help.md)
@@ -43792,7 +43799,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -76245,6 +76251,7 @@ Resources organized by keyword tags.
   - [Apple](../ai/resources/apple.md)
   - [Apple - Legal - Sales Policies - U.S. Retail Sales](../ai/resources/apple-legal-sales-policies-u-s-retail-sales.md)
   - [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md)
+  - [Apple capped engineers at a $200 daily AI budget](../ai/community/apple-capped-engineers-at-a-200-daily-ai-budget.md)
   - [Apps & Games content ratings on Google Play - Google Play Help](../ai/rag/apps-games-content-ratings-on-google-play-google-p.md)
   - [ArcGIS Pro license levels | ArcGIS Pro documentation](../ai/resources/arcgis-pro-license-levels-arcgis-pro-documentation.md)
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
@@ -79091,6 +79098,7 @@ Resources organized by keyword tags.
   - [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](../ai/rag/arxiv-2607-24730.md)
   - [KANLab: TensorFlow Playground for Kolmogorov-Arnold Networks](../ai/research/arxiv-2610-20117.md)
   - [KATOsuper: Surrogate-accelerated neural topology optimization with sensitivity-consistent Fourier neural operators](../ai/research/arxiv-2609-27216.md)
+  - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](../web-development/community/ketchup-open-source-sketchup-alternative-built-wit.md)
   - [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](../ai/research/arxiv-2606-25927.md)
   - [Knowledge Manifold: A Riemannian Geometric Framework for Semantic Mapping and Geodesic Analysis of Scientific Literature](../ai/research/arxiv-2606-05907.md)
   - [Kolmogorov--Arnold Networks for Small Language Models](../ai/rag/arxiv-2607-15525.md)
@@ -82215,6 +82223,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
+
+## webgpu
+
+  - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](../web-development/community/ketchup-open-source-sketchup-alternative-built-wit.md)
 
 ## workflows
 
@@ -88574,4 +88586,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-09T02:23:41.686707+05:30*
+*Index generated on 2026-11-09T12:36:36.625523+05:30*

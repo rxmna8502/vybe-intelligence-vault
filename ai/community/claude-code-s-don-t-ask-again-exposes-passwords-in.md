@@ -15,13 +15,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:claude-code-s-don-t-ask-again-exposes-passwords-in
 first_seen: '2026-11-08T05:16:08.788820+05:30'
 last_seen: '2026-11-09T02:07:01.108981+05:30'
 last_checked: '2026-11-09T02:07:01.108981+05:30'
 health_score: 100
 ---
+
 
 # Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
 

@@ -14,13 +14,14 @@ collected_at: '2026-11-09T02:06:59.676849+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ram-altman-linux-script-emails-sam-altman-daily-ho
 first_seen: '2026-11-09T02:06:59.676849+05:30'
 last_seen: '2026-11-09T02:06:59.676849+05:30'
 last_checked: '2026-11-09T02:06:59.676849+05:30'
 health_score: 100
 ---
+
 
 # RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC
 

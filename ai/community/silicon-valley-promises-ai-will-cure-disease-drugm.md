@@ -14,13 +14,14 @@ collected_at: '2026-11-09T02:07:01.016116+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:silicon-valley-promises-ai-will-cure-disease-drugm
 first_seen: '2026-11-09T02:07:01.016116+05:30'
 last_seen: '2026-11-09T02:07:01.016116+05:30'
 last_checked: '2026-11-09T02:07:01.016116+05:30'
 health_score: 100
 ---
+
 
 # Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It
 

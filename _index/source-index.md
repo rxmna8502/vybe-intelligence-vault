@@ -39606,13 +39606,17 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../ai/community/claude-code-s-don-t-ask-again-exposes-passwords-in.md)
+  - [A Bit about Email](../ai/community/a-bit-about-email.md)
+  - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](../ai/community/air-holes-turn-silicon-wafers-into-flat-uv-focusin.md)
+  - [Apple capped engineers at a $200 daily AI budget](../ai/community/apple-capped-engineers-at-a-200-daily-ai-budget.md)
+  - [Ask HN: How do you manage your AI agents' context across clients and projects?](../ai/community/ask-hn-how-do-you-manage-your-ai-agents-context-ac.md)
   - [Declarative Dragging](../ai/community/declarative-dragging.md)
-  - [Edward Hopper's Iconic Painting, "Nighthawks](../ai/community/edward-hopper-s-iconic-painting-nighthawks.md)
   - [How I Fight AI Brain Fry](../ai/community/how-i-fight-ai-brain-fry.md)
-  - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
-  - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](../ai/community/ram-altman-linux-script-emails-sam-altman-daily-ho.md)
-  - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](../ai/community/silicon-valley-promises-ai-will-cure-disease-drugm.md)
+  - [I'm not convinced the AI bubble exists](../ai/community/i-m-not-convinced-the-ai-bubble-exists.md)
+  - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](../web-development/community/ketchup-open-source-sketchup-alternative-built-wit.md)
+  - [Nvidia CEO Jensen Huang's letter to staff about affair](../ai/community/nvidia-ceo-jensen-huang-s-letter-to-staff-about-af.md)
+  - [Outlook.com is rejecting email from domains without DMARC](../ai/community/outlook-com-is-quietly-rejecting-email-from-domain.md)
+  - [Ur-Nammu Founder of the Sumerian Renaissance](../ai/community/ur-nammu-founder-of-the-sumerian-renaissance.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -43522,4 +43526,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-09T02:23:42.226898+05:30*
+*Index generated on 2026-11-09T12:36:37.167753+05:30*
