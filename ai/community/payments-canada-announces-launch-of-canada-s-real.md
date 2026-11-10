@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:payments-canada-announces-launch-of-canada-s-real
 first_seen: '2026-11-10T00:25:23.773249+05:30'
 last_seen: '2026-11-10T18:17:28.005419+05:30'
 last_checked: '2026-11-10T18:17:28.005419+05:30'
 health_score: 100
 ---
+
 
 # Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
 

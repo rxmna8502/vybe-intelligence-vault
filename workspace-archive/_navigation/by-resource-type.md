@@ -116,10 +116,10 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Beyond Point Predictions: Uncertainty-Aware Satellite Poverty Mapping for Public Policy](https://arxiv.org/abs/2608.23322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-23322.md))
 - [Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable](https://arxiv.org/abs/2608.27167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-27167.md))
 - [StepKV: Step-Aware KV Cache Compression for LLM Agents](https://arxiv.org/abs/2609.22158) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-22158.md))
+- [Learn more](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence) (Tier: `useful` | [`Local File`](../../ai/companies/deepmind/learn-more.md))
 - [AlphaEvolveDesign advanced algorithms for math and applications in computing](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms) (Tier: `useful` | [`Local File`](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md))
 - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md))
 - [Announcements](https://anthropic.com/news/announcements) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/announcements.md))
-- [Preparing for the 2026 US midterms](https://anthropic.com/news/2026-us-midterms) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 
 ---
-*Last updated: 2026-11-10 18:36 IST*
+*Last updated: 2026-11-11 03:46 IST*

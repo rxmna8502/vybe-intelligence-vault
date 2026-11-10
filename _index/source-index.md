@@ -39601,12 +39601,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Fireworks AI security breach impacts Notion and their customers](../ai/community/fireworks-ai-security-breach-impacts-notion-and-th.md)
-  - [Foldable Flight: The Best Paper Airplanes](../ai/community/fold-epic-paper-airplanes.md)
-  - [Google Gemini routes personal Drive files and emails to human annotators](../ai/community/thisisme6598-gemini-files.md)
-  - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](../ai/community/payments-canada-announces-launch-of-canada-s-real.md)
-  - [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](../ai/community/magenta-solar-panels-may-be-agrivoltaics-cleverest.md)
-  - [Show HN: Ghanaian street games you can play in the browser](../ai/community/show-hn-ghanaian-street-games-you-can-play-in-the.md)
+  - [AI usage generates a fragile codebase](../ai/community/ai-usage-generates-a-fragile-codebase.md)
+  - [Show HN: Valencia, Spain in Sim City/Isometric View](../ai/community/show-hn-valencia-spain-in-sim-city-isometric-view.md)
+  - [Synaptics patent claims stop work on DisplayLink drivers](../ai/community/synaptics-patent-claims-stop-work-on-displaylink-d.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39775,6 +39772,7 @@ Resources organized by publisher feed and query sources.
   - [Data Is Better Together: A Look Back and Forward](../ai/models/huggingface-blog-dibt.md)
   - [Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces](../ai/models/huggingface-blog-community-datasets.md)
   - [Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models](../ai/models/huggingface-blog-databricks-case-study.md)
+  - [Decision Models in Hugging Face](../ai/models/huggingface-blog-decision.md)
   - [Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore](../ai/models/huggingface-blog-vision-transformers.md)
   - [Deep Learning over the Internet: Training Language Models Collaboratively](../ai/models/huggingface-blog-collaborative-training.md)
   - [Deep Learning with Proteins](../ai/models/huggingface-blog-deep-learning-with-proteins.md)
@@ -40229,6 +40227,7 @@ Resources organized by publisher feed and query sources.
   - [Parquet Content-Defined Chunking](../ai/rag/huggingface-blog-parquet-cdc.md)
   - [Patch Time Series Transformer in Hugging Face](../ai/models/huggingface-blog-patchtst.md)
   - [PatchTSMixer in HuggingFace](../ai/models/huggingface-blog-patchtsmixer.md)
+  - [Pay for Hugging Face Hub with your Google Cloud Account](../ai/models/huggingface-blog-hub-gcp-marketplace.md)
   - [Perceiver IO: a scalable, fully-attentional model that works on any modality](../ai/models/huggingface-blog-perceiver.md)
   - [Personal Copilot: Train Your Own Coding Assistant](../ai/models/huggingface-blog-personal-copilot.md)
   - [PipelineRL](../ai/models/huggingface-blog-servicenow-pipelinerl.md)
@@ -41004,7 +41003,6 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
-  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -42506,7 +42504,6 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
-  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
@@ -43514,10 +43511,9 @@ Resources organized by publisher feed and query sources.
   - [라떼군 이야기 - YouTube](../ai/resources/raddegun-iyagi-youtube.md)
   - [목록 > 학사공지 > footer < KAIST](../ai/resources/mogrog-hagsagongji-footer-kaist.md)
   - [카이스트 총동문회](../ai/resources/kaiseuteu-congdongmunhoe.md)
-  - [🔎 Build a RAG Agent with Azure AI Search | Agent Academy](../ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md)
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-10T18:34:12.321366+05:30*
+*Index generated on 2026-11-11T03:42:53.462290+05:30*

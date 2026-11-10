@@ -13,13 +13,14 @@ collected_at: '2026-11-10T18:17:29.404247+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:thisisme6598/gemini_files
 first_seen: '2026-11-10T08:22:19.195249+05:30'
 last_seen: '2026-11-10T18:17:29.404247+05:30'
 last_checked: '2026-11-10T18:17:29.404247+05:30'
 health_score: 100
 ---
+
 
 # Google Gemini routes personal Drive files and emails to human annotators
 

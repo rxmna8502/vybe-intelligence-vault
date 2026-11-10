@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - paper
-status: active
+status: inactive
 resource_id: hackernews:foldable-flight-the-best-paper-airplanes
 first_seen: '2026-11-10T00:25:24.339848+05:30'
 last_seen: '2026-11-10T18:17:28.197583+05:30'
 last_checked: '2026-11-10T18:17:28.197583+05:30'
 health_score: 100
 ---
+
 
 # Foldable Flight: The Best Paper Airplanes
 
