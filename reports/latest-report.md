@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-10T06:40:50.092776+05:30`
+Generated at: `2026-11-10T08:43:37.006804+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
+- **Google Gemini routes personal Drive files and emails to human annotators** - Score: `446` in category `ai/community` ([Link](https://github.com/thisisme6598/gemini_files)) ([File](../ai/community/thisisme6598-gemini-files.md))
+- **Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100** - Score: `61` in category `ai/community` ([Link](https://github.com/dodaios/ste80-humanizer)) ([File](../ai/community/dodaios-ste80-humanizer.md))
 
 ## Top Trending Resources
 
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/langchain-ai-open-swe.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **google-gemini/gemini-fullstack-langgraph-quickstart** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
-- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
-- **steel-dev/awesome-web-agents** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/steel-dev-awesome-web-agents.md))
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/docker-compose-for-agents.md))
-- **masumi-network/crewai-masumi-quickstart-template** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
-- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
-- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/agents/agent0ai-agent-zero.md))
+- **Foldable Flight: The Best Paper Airplanes** - Score: `865` (+260), Rank Change: `0` ([File](../ai/community/fold-epic-paper-airplanes.md))
+- **Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system** - Score: `479` (+221), Rank Change: `0` ([File](../ai/community/payments-canada-announces-launch-of-canada-s-real.md))
+- **Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics** - Score: `286` (+143), Rank Change: `-1` ([File](../ai/community/magenta-solar-panels-may-be-agrivoltaics-cleverest.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+26` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+20` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+25` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+25` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+25` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+25` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+25` ([File](../ai/companies/graphics-multimedia.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+28077`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1055`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+1055`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1055`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1055`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1055`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1055`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1055`) ([File](../ai/rag/arxiv-2606-09677.md))
-- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1055`) ([File](../ai/research/arxiv-2606-06379.md))
-- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1055`) ([File](../ai/agents/arxiv-2606-05050.md))
+- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-how-to-train.md))
+- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
+- **The Reformer - Pushing the limits of language modeling** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-reformer.md))
+- **Block Sparse Matrices for Smaller and Faster Language Models** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-pytorch-block-sparse.md))
+- **Transformer-based Encoder-Decoder Models** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-encoder-decoder.md))
+- **Hyperparameter Search with Transformers and Ray Tune** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-ray-tune.md))
+- **Porting fairseq wmt19 translation system to transformers** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-porting-fsmt.md))
+- **Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models** - (Rank Change: `+64`) ([File](../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md))
+- **How we sped up transformer inference 100x for 🤗 API customers** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-accelerated-inference.md))
+- **Fit More and Train Faster With ZeRO via DeepSpeed and FairScale** - (Rank Change: `+64`) ([File](../ai/models/huggingface-blog-zero-deepspeed-fairscale.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **DeepX claims inference up to 100B parameters at less than 5 W** (Category: `ai/community`) ([File](../ai/community/deepx-claims-inference-up-to-100b-parameters-at-le.md))

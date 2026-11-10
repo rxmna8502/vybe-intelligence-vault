@@ -13,13 +13,14 @@ collected_at: '2026-11-10T00:25:25.924271+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:deepx-claims-inference-up-to-100b-parameters-at-le
 first_seen: '2026-11-10T00:25:25.924271+05:30'
 last_seen: '2026-11-10T00:25:25.924271+05:30'
 last_checked: '2026-11-10T00:25:25.924271+05:30'
 health_score: 100
 ---
+
 
 # DeepX claims inference up to 100B parameters at less than 5 W
 

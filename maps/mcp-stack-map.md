@@ -10,11 +10,11 @@ MCP client-server architecture, JSON-RPC, tools, resources, prompts.
 Claude Desktop, MCP Python SDK, MCP TypeScript SDK.
 
 ## Recommended Resources from the Vault
-*   [udecode/plate](https://github.com/udecode/plate)
-*   [Jpisnice/shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server)
-*   [Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines](https://arxiv.org/abs/2601.23132)
-*   [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](https://arxiv.org/abs/2606.01138)
-*   [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+*   [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+*   [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](https://arxiv.org/abs/2608.06305)
+*   [Instance-Aware Algorithm Selection for Maximum Clique via a Dual-Channel Graph Neural Architecture](https://arxiv.org/abs/2508.08005)
+*   [Firestore | Google Cloud](https://cloud.google.com/firestore)
+*   [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 
 ## Project Ideas
 *   Create an MCP server that retrieves database schemas and writes SQL queries.

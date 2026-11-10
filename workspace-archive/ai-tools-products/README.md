@@ -15,7 +15,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence](https://arxiv.org/abs/2412.17228) (benchmark - USEFUL Tier)
 - [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development/) (tutorial - USEFUL Tier)
-- [Haystack Enterprise Platform Trial | Sign Up](https://www.deepset.ai/deepset-studio) (template - USEFUL Tier)
+- [Docker Developer Tools | Dockertools - A Curated List of Developers Tools](https://dockertools.collabnix.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-11-10 00:43 IST*
+*Last updated: 2026-11-10 08:42 IST*

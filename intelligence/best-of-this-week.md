@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
-*   [Prompt-to-Paper: Agentic AI System for Bioinformatics](https://arxiv.org/abs/2607.05456) (Score: 70) - Category: `ai-coding-agents/`
-*   [Better Stack - 30x cheaper than Datadog, Exceptional support](https://betterstack.com/) (Score: 70) - Category: `ai-coding-agents/`
-*   [A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784) (Score: 70) - Category: `ai-coding-agents/`
+*   [ORCA-bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545) (Score: 70) - Category: `ai-coding-agents/`
+*   [UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity](https://arxiv.org/abs/2610.35980) (Score: 70) - Category: `ai-coding-agents/`
+*   [Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits](https://arxiv.org/abs/2610.13494) (Score: 70) - Category: `ai-coding-agents/`
+*   [Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481) (Score: 70) - Category: `ai-coding-agents/`
+*   [Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341) (Score: 70) - Category: `ai-coding-agents/`
+*   [Beyond Pass@k: Measuring Reliability and Security of Agentic Code Generation](https://arxiv.org/abs/2608.14711) (Score: 70) - Category: `ai-coding-agents/`
+*   [TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing](https://arxiv.org/abs/2605.18859) (Score: 70) - Category: `ai-coding-agents/`
+*   [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) (Score: 70) - Category: `ai-coding-agents/`
+*   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
+*   [Getting Started with Roboflow](https://blog.roboflow.com/getting-started-with-roboflow) (Score: 70) - Category: `ai-coding-agents/`
+*   [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) (Score: 70) - Category: `ai-coding-agents/`
+*   [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) (Score: 70) - Category: `ai-coding-agents/`
+*   [Event-Based Early Warning of Vineyard Disease Risk from Environmental Time Series](https://arxiv.org/abs/2605.04548) (Score: 70) - Category: `ai-coding-agents/`
 *   [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) (Score: 70) - Category: `ai-coding-agents/`
-*   [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) (Score: 70) - Category: `ai-coding-agents/`
-*   [Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration](https://arxiv.org/abs/2608.21208) (Score: 70) - Category: `ai-coding-agents/`
-*   [SC-JEPA: Stabilizing Latent Predictive Learning for Time-Series Anomaly Prediction](https://arxiv.org/abs/2602.04643) (Score: 70) - Category: `ai-coding-agents/`
-*   [Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents](https://arxiv.org/abs/2605.21347) (Score: 70) - Category: `ai-coding-agents/`
-*   [Evaluating the Retrieval Robustness of Large Language Models](https://arxiv.org/abs/2505.21870) (Score: 70) - Category: `ai-coding-agents/`
-*   [ReproBAIT: Can coding agents build their own biological AI tools?](https://arxiv.org/abs/2610.19810) (Score: 70) - Category: `ai-coding-agents/`
-*   [Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations](https://arxiv.org/abs/2609.30345) (Score: 70) - Category: `ai-coding-agents/`
-*   [DeepSurvey: Agent-Oriented Automated Survey Generation with Analytical Depth and Citation Reliability](https://arxiv.org/abs/2605.29522) (Score: 70) - Category: `ai-coding-agents/`
-*   [RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents](https://arxiv.org/abs/2609.04898) (Score: 70) - Category: `ai-coding-agents/`
+*   [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](https://arxiv.org/abs/2608.14580) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

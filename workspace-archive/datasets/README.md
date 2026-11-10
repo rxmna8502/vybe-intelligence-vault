@@ -9,23 +9,23 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Top Matched Resources
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (framework - ESSENTIAL Tier)
-- [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (dataset - ESSENTIAL Tier)
 - [ReSeg: Retraining-free segmentation of abdominal organs via generalizable semantic representation learning](https://arxiv.org/abs/2610.29090) (framework - ESSENTIAL Tier)
-- [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) (framework - ESSENTIAL Tier)
 - [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717) (framework - ESSENTIAL Tier)
-- [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
-- [Reliable Virtual Sensing: A Multi-Domain Benchmark for Robustness Under Sensor Failures](https://arxiv.org/abs/2609.18396) (dataset - ESSENTIAL Tier)
+- [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (dataset - ESSENTIAL Tier)
+- [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) (framework - ESSENTIAL Tier)
+- [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (framework - ESSENTIAL Tier)
+- [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
-- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
-- [HKUNLP/UnifiedSKG](https://github.com/HKUNLP/UnifiedSKG)
+- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
 - [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
-- [UKPLab/beir](https://github.com/UKPLab/beir)
-- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb)
+- [Arize-ai/phoenix](https://github.com/arize-ai/phoenix)
+- [TIGER-AI-Lab/VLM2Vec](https://github.com/TIGER-AI-Lab/VLM2Vec)
+- [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-11-10 00:43 IST*
+*Last updated: 2026-11-10 08:42 IST*

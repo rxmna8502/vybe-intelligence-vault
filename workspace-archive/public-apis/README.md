@@ -9,12 +9,12 @@ Public developer APIs supply external context and utilities for LLM tools.
 ## Top Matched Resources
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
-- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [LangSmith Cloud changelog - Docs by LangChain](https://changelog.langchain.com/) (prompt - USEFUL Tier)
+- [Mozilla Hacks - YouTube](http://www.youtube.com/user/mozhacks) (framework - USEFUL Tier)
 - [Microsoft Academic Graph - Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-11-10 00:43 IST*
+*Last updated: 2026-11-10 08:42 IST*
