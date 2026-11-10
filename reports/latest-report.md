@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-10T18:38:00.064717+05:30`
+Generated at: `2026-11-10T22:43:36.181664+05:30`
 
 ## Executive Summary
 
@@ -8,40 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Foldable Flight: The Best Paper Airplanes** - Score: `1076` in category `ai/community` ([Link](https://foldableflight.com)) ([File](../ai/community/fold-epic-paper-airplanes.md))
-- **Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics** - Score: `326` in category `ai/community` ([Link](https://anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet)) ([File](../ai/community/magenta-solar-panels-may-be-agrivoltaics-cleverest.md))
-- **Fireworks AI security breach impacts Notion and their customers** - Score: `78` in category `ai/community` ([Link](https://notion.com/help/security-incident-involving-a-third-party-ai-vendor)) ([File](../ai/community/fireworks-ai-security-breach-impacts-notion-and-th.md))
-- **Show HN: Ghanaian street games you can play in the browser** - Score: `19` in category `ai/community` ([Link](https://ghanastreetgames.com)) ([File](../ai/community/show-hn-ghanaian-street-games-you-can-play-in-the.md))
-- **RAG Chatbot Application🤖 | RAG** - Score: `0` in category `ai/rag` ([Link](https://todap.github.io/rag)) ([File](../ai/rag/rag-chatbot-application-rag.md))
-- **🔎 Build a RAG Agent with Azure AI Search | Agent Academy** - Score: `0` in category `ai/rag` ([Link](https://microsoft.github.io/agent-academy/special-ops/azure-ai-search-rag)) ([File](../ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md))
-- **Best RAG GitHub Repositories (2026) | GitTrend** - Score: `0` in category `ai/rag` ([Link](https://gittrend.io/best/rag)) ([File](../ai/rag/best-rag-github-repositories-2026-gittrend.md))
-- **Anthropic launches roadshow for proposed initial public offering** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/roadshow-launch)) ([File](../ai/companies/anthropic/anthropic-launches-roadshow-for-proposed-initial-p.md))
+- **[SUGGEST] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/resource-suggestion.md))
 
 ## Top Trending Resources
 
-- **Google Gemini routes personal Drive files and emails to human annotators** - Score: `649` (+203), Rank Change: `+1` ([File](../ai/community/thisisme6598-gemini-files.md))
-- **Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system** - Score: `544` (+65), Rank Change: `-1` ([File](../ai/community/payments-canada-announces-launch-of-canada-s-real.md))
-- **reworkd/AgentGPT** - Score: `0` (0), Rank Change: `+17024` ([File](../ai/rag/reworkd-agentgpt.md))
-- **addyosmani/agent-skills** - Score: `0` (0), Rank Change: `+18634` ([File](../ai/agents/addyosmani-agent-skills.md))
-- **vercel/ai** - Score: `0` (0), Rank Change: `+9834` ([File](../ai/agents/vercel-ai.md))
-- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1058` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **Welcome - GraphRAG** - Score: `0` (0), Rank Change: `+19838` ([File](../ai/rag/welcome-graphrag.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1062` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1064` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+1062` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **7 Best GitHub Repositories For Mastering RAG Systems** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/malonge-ragoo.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
+- **Shubhamsaboo/awesome-llm-apps** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/shubhamsaboo-awesome-llm-apps.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Welcome - GraphRAG** - (Rank Change: `+19838`) ([File](../ai/rag/welcome-graphrag.md))
-- **addyosmani/agent-skills** - (Rank Change: `+18634`) ([File](../ai/agents/addyosmani-agent-skills.md))
-- **reworkd/AgentGPT** - (Rank Change: `+17024`) ([File](../ai/rag/reworkd-agentgpt.md))
-- **7 Best GitHub Repositories For Mastering RAG Systems** - (Rank Change: `+15573`) ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
-- **vercel/ai** - (Rank Change: `+9834`) ([File](../ai/agents/vercel-ai.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1064`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1062`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1062`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+1058`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1058`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **infiniflow/ragflow** - (Rank Change: `+28071`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17184`) ([File](../ai/rag/stanford-oval-storm.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - (Rank Change: `+1051`) ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - (Rank Change: `+1051`) ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
+- **Shubhamsaboo/awesome-llm-apps** - (Rank Change: `+1051`) ([File](../ai/rag/shubhamsaboo-awesome-llm-apps.md))
+- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+1051`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **Azure/GenAIOps-project-template** - (Rank Change: `+1051`) ([File](../ai/rag/azure-genaiops-project-template.md))
+- **vercel-labs/ai-sdk-preview-rag** - (Rank Change: `+1051`) ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **ritik-prog/n8n-automation-templates-5000** - (Rank Change: `+1051`) ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - (Rank Change: `+1051`) ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -52,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100** (Category: `ai/community`) ([File](../ai/community/dodaios-ste80-humanizer.md))
+No recently active resources transitioned to inactive.
+
