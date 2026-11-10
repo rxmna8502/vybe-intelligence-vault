@@ -1,63 +1,52 @@
 ---
-title: IvanMurzak/Unreal-MCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- C++
-- Unreal Engine
-- Model Context Protocol (MCP)
-- .NET
-- Docker
-- Node.js
+title: "aadeshrao123/Unreal-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C++", "Python", "Unreal Engine 5", "Model Context Protocol (MCP)", "Node.js", "TCP/IP"]
 quality_score: 9
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Game Development
-- Unreal Engine Plugin
-- MCP Integration
-- Agent Framework
-- C++ Tooling
-source: https://github.com/IvanMurzak/Unreal-MCP
-stars: 11
-language: C++
-last_updated: '2026-07-17T10:45:16Z'
-discovered_at: '2026-07-17T10:46:33Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["Unreal Engine", "MCP Server", "AI Automation", "Game Development", "Editor Control"]
+source: "https://github.com/aadeshrao123/Unreal-MCP"
+stars: 37
+language: "C++"
+last_updated: "2026-08-06T06:30:33Z"
+discovered_at: "2026-08-06T06:32:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Unreal-MCP is a C++ plugin for Unreal Engine that enables AI agents to inspect and control the editor via the Model Context Protocol (MCP). It bridges Unreal Engine with AI tools like Claude, Cursor, and Copilot, allowing agents to spawn actors, edit levels, author Blueprints, manage assets, and compile C++ code.
+UnrealMCP bridges Unreal Engine 5 with AI tools like Claude Code and Cursor via the Model Context Protocol (MCP), enabling direct editor control through natural language commands. It provides 288 commands for asset manipulation, blueprint editing, material authoring, and performance profiling without leaving the terminal.
 
 ## Key Features
-- 62 built-in MCP tools across 8 families for Unreal Editor operations (spawning actors, editing levels, Blueprints, assets, C++ compilation, screenshots)
-- Supports AI agents from Anthropic, OpenAI, Google, and others with no vendor lock-in
-- Blueprint and C++ authoring with structured error feedback for AI agents
-- Customizable tools, prompts, and resources via modular feature contracts
-- Cloud or self-hosted MCP server support (ai-game.dev or GameDev-MCP-Server)
+- 288+ commands for Unreal Engine 5 asset and editor manipulation via CLI or MCP
+- Supports materials, blueprints, Niagara, data tables, actors, and performance profiling
+- Two interfaces: CLI (ue-cli) for direct terminal control and MCP server for AI tool integration
+- Cross-platform compatibility (Windows, macOS, Linux) with pre-built binaries and Python package
+- Community edition with stable MIT-licensed core functionality, extensible via C++ plugin
 
 ## Why It Matters for RAG Builders
-It enables AI agents to directly interact with and automate Unreal Engine workflows, bridging the gap between AI-driven development and game engine operations.
+It enables AI-driven automation and natural language control of Unreal Engine 5, streamlining game development workflows for RAG and AI stack builders.
 
 ## Tech Stack Deep Dive
 ### C++
 Automated review identified **C++** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Unreal Engine
-Automated review identified **Unreal Engine** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Unreal Engine 5
+Automated review identified **Unreal Engine 5** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### .NET
-Automated review identified **.NET** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TCP/IP
+Automated review identified **TCP/IP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,67 +1,52 @@
 ---
-title: chrisdoc/hevy-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Cloudflare Workers
-- Docker
-- Effect TS
-- Hevy API
-quality_score: 9
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- fitness
-- workout tracking
-- MCP server
-- AI integration
-- data synchronization
-source: https://github.com/chrisdoc/hevy-mcp
-stars: 449
-language: TypeScript
-last_updated: '2026-09-03T08:29:10Z'
-discovered_at: '2026-09-03T08:36:42Z'
-evaluated_by: mistral-small-latest
+title: "zelosleone/Hevy-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP Transport", "Docker", "JSON-RPC", "Async Programming"]
+quality_score: 8
+rag_relevance: 6
+deployment_complexity: "Low"
+tags: ["fitness API", "MCP server", "Rust", "HTTP transport", "session management"]
+source: "https://github.com/zelosleone/Hevy-MCP"
+stars: 1
+language: "Rust"
+last_updated: "2026-08-09T08:41:28Z"
+discovered_at: "2026-08-09T08:45:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-hevy-mcp is an open-source Model Context Protocol (MCP) server for the Hevy fitness app, enabling AI assistants to interact with workout data, routines, exercises, and body measurements via authenticated API requests.
+Hevy-MCP is a Rust-based MCP (Model Context Protocol) server for the Hevy fitness API, enabling HTTP transport and session management for fitness data integration. It provides tools for workouts, routines, exercise templates, and body measurements with async support and low memory overhead.
 
 ## Key Features
-- Enables AI assistants to read, analyze, create, and update Hevy workout data through MCP clients like Claude, Cursor, and Codex
-- Supports 22 MCP tools for comprehensive workout and routine management
-- Offers both hosted (Cloudflare) and local deployment options for flexibility
-- Provides a standalone CLI for terminal-based interaction with Hevy data
-- Includes OAuth-enabled integration for secure API key handling in clients
+- Rust-based implementation for low memory usage and async support
+- HTTP transport with session management and lifecycle handling
+- Multi-user and single-user mode support via API keys
+- Comprehensive fitness data operations (workouts, routines, exercises, measurements)
+- Configurable session timeout and HTTP binding address
 
 ## Why It Matters for RAG Builders
-It bridges AI assistants with personal fitness data, enabling advanced workout analysis and planning through natural language interactions.
+Hevy-MCP enables seamless integration of fitness data into AI systems via the MCP protocol, simplifying retrieval and management of structured workout and health metrics for RAG applications.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Cloudflare Workers
-Automated review identified **Cloudflare Workers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTTP Transport
+Automated review identified **HTTP Transport** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Effect TS
-Automated review identified **Effect TS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON-RPC
+Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Hevy API
-Automated review identified **Hevy API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Async Programming
+Automated review identified **Async Programming** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,42 +1,33 @@
 ---
-title: Alpha-Park/genpark-video-keyframe-camera-motion-path-planner-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- Python 3.9+
-- Model Context Protocol (MCP)
-- JSON-RPC
-- Standard Library Only
+title: "alphaparkinc/genpark-video-keyframe-camera-motion-path-planner-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "Standard Library Only"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP Server
-- Camera Motion Planning
-- Generative Video
-- Zero Dependencies
-- AI Agent Skill
-source: https://github.com/Alpha-Park/genpark-video-keyframe-camera-motion-path-planner-skill
+deployment_complexity: "Low"
+tags: ["camera motion planning", "MCP server", "deterministic AI", "video keyframe generation", "zero dependencies"]
+source: "https://github.com/alphaparkinc/genpark-video-keyframe-camera-motion-path-planner-skill"
 stars: 8
-language: Python
-last_updated: '2026-09-03T15:37:25Z'
-discovered_at: '2026-09-03T15:40:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:35:01Z"
+discovered_at: "2026-09-03T15:40:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A zero-dependency Python skill for generating 3D camera motion paths and keyframes for generative video applications, designed for autonomous design agents and multimodal UI pipelines. It operates as a Model Context Protocol (MCP) server for seamless integration with AI tools like Cursor and Claude.
+A zero-dependency Python skill for autonomous design agents that plans 3D camera motion paths for generative video keyframes using deterministic algorithms. It integrates natively with the Model Context Protocol (MCP) for seamless use in AI agent workflows.
 
 ## Key Features
-- Deterministic 3D camera trajectory spline planner for generative video (Runway Gen-3 / Luma compatible)
-- Native Model Context Protocol (MCP) integration for AI agent environments
 - Zero external dependencies (pure Python standard library)
-- Sub-millisecond execution latency for high-concurrency production use
-- Full JSON Schema validation for predictable input/output contracts
+- Native Model Context Protocol (MCP) integration for AI agents
+- Deterministic and reliable input/output contracts with JSON Schema validation
+- Sub-millisecond execution latency for high-concurrency production environments
+- Seamless integration with Cursor IDE, Claude Desktop, and Windsurf
 
 ## Why It Matters for RAG Builders
-It enables AI agents to autonomously generate precise 3D camera motion paths for generative video workflows, reducing manual intervention and accelerating multimodal UI design pipelines.
+It enables AI agents to autonomously plan and execute precise 3D camera motion paths for generative video workflows with minimal overhead and zero dependency conflicts.
 
 ## Tech Stack Deep Dive
 ### Python 3.9+

@@ -1,71 +1,46 @@
 ---
-title: weaviate/docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- Docusaurus 3
-- React
-- Node.js
-- Yarn
-- MDX
-- Python
-- Docker
-- Netlify
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- documentation
-- vector-database
-- weaviate
-- static-site-generator
-- developer-tools
-source: https://github.com/weaviate/docs
-stars: 20
-language: Python
-last_updated: '2026-08-07T11:22:54Z'
-discovered_at: '2026-08-07T11:57:19Z'
-evaluated_by: mistral-small-latest
+title: "komaa-com/docs"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["MDX", "Mintlify", "JavaScript", "Markdown"]
+quality_score: 7
+rag_relevance: 6
+deployment_complexity: "Low"
+tags: ["documentation", "microsoft teams", "voice/video integration", "AI agent backends", "media bridge"]
+source: "https://github.com/komaa-com/docs"
+stars: 0
+language: "MDX"
+last_updated: "2026-08-09T20:35:18Z"
+discovered_at: "2026-08-09T20:35:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-This repository hosts the official documentation for Weaviate, including its vector database, cloud services, and query agent. It is built using Docusaurus 3, a modern static site generator for documentation, and provides comprehensive guides, API references, and deployment instructions.
+This repository hosts the documentation for Komaa's Microsoft Teams Bridge (StandIn), a media bridge service enabling voice/video CVI plugins for AI agent backends. It provides guides for integrating with seven agent frameworks and configuring the hosted StandIn service.
 
 ## Key Features
-- Comprehensive documentation for Weaviate vector database, cloud services, and query agent
-- Built with Docusaurus 3 for a modern, interactive documentation experience
-- Supports reusable code snippets with validation to ensure accuracy
-- Multi-level navigation system with dynamic version management
-- Automated link validation and testing for code examples
+- Comprehensive guides for integrating AI agent backends with Microsoft Teams via StandIn
+- Hosted media bridge documentation for real-time voice/video CVI plugins
+- Structured navigation and site configuration via `docs.json`
+- Local preview support using Mintlify for development
+- Brand assets and per-runtime installation instructions
 
 ## Why It Matters for RAG Builders
-This repository is essential for RAG builders as it provides the authoritative documentation for Weaviate, a leading vector database, enabling developers to integrate and optimize their RAG pipelines effectively.
+It provides essential documentation for integrating AI agents with Microsoft Teams, enabling voice/video capabilities critical for real-world AI deployments.
 
 ## Tech Stack Deep Dive
-### Docusaurus 3
-Automated review identified **Docusaurus 3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Yarn
-Automated review identified **Yarn** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### MDX
 Automated review identified **MDX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Mintlify
+Automated review identified **Mintlify** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Netlify
-Automated review identified **Netlify** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

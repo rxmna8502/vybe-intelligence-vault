@@ -1,46 +1,33 @@
 ---
-title: VrilLabs/supersayan-webmcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind CSS v4
-- Chrome MV3 Extension
-- Vercel
-- Cloudflare
-- esbuild
+title: "VRIL-LABS/supersayan-webmcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "Chrome MV3 Extension", "Vercel", "Cloudflare", "esbuild"]
 quality_score: 8
-rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- WebMCP Security
-- CVE Detection
-- Chrome Extension
-- Offensive Simulation
-- Defensive Hardening
-source: https://github.com/VrilLabs/supersayan-webmcp
+rag_relevance: 7
+deployment_complexity: "Medium"
+tags: ["WebMCP security", "CVE detection", "Chrome extension", "Offensive simulation", "Defensive hardening"]
+source: "https://github.com/VRIL-LABS/supersayan-webmcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T23:57:04Z'
-discovered_at: '2026-08-01T23:57:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T19:26:10Z"
+discovered_at: "2026-08-04T19:33:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-SuperSayan is a full-stack security research platform for Google Chrome's WebMCP API, offering live detection scanning, offensive simulation, and defensive hardening for 15 novel 0-day CVEs. It includes a Chrome extension for real-time MCP security monitoring.
+SuperSayan is a full-stack security research platform for Google Chrome's WebMCP API, featuring detection, offensive simulation, and defensive hardening for 15 novel 0-day CVEs. It includes a Chrome extension for real-time MCP security monitoring and attribution reporting.
 
 ## Key Features
-- Live detection engine for 15 WebMCP CVEs with threat scoring
-- Offensive simulation of attack vectors (MSTI injection, DOM clobbering, GPU agent proxy)
-- Real-time defensive countermeasures (MSTI shield, session guard, tool integrity verification)
-- OSINT tracer for attribution and datacenter ASN analysis
+- 15 novel 0-day CVE detection and scanning for WebMCP vulnerabilities
+- Offensive engine simulating attack vectors like MSTI injection and DOM clobbering
+- Real-time defensive countermeasures including MSTI shield and session guard
+- OSINT tracer for attribution and datacenter ASN identification
 - Chrome extension (Glow) for in-browser MCP security status monitoring
 
 ## Why It Matters for RAG Builders
-It provides critical security tooling for RAG builders to harden agentic web applications against emerging WebMCP vulnerabilities.
+It provides critical tools for identifying and mitigating novel WebMCP vulnerabilities, essential for securing AI-driven web applications and browser-based agent frameworks.
 
 ## Tech Stack Deep Dive
 ### Next.js 16

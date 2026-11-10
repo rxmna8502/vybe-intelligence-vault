@@ -1,75 +1,67 @@
 ---
-title: bigduu/Nova
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- ScreenCaptureKit
-- CoreGraphics
-- Accessibility APIs
-- Apple Vision (OCR)
-- Cargo
-- Homebrew
-- Streamable HTTP
+title: "Roxy-06/Nova"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.10+", "FastAPI", "SQLAlchemy", "SQLite", "APScheduler", "Gemini 1.5 Flash API", "Next.js 15.5.9", "React 19", "httpx", "feedparser", "Pydantic"]
 quality_score: 9
-rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- macOS automation
-- computer use
-- LLM agent
-- Rust
-source: https://github.com/bigduu/Nova
-stars: 1
-language: Rust
-last_updated: '2026-07-11T14:46:04Z'
-discovered_at: '2026-07-11T14:51:57Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 7
+deployment_complexity: "Medium"
+tags: ["autonomous editorial", "LLM-powered evaluation", "content deduplication", "real-time telemetry", "AI-driven curation"]
+source: "https://github.com/Roxy-06/Nova"
+stars: 0
+language: "Python"
+last_updated: "2026-08-08T18:32:36Z"
+discovered_at: "2026-08-08T18:39:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Nova is a Model Context Protocol (MCP) server implemented in Rust that enables LLM agents to control a macOS desktop. It provides native access to screenshots, mouse/keyboard input, OCR, clipboard, and window/app introspection via Apple's ScreenCaptureKit, CoreGraphics, and Accessibility APIs.
+NOVA is an autonomous editorial system that autonomously discovers, evaluates, and publishes technology reporting with minimal human intervention. It combines RSS/web scraping, LLM-backed semantic scoring, deduplication, and a minimal frontend to create a self-contained editorial pipeline for AI-driven content curation.
 
 ## Key Features
-- Native macOS desktop control via ScreenCaptureKit and CoreGraphics
-- Set-of-Mark targeting for precise UI element interaction
-- On-device OCR using Apple Vision for text recognition
-- MCP-compliant stdio and HTTP transport for agent integration
-- Clipboard, window/app introspection, and accessibility-driven input
+- Autonomous discovery of tech stories from RSS, scraping, and APIs with async workflows
+- Semantic scoring pipeline using Gemini LLM for credibility, relevance, and novelty evaluation with fallback deterministic scorer
+- Deduplication and memory system to prevent repetitive content and maintain narrative variety
+- Minimal frontend for real-time inspection of posts, telemetry, and audit trails
+- Self-contained deployment with SQLite, FastAPI backend, and Next.js frontend
 
 ## Why It Matters for RAG Builders
-Nova enables LLM agents to autonomously interact with macOS desktops, bridging the gap between AI reasoning and real-world computer use for tasks like automation, testing, and UI interaction.
+NOVA demonstrates how autonomous editorial systems can curate high-quality, source-backed content for RAG pipelines while maintaining transparency and auditability through structured decision logging.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python 3.10+
+Automated review identified **Python 3.10+** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ScreenCaptureKit
-Automated review identified **ScreenCaptureKit** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLAlchemy
+Automated review identified **SQLAlchemy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CoreGraphics
-Automated review identified **CoreGraphics** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Accessibility APIs
-Automated review identified **Accessibility APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### APScheduler
+Automated review identified **APScheduler** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Apple Vision (OCR)
-Automated review identified **Apple Vision (OCR)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Gemini 1.5 Flash API
+Automated review identified **Gemini 1.5 Flash API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cargo
-Automated review identified **Cargo** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Next.js 15.5.9
+Automated review identified **Next.js 15.5.9** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Homebrew
-Automated review identified **Homebrew** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React 19
+Automated review identified **React 19** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Streamable HTTP
-Automated review identified **Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### httpx
+Automated review identified **httpx** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### feedparser
+Automated review identified **feedparser** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Pydantic
+Automated review identified **Pydantic** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

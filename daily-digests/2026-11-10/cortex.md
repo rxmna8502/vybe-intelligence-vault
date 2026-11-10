@@ -1,75 +1,61 @@
 ---
-title: dinglebear-ai/cortex
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- Rust
-- SQLite
-- FTS5
-- MCP (Model Context Protocol)
-- REST API
-- Docker
-- OpenTelemetry (OTLP)
-- CLI
-- JavaScript/Node.js (npm package)
+title: "cdeust/Cortex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "PostgreSQL", "pgvector", "MCP (Model Context Protocol)", "FastMCP", "HNSW (Hierarchical Navigable Small World)", "PL/pgSQL", "Docker"]
 quality_score: 9
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- log aggregation
-- homelab monitoring
-- SQLite FTS
-- MCP integration
-- AI transcript indexing
-source: https://github.com/dinglebear-ai/cortex
-stars: 2
-language: Rust
-last_updated: '2026-08-01T03:36:07Z'
-discovered_at: '2026-08-01T03:44:13Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["persistent memory", "neuroscience-based", "local-first", "MCP server", "context reconstruction"]
+source: "https://github.com/cdeust/Cortex"
+stars: 67
+language: "Python"
+last_updated: "2026-07-14T21:55:27Z"
+discovered_at: "2026-07-14T21:56:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Cortex is a self-hosted log aggregation and investigation tool designed for homelabs and small private fleets. It aggregates syslog, Docker, OTLP, and AI transcripts into SQLite with FTS5 search, exposing data via MCP, CLI, and REST interfaces for operational intelligence and incident correlation.
+Cortex is a persistent memory engine for Claude Code built on computational neuroscience, providing local-first, intelligent memory management that consolidates, forgets intelligently, and reconstructs context dynamically. It operates entirely on the user's machine with SQLite or PostgreSQL backends, offering 50+ memory tools and lifecycle hooks for project-specific memory retention and retrieval.
 
 ## Key Features
-- Unified ingestion pipeline for syslog, Docker, OTLP, and AI transcripts with normalization and enrichment
-- SQLite with FTS5 for full-text search and bounded metadata storage
-- Multiple interfaces: CLI, REST API, MCP, and a bundled investigation workspace
-- Fleet intelligence with topology graphs, inventory, and host state correlation
-- AI session indexing for Claude, Codex, and Gemini transcripts with incident clustering
+- 36+ computational neuroscience mechanisms for memory consolidation and retrieval
+- Dual backend support: SQLite (zero-setup) and PostgreSQL + pgvector (scalable)
+- 50+ memory tools with lifecycle hooks for session-aware memory management
+- Self-curating wiki with continuous grooming and reconciliation
+- Local-only operation with optional remote PostgreSQL for team collaboration
 
 ## Why It Matters for RAG Builders
-Cortex provides a lightweight, self-hosted solution for aggregating and correlating diverse operational and AI-generated logs, enabling RAG builders to integrate structured evidence and incident context directly into their AI workflows.
+Cortex provides a neuroscience-grounded, local-first memory system that dynamically reconstructs project context for AI agents, reducing reliance on flat RAG and improving long-term memory coherence in AI-driven workflows.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FTS5
-Automated review identified **FTS5** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### pgvector
+Automated review identified **pgvector** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastMCP
+Automated review identified **FastMCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HNSW (Hierarchical Navigable Small World)
+Automated review identified **HNSW (Hierarchical Navigable Small World)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PL/pgSQL
+Automated review identified **PL/pgSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenTelemetry (OTLP)
-Automated review identified **OpenTelemetry (OTLP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JavaScript/Node.js (npm package)
-Automated review identified **JavaScript/Node.js (npm package)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -10,11 +10,11 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
-*   [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
-*   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
-*   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
-*   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
+*   [TV & Home - Apple](https://www.apple.com/tv-home/)
+*   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
+*   [Debezium](https://debezium.io/)
 *   [Web EDAA - YouTube](https://www.youtube.com/channel/UC5ZkoeB9RI3sODde6GBBNOg)
+*   [Newly identified barrier cells seal off choroid plexus from CSF, rest of brain | The Transmitter: Neuroscience News and](https://www.thetransmitter.org/choroid-plexus/newly-identified-barrier-cells-seal-off-choroid-plexus-from-csf-rest-of-brain/)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

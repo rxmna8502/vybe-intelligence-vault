@@ -1,67 +1,49 @@
 ---
-title: dommaker/harness
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- YAML
-- JSON
-- Git
-- Sandboxing
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent constraints
-- runtime enforcement
-- knowledge preservation
-- constraint lifecycle
-- sandboxing
-source: https://github.com/dommaker/harness
+title: "jgoneit/harness"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Codex CLI", "Make", "Git", "Shell Scripting"]
+quality_score: 7
+rag_relevance: 6
+deployment_complexity: "Medium"
+tags: ["workflow automation", "approval gates", "AI coding safety", "agent orchestration", "code review"]
+source: "https://github.com/jgoneit/harness"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T08:40:22Z'
-discovered_at: '2026-08-08T08:42:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T10:20:30Z"
+discovered_at: "2026-07-12T10:26:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A universal AI agent engineering constraint framework that enforces runtime checks, automates constraint degradation based on interception rates, and preserves knowledge in a retrievable KnowledgeStore for RAG systems.
+Codex Harness is an early-stage gated workflow plugin for Codex CLI that enforces deliberate agent workflows by separating planning, approval, scoped implementation, review, repair, and completion reporting for higher-risk AI coding tasks.
 
 ## Key Features
-- Three-tier constraint system (Iron Law, Guideline, Tip) with automatic degradation based on interception rates
-- Runtime pre-execution checks for agent actions with code-level enforcement
-- KnowledgeStore for preserving retired constraints with historical interception data
-- Eight built-in gate systems (testing, security, performance, etc.) for CI/CD integration
-- CLI-driven workflows for initialization, validation, reporting, and knowledge management
+- Enforces multi-stage workflow with explicit approval gates for planning, implementation, review, and repair
+- Supports role separation (planner, implementer, reviewer) for Small and Non-trivial tasks
+- Implements scope control to restrict implementers to pre-approved changes
+- Includes clean-context review requirements and canonical findings tables
+- Provides completion reporting with approval ledgers, verification status, and unresolved risks
 
 ## Why It Matters for RAG Builders
-It provides a robust mechanism to enforce and evolve AI agent constraints dynamically, ensuring reliability while preserving historical knowledge for RAG systems to learn from past agent behaviors.
+It provides a structured, approval-gated workflow for AI agents to handle higher-risk coding tasks safely, reducing scope drift and ensuring deliberate execution.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Codex CLI
+Automated review identified **Codex CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### YAML
-Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Make
+Automated review identified **Make** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Sandboxing
-Automated review identified **Sandboxing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Shell Scripting
+Automated review identified **Shell Scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

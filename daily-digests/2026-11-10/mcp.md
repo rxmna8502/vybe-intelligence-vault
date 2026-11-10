@@ -1,63 +1,55 @@
 ---
-title: javinfo/mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- CLI Integration
-- Unix Sockets
-quality_score: 8
-rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- JAV metadata
-- MCP server
-- streaming
-- adult video API
-- CLI integration
-source: https://github.com/javinfo/mcp
-stars: 0
-language: JavaScript
-last_updated: '2026-08-07T20:40:22Z'
-discovered_at: '2026-08-07T20:42:57Z'
-evaluated_by: mistral-small-latest
+title: "cloudflare/mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Cloudflare Workers", "MCP (Model Context Protocol)", "Code Mode", "JavaScript", "REST API", "GraphQL"]
+quality_score: 9
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["MCP server", "Cloudflare API", "Code Mode", "Token efficiency", "Agent integration"]
+source: "https://github.com/cloudflare/mcp"
+stars: 695
+language: "TypeScript"
+last_updated: "2026-08-04T10:28:11Z"
+discovered_at: "2026-08-04T10:40:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-An MCP server for the javinfo API that provides tools to search, fetch metadata, and stream Japanese adult video (JAV) content. It integrates with the javinfo CLI to enable local LAN HLS play sessions.
+A token-efficient MCP server for the Cloudflare API that leverages Code Mode to reduce token usage from millions to ~1,100 tokens. It enables agents to interact with Cloudflare's 2,500+ endpoints via code execution in isolated Workers.
 
 ## Key Features
-- Search JAV releases by DVD code, title, or actress with advanced filtering and sorting
-- Fetch detailed metadata for a specific JAV release
-- Generate random JAV titles from multiple providers
-- Enable local LAN HLS play sessions via javinfo CLI integration
-- Support for multiple data providers (FANZA, DMM, JavDB, MissAV, etc.)
+- Reduces token usage from ~2M to ~1,100 tokens using Code Mode for dynamic endpoint discovery and execution
+- Supports 2,500+ Cloudflare API endpoints across Workers, KV, R2, D1, Pages, DNS, Firewall, and more
+- Provides tools for searching Cloudflare documentation, querying API specs, and executing API calls
+- Supports both OAuth and API token authentication for secure access
+- Enables seamless GraphQL Analytics API queries through the same execution interface
 
 ## Why It Matters for RAG Builders
-It provides structured access to JAV metadata and streaming capabilities, which can be valuable for AI systems needing domain-specific content retrieval and playback integration.
+It drastically reduces token overhead for agents interacting with the Cloudflare API, enabling efficient RAG pipelines and AI workflows.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Cloudflare Workers
+Automated review identified **Cloudflare Workers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Code Mode
+Automated review identified **Code Mode** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### REST API
 Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI Integration
-Automated review identified **CLI Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Unix Sockets
-Automated review identified **Unix Sockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GraphQL
+Automated review identified **GraphQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

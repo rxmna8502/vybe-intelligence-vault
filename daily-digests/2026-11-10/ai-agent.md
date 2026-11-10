@@ -1,56 +1,61 @@
 ---
-title: mifdlaldev/AI-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- Python
-- Markdown
-- Vite
-- Bun
-- Vercel
-quality_score: 6
+title: "aditya8975/ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js", "FastAPI", "LangGraph", "Groq API", "Supabase", "Python", "TypeScript", "Tailwind CSS", "Render", "Vercel"]
+quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent workflows
-- self-organizing systems
-- knowledge management
-- automation scripts
-- historical reference
-source: https://github.com/mifdlaldev/AI-Agent
+deployment_complexity: "Medium"
+tags: ["multi-tool agents", "task automation", "LangGraph", "RAG integration", "deployment-ready"]
+source: "https://github.com/aditya8975/ai-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-05T13:58:42Z'
-discovered_at: '2026-08-05T14:07:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T08:03:39Z"
+discovered_at: "2026-07-15T08:05:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A historical reference repository containing 27 markdown workflows and 4 Python automation scripts designed to power a self-organizing AI agent for the Antigravity platform. It includes structured knowledge management, self-organization rituals, and planning toolkits for long-running agent operations.
+A full-stack AI agent system for task automation, combining a Next.js frontend with a FastAPI backend powered by LangGraph. It enables multi-tool agent workflows with persistent chat history via Supabase and leverages Groq's free LLM API for inference.
 
 ## Key Features
-- 27 structured markdown workflows for AI agent operations
-- 4 Python scripts for workspace health and failure analysis
-- Persistent knowledge base with Topics, Plans, Findings, and Knowledge entries
-- Self-organization rituals (session wake-up, self-audit, failure logging)
-- Planning toolbox including RACI matrices, risk registers, and charters
+- Modular agent architecture with LangGraph for ReAct loops
+- Multi-tool support (web search, file I/O, report generation)
+- Persistent chat history via Supabase PostgreSQL
+- Free-tier deployment on Render (backend) and Vercel (frontend)
+- Scalable tool integration with hot-reload on backend updates
 
 ## Why It Matters for RAG Builders
-It provides a historical blueprint for designing self-organizing AI agents with structured workflows and automation tooling, valuable for understanding agent architecture patterns.
+Provides a production-ready template for building and deploying multi-tool AI agents with minimal cost, ideal for RAG systems requiring persistent memory and external tool integration.
 
 ## Tech Stack Deep Dive
+### Next.js
+Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LangGraph
+Automated review identified **LangGraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Groq API
+Automated review identified **Groq API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Supabase
+Automated review identified **Supabase** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vite
-Automated review identified **Vite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tailwind CSS
+Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bun
-Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Render
+Automated review identified **Render** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Vercel
 Automated review identified **Vercel** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.

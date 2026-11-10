@@ -1,75 +1,64 @@
 ---
-title: Efs-O/Forge
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-10
-tech_stack:
-- TypeScript
-- VS Code Extension API
-- llama.cpp
-- GGUF
-- Ollama
-- OpenAI-compatible APIs
-- Telegram Bot API
-- Node.js
-- Python (for backend tools)
+title: "shisuidata/Forge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQL", "JSON Schema", "LLM", "PostgreSQL", "SQLite", "MySQL", "Docker", "CLI", "Web UI"]
 quality_score: 9
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- VS Code extension
-- local LLM agent
-- code intelligence
-- reversible actions
-- no telemetry
-source: https://github.com/Efs-O/Forge
-stars: 0
-language: TypeScript
-last_updated: '2026-09-02T08:15:14Z'
-discovered_at: '2026-09-02T08:20:57Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["trustworthy AI", "deterministic SQL", "data querying", "auditability", "AI agent infrastructure"]
+source: "https://github.com/shisuidata/Forge"
+stars: 11
+language: "Python"
+last_updated: "2026-09-03T19:03:33Z"
+discovered_at: "2026-09-03T19:07:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Forge LLM is a VS Code extension that acts as a local coding agent, enabling developers to run and manage their own LLM models (e.g., GGUF via llama.cpp) directly within the editor. It provides a suite of 60+ strict-schema tools for code intelligence, file operations, and agent workflows with reversible actions and no telemetry.
+Forge is an open-source infrastructure layer designed to enable trustworthy AI-assisted data querying by providing constrained, reviewable, executable, and auditable SQL generation and execution workflows. It acts as a middle layer between AI agents and databases, ensuring deterministic SQL compilation, human review, and comprehensive auditing.
 
 ## Key Features
-- Direct GGUF model management via llama.cpp with shared model lifecycle across VS Code windows
-- 60+ strict-schema tools for file operations, code intelligence, git, terminal, and vision (via ffmpeg)
-- Reversible agent workflows with inline diffs, Keep/Undo checkpoints, and confirmation gates
-- Optional Telegram remote control with session locking and audit logging
-- LSP-backed code intelligence and durable memory across sessions
+- Constrained Forge JSON intermediate representation with deterministic SQL compilation
+- Registry-backed schema and semantic constraints for organizational knowledge management
+- Human review and audit trails for executed queries, ensuring traceability and accountability
+- Support for Direct SQL and Forge JSON candidate paths with read-only database access
+- Versioned APIs (Evaluate, Enforce, Explain) for benchmarking, governance, and transparency
 
 ## Why It Matters for RAG Builders
-Forge LLM provides a privacy-focused, locally controlled agent framework with reversible actions and deep VS Code integration, making it ideal for developers who prioritize autonomy and control over their AI coding workflows.
+Forge provides a critical middle layer that transforms unreliable AI-generated SQL into trustworthy, auditable, and reviewable queries, essential for production-grade RAG and AI stack deployments.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### VS Code Extension API
-Automated review identified **VS Code Extension API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQL
+Automated review identified **SQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### llama.cpp
-Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON Schema
+Automated review identified **JSON Schema** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GGUF
-Automated review identified **GGUF** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM
+Automated review identified **LLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI-compatible APIs
-Automated review identified **OpenAI-compatible APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Telegram Bot API
-Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MySQL
+Automated review identified **MySQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Python (for backend tools)
-Automated review identified **Python (for backend tools)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Web UI
+Automated review identified **Web UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

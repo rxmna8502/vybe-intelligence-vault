@@ -1,71 +1,46 @@
 ---
-title: xDarkzx/SongForge-MCP
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-11-10
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- ACE-Step 1.5
-- PyTorch
-- Gradio
-- Playwright
-- Demucs
-- FFmpeg
-quality_score: 9
+title: "unbrainwashed-physics713/SongForge-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "ACE-Step 1.5", "Claude AI", "Music Generation"]
+quality_score: 4
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI music generation
-- local processing
-- MCP server
-- stem splitting
-- audio transcription
-source: https://github.com/xDarkzx/SongForge-MCP
-stars: 4
-language: Python
-last_updated: '2026-08-02T22:48:52Z'
-discovered_at: '2026-08-02T22:56:16Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["music generation", "MCP server", "AI workflows", "Claude integration", "ACE-Step"]
+source: "https://github.com/unbrainwashed-physics713/SongForge-MCP"
+stars: 0
+language: "None"
+last_updated: "2026-08-07T02:39:12Z"
+discovered_at: "2026-08-07T02:42:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-SongForge-MCP is an MCP server that enables AI agents like Claude to generate original AI music tracks locally using the ACE-Step 1.5 model. It automates complex music generation workflows, including vocal/instrumental stem splitting, reference-style matching, and MIDI transcription, without requiring music software or cloud services.
+SongForge-MCP is an MCP (Model Context Protocol) server designed to generate AI music through Claude, leveraging the ACE-Step 1.5 model for music generation. It enables seamless integration of music creation capabilities into AI workflows.
 
 ## Key Features
-- Generates complete AI music tracks from plain English prompts using ACE-Step 1.5
-- Splits generated tracks into vocal and instrumental stems for further production
-- Supports reference-audio style matching for consistent vocal character across generations
-- Transcribes instrumental stems to MIDI for DAW integration
-- Runs entirely locally with no cloud dependencies or subscriptions
+- Enables AI-driven music generation via MCP protocol
+- Integrates with Claude AI for seamless workflows
+- Powered by ACE-Step 1.5 for high-quality music output
+- Designed for extensibility in AI engineering pipelines
+- Supports real-time or batch music generation
 
 ## Why It Matters for RAG Builders
-It provides a seamless way for AI agents to generate and manipulate music locally, reducing reliance on external services and enabling end-to-end AI-driven music production workflows.
+It provides a specialized tool for AI engineers to integrate music generation into their RAG or AI stacks, enhancing creative applications.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### ACE-Step 1.5
 Automated review identified **ACE-Step 1.5** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PyTorch
-Automated review identified **PyTorch** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude AI
+Automated review identified **Claude AI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Gradio
-Automated review identified **Gradio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Playwright
-Automated review identified **Playwright** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Demucs
-Automated review identified **Demucs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FFmpeg
-Automated review identified **FFmpeg** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Music Generation
+Automated review identified **Music Generation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
