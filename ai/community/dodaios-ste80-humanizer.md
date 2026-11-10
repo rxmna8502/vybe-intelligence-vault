@@ -13,13 +13,14 @@ collected_at: '2026-11-10T08:22:21.073337+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:dodaios/ste80-humanizer
 first_seen: '2026-11-10T08:22:21.073337+05:30'
 last_seen: '2026-11-10T08:22:21.073337+05:30'
 last_checked: '2026-11-10T08:22:21.073337+05:30'
 health_score: 100
 ---
+
 
 # Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/thisisme6598/gemini_files
 hn_url: https://news.ycombinator.com/item?id=50429426
-score: 446
+score: 649
 author: gf74918
-comments_count: 103
+comments_count: 137
 published_at: '2026-11-09T23:54:38+05:30'
-collected_at: '2026-11-10T08:22:19.195249+05:30'
+collected_at: '2026-11-10T18:17:29.404247+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:thisisme6598/gemini_files
 first_seen: '2026-11-10T08:22:19.195249+05:30'
-last_seen: '2026-11-10T08:22:19.195249+05:30'
-last_checked: '2026-11-10T08:22:19.195249+05:30'
+last_seen: '2026-11-10T18:17:29.404247+05:30'
+last_checked: '2026-11-10T18:17:29.404247+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by gf74918. Score: 446, Comments: 103.
+Hacker News story by gf74918. Score: 649, Comments: 137.
 Original Link: https://github.com/thisisme6598/gemini_files/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: gf74918
-- Score: 446 Upvotes
-- Comments: 103 Discussions
+- Score: 649 Upvotes
+- Comments: 137 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50429426
 - Original Article: https://github.com/thisisme6598/gemini_files
 

@@ -38672,6 +38672,7 @@ Resources organized by publisher feed and query sources.
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
   - [An update on independent evaluators](../ai/companies/anthropic/an-update-on-independent-evaluators.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
+  - [Anthropic launches roadshow for proposed initial public offering](../ai/companies/anthropic/anthropic-launches-roadshow-for-proposed-initial-p.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
@@ -38698,7 +38699,6 @@ Resources organized by publisher feed and query sources.
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [ResearchVoxtral 3Build agents that can listen, reason, speak, and act, with Voxtral 3.October 20, 2026By Mistral](../ai/companies/mistral/researchvoxtral-3build-agents-that-can-listen-reas.md)
   - [SIMAAn agent that plays, reasons, and learns with you](../ai/companies/deepmind/simaan-agent-that-plays-reasons-and-learns-with-yo.md)
-  - [Safeguards](../ai/companies/anthropic/safeguards.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
@@ -39601,11 +39601,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Fireworks AI security breach impacts Notion and their customers](../ai/community/fireworks-ai-security-breach-impacts-notion-and-th.md)
   - [Foldable Flight: The Best Paper Airplanes](../ai/community/fold-epic-paper-airplanes.md)
   - [Google Gemini routes personal Drive files and emails to human annotators](../ai/community/thisisme6598-gemini-files.md)
   - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](../ai/community/payments-canada-announces-launch-of-canada-s-real.md)
   - [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](../ai/community/magenta-solar-panels-may-be-agrivoltaics-cleverest.md)
-  - [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](../ai/community/dodaios-ste80-humanizer.md)
+  - [Show HN: Ghanaian street games you can play in the browser](../ai/community/show-hn-ghanaian-street-games-you-can-play-in-the.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41003,6 +41004,7 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
+  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -42504,6 +42506,7 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
@@ -43511,9 +43514,10 @@ Resources organized by publisher feed and query sources.
   - [라떼군 이야기 - YouTube](../ai/resources/raddegun-iyagi-youtube.md)
   - [목록 > 학사공지 > footer < KAIST](../ai/resources/mogrog-hagsagongji-footer-kaist.md)
   - [카이스트 총동문회](../ai/resources/kaiseuteu-congdongmunhoe.md)
+  - [🔎 Build a RAG Agent with Azure AI Search | Agent Academy](../ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md)
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-10T08:39:00.825991+05:30*
+*Index generated on 2026-11-10T18:34:12.321366+05:30*
