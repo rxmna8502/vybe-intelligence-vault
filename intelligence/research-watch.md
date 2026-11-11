@@ -14,6 +14,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) | `ai-coding-agents/` | 70 |
 | [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) | `ai-coding-agents/` | 70 |
 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
+| [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) | `ai-coding-agents/` | 70 |
 | [Event-Based Early Warning of Vineyard Disease Risk from Environmental Time Series](https://arxiv.org/abs/2605.04548) | `ai-coding-agents/` | 70 |
 | [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) | `ai-coding-agents/` | 70 |
 | [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](https://arxiv.org/abs/2608.14580) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [FastKernels: Benchmarking GPU Kernel Generation in Production](https://arxiv.org/abs/2605.23215) | `ai-coding-agents/` | 70 |
 | [Can Coding Agents Reproduce Findings in Computational Materials Science?](https://arxiv.org/abs/2605.00803) | `ai-coding-agents/` | 70 |
 | [Synthesizing Reactive Character Behaviors for Continuous Games via Programmatic Policy Search](https://arxiv.org/abs/2609.24025) | `ai-coding-agents/` | 70 |
-| [Engineering Reliable Coding Agents: Evaluating and Operating the System Around the Model](https://arxiv.org/abs/2608.13867) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -218,8 +218,8 @@ This index groups curated resources by target developer skills.
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
+- [GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](https://arxiv.org/abs/2604.18556) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2604-18556.md))
 - [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
-- [Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization](https://arxiv.org/abs/2610.31309) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-31309.md))
 
 ## MCP Integrations
 
@@ -262,8 +262,8 @@ This index groups curated resources by target developer skills.
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
+- [GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](https://arxiv.org/abs/2604.18556) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2604-18556.md))
 - [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
-- [Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization](https://arxiv.org/abs/2610.31309) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-31309.md))
 
 ## Model Selection
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ---
-*Last updated: 2026-11-11 03:46 IST*
+*Last updated: 2026-11-11 12:29 IST*

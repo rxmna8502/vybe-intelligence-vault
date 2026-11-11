@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [cuArms: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](https://arxiv.org/abs/2610.36250) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2610-36250.md))
 
 ---
-*Last updated: 2026-11-11 03:46 IST*
+*Last updated: 2026-11-11 12:29 IST*

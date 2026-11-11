@@ -15,9 +15,9 @@ Curated highlights from the current week's collection, representing high-quality
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
 *   [Getting Started with Roboflow](https://blog.roboflow.com/getting-started-with-roboflow) (Score: 70) - Category: `ai-coding-agents/`
 *   [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) (Score: 70) - Category: `ai-coding-agents/`
+*   [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) (Score: 70) - Category: `ai-coding-agents/`
 *   [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) (Score: 70) - Category: `ai-coding-agents/`
 *   [Event-Based Early Warning of Vineyard Disease Risk from Environmental Time Series](https://arxiv.org/abs/2605.04548) (Score: 70) - Category: `ai-coding-agents/`
 *   [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) (Score: 70) - Category: `ai-coding-agents/`
-*   [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](https://arxiv.org/abs/2608.14580) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

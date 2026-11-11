@@ -18,11 +18,11 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Collaboration software for software, IT and business teams | Atlassian](https://www.atlassian.com) | `mcp-registry/` | 70 |
 | [Agentic AI – Personal RAG System - Hugo Atlantic](https://subhashydv.github.io/blog/2025/09/agentic-ai-personal-rag-system/) | `mcp-registry/` | 70 |
 | [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](https://arxiv.org/abs/2607.08495) | `mcp-registry/` | 70 |
+| [Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2611.14015) | `mcp-registry/` | 70 |
 | [Oculi: A Conversational Agentic Platform for Automated Credit Risk Analysis](https://arxiv.org/abs/2608.28944) | `mcp-registry/` | 70 |
 | [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | `mcp-registry/` | 70 |
 | [Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools](https://arxiv.org/abs/2608.04719) | `mcp-registry/` | 70 |
 | [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) | `mcp-registry/` | 70 |
 | [Argos · Product quality for the age of AI agents](https://argos-ci.com) | `mcp-registry/` | 70 |
-| [Unstructured Data & AI Engineering Blog | Unstructured](https://unstructured.io/blog) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

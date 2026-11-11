@@ -1,19 +1,31 @@
 ---
-title: "cloudflare/mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Cloudflare Workers", "MCP (Model Context Protocol)", "Code Mode", "JavaScript", "REST API", "GraphQL"]
+title: cloudflare/mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-11
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- MCP (Model Context Protocol)
+- Code Mode
+- JavaScript
+- REST API
+- GraphQL
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP server", "Cloudflare API", "Code Mode", "Token efficiency", "Agent integration"]
-source: "https://github.com/cloudflare/mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Cloudflare API
+- Code Mode
+- Token efficiency
+- Agent integration
+source: https://github.com/cloudflare/mcp
 stars: 695
-language: "TypeScript"
-last_updated: "2026-08-04T10:28:11Z"
-discovered_at: "2026-08-04T10:40:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T10:28:11Z'
+discovered_at: '2026-08-04T10:40:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

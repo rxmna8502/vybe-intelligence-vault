@@ -108,6 +108,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## REFERENCE
 
+- [GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](https://arxiv.org/abs/2604.18556) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2604-18556.md))
 - [Learning Intrinsic Dynamics in Latent World Models](https://arxiv.org/abs/2610.21612) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-21612.md))
 - [Cross-Entropy Risk Estimation for Language Models: Inconsistency Must Be Dense, and the Holdout Method Is No Exception](https://arxiv.org/abs/2608.15798) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-15798.md))
 - [Learnware and AI Model Management System](https://arxiv.org/abs/2609.11656) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-11656.md))
@@ -119,7 +120,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Learn more](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence) (Tier: `useful` | [`Local File`](../../ai/companies/deepmind/learn-more.md))
 - [AlphaEvolveDesign advanced algorithms for math and applications in computing](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms) (Tier: `useful` | [`Local File`](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md))
 - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md))
-- [Announcements](https://anthropic.com/news/announcements) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/announcements.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 
 ---
-*Last updated: 2026-11-11 03:46 IST*
+*Last updated: 2026-11-11 12:29 IST*

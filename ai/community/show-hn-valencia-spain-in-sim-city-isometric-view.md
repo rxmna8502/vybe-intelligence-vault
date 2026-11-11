@@ -13,13 +13,14 @@ collected_at: '2026-11-11T03:26:03.741736+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-valencia-spain-in-sim-city-isometric-view
 first_seen: '2026-11-11T03:26:03.741736+05:30'
 last_seen: '2026-11-11T03:26:03.741736+05:30'
 last_checked: '2026-11-11T03:26:03.741736+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Valencia, Spain in Sim City/Isometric View
 

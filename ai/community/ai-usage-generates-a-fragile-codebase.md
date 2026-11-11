@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase
 hn_url: https://news.ycombinator.com/item?id=50438318
-score: 288
+score: 473
 author: plun9
-comments_count: 352
+comments_count: 459
 published_at: '2026-11-10T15:55:58+05:30'
-collected_at: '2026-11-11T03:26:04.996962+05:30'
+collected_at: '2026-11-11T12:07:50.635761+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:ai-usage-generates-a-fragile-codebase
 first_seen: '2026-11-11T03:26:04.996962+05:30'
-last_seen: '2026-11-11T03:26:04.996962+05:30'
-last_checked: '2026-11-11T03:26:04.996962+05:30'
+last_seen: '2026-11-11T12:07:50.635761+05:30'
+last_checked: '2026-11-11T12:07:50.635761+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by plun9. Score: 288, Comments: 352.
+Hacker News story by plun9. Score: 473, Comments: 459.
 Original Link: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: plun9
-- Score: 288 Upvotes
-- Comments: 352 Discussions
+- Score: 473 Upvotes
+- Comments: 459 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50438318
 - Original Article: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase
 

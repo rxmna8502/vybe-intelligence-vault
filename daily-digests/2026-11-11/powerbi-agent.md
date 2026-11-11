@@ -1,19 +1,36 @@
 ---
-title: "santoshkanthety/powerbi-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Power BI Desktop", "Microsoft Fabric", "TOM (Tabular Object Model)", "ADOMD", "TMDL (Tabular Model Definition Language)", "PBIR (Power BI Report)", "Fabric REST API", "Click CLI", "pythonnet", "PyPI"]
+title: santoshkanthety/powerbi-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-11
+tech_stack:
+- Python
+- Claude Code
+- Power BI Desktop
+- Microsoft Fabric
+- TOM (Tabular Object Model)
+- ADOMD
+- TMDL (Tabular Model Definition Language)
+- PBIR (Power BI Report)
+- Fabric REST API
+- Click CLI
+- pythonnet
+- PyPI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Power BI automation", "natural language to code", "data engineering", "analytics delivery", "Fabric integration"]
-source: "https://github.com/santoshkanthety/powerbi-agent"
+deployment_complexity: Medium
+tags:
+- Power BI automation
+- natural language to code
+- data engineering
+- analytics delivery
+- Fabric integration
+source: https://github.com/santoshkanthety/powerbi-agent
 stars: 2
-language: "Python"
-last_updated: "2026-08-08T14:28:57Z"
-discovered_at: "2026-08-08T14:35:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T14:28:57Z'
+discovered_at: '2026-08-08T14:35:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
