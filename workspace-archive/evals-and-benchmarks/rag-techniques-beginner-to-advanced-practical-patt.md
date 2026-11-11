@@ -40,7 +40,7 @@ selection_reason:
 
 ## Summary
 
-*   RAG pipelines leverage a spectrum of techniques from basic dense/sparse retrieval (e.g
+*   RAG pipelines evolve from basic dense retrieval (embeddings + vector search) to intermediate techniques like
 
 ## Use Cases
 

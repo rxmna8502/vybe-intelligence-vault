@@ -13,13 +13,14 @@ collected_at: '2026-11-11T12:07:50.538208+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llms-play-zachtronics-tis-100
 first_seen: '2026-11-11T12:07:50.538208+05:30'
 last_seen: '2026-11-11T12:07:50.538208+05:30'
 last_checked: '2026-11-11T12:07:50.538208+05:30'
 health_score: 100
 ---
+
 
 # LLMs Play Zachtronics' TIS-100
 

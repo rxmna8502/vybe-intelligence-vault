@@ -14,13 +14,14 @@ collected_at: '2026-11-11T12:07:50.399290+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-is-becoming-an-information-gateway-audiences-st
 first_seen: '2026-11-11T12:07:50.399290+05:30'
 last_seen: '2026-11-11T12:07:50.399290+05:30'
 last_checked: '2026-11-11T12:07:50.399290+05:30'
 health_score: 100
 ---
+
 
 # AI is becoming an information gateway. Audiences still don’t want it making news
 

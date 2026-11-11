@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   RAG systems integrate a retriever (vector/keyword search over chunked, embedded documents
+*   RAG pipeline optimization leverages advanced chunking strategies (semantic, structure-aware, LLM-based), hybrid vector/lexical retrieval, and cross-encoder reranking for enhanced document relevance and precision
 
 ## Use Cases
 

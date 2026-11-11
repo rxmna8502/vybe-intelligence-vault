@@ -13,13 +13,14 @@ collected_at: '2026-11-11T12:07:49.947647+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:30m-raised-to-redo-the-cpu
 first_seen: '2026-11-11T12:07:49.947647+05:30'
 last_seen: '2026-11-11T12:07:49.947647+05:30'
 last_checked: '2026-11-11T12:07:49.947647+05:30'
 health_score: 100
 ---
+
 
 # $30M Raised to Redo the CPU
 

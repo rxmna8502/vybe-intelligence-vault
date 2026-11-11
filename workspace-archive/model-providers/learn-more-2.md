@@ -2,11 +2,11 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence
+source_url: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
-archive_score: 82
+archive_score: 80
 archive_tier: useful
 resource_kind: reference
 importance: high
@@ -16,7 +16,6 @@ tags:
 - google-deepmind-blog
 - reddit
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -25,10 +24,9 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: reference
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
@@ -43,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence
+Original source URL: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease
 
 ## Local Vault File
 

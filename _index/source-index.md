@@ -39406,7 +39406,7 @@ Resources organized by publisher feed and query sources.
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
   - [Nicolepcx/ai-agents-the-definitive-guide](../ai/agents/nicolepcx-ai-agents-the-definitive-guide.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
-  - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
+  - [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nithador/crewai_demo](../ai/agents/nithador-crewai-demo.md)
   - [NotPBShaw/awesome-ai-governance](../ai/agents/notpbshaw-awesome-ai-governance.md)
@@ -40172,13 +40172,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [$30M Raised to Redo the CPU](../ai/community/30m-raised-to-redo-the-cpu.md)
-  - [AI is becoming an information gateway. Audiences still don’t want it making news](../ai/community/ai-is-becoming-an-information-gateway-audiences-st.md)
-  - [AI usage generates a fragile codebase](../ai/community/ai-usage-generates-a-fragile-codebase.md)
   - [Apple has new Mac app coming to make running local AI models easy](../ai/community/apple-has-new-mac-app-coming-to-make-running-local.md)
-  - [LLMs Play Zachtronics' TIS-100](../ai/community/llms-play-zachtronics-tis-100.md)
+  - [EventSourcingDB 1.3.0 Is Available](../ai/community/eventsourcingdb-1-3-0-is-available.md)
+  - [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](../ai/community/google-swe-points-48-ai-agents-at-nasa-lidar-finds.md)
+  - [Hyper-Realistic Sand with WebGL2](../web-development/community/hyper-realistic-sand-with-webgl2.md)
   - [Synaptics patent claims stop work on DisplayLink drivers](../ai/community/synaptics-patent-claims-stop-work-on-displaylink-d.md)
-  - [Tracking Anthropic-discovered vulnerabilities](../ai/community/tracking-anthropic-discovered-vulnerabilities.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -40951,6 +40949,7 @@ Resources organized by publisher feed and query sources.
   - [Timm ❤️ Transformers: Use any timm model with transformers](../ai/models/huggingface-blog-timm-transformers.md)
   - [Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](../ai/agents/huggingface-blog-python-tiny-agents.md)
   - [Tiny Agents: an MCP-powered agent in 50 lines of code](../ai/agents/huggingface-blog-tiny-agents.md)
+  - [Token Pooling-Aware Training for Multi-Vector Embedding Models](../ai/models/huggingface-blog-token-pooling.md)
   - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](../ai/models/huggingface-blog-tokenizers.md)
   - [Tool Use, Unified](../ai/models/huggingface-blog-unified-tool-use.md)
   - [TorchNeuron: running HF models on AWS Trainium is easier than ever](../ai/models/huggingface-blog-hf-torchneuron.md)
@@ -41579,6 +41578,7 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
+  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -43080,9 +43080,13 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
+  - [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
+  - [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md)
+  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -43160,6 +43164,7 @@ Resources organized by publisher feed and query sources.
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
   - [Retrieval Augmented Generation: Streamlining the creation of intelligent natural language processing models](../ai/rag/retrieval-augmented-generation-streamlining-the-cr.md)
   - [Retrieval-Augmented Generation (RAG) - DSPy](../ai/rag/retrieval-augmented-generation-rag-dspy.md)
+  - [Retrieval-Augmented Generation (RAG): Complete Practical and Architect-Level Guide](../ai/rag/retrieval-augmented-generation-rag-complete-practi.md)
   - [Review your order history - Google Play Help](../ai/rag/review-your-order-history-google-play-help.md)
   - [Ring Current Modelling: GFZ](../ai/resources/ring-current-modelling-gfz.md)
   - [Robustness testing pipeline for NLP with Microsoft CheckList | by AI Singapore | AI Singapore TechBytes | Medium](../ai/rag/robustness-testing-pipeline-for-nlp-with-microsoft.md)
@@ -43440,6 +43445,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -44087,9 +44093,10 @@ Resources organized by publisher feed and query sources.
   - [라떼군 이야기 - YouTube](../ai/resources/raddegun-iyagi-youtube.md)
   - [목록 > 학사공지 > footer < KAIST](../ai/resources/mogrog-hagsagongji-footer-kaist.md)
   - [카이스트 총동문회](../ai/resources/kaiseuteu-congdongmunhoe.md)
+  - [🔎 Build a RAG Agent with Azure AI Search | Agent Academy](../ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md)
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-11T12:27:23.597855+05:30*
+*Index generated on 2026-11-11T22:07:30.514353+05:30*

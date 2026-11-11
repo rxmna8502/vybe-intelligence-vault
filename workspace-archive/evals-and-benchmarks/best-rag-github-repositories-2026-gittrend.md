@@ -8,7 +8,7 @@ local_vault_path: ai/rag/best-rag-github-repositories-2026-gittrend.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - paper
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Best RAG GitHub Repositories (2026) | GitTrend
@@ -32,14 +32,14 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) systems enhance LLM outputs by
+*   Retrieval-Augmented Generation (RAG) frameworks are evolving into comprehensive agent engineering platforms
 
 ## Use Cases
 

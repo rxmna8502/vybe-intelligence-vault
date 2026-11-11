@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: argmaxinc/whisperkit-coreml (Likes: 262, Downloads: 54455770)
+Trending Hugging Face model: argmaxinc/whisperkit-coreml (Likes: 262, Downloads: 57608655)
 
 ## Use Cases
 

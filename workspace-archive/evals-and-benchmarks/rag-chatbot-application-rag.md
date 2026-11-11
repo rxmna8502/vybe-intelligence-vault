@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-*   Implements a Context-Aware Retrieval-Augmented Generation (RAG) chatbot utilizing Streamlit for the user interface.
-*   Integrates Mistral-7B-Instruct-v0.3 as the generative Large Language Model (LLM) and ChromaDB as the vector database for contextual document retrieval.
-*   Features include document management for knowledge base population, conversational history persistence, and a user feedback mechanism for response quality improvement.
+*   Implements a Context-Aware Retrieval-Augmented Generation (RAG) chatbot leveraging Mistral-7B-Instruct-v0.3 as the language model and ChromaDB for vector storage.
+*   Utilizes Streamlit for the interactive web interface, supporting document management, conversational history, and contextual response generation via retrieved documents.
+*   The system orchestrates RAG functionalities using `langchain`, accesses models via `huggingface_hub`, and manages vector embeddings with `chromadb`.
 
 ## Use Cases
 

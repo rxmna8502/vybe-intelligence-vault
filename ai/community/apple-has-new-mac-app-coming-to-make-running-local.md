@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy
 hn_url: https://news.ycombinator.com/item?id=50446520
-score: 144
+score: 428
 author: linolevan
-comments_count: 104
+comments_count: 445
 published_at: '2026-11-11T02:55:03+05:30'
-collected_at: '2026-11-11T12:07:48.894430+05:30'
+collected_at: '2026-11-11T21:50:34.884185+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:apple-has-new-mac-app-coming-to-make-running-local
 first_seen: '2026-11-11T12:07:48.894430+05:30'
-last_seen: '2026-11-11T12:07:48.894430+05:30'
-last_checked: '2026-11-11T12:07:48.894430+05:30'
+last_seen: '2026-11-11T21:50:34.884185+05:30'
+last_checked: '2026-11-11T21:50:34.884185+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by linolevan. Score: 144, Comments: 104.
+Hacker News story by linolevan. Score: 428, Comments: 445.
 Original Link: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: linolevan
-- Score: 144 Upvotes
-- Comments: 104 Discussions
+- Score: 428 Upvotes
+- Comments: 445 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50446520
 - Original Article: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy
 
