@@ -1,37 +1,19 @@
 ---
-title: melandlabs/opencontext
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-11
-tech_stack:
-- TypeScript
-- SQLite-vec
-- Postgres
-- pgvector
-- Chroma
-- IndexedDB
-- OpenAI API
-- Anthropic API
-- Cohere API
-- Temporal Graph
-- MCP (Model Context Protocol)
-- CLI
-- HTTP Daemon
+title: "melandlabs/opencontext"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "SQLite-vec", "Postgres", "pgvector", "Chroma", "IndexedDB", "OpenAI API", "Anthropic API", "Cohere API", "Temporal Graph", "MCP (Model Context Protocol)", "CLI", "HTTP Daemon"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- context runtime
-- temporal graph
-- memory API
-- agent framework
-- multi-platform integration
-source: https://github.com/melandlabs/opencontext
+deployment_complexity: "Medium"
+tags: ["context runtime", "temporal graph", "memory API", "agent framework", "multi-platform integration"]
+source: "https://github.com/melandlabs/opencontext"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-10T13:05:56Z'
-discovered_at: '2026-08-10T13:08:55Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T13:05:56Z"
+discovered_at: "2026-08-10T13:08:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

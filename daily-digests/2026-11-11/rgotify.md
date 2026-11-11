@@ -1,30 +1,19 @@
 ---
-title: dinglebear-ai/rgotify
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-11
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- HTTP
-- CLI
-- npm
-- Docker
+title: "dinglebear-ai/rgotify"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "HTTP", "CLI", "npm", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- push notifications
-- Gotify integration
-- Rust CLI
-- AI agent tools
-source: https://github.com/dinglebear-ai/rgotify
+deployment_complexity: "Medium"
+tags: ["MCP server", "push notifications", "Gotify integration", "Rust CLI", "AI agent tools"]
+source: "https://github.com/dinglebear-ai/rgotify"
 stars: 1
-language: Rust
-last_updated: '2026-08-01T03:35:47Z'
-discovered_at: '2026-08-01T03:44:14Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T03:35:47Z"
+discovered_at: "2026-08-01T03:44:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: Roxy-06/Nova
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-11
-tech_stack:
-- Python 3.10+
-- FastAPI
-- SQLAlchemy
-- SQLite
-- APScheduler
-- Gemini 1.5 Flash API
-- Next.js 15.5.9
-- React 19
-- httpx
-- feedparser
-- Pydantic
+title: "Roxy-06/Nova"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.10+", "FastAPI", "SQLAlchemy", "SQLite", "APScheduler", "Gemini 1.5 Flash API", "Next.js 15.5.9", "React 19", "httpx", "feedparser", "Pydantic"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous editorial
-- LLM-powered evaluation
-- content deduplication
-- real-time telemetry
-- AI-driven curation
-source: https://github.com/Roxy-06/Nova
+deployment_complexity: "Medium"
+tags: ["autonomous editorial", "LLM-powered evaluation", "content deduplication", "real-time telemetry", "AI-driven curation"]
+source: "https://github.com/Roxy-06/Nova"
 stars: 0
-language: Python
-last_updated: '2026-08-08T18:32:36Z'
-discovered_at: '2026-08-08T18:39:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T18:32:36Z"
+discovered_at: "2026-08-08T18:39:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
