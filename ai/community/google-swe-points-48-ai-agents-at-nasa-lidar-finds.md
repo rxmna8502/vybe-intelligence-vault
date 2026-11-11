@@ -1,16 +1,15 @@
 ---
-title: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in
-  72h
+title: My AI agents found an unmapped Maya site
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://pietromiotti.com/latest/maya-site
 hn_url: https://news.ycombinator.com/item?id=50452455
-score: 601
+score: 894
 author: eyvindn
-comments_count: 236
+comments_count: 326
 published_at: '2026-11-11T17:35:22+05:30'
-collected_at: '2026-11-11T21:50:32.993522+05:30'
+collected_at: '2026-11-12T04:21:21.080578+05:30'
 tags:
 - agents
 - ai
@@ -18,17 +17,17 @@ tags:
 status: active
 resource_id: hackernews:google-swe-points-48-ai-agents-at-nasa-lidar-finds
 first_seen: '2026-11-11T21:50:32.993522+05:30'
-last_seen: '2026-11-11T21:50:32.993522+05:30'
-last_checked: '2026-11-11T21:50:32.993522+05:30'
+last_seen: '2026-11-12T04:21:21.080578+05:30'
+last_checked: '2026-11-12T04:21:21.080578+05:30'
 health_score: 100
 ---
 
-# Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h
+# My AI agents found an unmapped Maya site
 
 ## Summary
 
-Hacker News story by eyvindn. Score: 601, Comments: 236.
-Original Link: https://pietromiotti.com/latest/maya-site/?maya
+Hacker News story by eyvindn. Score: 894, Comments: 326.
+Original Link: https://pietromiotti.com/latest/maya-site
 
 ## Why It Matters
 
@@ -37,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: eyvindn
-- Score: 601 Upvotes
-- Comments: 236 Discussions
+- Score: 894 Upvotes
+- Comments: 326 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50452455
 - Original Article: https://pietromiotti.com/latest/maya-site
 

@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([Source URL](https://github.com/patchy631/ai-engineering-hub))
+### 1. [RaguTeam/RAGU](../ai/rag/raguteam-ragu.md) ([Source URL](https://github.com/raguteam/ragu))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:51.664192+05:30
-- **Local Path**: `ai/rag/patchy631-ai-engineering-hub.md`
+- **Collected At**: 2026-11-12T04:24:02.847343+05:30
+- **Local Path**: `ai/rag/raguteam-ragu.md`
 
-### 2. [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md) ([Source URL](https://collabnix.com/rag-retrieval-augmented-generation-the-complete-guide-to-building-intelligent-ai-systems-in-2025))
+### 2. [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md) ([Source URL](https://gittrend.io/trending/rag))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:49.178383+05:30
-- **Local Path**: `ai/rag/rag-retrieval-augmented-generation-complete-guide.md`
-
-### 3. [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md) ([Source URL](https://github.com/nirdiamant/rag_techniques))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:46.677316+05:30
-- **Local Path**: `ai/rag/nirdiamant-rag-techniques.md`
-
-### 4. [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md) ([Source URL](https://gittrend.io/best/rag))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:43.171958+05:30
-- **Local Path**: `ai/rag/best-rag-github-repositories-2026-gittrend.md`
-
-### 5. [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md) ([Source URL](https://is4.ai/blog/our-blog-1/how-to-implement-rag-retrieval-augmented-generation-tutorial-22))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:42.470346+05:30
-- **Local Path**: `ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md`
-
-### 6. [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md) ([Source URL](https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:42.038586+05:30
-- **Local Path**: `ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md`
-
-### 7. [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) ([Source URL](https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:41.879080+05:30
-- **Local Path**: `ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md`
-
-### 8. [langchain-ai/rag-from-scratch](../ai/rag/langchain-ai-rag-from-scratch.md) ([Source URL](https://github.com/langchain-ai/rag-from-scratch))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:41.808802+05:30
-- **Local Path**: `ai/rag/langchain-ai-rag-from-scratch.md`
-
-### 9. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([Source URL](https://github.com/dannyblaker/rag-tutorial))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:41.807627+05:30
-- **Local Path**: `ai/rag/dannyblaker-rag-tutorial.md`
-
-### 10. [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md) ([Source URL](https://gittrend.io/trending/rag))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:37.991408+05:30
+- **Collected At**: 2026-11-12T04:22:23.939723+05:30
 - **Local Path**: `ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md`
 
-### 11. [🔎 Build a RAG Agent with Azure AI Search | Agent Academy](../ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md) ([Source URL](https://microsoft.github.io/agent-academy/special-ops/azure-ai-search-rag))
+### 3. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:37.650519+05:30
-- **Local Path**: `ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md`
-
-### 12. [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md) ([Source URL](https://noworneverev.github.io/awesome-rag))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:37.320395+05:30
-- **Local Path**: `ai/rag/rag-tools-awesome-rag.md`
-
-### 13. [Retrieval-Augmented Generation (RAG): Complete Practical and Architect-Level Guide](../ai/rag/retrieval-augmented-generation-rag-complete-practi.md) ([Source URL](https://acuere-making-sharper.github.io/retrieval-augmented-generation-rag-complete-guide))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:37.251205+05:30
-- **Local Path**: `ai/rag/retrieval-augmented-generation-rag-complete-practi.md`
-
-### 14. [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md) ([Source URL](https://todap.github.io/rag))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:36.959083+05:30
-- **Local Path**: `ai/rag/rag-chatbot-application-rag.md`
-
-### 15. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source URL](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:36.875601+05:30
-- **Local Path**: `ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md`
-
-### 16. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:36.755731+05:30
-- **Local Path**: `ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md`
-
-### 17. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:36.745428+05:30
+- **Collected At**: 2026-11-12T04:22:22.686711+05:30
 - **Local Path**: `ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md`
 
-### 18. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
+### 4. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:36.674879+05:30
-- **Local Path**: `ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md`
+- **Collected At**: 2026-11-12T04:22:22.685071+05:30
+- **Local Path**: `ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md`
 
-### 19. [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source URL](https://github.com/ragnarokoffline/ragnarokoffline.github.io))
+### 5. [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source URL](https://github.com/ragnarokoffline/ragnarokoffline.github.io))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:36.627529+05:30
+- **Collected At**: 2026-11-12T04:22:22.648616+05:30
 - **Local Path**: `ai/rag/ragnarokoffline-ragnarokoffline-github-io.md`
 
-### 20. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) ([Source URL](https://github.com/particlemedia/ragtruth))
+### 6. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([Source URL](https://github.com/datawhalechina/llm-universe))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:31.858321+05:30
-- **Local Path**: `ai/rag/particlemedia-ragtruth.md`
-
-### 21. [malonge/RaGOO](../ai/rag/malonge-ragoo.md) ([Source URL](https://github.com/malonge/ragoo))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:31.720723+05:30
-- **Local Path**: `ai/rag/malonge-ragoo.md`
-
-### 22. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([Source URL](https://github.com/datawhalechina/llm-universe))
-- **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:31.681818+05:30
+- **Collected At**: 2026-11-12T04:22:17.744722+05:30
 - **Local Path**: `ai/rag/datawhalechina-llm-universe.md`
 
-### 23. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) ([Source URL](https://github.com/sylphai-inc/githubchat))
+### 7. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) ([Source URL](https://github.com/sylphai-inc/githubchat))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:31.659344+05:30
+- **Collected At**: 2026-11-12T04:22:17.668824+05:30
 - **Local Path**: `ai/rag/sylphai-inc-githubchat.md`
 
-### 24. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) ([Source URL](https://github.com/raganwald/raganwald.github.com))
+### 8. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) ([Source URL](https://github.com/particlemedia/ragtruth))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:31.645019+05:30
+- **Collected At**: 2026-11-12T04:22:17.667410+05:30
+- **Local Path**: `ai/rag/particlemedia-ragtruth.md`
+
+### 9. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) ([Source URL](https://github.com/raganwald/raganwald.github.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-11-12T04:22:17.630835+05:30
 - **Local Path**: `ai/rag/raganwald-raganwald-github-com.md`
 
-### 25. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([Source URL](https://github.com/datawhalechina/all-in-rag))
+### 10. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([Source URL](https://github.com/datawhalechina/all-in-rag))
 - **Category**: ai/rag
-- **Collected At**: 2026-11-11T21:51:26.792013+05:30
+- **Collected At**: 2026-11-12T04:22:12.693904+05:30
 - **Local Path**: `ai/rag/datawhalechina-all-in-rag.md`
 
-### 26. [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md) ([Source URL](https://microsoft.com/en-us/research/research-area/data-platform-analytics))
+### 11. [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md) ([Source URL](https://microsoft.com/en-us/research/research-area/data-platform-analytics))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.132077+05:30
+- **Collected At**: 2026-11-12T04:21:23.743242+05:30
 - **Local Path**: `ai/companies/data-platforms-and-analytics.md`
 
-### 27. [Search & information retrieval](../ai/companies/search-information-retrieval.md) ([Source URL](https://microsoft.com/en-us/research/research-area/search-information-retrieval))
+### 12. [Search & information retrieval](../ai/companies/search-information-retrieval.md) ([Source URL](https://microsoft.com/en-us/research/research-area/search-information-retrieval))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.132054+05:30
+- **Collected At**: 2026-11-12T04:21:23.743226+05:30
 - **Local Path**: `ai/companies/search-information-retrieval.md`
 
-### 28. [Human language technologies](../ai/companies/human-language-technologies.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-language-technologies))
+### 13. [Human language technologies](../ai/companies/human-language-technologies.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-language-technologies))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.132030+05:30
+- **Collected At**: 2026-11-12T04:21:23.743210+05:30
 - **Local Path**: `ai/companies/human-language-technologies.md`
 
-### 29. [Human-computer interaction](../ai/companies/human-computer-interaction.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-computer-interaction))
+### 14. [Human-computer interaction](../ai/companies/human-computer-interaction.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-computer-interaction))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.132006+05:30
+- **Collected At**: 2026-11-12T04:21:23.743194+05:30
 - **Local Path**: `ai/companies/human-computer-interaction.md`
 
-### 30. [Graphics & multimedia](../ai/companies/graphics-multimedia.md) ([Source URL](https://microsoft.com/en-us/research/research-area/graphics-and-multimedia))
+### 15. [Graphics & multimedia](../ai/companies/graphics-multimedia.md) ([Source URL](https://microsoft.com/en-us/research/research-area/graphics-and-multimedia))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.131981+05:30
+- **Collected At**: 2026-11-12T04:21:23.743177+05:30
 - **Local Path**: `ai/companies/graphics-multimedia.md`
 
-### 31. [Computer vision](../ai/companies/computer-vision.md) ([Source URL](https://microsoft.com/en-us/research/research-area/computer-vision))
+### 16. [Computer vision](../ai/companies/computer-vision.md) ([Source URL](https://microsoft.com/en-us/research/research-area/computer-vision))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.131956+05:30
+- **Collected At**: 2026-11-12T04:21:23.743160+05:30
 - **Local Path**: `ai/companies/computer-vision.md`
 
-### 32. [Audio & acoustics](../ai/companies/audio-acoustics.md) ([Source URL](https://microsoft.com/en-us/research/research-area/audio-acoustics))
+### 17. [Audio & acoustics](../ai/companies/audio-acoustics.md) ([Source URL](https://microsoft.com/en-us/research/research-area/audio-acoustics))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.131931+05:30
+- **Collected At**: 2026-11-12T04:21:23.743143+05:30
 - **Local Path**: `ai/companies/audio-acoustics.md`
 
-### 33. [Artificial intelligence](../ai/companies/artificial-intelligence.md) ([Source URL](https://microsoft.com/en-us/research/research-area/artificial-intelligence))
+### 18. [Artificial intelligence](../ai/companies/artificial-intelligence.md) ([Source URL](https://microsoft.com/en-us/research/research-area/artificial-intelligence))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.131904+05:30
+- **Collected At**: 2026-11-12T04:21:23.743124+05:30
 - **Local Path**: `ai/companies/artificial-intelligence.md`
 
-### 34. [Code, datasets and models](../ai/companies/code-datasets-and-models.md) ([Source URL](https://microsoft.com/en-us/research/tools))
+### 19. [Code, datasets and models](../ai/companies/code-datasets-and-models.md) ([Source URL](https://microsoft.com/en-us/research/tools))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.131873+05:30
+- **Collected At**: 2026-11-12T04:21:23.743102+05:30
 - **Local Path**: `ai/companies/code-datasets-and-models.md`
 
-### 35. [Publications](../ai/companies/publications.md) ([Source URL](https://microsoft.com/en-us/research/publications))
+### 20. [Publications](../ai/companies/publications.md) ([Source URL](https://microsoft.com/en-us/research/publications))
 - **Category**: ai/companies
-- **Collected At**: 2026-11-11T21:50:38.131816+05:30
+- **Collected At**: 2026-11-12T04:21:23.743053+05:30
 - **Local Path**: `ai/companies/publications.md`
 
-### 36. [Synaptics patent claims stop work on DisplayLink drivers](../ai/community/synaptics-patent-claims-stop-work-on-displaylink-d.md) ([Source URL](https://lwn.net/subscriberlink/1102549/acbc92e00cee3a3f))
+### 21. [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](../ai/community/launch-hn-pomerado-yc-f26-turn-any-website-into-an.md) ([Source URL](https://news.ycombinator.com/item?id=50455811))
 - **Category**: ai/community
-- **Collected At**: 2026-11-11T21:50:35.624481+05:30
-- **Local Path**: `ai/community/synaptics-patent-claims-stop-work-on-displaylink-d.md`
+- **Collected At**: 2026-11-12T04:21:21.515840+05:30
+- **Local Path**: `ai/community/launch-hn-pomerado-yc-f26-turn-any-website-into-an.md`
 
-### 37. [Apple has new Mac app coming to make running local AI models easy](../ai/community/apple-has-new-mac-app-coming-to-make-running-local.md) ([Source URL](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy))
+### 22. [Hyper-Realistic Sand with WebGL2](../web-development/community/hyper-realistic-sand-with-webgl2.md) ([Source URL](https://av.github.io/safe-sand))
+- **Category**: web-development/community
+- **Collected At**: 2026-11-12T04:21:21.237255+05:30
+- **Local Path**: `web-development/community/hyper-realistic-sand-with-webgl2.md`
+
+### 23. [My AI agents found an unmapped Maya site](../ai/community/google-swe-points-48-ai-agents-at-nasa-lidar-finds.md) ([Source URL](https://pietromiotti.com/latest/maya-site))
 - **Category**: ai/community
-- **Collected At**: 2026-11-11T21:50:34.884185+05:30
-- **Local Path**: `ai/community/apple-has-new-mac-app-coming-to-make-running-local.md`
+- **Collected At**: 2026-11-12T04:21:21.080578+05:30
+- **Local Path**: `ai/community/google-swe-points-48-ai-agents-at-nasa-lidar-finds.md`
 
-### 38. [EventSourcingDB 1.3.0 Is Available](../ai/community/eventsourcingdb-1-3-0-is-available.md) ([Source URL](https://eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available))
+### 24. [Faster Retrieval for Better, More Efficient RAG](../ai/community/faster-retrieval-for-better-more-efficient-rag.md) ([Source URL](https://machinelearning.apple.com/research/faster-retrieval))
 - **Category**: ai/community
-- **Collected At**: 2026-11-11T21:50:34.814478+05:30
-- **Local Path**: `ai/community/eventsourcingdb-1-3-0-is-available.md`
+- **Collected At**: 2026-11-12T04:21:20.915376+05:30
+- **Local Path**: `ai/community/faster-retrieval-for-better-more-efficient-rag.md`
 
-### 39. [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md) ([Source URL](https://mistral.ai/news/more-control-over-connectors))
+### 25. [93% of Paint Splatters Are Valid Perl Programs (2019)](../ai/community/93-of-paint-splatters-are-valid-perl-programs-2019.md) ([Source URL](https://mcmillen.dev/sigbovik))
+- **Category**: ai/community
+- **Collected At**: 2026-11-12T04:21:20.757316+05:30
+- **Local Path**: `ai/community/93-of-paint-splatters-are-valid-perl-programs-2019.md`
+
+### 26. [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md) ([Source URL](https://mistral.ai/news/more-control-over-connectors))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330591+05:30
+- **Collected At**: 2026-11-12T04:21:20.334459+05:30
 - **Local Path**: `ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md`
 
-### 40. [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md) ([Source URL](https://mistral.ai/news/leanstral-1-5))
+### 27. [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md) ([Source URL](https://mistral.ai/news/leanstral-1-5))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330550+05:30
+- **Collected At**: 2026-11-12T04:21:20.334435+05:30
 - **Local Path**: `ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md`
 
-### 41. [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md) ([Source URL](https://mistral.ai/news/robostral-navigate))
+### 28. [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md) ([Source URL](https://mistral.ai/news/robostral-navigate))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330510+05:30
+- **Collected At**: 2026-11-12T04:21:20.334413+05:30
 - **Local Path**: `ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md`
 
-### 42. [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md) ([Source URL](https://mistral.ai/news/shieldstral))
+### 29. [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md) ([Source URL](https://mistral.ai/news/shieldstral))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330436+05:30
+- **Collected At**: 2026-11-12T04:21:20.334369+05:30
 - **Local Path**: `ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md`
 
-### 43. [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md) ([Source URL](https://mistral.ai/news/mistral-x-humain))
+### 30. [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md) ([Source URL](https://mistral.ai/news/mistral-x-humain))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330326+05:30
+- **Collected At**: 2026-11-12T04:21:20.334309+05:30
 - **Local Path**: `ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md`
 
-### 44. [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md) ([Source URL](https://mistral.ai/news/legacy-code-modernization))
+### 31. [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md) ([Source URL](https://mistral.ai/news/legacy-code-modernization))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330253+05:30
+- **Collected At**: 2026-11-12T04:21:20.334262+05:30
 - **Local Path**: `ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md`
 
-### 45. [CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral](../ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md) ([Source URL](https://mistral.ai/news/mistral-x-cloudera))
+### 32. [CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral](../ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md) ([Source URL](https://mistral.ai/news/mistral-x-cloudera))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330209+05:30
+- **Collected At**: 2026-11-12T04:21:20.334237+05:30
 - **Local Path**: `ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md`
 
-### 46. [CompanyHallo, Deutschland!Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest EconomySeptember 28, 2026By Mistral](../ai/companies/mistral/companyhallo-deutschland-mistral-opens-german-hub.md) ([Source URL](https://mistral.ai/news/hallo-deutschland))
+### 33. [CompanyHallo, Deutschland!Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest EconomySeptember 28, 2026By Mistral](../ai/companies/mistral/companyhallo-deutschland-mistral-opens-german-hub.md) ([Source URL](https://mistral.ai/news/hallo-deutschland))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330136+05:30
+- **Collected At**: 2026-11-12T04:21:20.334192+05:30
 - **Local Path**: `ai/companies/mistral/companyhallo-deutschland-mistral-opens-german-hub.md`
 
-### 47. [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md) ([Source URL](https://mistral.ai/news/mistral-large-4))
+### 34. [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md) ([Source URL](https://mistral.ai/news/mistral-large-4))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.330085+05:30
+- **Collected At**: 2026-11-12T04:21:20.334161+05:30
 - **Local Path**: `ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md`
 
-### 48. [ResearchVoxtral 3Build agents that can listen, reason, speak, and act, with Voxtral 3.October 20, 2026By Mistral](../ai/companies/mistral/researchvoxtral-3build-agents-that-can-listen-reas.md) ([Source URL](https://mistral.ai/news/voxtral-3))
+### 35. [ResearchVoxtral 3Build agents that can listen, reason, speak, and act, with Voxtral 3.October 20, 2026By Mistral](../ai/companies/mistral/researchvoxtral-3build-agents-that-can-listen-reas.md) ([Source URL](https://mistral.ai/news/voxtral-3))
 - **Category**: ai/companies/mistral
-- **Collected At**: 2026-11-11T21:50:34.329982+05:30
+- **Collected At**: 2026-11-12T04:21:20.334089+05:30
 - **Local Path**: `ai/companies/mistral/researchvoxtral-3build-agents-that-can-listen-reas.md`
 
-### 49. [Learn more](../ai/companies/deepmind/learn-more.md) ([Source URL](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease))
+### 36. [Learn more](../ai/companies/deepmind/learn-more.md) ([Source URL](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease))
 - **Category**: ai/companies/deepmind
-- **Collected At**: 2026-11-11T21:50:33.994728+05:30
+- **Collected At**: 2026-11-12T04:21:20.063883+05:30
 - **Local Path**: `ai/companies/deepmind/learn-more.md`
 
-### 50. [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md) ([Source URL](https://deepmind.google/blog))
+### 37. [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md) ([Source URL](https://deepmind.google/blog))
 - **Category**: ai/companies/deepmind
-- **Collected At**: 2026-11-11T21:50:33.994302+05:30
+- **Collected At**: 2026-11-12T04:21:20.063670+05:30
 - **Local Path**: `ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md`
 
+### 38. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md) ([Source URL](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-11-12T04:21:20.063636+05:30
+- **Local Path**: `ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md`
+
+### 39. [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md) ([Source URL](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-11-12T04:21:20.063612+05:30
+- **Local Path**: `ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md`
+
+### 40. [SIMAAn agent that plays, reasons, and learns with you](../ai/companies/deepmind/simaan-agent-that-plays-reasons-and-learns-with-yo.md) ([Source URL](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-11-12T04:21:20.063536+05:30
+- **Local Path**: `ai/companies/deepmind/simaan-agent-that-plays-reasons-and-learns-with-yo.md`
+
+### 41. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source URL](https://nextjs.org/blog/next-5))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013485+05:30
+- **Local Path**: `web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md`
+
+### 42. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source URL](https://nextjs.org/blog/next-5-1))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013474+05:30
+- **Local Path**: `web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md`
+
+### 43. [Next.js 6 and Nextjs.org](../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source URL](https://nextjs.org/blog/next-6))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013462+05:30
+- **Local Path**: `web-development/nextjs/next-js-6-and-nextjs-org.md`
+
+### 44. [Next.js 6.1](../web-development/nextjs/next-js-6-1.md) ([Source URL](https://nextjs.org/blog/next-6-1))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013451+05:30
+- **Local Path**: `web-development/nextjs/next-js-6-1.md`
+
+### 45. [Next.js 7](../web-development/nextjs/next-js-7.md) ([Source URL](https://nextjs.org/blog/next-7))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013440+05:30
+- **Local Path**: `web-development/nextjs/next-js-7.md`
+
+### 46. [Next.js 8](../web-development/nextjs/next-js-8.md) ([Source URL](https://nextjs.org/blog/next-8))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013427+05:30
+- **Local Path**: `web-development/nextjs/next-js-8.md`
+
+### 47. [Next.js 8 Webpack Memory Improvements](../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source URL](https://nextjs.org/blog/webpack-memory))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013345+05:30
+- **Local Path**: `web-development/nextjs/next-js-8-webpack-memory-improvements.md`
+
+### 48. [Styling Next.js with Styled JSX](../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source URL](https://nextjs.org/blog/styling-next-with-styled-jsx))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013334+05:30
+- **Local Path**: `web-development/nextjs/styling-next-js-with-styled-jsx.md`
+
+### 49. [Next.js 8.0.4](../web-development/nextjs/next-js-8-0-4.md) ([Source URL](https://nextjs.org/blog/next-8-0-4))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013291+05:30
+- **Local Path**: `web-development/nextjs/next-js-8-0-4.md`
+
+### 50. [Next.js 8.1](../web-development/nextjs/next-js-8-1.md) ([Source URL](https://nextjs.org/blog/next-8-1))
+- **Category**: web-development/nextjs
+- **Collected At**: 2026-11-12T04:21:20.013279+05:30
+- **Local Path**: `web-development/nextjs/next-js-8-1.md`
+
 ---
-*Index generated on 2026-11-11T22:07:30.564405+05:30*
+*Index generated on 2026-11-12T04:38:04.436213+05:30*

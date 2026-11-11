@@ -1,19 +1,30 @@
 ---
-title: "aadeshrao123/Unreal-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["C++", "Python", "Unreal Engine 5", "Model Context Protocol (MCP)", "Node.js", "TCP/IP"]
+title: aadeshrao123/Unreal-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-11
+tech_stack:
+- C++
+- Python
+- Unreal Engine 5
+- Model Context Protocol (MCP)
+- Node.js
+- TCP/IP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Unreal Engine", "MCP Server", "AI Automation", "Game Development", "Editor Control"]
-source: "https://github.com/aadeshrao123/Unreal-MCP"
+deployment_complexity: Medium
+tags:
+- Unreal Engine
+- MCP Server
+- AI Automation
+- Game Development
+- Editor Control
+source: https://github.com/aadeshrao123/Unreal-MCP
 stars: 37
-language: "C++"
-last_updated: "2026-08-06T06:30:33Z"
-discovered_at: "2026-08-06T06:32:02Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-06T06:30:33Z'
+discovered_at: '2026-08-06T06:32:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

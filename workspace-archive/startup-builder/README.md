@@ -22,10 +22,10 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 - [vitejs/vite](https://github.com/vitejs/vite)
 - [Pricing · Plans for every developer · GitHub](https://github.com/pricing)
-- [ragnarokoffline/ragnarokoffline.github.io](https://github.com/ragnarokoffline/ragnarokoffline.github.io)
 - [moby/moby · Discussions · GitHub](https://github.com/moby/moby/discussions)
 - [GitHub Copilot app · GitHub](https://github.com/features/ai/github-app)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
+- [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/the-weirdos-nft-website-starter-code)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-11-11 22:11 IST*
+*Last updated: 2026-11-12 04:40 IST*

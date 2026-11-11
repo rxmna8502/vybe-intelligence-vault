@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://av.github.io/safe-sand
 hn_url: https://news.ycombinator.com/item?id=50453288
-score: 53
+score: 270
 author: everlier
-comments_count: 11
+comments_count: 59
 published_at: '2026-11-11T19:09:29+05:30'
-collected_at: '2026-11-11T21:50:33.950397+05:30'
+collected_at: '2026-11-12T04:21:21.237255+05:30'
 tags:
 - hackernews
 - threejs
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:hyper-realistic-sand-with-webgl2
 first_seen: '2026-11-11T21:50:33.950397+05:30'
-last_seen: '2026-11-11T21:50:33.950397+05:30'
-last_checked: '2026-11-11T21:50:33.950397+05:30'
+last_seen: '2026-11-12T04:21:21.237255+05:30'
+last_checked: '2026-11-12T04:21:21.237255+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by everlier. Score: 53, Comments: 11.
+Hacker News story by everlier. Score: 270, Comments: 59.
 Original Link: https://av.github.io/safe-sand/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: everlier
-- Score: 53 Upvotes
-- Comments: 11 Discussions
+- Score: 270 Upvotes
+- Comments: 59 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50453288
 - Original Article: https://av.github.io/safe-sand
 

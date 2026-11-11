@@ -13,13 +13,14 @@ collected_at: '2026-11-11T21:50:35.624481+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:synaptics-patent-claims-stop-work-on-displaylink-d
 first_seen: '2026-11-11T03:26:02.205631+05:30'
 last_seen: '2026-11-11T21:50:35.624481+05:30'
 last_checked: '2026-11-11T21:50:35.624481+05:30'
 health_score: 100
 ---
+
 
 # Synaptics patent claims stop work on DisplayLink drivers
 

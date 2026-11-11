@@ -6,7 +6,7 @@ source_url: https://gittrend.io/trending/rag
 resource_id: blog:rag-github-repos-gaining-traction-2026-gittrend
 local_vault_path: ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   Trending RAG implementations increasingly leverage knowledge graphs for structured external knowledge integration, employing techniques
+*   Retrieval-Augmented Generation (RAG) systems leverage external knowledge retrieval to
 
 ## Use Cases
 
