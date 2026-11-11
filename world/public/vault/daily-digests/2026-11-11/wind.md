@@ -1,33 +1,19 @@
 ---
-title: rock903400-byte/wind
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-11-11
-tech_stack:
-- HTML
-- JavaScript
-- Python
-- Streamlit
-- LINE API
-- Google Workspace API
-- RAG (Retrieval-Augmented Generation)
-- AHK (AutoHotkey)
-- Cloudflare Workers
+title: "rock903400-byte/wind"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "JavaScript", "Python", "Streamlit", "LINE API", "Google Workspace API", "RAG (Retrieval-Augmented Generation)", "AHK (AutoHotkey)", "Cloudflare Workers"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI automation
-- RAG systems
-- cross-industry development
-- business workflows
-- lightweight deployment
-source: https://github.com/rock903400-byte/wind
+deployment_complexity: "Medium"
+tags: ["AI automation", "RAG systems", "cross-industry development", "business workflows", "lightweight deployment"]
+source: "https://github.com/rock903400-byte/wind"
 stars: 1
-language: HTML
-last_updated: '2026-09-04T02:02:17Z'
-discovered_at: '2026-09-04T02:14:49Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-04T02:02:17Z"
+discovered_at: "2026-09-04T02:14:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

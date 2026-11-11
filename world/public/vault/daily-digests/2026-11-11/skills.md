@@ -1,29 +1,19 @@
 ---
-title: AgentHouse-org/skills
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-11-11
-tech_stack:
-- YAML
-- Markdown
-- GitHub Actions
-- Node.js
-- Python
+title: "AgentHouse-org/skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["YAML", "Markdown", "GitHub Actions", "Node.js", "Python"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI agent skills
-- SKILL.md
-- reusable templates
-- business workflows
-- agent orchestration
-source: https://github.com/AgentHouse-org/skills
+deployment_complexity: "Low"
+tags: ["AI agent skills", "SKILL.md", "reusable templates", "business workflows", "agent orchestration"]
+source: "https://github.com/AgentHouse-org/skills"
 stars: 0
-language: Python
-last_updated: '2026-08-07T14:14:52Z'
-discovered_at: '2026-08-07T14:18:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T14:14:52Z"
+discovered_at: "2026-08-07T14:18:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: komaa-com/docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-11
-tech_stack:
-- MDX
-- Mintlify
-- JavaScript
-- Markdown
+title: "komaa-com/docs"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["MDX", "Mintlify", "JavaScript", "Markdown"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- documentation
-- microsoft teams
-- voice/video integration
-- AI agent backends
-- media bridge
-source: https://github.com/komaa-com/docs
+deployment_complexity: "Low"
+tags: ["documentation", "microsoft teams", "voice/video integration", "AI agent backends", "media bridge"]
+source: "https://github.com/komaa-com/docs"
 stars: 0
-language: MDX
-last_updated: '2026-08-09T20:35:18Z'
-discovered_at: '2026-08-09T20:35:32Z'
-evaluated_by: mistral-small-latest
+language: "MDX"
+last_updated: "2026-08-09T20:35:18Z"
+discovered_at: "2026-08-09T20:35:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
