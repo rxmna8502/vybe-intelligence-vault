@@ -1,30 +1,19 @@
 ---
-title: zelosleone/Hevy-MCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-12
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- HTTP Transport
-- Docker
-- JSON-RPC
-- Async Programming
+title: "zelosleone/Hevy-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP Transport", "Docker", "JSON-RPC", "Async Programming"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- fitness API
-- MCP server
-- Rust
-- HTTP transport
-- session management
-source: https://github.com/zelosleone/Hevy-MCP
+deployment_complexity: "Low"
+tags: ["fitness API", "MCP server", "Rust", "HTTP transport", "session management"]
+source: "https://github.com/zelosleone/Hevy-MCP"
 stars: 1
-language: Rust
-last_updated: '2026-08-09T08:41:28Z'
-discovered_at: '2026-08-09T08:45:17Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-09T08:41:28Z"
+discovered_at: "2026-08-09T08:45:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

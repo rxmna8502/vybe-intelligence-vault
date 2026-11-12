@@ -1,33 +1,19 @@
 ---
-title: Royc4515/gemini-sommelier-bot
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-12
-tech_stack:
-- Python 3.12
-- Google Gemini API
-- Telegram Bot API
-- Vercel Serverless Functions
-- Google Apps Script
-- Google Sheets API
-- google-genai SDK
-- Flask (for local testing)
-- unittest (for testing)
+title: "Royc4515/gemini-sommelier-bot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12", "Google Gemini API", "Telegram Bot API", "Vercel Serverless Functions", "Google Apps Script", "Google Sheets API", "google-genai SDK", "Flask (for local testing)", "unittest (for testing)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Telegram bot
-- wine inventory
-- Gemini API
-- serverless
-- multimodal AI
-source: https://github.com/Royc4515/gemini-sommelier-bot
+deployment_complexity: "Medium"
+tags: ["Telegram bot", "wine inventory", "Gemini API", "serverless", "multimodal AI"]
+source: "https://github.com/Royc4515/gemini-sommelier-bot"
 stars: 0
-language: Python
-last_updated: '2026-11-11T12:28:34Z'
-discovered_at: '2026-11-11T12:38:04Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-11-11T12:28:34Z"
+discovered_at: "2026-11-11T12:38:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
