@@ -13,13 +13,14 @@ collected_at: '2026-11-12T12:52:49.274443+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:faster-retrieval-for-better-more-efficient-rag
 first_seen: '2026-11-12T04:21:20.915376+05:30'
 last_seen: '2026-11-12T12:52:49.274443+05:30'
 last_checked: '2026-11-12T12:52:49.274443+05:30'
 health_score: 100
 ---
+
 
 # Faster Retrieval for Better, More Efficient RAG
 

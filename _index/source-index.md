@@ -40174,11 +40174,9 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [93% of paint splatters are valid Perl programs (2019)](../ai/community/93-of-paint-splatters-are-valid-perl-programs-2019.md)
-  - [Faster Retrieval for Better, More Efficient RAG](../ai/community/faster-retrieval-for-better-more-efficient-rag.md)
-  - [Hyper-Realistic Sand with WebGL2](../web-development/community/hyper-realistic-sand-with-webgl2.md)
-  - [My AI agents found an unmapped Maya site?](../ai/community/google-swe-points-48-ai-agents-at-nasa-lidar-finds.md)
-  - [Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)](../ai/community/slavdom-unearthed-marian-wawrzeniecki-s-neopagan-p.md)
-  - [United Airlines bans AI agents from booking flights on behalf of travelers](../ai/community/united-airlines-bans-ai-agents-from-booking-flight.md)
+  - [Anthropic IPO](../ai/community/anthropic-ipo.md)
+  - [Decoding REXPaint Files in Odin](../ai/community/decoding-rexpaint-files-in-odin.md)
+  - [I'm making LLMs work on small and old devices](../ai/community/hyperionaidev-smolmaxxing.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -40926,6 +40924,7 @@ Resources organized by publisher feed and query sources.
   - [The Age of Machine Learning As Code Has Arrived](../ai/models/huggingface-blog-the-age-of-ml-as-code.md)
   - [The Agent Said It Was Done. The Database Disagreed.](../ai/agents/huggingface-blog-microsoft-thinkingbox.md)
   - [The Annotated Diffusion Model](../ai/models/huggingface-blog-annotated-diffusion.md)
+  - [The Definitive Fine-Tuning Guide for 3D Generation Models](../ai/models/huggingface-blog-3d-lora-finetuning.md)
   - [The Falcon has landed in the Hugging Face ecosystem](../ai/models/huggingface-blog-falcon.md)
   - [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-3.md)
   - [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](../ai/models/huggingface-blog-leaderboard-hallucinations.md)
@@ -41088,11 +41087,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: huggingface_dataset)
 
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
+  - [agibot-world/AgiBotWorld2026](../ai/models/huggingface-datasets-agibot-world.md)
   - [allenai/objaverse](../ai/models/huggingface-datasets-allenai.md)
   - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
-  - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [neashton/windsorml](../ai/models/huggingface-datasets-neashton.md)
   - [nicoboou/IDRCell100k](../ai/models/huggingface-datasets-nicoboou.md)
   - [tropos-labs/eigen-face-dataset-256](../ai/models/huggingface-datasets-tropos-labs.md)
@@ -43081,6 +43080,7 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
@@ -43442,6 +43442,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -44095,4 +44096,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-12T13:09:22.858905+05:30*
+*Index generated on 2026-11-12T22:43:02.413213+05:30*

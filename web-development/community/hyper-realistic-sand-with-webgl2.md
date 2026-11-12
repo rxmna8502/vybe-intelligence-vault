@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgl
-status: active
+status: inactive
 resource_id: hackernews:hyper-realistic-sand-with-webgl2
 first_seen: '2026-11-11T21:50:33.950397+05:30'
 last_seen: '2026-11-12T12:52:49.150309+05:30'
 last_checked: '2026-11-12T12:52:49.150309+05:30'
 health_score: 100
 ---
+
 
 # Hyper-Realistic Sand with WebGL2
 

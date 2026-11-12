@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-10-05T22:48:26.420405+05:30'
-published_at: '2026-10-05T14:57:35Z'
+collected_at: '2026-11-12T22:29:25.749125+05:30'
+published_at: '2026-11-12T16:02:23Z'
 tags:
 - agents
 - frontend_ui
@@ -13,7 +13,7 @@ tags:
 - javascript
 - meta-ai
 - models
-stars: 4832
+stars: 4911
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-10-05T22:48:26.420405+05:30'
-last_seen: '2026-10-05T22:48:26.420405+05:30'
-last_checked: '2026-10-05T22:48:26.420405+05:30'
+first_seen: '2026-11-12T22:29:25.749125+05:30'
+last_seen: '2026-11-12T22:29:25.749125+05:30'
+last_checked: '2026-11-12T22:29:25.749125+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a hands-on approach to building AI agents from scratch, emphasizing transparent understanding over black-box solutions.
-*   Utilizes local LLMs (e.g., `node-llama-cpp`) to demonstrate agent mechanics without reliance on external API services.
-*   Focuses on implementing fundamental agent patterns: function calling, memory management, and ReAct (Reasoning and Acting) loops.
+*   Provides a from-scratch implementation guide for AI agents, emphasizing local LLMs and transparent internal mechanisms.
+*   Covers core agentic patterns including function calling, memory management, and ReAct reasoning loops.
+*   Utilizes JavaScript and `node-llama-cpp` for practical, local LLM-based agent development.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 4832
-- Forks: 706
+- Stars: 4911
+- Forks: 710
 - Language: JavaScript
 - Topics: ai-agents, educational, function-calling, llm, llm-agent, node-llama-cpp, react-agent, tutorial
-- Last Updated: 2026-10-05T14:57:35Z
+- Last Updated: 2026-11-12T16:02:23Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-23T19:39:04Z

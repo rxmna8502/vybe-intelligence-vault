@@ -13,13 +13,14 @@ collected_at: '2026-11-12T12:52:48.388907+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:slavdom-unearthed-marian-wawrzeniecki-s-neopagan-p
 first_seen: '2026-11-12T12:52:48.388907+05:30'
 last_seen: '2026-11-12T12:52:48.388907+05:30'
 last_checked: '2026-11-12T12:52:48.388907+05:30'
 health_score: 100
 ---
+
 
 # Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)
 

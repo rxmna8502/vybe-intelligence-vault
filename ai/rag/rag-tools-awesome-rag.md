@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://noworneverev.github.io/Awesome-RAG/
-published_at: '2026-11-11T21:51:37.320381+05:30'
-collected_at: '2026-11-11T21:51:37.320395+05:30'
+published_at: '2026-11-12T22:27:21.608885+05:30'
+collected_at: '2026-11-12T22:27:21.608899+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-tools-awesome-rag
-first_seen: '2026-11-11T21:51:37.320395+05:30'
-last_seen: '2026-11-11T21:51:37.320395+05:30'
-last_checked: '2026-11-11T21:51:37.320395+05:30'
+first_seen: '2026-11-12T22:27:21.608899+05:30'
+last_seen: '2026-11-12T22:27:21.608899+05:30'
+last_checked: '2026-11-12T22:27:21.608899+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG development relies on frameworks like LangChain, LlamaIndex, and Haystack for LLM orchestration, complemented by specialized RAG engines (RAGFlow) and AutoML tools (AutoRAG) for pipeline optimization.
-*   Core RAG infrastructure includes diverse vector stores (e.g., Weaviate, Milvus, Qdrant, FAISS, PGVector) for efficient semantic retrieval, alongside memory systems (Mem0) and guardrails (NeMo Guardrails) for enhanced control and safety.
-*   The RAG ecosystem integrates advanced components such as GraphRAG for knowledge graph-enhanced retrieval, multi-agent frameworks (LangGraph, AutoGen, crewAI) for complex task execution, and robust evaluation frameworks (RAGAS, DeepEval, TruLens) for performance assessment.
+*   RAG development is supported by comprehensive frameworks like LangChain, LlamaIndex, and Haystack, alongside specialized RAG engines (e.g., RAGFlow) and AutoML tools (AutoRAG) for pipeline optimization.
+*   Core RAG infrastructure includes diverse vector databases (e.g., Weaviate, Milvus, Qdrant, PGVector) for efficient semantic retrieval, complemented by memory systems (Mem0) and graph-based RAG implementations (GraphRAG).
+*   The RAG ecosystem integrates agentic frameworks (LangGraph, AutoGen), guardrails (NeMo Guardrails), robust evaluation tools (RAGAS, DeepEval), and document processing utilities (Unstructured, Nougat) for end-to-end application development and deployment.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-11-11T21:51:37.320381+05:30
+- Published: 2026-11-12T22:27:21.608885+05:30
 
 ## Related Tags
 

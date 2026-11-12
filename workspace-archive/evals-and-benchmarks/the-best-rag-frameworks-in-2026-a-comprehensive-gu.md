@@ -40,8 +40,7 @@ selection_reason:
 
 ## Summary
 
-*   Leading RAG frameworks in 2026 include LangChain for flexible, agentic workflows (LangGraph), LlamaIndex for advanced indexing and multimodal data handling, and Haystack for enterprise-grade, modular search pipelines.
-*   Core RAG pipelines
+*   Leading RAG frameworks in 2026 include LangChain (agentic workflows via LangGraph, 700+ integrations), LlamaIndex (advanced indexing, multimodal data handling, query engines), and Haystack (enterprise-grade
 
 ## Use Cases
 

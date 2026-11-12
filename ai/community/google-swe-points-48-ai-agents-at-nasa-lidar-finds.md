@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:my-ai-agents-found-an-unmapped-maya-site
 first_seen: '2026-11-11T21:50:32.993522+05:30'
 last_seen: '2026-11-12T12:52:49.106386+05:30'
 last_checked: '2026-11-12T12:52:49.106386+05:30'
 health_score: 100
 ---
+
 
 # My AI agents found an unmapped Maya site?
 

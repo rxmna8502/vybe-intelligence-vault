@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:united-airlines-bans-ai-agents-from-booking-flight
 first_seen: '2026-11-12T04:21:19.923506+05:30'
 last_seen: '2026-11-12T12:52:47.969817+05:30'
 last_checked: '2026-11-12T12:52:47.969817+05:30'
 health_score: 100
 ---
+
 
 # United Airlines bans AI agents from booking flights on behalf of travelers
 

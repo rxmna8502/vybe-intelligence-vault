@@ -1,19 +1,33 @@
 ---
-title: "cdeust/Cortex"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "PostgreSQL", "pgvector", "MCP (Model Context Protocol)", "FastMCP", "HNSW (Hierarchical Navigable Small World)", "PL/pgSQL", "Docker"]
+title: cdeust/Cortex
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-12
+tech_stack:
+- Python
+- SQLite
+- PostgreSQL
+- pgvector
+- MCP (Model Context Protocol)
+- FastMCP
+- HNSW (Hierarchical Navigable Small World)
+- PL/pgSQL
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["persistent memory", "neuroscience-based", "local-first", "MCP server", "context reconstruction"]
-source: "https://github.com/cdeust/Cortex"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- neuroscience-based
+- local-first
+- MCP server
+- context reconstruction
+source: https://github.com/cdeust/Cortex
 stars: 67
-language: "Python"
-last_updated: "2026-07-14T21:55:27Z"
-discovered_at: "2026-07-14T21:56:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T21:55:27Z'
+discovered_at: '2026-07-14T21:56:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
