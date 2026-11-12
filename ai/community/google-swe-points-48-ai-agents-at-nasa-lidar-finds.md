@@ -1,32 +1,32 @@
 ---
-title: My AI agents found an unmapped Maya site
+title: My AI agents found an unmapped Maya site?
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://pietromiotti.com/latest/maya-site
 hn_url: https://news.ycombinator.com/item?id=50452455
-score: 894
+score: 969
 author: eyvindn
-comments_count: 326
+comments_count: 354
 published_at: '2026-11-11T17:35:22+05:30'
-collected_at: '2026-11-12T04:21:21.080578+05:30'
+collected_at: '2026-11-12T12:52:49.106386+05:30'
 tags:
 - agents
 - ai
 - hackernews
 status: active
-resource_id: hackernews:google-swe-points-48-ai-agents-at-nasa-lidar-finds
+resource_id: hackernews:my-ai-agents-found-an-unmapped-maya-site
 first_seen: '2026-11-11T21:50:32.993522+05:30'
-last_seen: '2026-11-12T04:21:21.080578+05:30'
-last_checked: '2026-11-12T04:21:21.080578+05:30'
+last_seen: '2026-11-12T12:52:49.106386+05:30'
+last_checked: '2026-11-12T12:52:49.106386+05:30'
 health_score: 100
 ---
 
-# My AI agents found an unmapped Maya site
+# My AI agents found an unmapped Maya site?
 
 ## Summary
 
-Hacker News story by eyvindn. Score: 894, Comments: 326.
+Hacker News story by eyvindn. Score: 969, Comments: 354.
 Original Link: https://pietromiotti.com/latest/maya-site
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: eyvindn
-- Score: 894 Upvotes
-- Comments: 326 Discussions
+- Score: 969 Upvotes
+- Comments: 354 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50452455
 - Original Article: https://pietromiotti.com/latest/maya-site
 

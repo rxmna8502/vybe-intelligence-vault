@@ -40173,11 +40173,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [93% of Paint Splatters Are Valid Perl Programs (2019)](../ai/community/93-of-paint-splatters-are-valid-perl-programs-2019.md)
+  - [93% of paint splatters are valid Perl programs (2019)](../ai/community/93-of-paint-splatters-are-valid-perl-programs-2019.md)
   - [Faster Retrieval for Better, More Efficient RAG](../ai/community/faster-retrieval-for-better-more-efficient-rag.md)
   - [Hyper-Realistic Sand with WebGL2](../web-development/community/hyper-realistic-sand-with-webgl2.md)
-  - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](../ai/community/launch-hn-pomerado-yc-f26-turn-any-website-into-an.md)
-  - [My AI agents found an unmapped Maya site](../ai/community/google-swe-points-48-ai-agents-at-nasa-lidar-finds.md)
+  - [My AI agents found an unmapped Maya site?](../ai/community/google-swe-points-48-ai-agents-at-nasa-lidar-finds.md)
+  - [Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)](../ai/community/slavdom-unearthed-marian-wawrzeniecki-s-neopagan-p.md)
   - [United Airlines bans AI agents from booking flights on behalf of travelers](../ai/community/united-airlines-bans-ai-agents-from-booking-flight.md)
 
 ## Unknown Source (type: huggingface)
@@ -41580,6 +41580,7 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
+  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -43081,7 +43082,6 @@ Resources organized by publisher feed and query sources.
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
-  - [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
@@ -44095,4 +44095,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-12T04:38:04.381573+05:30*
+*Index generated on 2026-11-12T13:09:22.858905+05:30*

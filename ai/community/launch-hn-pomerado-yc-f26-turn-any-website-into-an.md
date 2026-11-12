@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-pomerado-yc-f26-turn-any-website-into-an
 first_seen: '2026-11-12T04:21:21.515840+05:30'
 last_seen: '2026-11-12T04:21:21.515840+05:30'
 last_checked: '2026-11-12T04:21:21.515840+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
 
