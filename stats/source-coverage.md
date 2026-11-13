@@ -6,13 +6,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 39285 |
 | github | 1026 |
-<<<<<<< Updated upstream
-| semanticscholar.org | 70 |
-=======
-| huggingface | 958 |
-| nextjs.org | 86 |
 | semanticscholar.org | 71 |
->>>>>>> Stashed changes
 | youtube | 66 |
 | support.google.com | 59 |
 | huggingface | 25 |
@@ -77,7 +71,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | docs.databricks.com | 5 |
 | hub.docker.com | 5 |
 | datatracker.ietf.org | 5 |
-| microsoft.github.io | 4 |
 | docs.ragas.io | 4 |
 | llamaindex.ai | 4 |
 | platform.openai.com | 4 |
@@ -114,8 +107,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | education.gainsight.com | 4 |
 | tech.cornell.edu | 4 |
 | csrc.nist.gov | 4 |
-| martinuke0.github.io | 3 |
 | analyticsvidhya.com | 3 |
+| microsoft.github.io | 3 |
 | policies.google.com | 3 |
 | source.android.com | 3 |
 | dspy.ai | 3 |
@@ -170,11 +163,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-<<<<<<< Updated upstream
 | nextjs.org | 3 |
-=======
-| gittrend.io | 2 |
->>>>>>> Stashed changes
+| martinuke0.github.io | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -317,9 +307,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | edge0.ai | 1 |
 | status.claude.com | 1 |
 | coyotetracks.org | 1 |
-| universalrag.github.io | 1 |
-| acuere-making-sharper.github.io | 1 |
-| todap.github.io | 1 |
+| gittrend.io | 1 |
 | noworneverev.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
