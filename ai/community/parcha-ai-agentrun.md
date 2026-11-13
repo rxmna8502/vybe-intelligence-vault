@@ -1,34 +1,32 @@
 ---
-title: 'Show HN: AgentRun: DSL to turn agents into workflows'
+title: 'Show HN: AgentRun – open-source, Self-improving Managed Agents'
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/parcha-ai/agentrun
-hn_url: https://news.ycombinator.com/item?id=49821438
-score: 38
+hn_url: https://news.ycombinator.com/item?id=50471650
+score: 75
 author: miguelrios
-comments_count: 6
-published_at: '2026-09-24T01:12:58+05:30'
-collected_at: '2026-09-25T04:48:57.369219+05:30'
+comments_count: 16
+published_at: '2026-11-12T23:45:48+05:30'
+collected_at: '2026-11-13T06:42:33.157937+05:30'
 tags:
 - agents
 - hackernews
-- workflows
-status: inactive
+status: active
 resource_id: github:parcha-ai/agentrun
 first_seen: '2026-09-25T01:35:09.897418+05:30'
-last_seen: '2026-09-25T04:48:57.369219+05:30'
-last_checked: '2026-09-25T04:48:57.369219+05:30'
+last_seen: '2026-11-13T06:42:33.157937+05:30'
+last_checked: '2026-11-13T06:42:33.157937+05:30'
 health_score: 100
 ---
 
-
-# Show HN: AgentRun: DSL to turn agents into workflows
+# Show HN: AgentRun – open-source, Self-improving Managed Agents
 
 ## Summary
 
-Hacker News story by miguelrios. Score: 38, Comments: 6.
-Original Link: https://github.com/Parcha-ai/agentrun
+Hacker News story by miguelrios. Score: 75, Comments: 16.
+Original Link: https://github.com/Parcha-ai/agentrun/blob/main/README.md
 
 ## Why It Matters
 
@@ -37,9 +35,9 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: miguelrios
-- Score: 38 Upvotes
-- Comments: 6 Discussions
-- Hacker News Link: https://news.ycombinator.com/item?id=49821438
+- Score: 75 Upvotes
+- Comments: 16 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=50471650
 - Original Article: https://github.com/parcha-ai/agentrun
 
 ## Implementation Notes
@@ -50,4 +48,3 @@ Review community comments to extract technical caveats, alternative recommendati
 
 - agents
 - hackernews
-- workflows

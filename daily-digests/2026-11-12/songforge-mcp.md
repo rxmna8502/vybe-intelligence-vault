@@ -1,19 +1,28 @@
 ---
-title: "unbrainwashed-physics713/SongForge-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "ACE-Step 1.5", "Claude AI", "Music Generation"]
+title: unbrainwashed-physics713/SongForge-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-12
+tech_stack:
+- MCP (Model Context Protocol)
+- ACE-Step 1.5
+- Claude AI
+- Music Generation
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["music generation", "MCP server", "AI workflows", "Claude integration", "ACE-Step"]
-source: "https://github.com/unbrainwashed-physics713/SongForge-MCP"
+deployment_complexity: Medium
+tags:
+- music generation
+- MCP server
+- AI workflows
+- Claude integration
+- ACE-Step
+source: https://github.com/unbrainwashed-physics713/SongForge-MCP
 stars: 0
-language: "None"
-last_updated: "2026-08-07T02:39:12Z"
-discovered_at: "2026-08-07T02:42:28Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T02:39:12Z'
+discovered_at: '2026-08-07T02:42:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

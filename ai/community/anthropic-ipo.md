@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ipo.anthropic.com/us
 hn_url: https://news.ycombinator.com/item?id=50465829
-score: 483
+score: 809
 author: josephljohnston
-comments_count: 507
+comments_count: 801
 published_at: '2026-11-12T17:16:41+05:30'
-collected_at: '2026-11-12T22:26:14.372757+05:30'
+collected_at: '2026-11-13T06:42:32.782913+05:30'
 tags:
 - anthropic
 - hackernews
 status: active
 resource_id: hackernews:anthropic-ipo
 first_seen: '2026-11-12T22:26:14.372757+05:30'
-last_seen: '2026-11-12T22:26:14.372757+05:30'
-last_checked: '2026-11-12T22:26:14.372757+05:30'
+last_seen: '2026-11-13T06:42:32.782913+05:30'
+last_checked: '2026-11-13T06:42:32.782913+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by josephljohnston. Score: 483, Comments: 507.
+Hacker News story by josephljohnston. Score: 809, Comments: 801.
 Original Link: https://ipo.anthropic.com/us/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: josephljohnston
-- Score: 483 Upvotes
-- Comments: 507 Discussions
+- Score: 809 Upvotes
+- Comments: 801 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50465829
 - Original Article: https://ipo.anthropic.com/us
 

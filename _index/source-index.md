@@ -40173,10 +40173,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [93% of paint splatters are valid Perl programs (2019)](../ai/community/93-of-paint-splatters-are-valid-perl-programs-2019.md)
+  - [AI is turning Apple's app review process into a nightmare for synth developers](../ai/community/ai-is-turning-apple-s-app-review-process-into-a-ni.md)
   - [Anthropic IPO](../ai/community/anthropic-ipo.md)
-  - [Decoding REXPaint Files in Odin](../ai/community/decoding-rexpaint-files-in-odin.md)
+  - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](../ai/community/chinese-frontier-ai-models-carry-the-fingerprint-o.md)
+  - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](../ai/community/edge0-145b-frontier-ai-capabilities-on-your-own-co.md)
   - [I'm making LLMs work on small and old devices](../ai/community/hyperionaidev-smolmaxxing.md)
+  - [Show HN: AgentRun – open-source, Self-improving Managed Agents](../ai/community/parcha-ai-agentrun.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -40678,6 +40680,7 @@ Resources organized by publisher feed and query sources.
   - [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](../ai/models/huggingface-blog-project-numina-kimina-prover.md)
   - [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)
   - [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](../ai/models/huggingface-blog-llm-inference-on-edge.md)
+  - [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](../ai/models/huggingface-blog-ibm-granite-llmon-an-llm-native-markup-language-now-in-granite.md)
   - [Large Language Models: A New Moore's Law?](../ai/models/huggingface-blog-large-language-models.md)
   - [Large-scale Near-deduplication Behind BigCode](../ai/models/huggingface-blog-dedup.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
@@ -41579,7 +41582,6 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
-  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -43080,7 +43082,6 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
-  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
@@ -43161,7 +43162,6 @@ Resources organized by publisher feed and query sources.
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
   - [Retrieval Augmented Generation: Streamlining the creation of intelligent natural language processing models](../ai/rag/retrieval-augmented-generation-streamlining-the-cr.md)
   - [Retrieval-Augmented Generation (RAG) - DSPy](../ai/rag/retrieval-augmented-generation-rag-dspy.md)
-  - [Retrieval-Augmented Generation (RAG): Complete Practical and Architect-Level Guide](../ai/rag/retrieval-augmented-generation-rag-complete-practi.md)
   - [Review your order history - Google Play Help](../ai/rag/review-your-order-history-google-play-help.md)
   - [Ring Current Modelling: GFZ](../ai/resources/ring-current-modelling-gfz.md)
   - [Robustness testing pipeline for NLP with Microsoft CheckList | by AI Singapore | AI Singapore TechBytes | Medium](../ai/rag/robustness-testing-pipeline-for-nlp-with-microsoft.md)
@@ -43442,7 +43442,6 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
-  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -44096,4 +44095,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-12T22:43:02.413213+05:30*
+*Index generated on 2026-11-13T06:58:59.987920+05:30*

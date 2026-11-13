@@ -13,13 +13,14 @@ collected_at: '2026-11-12T22:26:16.139597+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:93-of-paint-splatters-are-valid-perl-programs-2019
 first_seen: '2026-11-12T04:21:20.757316+05:30'
 last_seen: '2026-11-12T22:26:16.139597+05:30'
 last_checked: '2026-11-12T22:26:16.139597+05:30'
 health_score: 100
 ---
+
 
 # 93% of paint splatters are valid Perl programs (2019)
 
