@@ -1,19 +1,34 @@
 ---
-title: "shisuidata/Forge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQL", "JSON Schema", "LLM", "PostgreSQL", "SQLite", "MySQL", "Docker", "CLI", "Web UI"]
+title: shisuidata/Forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-13
+tech_stack:
+- Python
+- SQL
+- JSON Schema
+- LLM
+- PostgreSQL
+- SQLite
+- MySQL
+- Docker
+- CLI
+- Web UI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["trustworthy AI", "deterministic SQL", "data querying", "auditability", "AI agent infrastructure"]
-source: "https://github.com/shisuidata/Forge"
+deployment_complexity: Medium
+tags:
+- trustworthy AI
+- deterministic SQL
+- data querying
+- auditability
+- AI agent infrastructure
+source: https://github.com/shisuidata/Forge
 stars: 11
-language: "Python"
-last_updated: "2026-09-03T19:03:33Z"
-discovered_at: "2026-09-03T19:07:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T19:03:33Z'
+discovered_at: '2026-09-03T19:07:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

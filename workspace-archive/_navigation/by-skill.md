@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ---
-*Last updated: 2026-11-13 18:14 IST*
+*Last updated: 2026-11-14 01:49 IST*

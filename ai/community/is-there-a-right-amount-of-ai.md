@@ -13,13 +13,14 @@ collected_at: '2026-11-13T17:53:25.998608+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:is-there-a-right-amount-of-ai
 first_seen: '2026-11-13T17:53:25.998608+05:30'
 last_seen: '2026-11-13T17:53:25.998608+05:30'
 last_checked: '2026-11-13T17:53:25.998608+05:30'
 health_score: 100
 ---
+
 
 # Is there a 'right amount' of AI?
 

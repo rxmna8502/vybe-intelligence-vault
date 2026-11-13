@@ -1,19 +1,28 @@
 ---
-title: "CODE4LIFEOFFICIAL/.github"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["GitHub Profile", "Organizational Metadata", "AI Development", "Software Engineering"]
+title: CODE4LIFEOFFICIAL/.github
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-13
+tech_stack:
+- GitHub Profile
+- Organizational Metadata
+- AI Development
+- Software Engineering
 quality_score: 3
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["AI Development", "Software Engineering", "RAG", "LLM", "Computer Vision"]
-source: "https://github.com/CODE4LIFEOFFICIAL/.github"
+deployment_complexity: Low
+tags:
+- AI Development
+- Software Engineering
+- RAG
+- LLM
+- Computer Vision
+source: https://github.com/CODE4LIFEOFFICIAL/.github
 stars: 1
-language: "None"
-last_updated: "2026-08-10T18:55:00Z"
-discovered_at: "2026-08-10T19:01:21Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-10T18:55:00Z'
+discovered_at: '2026-08-10T19:01:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

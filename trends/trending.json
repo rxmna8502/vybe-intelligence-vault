@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "generated_at": "2026-11-14T01:44:44.552662+05:30",
   "trending_resources": [
     {
@@ -11,10 +12,25 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 6,
+=======
+  "generated_at": "2026-11-14T01:51:02.838130+05:30",
+  "trending_resources": [
+    {
+      "id": "hackernews:elevated-errors-on-claude-ai-claude-code-and-platf",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "file_path": "ai/community/elevated-errors-on-claude-ai-claude-code-and-platf.md",
+      "score": 462,
+      "score_change": 208,
+      "rank_change": 2,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
       "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
       "category": "ai/rag",
@@ -24,10 +40,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 6,
+=======
+      "id": "github:langchain-ai/new-langgraphjs-project",
+      "title": "langchain-ai/new-langgraphjs-project",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/langchain-ai/new-langgraphjs-project",
+      "file_path": "ai/agents/langchain-ai-new-langgraphjs-project.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 5622,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:ragnarokoffline/ragnarokoffline.github.io",
       "title": "ragnarokoffline/ragnarokoffline.github.io",
       "category": "ai/rag",
@@ -102,6 +130,17 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 6,
+=======
+      "id": "github:jcodesmore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/jcodesmore/ai-website-cloner-template",
+      "file_path": "ai/agents/jcodesmore-ai-website-cloner-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 23882,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,11 +153,16 @@
       "file_path": "ai/rag/datawhalechina-llm-universe.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 6,
+=======
+      "rank_change": 13,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "blog:fact-fetch-and-reason-a-unified-evaluation-of-retr",
       "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
       "category": "ai/research",
@@ -128,12 +172,89 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 34,
+=======
+      "id": "github:datawhalechina/all-in-rag",
+      "title": "datawhalechina/all-in-rag",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/all-in-rag",
+      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 8,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 10,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:data-platforms-and-analytics",
+      "title": "Data platforms and analytics",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
+      "file_path": "ai/companies/data-platforms-and-analytics.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 11,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:search-information-retrieval",
+      "title": "Search & information retrieval",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
+      "file_path": "ai/companies/search-information-retrieval.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 11,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:human-language-technologies",
+      "title": "Human language technologies",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
+      "file_path": "ai/companies/human-language-technologies.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 11,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:human-computer-interaction",
+      "title": "Human-computer interaction",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
+      "file_path": "ai/companies/human-computer-interaction.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 11,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
+<<<<<<< Updated upstream
       "id": "github:infiniflow/ragflow",
       "title": "infiniflow/ragflow",
       "category": "ai/rag",
@@ -169,10 +290,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1060,
+=======
+      "id": "github:jcodesmore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/jcodesmore/ai-website-cloner-template",
+      "file_path": "ai/agents/jcodesmore-ai-website-cloner-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 23882,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:hkuds/rag-anything",
       "title": "HKUDS/RAG-Anything",
       "category": "ai/rag",
@@ -221,10 +354,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1060,
+=======
+      "id": "github:langchain-ai/new-langgraphjs-project",
+      "title": "langchain-ai/new-langgraphjs-project",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/langchain-ai/new-langgraphjs-project",
+      "file_path": "ai/agents/langchain-ai-new-langgraphjs-project.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 5622,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:microsoft/agentsleague",
       "title": "microsoft/agentsleague",
       "category": "ai/agents",
@@ -234,10 +379,61 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1060,
+=======
+      "id": "huggingface:blog/decision",
+      "title": "Decision Models in Hugging Face",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/decision",
+      "file_path": "ai/models/huggingface-blog-decision.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 34,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+      "id": "huggingface:blog/hub-gcp-marketplace",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "file_path": "ai/models/huggingface-blog-hub-gcp-marketplace.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 34,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/token-pooling",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "file_path": "ai/models/huggingface-blog-token-pooling.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 34,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/qvac/botpsy",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "category": "ai/agents",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "file_path": "ai/agents/huggingface-blog-qvac-botpsy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 34,
+>>>>>>> Stashed changes
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+<<<<<<< Updated upstream
       "id": "blog:rag-tools-awesome-rag",
       "title": "RAG Tools | Awesome RAG",
       "category": "ai/rag",
@@ -247,10 +443,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1060,
+=======
+      "id": "huggingface:blog/3d-lora-finetuning",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "file_path": "ai/models/huggingface-blog-3d-lora-finetuning.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 34,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:raguteam/ragu",
       "title": "RaguTeam/RAGU",
       "category": "ai/rag",
@@ -260,18 +468,199 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1060,
+=======
+      "id": "huggingface:blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "file_path": "ai/models/huggingface-blog-ibm-granite-llmon-an-llm-native-markup-language-now-in-granite.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 34,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/amazon/higher-order-pruning-experts",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "file_path": "ai/models/huggingface-blog-amazon-higher-order-pruning-experts.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 33,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/how-to-train",
+      "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/how-to-train",
+      "file_path": "ai/models/huggingface-blog-how-to-train.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 32,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
+<<<<<<< Updated upstream
       "id": "blog:suggest",
       "title": "[SUGGEST] - ",
       "category": "",
       "source_type": "",
       "url": "",
       "file_path": ".github/ISSUE_TEMPLATE/resource-suggestion.md",
+=======
+      "id": "hackernews:reverse-engineering-my-coway-air-purifier-to-ditch",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
+      "file_path": "ai/community/reverse-engineering-my-coway-air-purifier-to-ditch.md",
+      "score": 565,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:ai-is-destroying-the-trust-between-writers-and-rea",
+      "title": "AI is destroying the trust between writers and readers",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
+      "file_path": "ai/community/ai-is-destroying-the-trust-between-writers-and-rea.md",
+      "score": 269,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:ai-unlocks-godel-s-notebooks-said-to-contain-hundr",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "file_path": "ai/community/ai-unlocks-godel-s-notebooks-said-to-contain-hundr.md",
+      "score": 185,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:brazil-s-caixa-insurer-breach-exposes-names-and-ta",
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "file_path": "ai/community/brazil-s-caixa-insurer-breach-exposes-names-and-ta.md",
+      "score": 148,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:why-is-google-cutting-off-search-from-ai-free-scho",
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "file_path": "ai/community/why-is-google-cutting-off-search-from-ai-free-scho.md",
+      "score": 113,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:openai-disbands-its-robotics-team-as-its-general-m",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+      "file_path": "ai/community/openai-disbands-its-robotics-team-as-its-general-m.md",
+      "score": 64,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:the-avalanche-that-hit-math-is-coming-for-ai-devel",
+      "title": "The avalanche that hit math is coming for AI development",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://dwarkesh.com/p/rsi",
+      "file_path": "ai/community/the-avalanche-that-hit-math-is-coming-for-ai-devel.md",
+      "score": 44,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:perplexity-decider-v1-3-training-eval-and-use-case",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://perplexity.ai/hub/blog/perplexity-decider",
+      "file_path": "ai/community/perplexity-decider-v1-3-training-eval-and-use-case.md",
+      "score": 5,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "file_path": "ai/models/huggingface-blog-ggml-org-llama-cpp-v1.md",
+>>>>>>> Stashed changes
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+<<<<<<< Updated upstream
+    }
+  ],
+  "recently_inactive_resources": [],
+=======
+    },
+    {
+      "id": "huggingface:blog/allenai/xybench",
+      "title": "XYBench: Helping with the problem behind the question",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "file_path": "ai/models/huggingface-blog-allenai-xybench.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/nvidia/simready-assets-robot-pick-and-place",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "file_path": "ai/models/huggingface-blog-nvidia-simready-assets-robot-pick-and-place.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -279,7 +668,49 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [],
+  "recently_inactive_resources": [
+    {
+      "id": "hackernews:anthropic-ipo",
+      "title": "Anthropic IPO",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://ipo.anthropic.com/us",
+      "file_path": "ai/community/anthropic-ipo.md"
+    },
+    {
+      "id": "github:hyperionaidev/smolmaxxing",
+      "title": "I'm making LLMs work on small and old devices",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "file_path": "ai/community/hyperionaidev-smolmaxxing.md"
+    },
+    {
+      "id": "hackernews:edge0-145b-frontier-ai-capabilities-on-your-own-co",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "file_path": "ai/community/edge0-145b-frontier-ai-capabilities-on-your-own-co.md"
+    },
+    {
+      "id": "github:parcha-ai/agentrun",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/parcha-ai/agentrun",
+      "file_path": "ai/community/parcha-ai-agentrun.md"
+    },
+    {
+      "id": "hackernews:is-there-a-right-amount-of-ai",
+      "title": "Is there a 'right amount' of AI?",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://coyotetracks.org/blog/right-amount-of-ai",
+      "file_path": "ai/community/is-there-a-right-amount-of-ai.md"
+    }
+  ],
+>>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }

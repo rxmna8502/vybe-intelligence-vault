@@ -13,13 +13,14 @@ collected_at: '2026-11-13T17:53:25.374093+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:hyperionaidev/smolmaxxing
 first_seen: '2026-11-12T22:26:14.775539+05:30'
 last_seen: '2026-11-13T17:53:25.374093+05:30'
 last_checked: '2026-11-13T17:53:25.374093+05:30'
 health_score: 100
 ---
+
 
 # I'm making LLMs work on small and old devices
 
