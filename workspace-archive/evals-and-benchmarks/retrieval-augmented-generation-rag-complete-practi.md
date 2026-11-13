@@ -40,7 +40,8 @@ selection_reason:
 
 ## Summary
 
-*   RAG augments LLMs by dynamically retrieving external, frequently updated, or private knowledge at
+*   RAG augments LLMs by providing external, dynamic, and private knowledge at inference time, addressing limitations like outdated training data, lack of proprietary information, and the impracticality of continuous fine-tuning for evolving knowledge bases.
+*   A robust RAG architecture comprises an offline ingestion pipeline (parsing, structure-aware chunking, embedding, indexing) and a query
 
 ## Use Cases
 

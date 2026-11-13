@@ -7,9 +7,18 @@ Below is the file distribution across the vault categories.
 | `/` | 1 |
 | `ai/agents/` | 6893 |
 | `ai/community/` | 9 |
+<<<<<<< Updated upstream
 | `ai/rag/` | 13119 |
+=======
+| `ai/companies/` | 10 |
+| `ai/companies/anthropic/` | 10 |
+| `ai/companies/deepmind/` | 5 |
+| `ai/companies/mistral/` | 10 |
+| `ai/models/` | 843 |
+| `ai/rag/` | 13156 |
+>>>>>>> Stashed changes
 | `ai/releases/` | 1 |
-| `ai/research/` | 21276 |
+| `ai/research/` | 21277 |
 | `ai/resources/` | 1537 |
 | `ai/trending/` | 5 |
 | `web-development/` | 39 |

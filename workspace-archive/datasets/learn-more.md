@@ -1,21 +1,23 @@
 ---
 title: Learn more
-archive_category: model-providers
+archive_category: datasets
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease
+source_url: https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
-archive_score: 80
+archive_score: 84
 archive_tier: useful
-resource_kind: reference
+resource_kind: dataset
 importance: high
 tags:
 - blog-post
+- dataset
 - deepmind
 - google-deepmind-blog
 - reddit
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -23,10 +25,11 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: reference
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: dataset
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
@@ -35,13 +38,13 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Use Cases
 
-- API key selection
-- Cost/capability profiling
-- Provider fallback routing
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease
+Original source URL: https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models
 
 ## Local Vault File
 

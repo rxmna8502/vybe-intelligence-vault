@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "generated_at": "2026-11-13T18:30:34.829959+05:30",
   "trending_resources": [
     {
@@ -11,10 +12,25 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+  "generated_at": "2026-11-13T18:15:44.733962+05:30",
+  "trending_resources": [
+    {
+      "id": "hackernews:edge0-145b-frontier-ai-capabilities-on-your-own-co",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "file_path": "ai/community/edge0-145b-frontier-ai-capabilities-on-your-own-co.md",
+      "score": 276,
+      "score_change": 253,
+      "rank_change": 3,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:microsoft/agentsleague",
       "title": "microsoft/agentsleague",
       "category": "ai/agents",
@@ -24,10 +40,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "hackernews:anthropic-ipo",
+      "title": "Anthropic IPO",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://ipo.anthropic.com/us",
+      "file_path": "ai/community/anthropic-ipo.md",
+      "score": 956,
+      "score_change": 147,
+      "rank_change": 0,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "blog:rag-tools-awesome-rag",
       "title": "RAG Tools | Awesome RAG",
       "category": "ai/rag",
@@ -37,10 +65,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "github:hyperionaidev/smolmaxxing",
+      "title": "I'm making LLMs work on small and old devices",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "file_path": "ai/community/hyperionaidev-smolmaxxing.md",
+      "score": 391,
+      "score_change": 114,
+      "rank_change": 0,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
       "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
       "category": "ai/rag",
@@ -102,6 +142,17 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "github:parcha-ai/agentrun",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/parcha-ai/agentrun",
+      "file_path": "ai/community/parcha-ai-agentrun.md",
+      "score": 111,
+      "score_change": 36,
+      "rank_change": 0,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +165,11 @@
       "file_path": "ai/rag/langchain-ai-rag-from-scratch.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1054,
+=======
+      "rank_change": 1072,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,6 +182,7 @@
       "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1054,
       "new_resource": false,
       "tier": "tier-3"
@@ -143,10 +199,14 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 28067,
+=======
+      "rank_change": 1072,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:stanford-oval/storm",
       "title": "stanford-oval/storm",
       "category": "ai/rag",
@@ -195,6 +255,17 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "blog:build-a-rag-agent-with-azure-ai-search-agent-acade",
+      "title": "🔎 Build a RAG Agent with Azure AI Search | Agent Academy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://microsoft.github.io/agent-academy/special-ops/azure-ai-search-rag",
+      "file_path": "ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1071,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,11 +278,16 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1054,
+=======
+      "rank_change": 1059,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:raguteam/ragu",
       "title": "RaguTeam/RAGU",
       "category": "ai/rag",
@@ -221,10 +297,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "blog:react-canaries-enabling-incremental-feature-rollou",
+      "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
+      "category": "web-development",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2023/05/03/react-canaries",
+      "file_path": "web-development/react-canaries-enabling-incremental-feature-rollou.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 76,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:patchy631/ai-engineering-hub",
       "title": "patchy631/ai-engineering-hub",
       "category": "ai/rag",
@@ -234,10 +322,37 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "blog:sunsetting-create-react-app",
+      "title": "Sunsetting Create React App",
+      "category": "ai/rag",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
+      "file_path": "ai/rag/sunsetting-create-react-app.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 76,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:langchain-ai/rag-from-scratch",
+      "title": "langchain-ai/rag-from-scratch",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "file_path": "ai/rag/langchain-ai-rag-from-scratch.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1072,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "blog:rag-retrieval-augmented-generation-complete-guide",
       "title": "RAG Retrieval Augmented Generation: Complete Guide 2025",
       "category": "ai/rag",
@@ -247,10 +362,35 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "github:dannyblaker/rag-tutorial",
+      "title": "dannyblaker/rag-tutorial",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/dannyblaker/rag-tutorial",
+      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1072,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+      "id": "blog:build-a-rag-agent-with-azure-ai-search-agent-acade",
+      "title": "🔎 Build a RAG Agent with Azure AI Search | Agent Academy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://microsoft.github.io/agent-academy/special-ops/azure-ai-search-rag",
+      "file_path": "ai/rag/build-a-rag-agent-with-azure-ai-search-agent-acade.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1071,
+>>>>>>> Stashed changes
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+<<<<<<< Updated upstream
       "id": "github:nirdiamant/rag_techniques",
       "title": "NirDiamant/RAG_TECHNIQUES",
       "category": "ai/rag",
@@ -260,18 +400,246 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1054,
+=======
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1059,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:react-canaries-enabling-incremental-feature-rollou",
+      "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
+      "category": "web-development",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2023/05/03/react-canaries",
+      "file_path": "web-development/react-canaries-enabling-incremental-feature-rollou.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 76,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:sunsetting-create-react-app",
+      "title": "Sunsetting Create React App",
+      "category": "ai/rag",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
+      "file_path": "ai/rag/sunsetting-create-react-app.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 76,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:react-19-3",
+      "title": "React 19.3",
+      "category": "ai/rag",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2026/09/09/react-19-3",
+      "file_path": "ai/rag/react-19-3.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 76,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:edge0-145b-frontier-ai-capabilities-on-your-own-co",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "file_path": "ai/community/edge0-145b-frontier-ai-capabilities-on-your-own-co.md",
+      "score": 276,
+      "score_change": 253,
+      "rank_change": 3,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/facebook",
+      "title": "facebook/MusicGen",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/facebook",
+      "file_path": "ai/models/huggingface-spaces-facebook.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/ap123",
+      "title": "AP123/IllusionDiffusion",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/ap123",
+      "file_path": "ai/models/huggingface-spaces-ap123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
+<<<<<<< Updated upstream
       "id": "blog:suggest",
       "title": "[SUGGEST] - ",
       "category": "",
       "source_type": "",
       "url": "",
       "file_path": ".github/ISSUE_TEMPLATE/resource-suggestion.md",
+=======
+      "id": "hackernews:elevated-errors-on-claude-ai-claude-code-and-platf",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "file_path": "ai/community/elevated-errors-on-claude-ai-claude-code-and-platf.md",
+      "score": 254,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:is-there-a-right-amount-of-ai",
+      "title": "Is there a 'right amount' of AI?",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://coyotetracks.org/blog/right-amount-of-ai",
+      "file_path": "ai/community/is-there-a-right-amount-of-ai.md",
+      "score": 6,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:rag-github-repos-gaining-traction-2026-gittrend",
+      "title": "RAG GitHub Repos Gaining Traction — 2026 | GitTrend",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://gittrend.io/trending/rag",
+      "file_path": "ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:rag-techniques-beginner-to-advanced-practical-patt",
+      "title": "RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources",
+      "file_path": "ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:best-rag-github-repositories-2026-gittrend",
+      "title": "Best RAG GitHub Repositories (2026) | GitTrend",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://gittrend.io/best/rag",
+      "file_path": "ai/rag/best-rag-github-repositories-2026-gittrend.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:universalrag-retrieval-augmented-generation-over-c",
+      "title": "UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://universalrag.github.io",
+      "file_path": "ai/rag/universalrag-retrieval-augmented-generation-over-c.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:retrieval-augmented-generation-rag-complete-practi",
+      "title": "Retrieval-Augmented Generation (RAG): Complete Practical and Architect-Level Guide",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://acuere-making-sharper.github.io/retrieval-augmented-generation-rag-complete-guide",
+      "file_path": "ai/rag/retrieval-augmented-generation-rag-complete-practi.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu",
+      "title": "The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems",
+      "file_path": "ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:rag-chatbot-application-rag",
+      "title": "RAG Chatbot Application🤖 | RAG",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://todap.github.io/rag",
+      "file_path": "ai/rag/rag-chatbot-application-rag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:fact-fetch-and-reason-a-unified-evaluation-of-retr",
+      "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+      "category": "ai/research",
+      "source_type": "research",
+      "url": "https://semanticscholar.org/paper/46ff7e02fd4ff5fdfb9f85bc7071725b8089061f",
+      "file_path": "ai/research/fact-fetch-and-reason-a-unified-evaluation-of-retr.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:datasets/m-a-p",
+      "title": "m-a-p/FineFineWeb",
+      "category": "ai/models",
+      "source_type": "huggingface_dataset",
+      "url": "https://huggingface.co/datasets/m-a-p",
+      "file_path": "ai/models/huggingface-datasets-m-a-p.md",
+>>>>>>> Stashed changes
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -279,7 +647,28 @@
       "tier": "tier-3"
     }
   ],
+<<<<<<< Updated upstream
   "recently_inactive_resources": [],
+=======
+  "recently_inactive_resources": [
+    {
+      "id": "hackernews:chinese-frontier-ai-models-carry-the-fingerprint-o",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "file_path": "ai/community/chinese-frontier-ai-models-carry-the-fingerprint-o.md"
+    },
+    {
+      "id": "hackernews:ai-is-turning-apple-s-app-review-process-into-a-ni",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "file_path": "ai/community/ai-is-turning-apple-s-app-review-process-into-a-ni.md"
+    }
+  ],
+>>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }

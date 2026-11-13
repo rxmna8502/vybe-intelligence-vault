@@ -13,13 +13,14 @@ collected_at: '2026-11-13T06:42:32.649259+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:chinese-frontier-ai-models-carry-the-fingerprint-o
 first_seen: '2026-11-13T06:42:32.649259+05:30'
 last_seen: '2026-11-13T06:42:32.649259+05:30'
 last_checked: '2026-11-13T06:42:32.649259+05:30'
 health_score: 100
 ---
+
 
 # Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 

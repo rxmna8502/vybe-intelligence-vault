@@ -9,20 +9,20 @@ authors:
 - Sheng-Lai Zeng
 - Jiankun Zhang
 - Peng-Fei He
-- Yue Xing
 - Yiding Liu
+- Yue Xing
 - Han Xu
 - Jie Ren
+- Yi Chang
 - Shuai-Qiang Wang
 - Da-Wei Yin
-- Yi Chang
 - Ji-Liang Tang
 year: 2024
-citation_count: 281
+citation_count: 286
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-11-01T05:01:39.532045+05:30'
+collected_at: '2026-11-13T17:53:24.367478+05:30'
 tags:
 - augmented
 - generation
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:the-good-and-the-bad-exploring-privacy-issues-in-r
 first_seen: '2026-07-19T16:15:03.004028+05:30'
-last_seen: '2026-11-01T05:01:39.532045+05:30'
-last_checked: '2026-11-01T05:01:39.532045+05:30'
+last_seen: '2026-11-13T17:53:24.367478+05:30'
+last_checked: '2026-11-13T17:53:24.367478+05:30'
 health_score: 100
 ---
 
@@ -51,9 +51,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Sheng-Lai Zeng, Jiankun Zhang, Peng-Fei He, Yue Xing, Yiding Liu, Han Xu, Jie Ren, Shuai-Qiang Wang, Da-Wei Yin, Yi Chang, Ji-Liang Tang
+- Authors: Sheng-Lai Zeng, Jiankun Zhang, Peng-Fei He, Yiding Liu, Yue Xing, Han Xu, Jie Ren, Yi Chang, Shuai-Qiang Wang, Da-Wei Yin, Ji-Liang Tang
 - Publication Year: 2024
-- Citation Count: 281
+- Citation Count: 286
 - Paper Link: https://semanticscholar.org/paper/ea89b058ce619ed16d4de633126b02a8179457c8
 - Code Link: None
 - Code Stars: N/A

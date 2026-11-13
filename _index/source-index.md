@@ -40173,11 +40173,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI is turning Apple's app review process into a nightmare for synth developers](../ai/community/ai-is-turning-apple-s-app-review-process-into-a-ni.md)
   - [Anthropic IPO](../ai/community/anthropic-ipo.md)
-  - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](../ai/community/chinese-frontier-ai-models-carry-the-fingerprint-o.md)
   - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](../ai/community/edge0-145b-frontier-ai-capabilities-on-your-own-co.md)
+  - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](../ai/community/elevated-errors-on-claude-ai-claude-code-and-platf.md)
   - [I'm making LLMs work on small and old devices](../ai/community/hyperionaidev-smolmaxxing.md)
+  - [Is there a 'right amount' of AI?](../ai/community/is-there-a-right-amount-of-ai.md)
   - [Show HN: AgentRun – open-source, Self-improving Managed Agents](../ai/community/parcha-ai-agentrun.md)
 
 ## Unknown Source (type: huggingface)
@@ -41092,9 +41092,9 @@ Resources organized by publisher feed and query sources.
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [agibot-world/AgiBotWorld2026](../ai/models/huggingface-datasets-agibot-world.md)
   - [allenai/objaverse](../ai/models/huggingface-datasets-allenai.md)
-  - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
+  - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [neashton/windsorml](../ai/models/huggingface-datasets-neashton.md)
   - [nicoboou/IDRCell100k](../ai/models/huggingface-datasets-nicoboou.md)
   - [tropos-labs/eigen-face-dataset-256](../ai/models/huggingface-datasets-tropos-labs.md)
@@ -41144,6 +41144,7 @@ Resources organized by publisher feed and query sources.
   - [Enhancing diagnostic capability with multi-agents conversational large language models](../ai/research/enhancing-diagnostic-capability-with-multi-agents.md)
   - [Evaluating large language models and agents in healthcare: key challenges in clinical applications](../ai/research/evaluating-large-language-models-and-agents-in-hea.md)
   - [Evaluating large language models as agents in the clinic](../ai/research/evaluating-large-language-models-as-agents-in-the.md)
+  - [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](../ai/research/fact-fetch-and-reason-a-unified-evaluation-of-retr.md)
   - [Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters](../ai/research/finetuned-multimodal-language-models-are-high-qual.md)
   - [From language to action: a review of large language models as autonomous agents and tool users](../ai/research/from-language-to-action-a-review-of-large-language.md)
   - [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](../ai/research/g-retriever-retrieval-augmented-generation-for-tex.md)
@@ -41582,6 +41583,7 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
+  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -43082,9 +43084,12 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
+  - [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
+  - [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -43162,6 +43167,7 @@ Resources organized by publisher feed and query sources.
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
   - [Retrieval Augmented Generation: Streamlining the creation of intelligent natural language processing models](../ai/rag/retrieval-augmented-generation-streamlining-the-cr.md)
   - [Retrieval-Augmented Generation (RAG) - DSPy](../ai/rag/retrieval-augmented-generation-rag-dspy.md)
+  - [Retrieval-Augmented Generation (RAG): Complete Practical and Architect-Level Guide](../ai/rag/retrieval-augmented-generation-rag-complete-practi.md)
   - [Review your order history - Google Play Help](../ai/rag/review-your-order-history-google-play-help.md)
   - [Ring Current Modelling: GFZ](../ai/resources/ring-current-modelling-gfz.md)
   - [Robustness testing pipeline for NLP with Microsoft CheckList | by AI Singapore | AI Singapore TechBytes | Medium](../ai/rag/robustness-testing-pipeline-for-nlp-with-microsoft.md)
@@ -43442,6 +43448,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -43592,6 +43599,7 @@ Resources organized by publisher feed and query sources.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
+  - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University Corporation for Atmospheric Research | University Corporation for Atmospheric Research](../ai/resources/university-corporation-for-atmospheric-research-un.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
@@ -44095,4 +44103,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-13T06:58:59.987920+05:30*
+*Index generated on 2026-11-13T18:10:20.415054+05:30*
