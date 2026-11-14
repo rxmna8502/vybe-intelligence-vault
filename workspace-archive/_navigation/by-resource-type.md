@@ -117,9 +117,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Beyond Point Predictions: Uncertainty-Aware Satellite Poverty Mapping for Public Policy](https://arxiv.org/abs/2608.23322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-23322.md))
 - [Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable](https://arxiv.org/abs/2608.27167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-27167.md))
 - [StepKV: Step-Aware KV Cache Compression for LLM Agents](https://arxiv.org/abs/2609.22158) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-22158.md))
+- [AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](https://arxiv.org/abs/2605.28655) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2605-28655.md))
 - [AlphaEvolveDesign advanced algorithms for math and applications in computing](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms) (Tier: `useful` | [`Local File`](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md))
 - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md))
-- [Announcements](https://anthropic.com/news/announcements) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/announcements.md))
 
 ## TEMPLATE
 
@@ -153,8 +153,10 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## TUTORIAL
 
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [mongodb · GitHub](https://github.com/mongodb) (Tier: `essential` | [`Local File`](../../ai/rag/mongodb-github.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 - [mongodb · GitHub](https://github.com/mongodb) (Tier: `essential` | [`Local File`](../../ai/rag/mongodb-github.md))
 - [github/roadmap](https://github.com/github/roadmap) (Tier: `essential` | [`Local File`](../../ai/resources/github-roadmap.md))
@@ -163,8 +165,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development/) (Tier: `useful` | [`Local File`](../../ai/rag/web-application-development-linux-foundation-educa.md))
 - [Add-ons for Firefox (en-US)](https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources) (Tier: `useful` | [`Local File`](../../ai/resources/add-ons-for-firefox-en-us.md))
 - [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md))
-- [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) (Tier: `useful` | [`Local File`](../../web-development/webgpu/hjlld-learningwebgpu.md))
-- [Subscriptions and Billing - Official Apple Support](https://support.apple.com/billing) (Tier: `useful` | [`Local File`](../../ai/rag/subscriptions-and-billing-official-apple-support.md))
 
 ## WORKFLOW
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 
 ---
-*Last updated: 2026-11-14 06:47 IST*
+*Last updated: 2026-11-14 17:33 IST*

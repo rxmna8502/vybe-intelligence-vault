@@ -30,9 +30,9 @@ This index groups resources by direct developer use-cases and design goals.
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Category: `rag-systems` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `rag-systems` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `rag-systems` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [neuml/txtai](https://github.com/neuml/txtai) (Category: `vector-databases` | [`Local File`](../../ai/rag/neuml-txtai.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [cuArms: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](https://arxiv.org/abs/2610.36250) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2610-36250.md))
 
 ---
-*Last updated: 2026-11-14 06:47 IST*
+*Last updated: 2026-11-14 17:33 IST*

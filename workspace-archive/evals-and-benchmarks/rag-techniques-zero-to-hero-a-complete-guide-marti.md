@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   RAG pipeline optimization leverages advanced chunking strategies (semantic, structure-aware, LLM-based), hybrid vector/lexical retrieval, and cross-encoder reranking for enhanced document relevance and precision
+*   RAG pipelines optimize retrieval via advanced chunking strategies (semantic, structure-aware, LL
 
 ## Use Cases
 

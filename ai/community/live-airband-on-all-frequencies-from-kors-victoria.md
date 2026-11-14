@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://orcasairband.com
 hn_url: https://news.ycombinator.com/item?id=50490593
-score: 168
+score: 269
 author: mmaunder
-comments_count: 41
+comments_count: 61
 published_at: '2026-11-14T03:34:24+05:30'
-collected_at: '2026-11-14T06:28:39.470126+05:30'
+collected_at: '2026-11-14T17:09:16.893396+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:live-airband-on-all-frequencies-from-kors-victoria
 first_seen: '2026-11-14T06:28:39.470126+05:30'
-last_seen: '2026-11-14T06:28:39.470126+05:30'
-last_checked: '2026-11-14T06:28:39.470126+05:30'
+last_seen: '2026-11-14T17:09:16.893396+05:30'
+last_checked: '2026-11-14T17:09:16.893396+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mmaunder. Score: 168, Comments: 41.
+Hacker News story by mmaunder. Score: 269, Comments: 61.
 Original Link: https://orcasairband.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mmaunder
-- Score: 168 Upvotes
-- Comments: 41 Discussions
+- Score: 269 Upvotes
+- Comments: 61 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50490593
 - Original Article: https://orcasairband.com
 

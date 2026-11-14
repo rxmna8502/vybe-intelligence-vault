@@ -13,13 +13,14 @@ collected_at: '2026-11-14T06:28:42.490858+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-unlocks-godel-s-notebooks-said-to-contain-hundr
 first_seen: '2026-11-14T01:28:48.921074+05:30'
 last_seen: '2026-11-14T06:28:42.490858+05:30'
 last_checked: '2026-11-14T06:28:42.490858+05:30'
 health_score: 100
 ---
+
 
 # AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems
 

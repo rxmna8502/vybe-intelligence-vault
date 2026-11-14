@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://collabnix.com/rag-retrieval-augmented-generation-the-complete-guide-to-building-intelligent-ai-systems-in-2025/
-published_at: '2026-11-11T21:51:49.178369+05:30'
-collected_at: '2026-11-11T21:51:49.178383+05:30'
+published_at: '2026-11-14T17:13:47.335629+05:30'
+collected_at: '2026-11-14T17:13:47.335643+05:30'
 tags:
 - agents
 - benchmark
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-complete-guide
-first_seen: '2026-11-11T21:51:49.178383+05:30'
-last_seen: '2026-11-11T21:51:49.178383+05:30'
-last_checked: '2026-11-11T21:51:49.178383+05:30'
+first_seen: '2026-11-14T17:13:47.335643+05:30'
+last_seen: '2026-11-14T17:13:47.335643+05:30'
+last_checked: '2026-11-14T17:13:47.335643+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) integrates LLMs with external knowledge retrieval systems, leveraging vector databases for semantic search over processed document chunks to dynamically ground responses, thereby mitigating hallucinations, knowledge cutoff, and domain limitations.
-*   A RAG architecture fundamentally consists of a document processing pipeline (chunking, embedding), a vector database (e.g., Pinecone, Chroma) for efficient similarity search, a retrieval mechanism to fetch relevant context, and a generation component that synthesizes retrieved information with the LLM.
-*   RAG system performance is optimized through advanced techniques like hybrid search, query expansion, and result reranking, alongside strategic chunking, embedding model selection, and vector database
+*   RAG integrates LLMs with external knowledge retrieval via a document processing pipeline, vector database, and retrieval mechanism to provide dynamic, domain-specific, and factual responses, mitigating LLM hallucinations and knowledge cutoffs.
+*   Core RAG architecture involves document ingestion, chunking, embedding generation, storage in a vector database, semantic or hybrid retrieval, and subsequent augmentation of an LLM's generation prompt with retrieved context.
+*   RAG system performance is optimized through strategic chunking, appropriate embedding model selection, vector database tuning, and advanced techniques like query expansion and result reranking, while addressing challenges such as latency and context window limitations.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-11-11T21:51:49.178369+05:30
+- Published: 2026-11-14T17:13:47.335629+05:30
 
 ## Related Tags
 

@@ -4,10 +4,10 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 39285 |
+| arxiv | 39744 |
 | github | 1025 |
 | semanticscholar.org | 71 |
-| youtube | 66 |
+| youtube | 67 |
 | support.google.com | 59 |
 | huggingface | 25 |
 | developers.google.com | 23 |
@@ -71,6 +71,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | docs.databricks.com | 5 |
 | hub.docker.com | 5 |
 | datatracker.ietf.org | 5 |
+| martinuke0.github.io | 4 |
 | docs.ragas.io | 4 |
 | llamaindex.ai | 4 |
 | platform.openai.com | 4 |
@@ -163,8 +164,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+<<<<<<< Updated upstream
 | nextjs.org | 3 |
 | martinuke0.github.io | 2 |
+=======
+| gittrend.io | 2 |
+>>>>>>> Stashed changes
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -304,12 +309,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | scottjg.com | 1 |
-| theguardian.com | 1 |
+| techpowerup.com | 1 |
 | orcasairband.com | 1 |
-| twitter.com | 1 |
 | perplexity.ai | 1 |
-| gittrend.io | 1 |
+| news.ycombinator.com | 1 |
 | noworneverev.github.io | 1 |
+| universalrag.github.io | 1 |
+| todap.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

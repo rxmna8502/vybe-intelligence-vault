@@ -16,7 +16,9 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
 | [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) | `ai-coding-agents/` | 70 |
 | [Event-Based Early Warning of Vineyard Disease Risk from Environmental Time Series](https://arxiv.org/abs/2605.04548) | `ai-coding-agents/` | 70 |
+| [ADAPT: Agentic Diff-Aware Patch Testing for Pull Requests](https://arxiv.org/abs/2611.16114) | `ai-coding-agents/` | 70 |
 | [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) | `ai-coding-agents/` | 70 |
+| [Eliciting and Mitigating Specification Satisficing in Coding Agents](https://arxiv.org/abs/2611.16289) | `ai-coding-agents/` | 70 |
 | [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](https://arxiv.org/abs/2608.14580) | `ai-coding-agents/` | 70 |
 | [Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370) | `ai-coding-agents/` | 70 |
 | [CompressionBench: How can your coding agents compress LLMs?](https://arxiv.org/abs/2611.06858) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Generative AI for Analysts](https://arxiv.org/abs/2512.19705) | `ai-coding-agents/` | 70 |
 | [When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor](https://arxiv.org/abs/2609.01985) | `ai-coding-agents/` | 70 |
 | [FastKernels: Benchmarking GPU Kernel Generation in Production](https://arxiv.org/abs/2605.23215) | `ai-coding-agents/` | 70 |
-| [Can Coding Agents Reproduce Findings in Computational Materials Science?](https://arxiv.org/abs/2605.00803) | `ai-coding-agents/` | 70 |
-| [Synthesizing Reactive Character Behaviors for Continuous Games via Programmatic Policy Search](https://arxiv.org/abs/2609.24025) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

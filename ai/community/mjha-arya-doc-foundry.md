@@ -13,13 +13,14 @@ collected_at: '2026-11-14T06:28:41.193512+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:mjha-arya/doc-foundry
 first_seen: '2026-11-14T06:28:41.193512+05:30'
 last_seen: '2026-11-14T06:28:41.193512+05:30'
 last_checked: '2026-11-14T06:28:41.193512+05:30'
 health_score: 100
 ---
+
 
 # Doc-foundry – AI writes Security detection rules, then proves they work
 

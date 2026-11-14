@@ -8,7 +8,7 @@ local_vault_path: ai/rag/best-rag-github-repositories-2026-gittrend.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - paper
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Best RAG GitHub Repositories (2026) | GitTrend
@@ -32,14 +32,14 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) frameworks are evolving into agent engineering platforms,
+*   Retrieval-Augmented Generation (RAG) ecosystems are evolving into comprehensive agent engineering
 
 ## Use Cases
 
