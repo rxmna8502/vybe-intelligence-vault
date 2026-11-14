@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-14T06:48:09.622102+05:30`
+Generated at: `2026-11-14T17:50:33.639979+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Live airband on all frequencies from KORS. Victoria, CA also ground stopped** - Score: `168` in category `ai/community` ([Link](https://orcasairband.com)) ([File](../ai/community/live-airband-on-all-frequencies-from-kors-victoria.md))
-- **All US airports are currently ground stopped** - Score: `155` in category `ai/community` ([Link](https://twitter.com/flightradar24/status/2121347654714077605)) ([File](../ai/community/all-us-airports-are-currently-ground-stopped.md))
-- **Doc-foundry – AI writes Security detection rules, then proves they work** - Score: `6` in category `ai/community` ([Link](https://github.com/mjha-arya/doc-foundry)) ([File](../ai/community/mjha-arya-doc-foundry.md))
+- **[SUGGEST] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/resource-suggestion.md))
 
 ## Top Trending Resources
 
-- **AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems** - Score: `319` (+134), Rank Change: `+2` ([File](../ai/community/ai-unlocks-godel-s-notebooks-said-to-contain-hundr.md))
-- **Reverse engineering my Coway air purifier to ditch the cloud** - Score: `670` (+105), Rank Change: `0` ([File](../ai/community/reverse-engineering-my-coway-air-purifier-to-ditch.md))
-- **Perplexity Decider v1.3: Training, eval, and use cases** - Score: `94` (+89), Rank Change: `+4` ([File](../ai/community/perplexity-decider-v1-3-training-eval-and-use-case.md))
-- **sierra-research/tau2-bench** - Score: `0` (0), Rank Change: `+4969` ([File](../ai/agents/sierra-research-tau2-bench.md))
-- **EvanThomasLuke/Awesome-AI-Hacking-Agents** - Score: `0` (0), Rank Change: `+3221` ([File](../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1066` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1067` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1065` ([File](../ai/rag/malonge-ragoo.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1066` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **langchain-ai/new-langgraphjs-project** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **JCodesMore/ai-website-cloner-template** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/agents/jcodesmore-ai-website-cloner-template.md))
+- **RAG GitHub Repos Gaining Traction — 2026 | GitTrend** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md))
+- **RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md))
+- **langchain-ai/rag-from-scratch** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/rag/langchain-ai-rag-from-scratch.md))
+- **dannyblaker/rag-tutorial** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/research/fact-fetch-and-reason-a-unified-evaluation-of-retr.md))
+- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/agents/agent0ai-agent-zero.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **sierra-research/tau2-bench** - (Rank Change: `+4969`) ([File](../ai/agents/sierra-research-tau2-bench.md))
-- **EvanThomasLuke/Awesome-AI-Hacking-Agents** - (Rank Change: `+3221`) ([File](../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md))
-- **ParticleMedia/RAGTruth** - (Rank Change: `+1067`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1066`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+1066`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **malonge/RaGOO** - (Rank Change: `+1065`) ([File](../ai/rag/malonge-ragoo.md))
-- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+904`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
-- **BAAI/bge-m3** - (Rank Change: `+904`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
-- **google-bert/bert-base-uncased** - (Rank Change: `+904`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
-- **Comfy-Org/MiniMax-H3** - (Rank Change: `+904`) ([File](../ai/models/huggingface-comfy-org-minimax-h3.md))
+- **infiniflow/ragflow** - (Rank Change: `+28067`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17188`) ([File](../ai/rag/stanford-oval-storm.md))
+- **langchain-ai/new-langgraphjs-project** - (Rank Change: `+1055`) ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **JCodesMore/ai-website-cloner-template** - (Rank Change: `+1055`) ([File](../ai/agents/jcodesmore-ai-website-cloner-template.md))
+- **RAG GitHub Repos Gaining Traction — 2026 | GitTrend** - (Rank Change: `+1055`) ([File](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md))
+- **RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog** - (Rank Change: `+1055`) ([File](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md))
+- **langchain-ai/rag-from-scratch** - (Rank Change: `+1055`) ([File](../ai/rag/langchain-ai-rag-from-scratch.md))
+- **dannyblaker/rag-tutorial** - (Rank Change: `+1055`) ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1055`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1055`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,9 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Elevated errors on claude.ai, Claude Code, and platform.claude.com** (Category: `ai/community`) ([File](../ai/community/elevated-errors-on-claude-ai-claude-code-and-platf.md))
-- **AI is destroying the trust between writers and readers** (Category: `ai/community`) ([File](../ai/community/ai-is-destroying-the-trust-between-writers-and-rea.md))
-- **Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers** (Category: `ai/community`) ([File](../ai/community/brazil-s-caixa-insurer-breach-exposes-names-and-ta.md))
-- **Why is Google cutting off Search from AI-free schools? Here are some theories** (Category: `ai/community`) ([File](../ai/community/why-is-google-cutting-off-search-from-ai-free-scho.md))
-- **OpenAI disbands its robotics team as its general models start running robots** (Category: `ai/community`) ([File](../ai/community/openai-disbands-its-robotics-team-as-its-general-m.md))
-- **The avalanche that hit math is coming for AI development** (Category: `ai/community`) ([File](../ai/community/the-avalanche-that-hit-math-is-coming-for-ai-devel.md))
+No recently active resources transitioned to inactive.
+
