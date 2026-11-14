@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://perplexity.ai/hub/blog/perplexity-decider
 hn_url: https://news.ycombinator.com/item?id=50488464
-score: 5
+score: 94
 author: gmays
-comments_count: 0
+comments_count: 19
 published_at: '2026-11-14T00:54:47+05:30'
-collected_at: '2026-11-14T01:28:49.266811+05:30'
+collected_at: '2026-11-14T06:28:40.406713+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:perplexity-decider-v1-3-training-eval-and-use-case
 first_seen: '2026-11-14T01:28:49.266811+05:30'
-last_seen: '2026-11-14T01:28:49.266811+05:30'
-last_checked: '2026-11-14T01:28:49.266811+05:30'
+last_seen: '2026-11-14T06:28:40.406713+05:30'
+last_checked: '2026-11-14T06:28:40.406713+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by gmays. Score: 5, Comments: 0.
+Hacker News story by gmays. Score: 94, Comments: 19.
 Original Link: https://www.perplexity.ai/hub/blog/perplexity-decider
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: gmays
-- Score: 5 Upvotes
-- Comments: 0 Discussions
+- Score: 94 Upvotes
+- Comments: 19 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50488464
 - Original Article: https://perplexity.ai/hub/blog/perplexity-decider
 

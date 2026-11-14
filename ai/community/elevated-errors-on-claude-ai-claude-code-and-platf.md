@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:elevated-errors-on-claude-ai-claude-code-and-platf
 first_seen: '2026-11-13T17:53:23.961928+05:30'
 last_seen: '2026-11-14T01:28:50.697175+05:30'
 last_checked: '2026-11-14T01:28:50.697175+05:30'
 health_score: 100
 ---
+
 
 # Elevated errors on claude.ai, Claude Code, and platform.claude.com
 

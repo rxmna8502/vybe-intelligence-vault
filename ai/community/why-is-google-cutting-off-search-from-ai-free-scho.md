@@ -13,13 +13,14 @@ collected_at: '2026-11-14T01:28:51.347476+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-is-google-cutting-off-search-from-ai-free-scho
 first_seen: '2026-11-14T01:28:51.347476+05:30'
 last_seen: '2026-11-14T01:28:51.347476+05:30'
 last_checked: '2026-11-14T01:28:51.347476+05:30'
 health_score: 100
 ---
+
 
 # Why is Google cutting off Search from AI-free schools? Here are some theories
 

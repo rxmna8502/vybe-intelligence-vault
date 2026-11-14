@@ -13,13 +13,14 @@ collected_at: '2026-11-14T01:28:51.581447+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-is-destroying-the-trust-between-writers-and-rea
 first_seen: '2026-11-14T01:28:51.581447+05:30'
 last_seen: '2026-11-14T01:28:51.581447+05:30'
 last_checked: '2026-11-14T01:28:51.581447+05:30'
 health_score: 100
 ---
+
 
 # AI is destroying the trust between writers and readers
 

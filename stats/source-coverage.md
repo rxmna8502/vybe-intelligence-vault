@@ -5,13 +5,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 39285 |
-<<<<<<< Updated upstream
-| github | 1026 |
-=======
-| github | 1024 |
+| github | 1025 |
 | huggingface | 959 |
 | nextjs.org | 86 |
->>>>>>> Stashed changes
 | semanticscholar.org | 71 |
 | youtube | 66 |
 | support.google.com | 59 |
@@ -170,10 +166,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-<<<<<<< Updated upstream
-| nextjs.org | 3 |
-=======
->>>>>>> Stashed changes
 | martinuke0.github.io | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
@@ -313,18 +305,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | scottjg.com | 1 |
-| status.claude.com | 1 |
-<<<<<<< Updated upstream
-| coyotetracks.org | 1 |
-=======
-| theatlantic.com | 1 |
 | theguardian.com | 1 |
-| filemanager-cdn.mziq.com | 1 |
-| text.npr.org | 1 |
-| fortune.com | 1 |
-| dwarkesh.com | 1 |
+| orcasairband.com | 1 |
+| twitter.com | 1 |
 | perplexity.ai | 1 |
->>>>>>> Stashed changes
 | gittrend.io | 1 |
 | noworneverev.github.io | 1 |
 | githubstatus.com | 1 |

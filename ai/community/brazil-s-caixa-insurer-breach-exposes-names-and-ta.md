@@ -13,13 +13,14 @@ collected_at: '2026-11-14T01:28:50.206307+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:brazil-s-caixa-insurer-breach-exposes-names-and-ta
 first_seen: '2026-11-14T01:28:50.206307+05:30'
 last_seen: '2026-11-14T01:28:50.206307+05:30'
 last_checked: '2026-11-14T01:28:50.206307+05:30'
 health_score: 100
 ---
+
 
 # Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers
 

@@ -40173,15 +40173,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI is destroying the trust between writers and readers](../ai/community/ai-is-destroying-the-trust-between-writers-and-rea.md)
   - [AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems](../ai/community/ai-unlocks-godel-s-notebooks-said-to-contain-hundr.md)
-  - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](../ai/community/brazil-s-caixa-insurer-breach-exposes-names-and-ta.md)
-  - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](../ai/community/elevated-errors-on-claude-ai-claude-code-and-platf.md)
-  - [OpenAI disbands its robotics team as its general models start running robots](../ai/community/openai-disbands-its-robotics-team-as-its-general-m.md)
+  - [All US airports are currently ground stopped](../ai/community/all-us-airports-are-currently-ground-stopped.md)
+  - [Doc-foundry – AI writes Security detection rules, then proves they work](../ai/community/mjha-arya-doc-foundry.md)
+  - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](../ai/community/live-airband-on-all-frequencies-from-kors-victoria.md)
   - [Perplexity Decider v1.3: Training, eval, and use cases](../ai/community/perplexity-decider-v1-3-training-eval-and-use-case.md)
   - [Reverse engineering my Coway air purifier to ditch the cloud](../ai/community/reverse-engineering-my-coway-air-purifier-to-ditch.md)
-  - [The avalanche that hit math is coming for AI development](../ai/community/the-avalanche-that-hit-math-is-coming-for-ai-devel.md)
-  - [Why is Google cutting off Search from AI-free schools? Here are some theories](../ai/community/why-is-google-cutting-off-search-from-ai-free-scho.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -44101,4 +44098,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-14T01:45:36.779431+05:30*
+*Index generated on 2026-11-14T06:45:06.509883+05:30*
