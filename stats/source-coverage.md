@@ -71,7 +71,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | docs.databricks.com | 5 |
 | hub.docker.com | 5 |
 | datatracker.ietf.org | 5 |
-| martinuke0.github.io | 4 |
 | docs.ragas.io | 4 |
 | llamaindex.ai | 4 |
 | platform.openai.com | 4 |
@@ -164,12 +163,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-<<<<<<< Updated upstream
 | nextjs.org | 3 |
-| martinuke0.github.io | 2 |
-=======
-| gittrend.io | 2 |
->>>>>>> Stashed changes
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -314,8 +308,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | perplexity.ai | 1 |
 | news.ycombinator.com | 1 |
 | noworneverev.github.io | 1 |
-| universalrag.github.io | 1 |
-| todap.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -437,6 +429,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | learn.chatgpt.com | 1 |
 | geeksforgeeksapp.page.link | 1 |
 | nerdleveltech.com | 1 |
+| martinuke0.github.io | 1 |
 | unocss.dev | 1 |
 | babelmark.github.io | 1 |
 | python-poetry.org | 1 |

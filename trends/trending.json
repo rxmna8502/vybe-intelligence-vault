@@ -1,127 +1,7 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-11-14T17:50:33.639979+05:30",
+  "generated_at": "2026-11-15T00:15:22.819971+05:30",
   "trending_resources": [
     {
-      "id": "github:langchain-ai/new-langgraphjs-project",
-      "title": "langchain-ai/new-langgraphjs-project",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/langchain-ai/new-langgraphjs-project",
-      "file_path": "ai/agents/langchain-ai-new-langgraphjs-project.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-=======
-  "generated_at": "2026-11-14T17:35:04.493841+05:30",
-  "trending_resources": [
-    {
-      "id": "hackernews:live-airband-on-all-frequencies-from-kors-victoria",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://orcasairband.com",
-      "file_path": "ai/community/live-airband-on-all-frequencies-from-kors-victoria.md",
-      "score": 269,
-      "score_change": 101,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:reverse-engineering-my-coway-air-purifier-to-ditch",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
-      "file_path": "ai/community/reverse-engineering-my-coway-air-purifier-to-ditch.md",
-      "score": 762,
-      "score_change": 92,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:perplexity-decider-v1-3-training-eval-and-use-case",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://perplexity.ai/hub/blog/perplexity-decider",
-      "file_path": "ai/community/perplexity-decider-v1-3-training-eval-and-use-case.md",
-      "score": 132,
-      "score_change": 38,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pingwu/crewai-similar-framework-finder-template",
-      "title": "pingwu/crewai-similar-framework-finder-template",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/pingwu/crewai-similar-framework-finder-template",
-      "file_path": "ai/agents/pingwu-crewai-similar-framework-finder-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15718,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:jcodesmore/ai-website-cloner-template",
-      "title": "JCodesMore/ai-website-cloner-template",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/jcodesmore/ai-website-cloner-template",
-      "file_path": "ai/agents/jcodesmore-ai-website-cloner-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "github:muhammad-uzair-yasin/crewai_starter_template",
-      "title": "muhammad-uzair-yasin/CrewAi_starter_template",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/muhammad-uzair-yasin/crewai_starter_template",
-      "file_path": "ai/agents/muhammad-uzair-yasin-crewai-starter-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 19245,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:rag-github-repos-gaining-traction-2026-gittrend",
-      "title": "RAG GitHub Repos Gaining Traction — 2026 | GitTrend",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://gittrend.io/trending/rag",
-      "file_path": "ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1055,
-=======
-      "rank_change": 1063,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "blog:rag-techniques-beginner-to-advanced-practical-patt",
-      "title": "RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources",
-      "file_path": "ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-=======
       "id": "blog:rag-retrieval-augmented-generation-complete-guide",
       "title": "RAG Retrieval Augmented Generation: Complete Guide 2025",
       "category": "ai/rag",
@@ -130,48 +10,11 @@
       "file_path": "ai/rag/rag-retrieval-augmented-generation-complete-guide.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1078,
->>>>>>> Stashed changes
+      "rank_change": 1,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "github:langchain-ai/rag-from-scratch",
-      "title": "langchain-ai/rag-from-scratch",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
-      "file_path": "ai/rag/langchain-ai-rag-from-scratch.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "blog:rag-techniques-beginner-to-advanced-practical-patt",
-      "title": "RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources",
-      "file_path": "ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1062,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:dannyblaker/rag-tutorial",
-      "title": "dannyblaker/rag-tutorial",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/dannyblaker/rag-tutorial",
-      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-=======
       "id": "github:siyulilyqian/scipytutorial2025_rag",
       "title": "SiyuLilyQian/ScipyTutorial2025_RAG",
       "category": "ai/rag",
@@ -180,13 +23,76 @@
       "file_path": "ai/rag/siyulilyqian-scipytutorial2025-rag.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 17025,
->>>>>>> Stashed changes
+      "rank_change": 3,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
+      "id": "github:dannyblaker/rag-tutorial",
+      "title": "dannyblaker/rag-tutorial",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/dannyblaker/rag-tutorial",
+      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 3,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:7-best-github-repositories-for-mastering-rag-syste",
+      "title": "7 Best GitHub Repositories For Mastering RAG Systems",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems",
+      "file_path": "ai/rag/7-best-github-repositories-for-mastering-rag-syste.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 3,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:rag-tools-awesome-rag",
+      "title": "RAG Tools | Awesome RAG",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://noworneverev.github.io/awesome-rag",
+      "file_path": "ai/rag/rag-tools-awesome-rag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 4,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 7,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 7,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
       "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
       "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
       "category": "ai/rag",
@@ -195,7 +101,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1055,
+      "rank_change": 7,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -208,51 +114,26 @@
       "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1055,
+      "rank_change": 7,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "blog:fact-fetch-and-reason-a-unified-evaluation-of-retr",
-      "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
-      "category": "ai/research",
-      "source_type": "research",
-      "url": "https://semanticscholar.org/paper/46ff7e02fd4ff5fdfb9f85bc7071725b8089061f",
-      "file_path": "ai/research/fact-fetch-and-reason-a-unified-evaluation-of-retr.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:agent0ai/agent-zero",
-      "title": "agent0ai/agent-zero",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/agent0ai/agent-zero",
-      "file_path": "ai/agents/agent0ai-agent-zero.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "github:dannyblaker/rag-tutorial",
-      "title": "dannyblaker/rag-tutorial",
+      "id": "github:datawhalechina/all-in-rag",
+      "title": "datawhalechina/all-in-rag",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/dannyblaker/rag-tutorial",
-      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
+      "url": "https://github.com/datawhalechina/all-in-rag",
+      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1061,
->>>>>>> Stashed changes
+      "rank_change": 7,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
-<<<<<<< Updated upstream
       "id": "github:infiniflow/ragflow",
       "title": "infiniflow/ragflow",
       "category": "ai/rag",
@@ -261,7 +142,7 @@
       "file_path": "ai/rag/infiniflow-ragflow-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 28067,
+      "rank_change": 28072,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -274,7 +155,33 @@
       "file_path": "ai/rag/stanford-oval-storm.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 17188,
+      "rank_change": 17195,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:sierra-research/tau2-bench",
+      "title": "sierra-research/tau2-bench",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/sierra-research/tau2-bench",
+      "file_path": "ai/agents/sierra-research-tau2-bench.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1062,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:evanthomasluke/awesome-ai-hacking-agents",
+      "title": "EvanThomasLuke/Awesome-AI-Hacking-Agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/evanthomasluke/awesome-ai-hacking-agents",
+      "file_path": "ai/agents/evanthomasluke-awesome-ai-hacking-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1062,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -287,23 +194,11 @@
       "file_path": "ai/agents/langchain-ai-new-langgraphjs-project.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "github:muhammad-uzair-yasin/crewai_starter_template",
-      "title": "muhammad-uzair-yasin/CrewAi_starter_template",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/muhammad-uzair-yasin/crewai_starter_template",
-      "file_path": "ai/agents/muhammad-uzair-yasin-crewai-starter-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 19245,
->>>>>>> Stashed changes
+      "rank_change": 1062,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:jcodesmore/ai-website-cloner-template",
       "title": "JCodesMore/ai-website-cloner-template",
       "category": "ai/agents",
@@ -312,58 +207,7 @@
       "file_path": "ai/agents/jcodesmore-ai-website-cloner-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "github:siyulilyqian/scipytutorial2025_rag",
-      "title": "SiyuLilyQian/ScipyTutorial2025_RAG",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/siyulilyqian/scipytutorial2025_rag",
-      "file_path": "ai/rag/siyulilyqian-scipytutorial2025-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17025,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pingwu/crewai-similar-framework-finder-template",
-      "title": "pingwu/crewai-similar-framework-finder-template",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/pingwu/crewai-similar-framework-finder-template",
-      "file_path": "ai/agents/pingwu-crewai-similar-framework-finder-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15718,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "blog:rag-github-repos-gaining-traction-2026-gittrend",
-      "title": "RAG GitHub Repos Gaining Traction — 2026 | GitTrend",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://gittrend.io/trending/rag",
-      "file_path": "ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:rag-techniques-beginner-to-advanced-practical-patt",
-      "title": "RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources",
-      "file_path": "ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
+      "rank_change": 1062,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -376,87 +220,17 @@
       "file_path": "ai/rag/langchain-ai-rag-from-scratch.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "blog:rag-retrieval-augmented-generation-complete-guide",
-      "title": "RAG Retrieval Augmented Generation: Complete Guide 2025",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://collabnix.com/rag-retrieval-augmented-generation-the-complete-guide-to-building-intelligent-ai-systems-in-2025",
-      "file_path": "ai/rag/rag-retrieval-augmented-generation-complete-guide.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1078,
->>>>>>> Stashed changes
+      "rank_change": 1062,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "github:dannyblaker/rag-tutorial",
-      "title": "dannyblaker/rag-tutorial",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/dannyblaker/rag-tutorial",
-      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
-=======
-      "id": "blog:rag-tools-awesome-rag",
-      "title": "RAG Tools | Awesome RAG",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://noworneverev.github.io/awesome-rag",
-      "file_path": "ai/rag/rag-tools-awesome-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1068,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:7-best-github-repositories-for-mastering-rag-syste",
-      "title": "7 Best GitHub Repositories For Mastering RAG Systems",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems",
-      "file_path": "ai/rag/7-best-github-repositories-for-mastering-rag-syste.md",
->>>>>>> Stashed changes
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "blog:rag-github-repos-gaining-traction-2026-gittrend",
-      "title": "RAG GitHub Repos Gaining Traction — 2026 | GitTrend",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://gittrend.io/trending/rag",
-      "file_path": "ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1063,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:rag-techniques-beginner-to-advanced-practical-patt",
-      "title": "RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources",
-      "file_path": "ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md",
+      "id": "blog:fact-fetch-and-reason-a-unified-evaluation-of-retr",
+      "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+      "category": "ai/research",
+      "source_type": "research",
+      "url": "https://semanticscholar.org/paper/46ff7e02fd4ff5fdfb9f85bc7071725b8089061f",
+      "file_path": "ai/research/fact-fetch-and-reason-a-unified-evaluation-of-retr.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 1062,
@@ -464,244 +238,40 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:dannyblaker/rag-tutorial",
-      "title": "dannyblaker/rag-tutorial",
-      "category": "ai/rag",
+      "id": "github:agent0ai/agent-zero",
+      "title": "agent0ai/agent-zero",
+      "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/dannyblaker/rag-tutorial",
-      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "file_path": "ai/agents/agent0ai-agent-zero.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1061,
->>>>>>> Stashed changes
+      "rank_change": 1062,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
-      "title": "ragnarokoffline/ragnarokoffline.github.io",
+      "id": "github:hkuds/rag-anything",
+      "title": "HKUDS/RAG-Anything",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
-      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
+      "url": "https://github.com/hkuds/rag-anything",
+      "file_path": "ai/rag/hkuds-rag-anything.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1055,
-=======
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1061,
->>>>>>> Stashed changes
+      "rank_change": 1062,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-<<<<<<< Updated upstream
       "id": "blog:suggest",
       "title": "[SUGGEST] - ",
       "category": "",
       "source_type": "",
       "url": "",
       "file_path": ".github/ISSUE_TEMPLATE/resource-suggestion.md",
-=======
-      "id": "hackernews:nvidia-allegedly-engineered-scarcity-by-funding-ai",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "file_path": "ai/community/nvidia-allegedly-engineered-scarcity-by-funding-ai.md",
-      "score": 634,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "youtube:IRK8h67ol7Q",
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
-      "file_path": "ai/community/youtube-irk8h67ol7q.md",
-      "score": 314,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ask-hn-what-are-the-most-useful-concrete-ai-skills",
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "file_path": "ai/community/ask-hn-what-are-the-most-useful-concrete-ai-skills.md",
-      "score": 42,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:0xdeadf1sh/t1dmai",
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/0xdeadf1sh/t1dmai",
-      "file_path": "ai/community/0xdeadf1sh-t1dmai.md",
-      "score": 40,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:rag-techniques-zero-to-hero-a-complete-guide-marti",
-      "title": "RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide",
-      "file_path": "ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:best-rag-github-repositories-2026-gittrend",
-      "title": "Best RAG GitHub Repositories (2026) | GitTrend",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://gittrend.io/best/rag",
-      "file_path": "ai/rag/best-rag-github-repositories-2026-gittrend.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:universalrag-retrieval-augmented-generation-over-c",
-      "title": "UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://universalrag.github.io",
-      "file_path": "ai/rag/universalrag-retrieval-augmented-generation-over-c.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu",
-      "title": "The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems",
-      "file_path": "ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:rag-chatbot-application-rag",
-      "title": "RAG Chatbot Application🤖 | RAG",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://todap.github.io/rag",
-      "file_path": "ai/rag/rag-chatbot-application-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2611.12305",
-      "title": "HumanSightBench: A Benchmark for Human Visual Perception in MLLMs",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2611.12305",
-      "file_path": "ai/research/arxiv-2611-12305.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2611.12169",
-      "title": "Transactional Data Change for Real-Time Analytics in Lakehouses",
-      "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2611.12169",
-      "file_path": "ai/rag/arxiv-2611-12169.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2611.12140",
-      "title": "Visible Tails: Characterizing Adaptation to Unknown Moments in Heavy-Tailed Bandits",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2611.12140",
-      "file_path": "ai/research/arxiv-2611-12140.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2611.12125",
-      "title": "CARE-PO: Controllable Tool-Call Efficiency for LLM Agents",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2611.12125",
-      "file_path": "ai/agents/arxiv-2611-12125.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2611.11854",
-      "title": "Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2611.11854",
-      "file_path": "ai/research/arxiv-2611-11854.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2611.11714",
-      "title": "Steering Emergent Behavior in Multi-Agent LLM Systems via Information Networks",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2611.11714",
-      "file_path": "ai/agents/arxiv-2611-11714.md",
->>>>>>> Stashed changes
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -709,36 +279,7 @@
       "tier": "tier-3"
     }
   ],
-<<<<<<< Updated upstream
   "recently_inactive_resources": [],
-=======
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:ai-unlocks-godel-s-notebooks-said-to-contain-hundr",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "file_path": "ai/community/ai-unlocks-godel-s-notebooks-said-to-contain-hundr.md"
-    },
-    {
-      "id": "hackernews:all-us-airports-are-currently-ground-stopped",
-      "title": "All US airports are currently ground stopped",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "file_path": "ai/community/all-us-airports-are-currently-ground-stopped.md"
-    },
-    {
-      "id": "github:mjha-arya/doc-foundry",
-      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/mjha-arya/doc-foundry",
-      "file_path": "ai/community/mjha-arya-doc-foundry.md"
-    }
-  ],
->>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }
