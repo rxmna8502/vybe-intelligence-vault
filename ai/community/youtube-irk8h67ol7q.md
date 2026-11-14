@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:IRK8h67ol7Q
 first_seen: '2026-11-14T17:09:16.522143+05:30'
 last_seen: '2026-11-14T17:09:16.522143+05:30'
 last_checked: '2026-11-14T17:09:16.522143+05:30'
 health_score: 100
 ---
+
 
 # Jonathan Blow – If AI solved coding, why is my software still the same? [video]
 

@@ -13,13 +13,14 @@ collected_at: '2026-11-14T17:09:17.824733+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:reverse-engineering-my-coway-air-purifier-to-ditch
 first_seen: '2026-11-14T01:28:48.096319+05:30'
 last_seen: '2026-11-14T17:09:17.824733+05:30'
 last_checked: '2026-11-14T17:09:17.824733+05:30'
 health_score: 100
 ---
+
 
 # Reverse engineering my Coway air purifier to ditch the cloud
 

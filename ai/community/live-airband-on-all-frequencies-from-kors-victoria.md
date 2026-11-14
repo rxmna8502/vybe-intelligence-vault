@@ -13,13 +13,14 @@ collected_at: '2026-11-14T17:09:16.893396+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:live-airband-on-all-frequencies-from-kors-victoria
 first_seen: '2026-11-14T06:28:39.470126+05:30'
 last_seen: '2026-11-14T17:09:16.893396+05:30'
 last_checked: '2026-11-14T17:09:16.893396+05:30'
 health_score: 100
 ---
+
 
 # Live airband on all frequencies from KORS. Victoria, CA also ground stopped
 

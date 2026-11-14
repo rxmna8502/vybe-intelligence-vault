@@ -40632,13 +40632,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Ask HN: What are the most useful, concrete AI skills to independently learn?](../ai/community/ask-hn-what-are-the-most-useful-concrete-ai-skills.md)
-  - [Jonathan Blow – If AI solved coding, why is my software still the same? [video]](../ai/community/youtube-irk8h67ol7q.md)
-  - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](../ai/community/live-airband-on-all-frequencies-from-kors-victoria.md)
+  - [Generative AI uses more energy on non-English text](../ai/community/generative-ai-uses-more-energy-on-non-english-text.md)
+  - [Lovable apps expose passport details and more than 200K private messages](../ai/community/lovable-apps-expose-passport-details-and-more-than.md)
   - [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](../ai/community/nvidia-allegedly-engineered-scarcity-by-funding-ai.md)
-  - [Perplexity Decider v1.3: Training, eval, and use cases](../ai/community/perplexity-decider-v1-3-training-eval-and-use-case.md)
-  - [Reverse engineering my Coway air purifier to ditch the cloud](../ai/community/reverse-engineering-my-coway-air-purifier-to-ditch.md)
-  - [Show HN: I have trained 15 blood glucose forecasting models on my own data](../ai/community/0xdeadf1sh-t1dmai.md)
+  - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](../ai/community/serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d.md)
+  - [Show HN: Agweb – a browser for agents that stays out of your way](../ai/community/paul-nameless-agweb.md)
+  - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42044,7 +42043,6 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
-  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -43545,12 +43543,9 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
-  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
-  - [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md)
   - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
@@ -43909,7 +43904,6 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
-  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -44060,7 +44054,6 @@ Resources organized by publisher feed and query sources.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
-  - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University Corporation for Atmospheric Research | University Corporation for Atmospheric Research](../ai/resources/university-corporation-for-atmospheric-research-un.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
@@ -44563,4 +44556,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-14T17:29:34.090342+05:30*
+*Index generated on 2026-11-15T00:01:42.042933+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-11-14T17:09:17.341013+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:perplexity-decider-v1-3-training-eval-and-use-case
 first_seen: '2026-11-14T01:28:49.266811+05:30'
 last_seen: '2026-11-14T17:09:17.341013+05:30'
 last_checked: '2026-11-14T17:09:17.341013+05:30'
 health_score: 100
 ---
+
 
 # Perplexity Decider v1.3: Training, eval, and use cases
 
