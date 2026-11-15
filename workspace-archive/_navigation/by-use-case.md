@@ -69,7 +69,6 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `frontend-ai-ui` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 - [$A^2E$ : An End-to-End Agent Auditing Engine](https://arxiv.org/abs/2608.07346) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/arxiv-2608-07346.md))
 - [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/arxiv-2607-09322.md))
@@ -77,6 +76,7 @@ This index groups resources by direct developer use-cases and design goals.
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/abs/2605.12481) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/arxiv-2605-12481.md))
 - [LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents](https://arxiv.org/abs/2609.14138) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/arxiv-2609-14138.md))
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 
 ## WebGL / WebGPU 3D Experiences & Creative Design
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [cuArms: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](https://arxiv.org/abs/2610.36250) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2610-36250.md))
 
 ---
-*Last updated: 2026-11-15 21:35 IST*
+*Last updated: 2026-11-16 03:01 IST*

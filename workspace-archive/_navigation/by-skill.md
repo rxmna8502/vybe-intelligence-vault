@@ -146,7 +146,6 @@ This index groups curated resources by target developer skills.
 
 ## Full-stack AI Engineering
 
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [$A^2E$ : An End-to-End Agent Auditing Engine](https://arxiv.org/abs/2608.07346) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-07346.md))
 - [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-09322.md))
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-24937.md))
@@ -154,6 +153,7 @@ This index groups curated resources by target developer skills.
 - [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/abs/2605.12481) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-12481.md))
 - [LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents](https://arxiv.org/abs/2609.14138) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-14138.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
+- [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-06931.md))
 
 ## GLSL Shaders
 
@@ -443,7 +443,6 @@ This index groups curated resources by target developer skills.
 
 ## Streaming APIs
 
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [$A^2E$ : An End-to-End Agent Auditing Engine](https://arxiv.org/abs/2608.07346) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-07346.md))
 - [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-09322.md))
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-24937.md))
@@ -451,6 +450,7 @@ This index groups curated resources by target developer skills.
 - [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/abs/2605.12481) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-12481.md))
 - [LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents](https://arxiv.org/abs/2609.14138) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-14138.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
+- [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-06931.md))
 
 ## Structured Outputs
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ---
-*Last updated: 2026-11-15 21:35 IST*
+*Last updated: 2026-11-16 03:01 IST*

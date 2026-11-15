@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
-collected_at: '2026-09-30T20:35:22.859577+05:30'
-published_at: '2026-09-30T07:47:13Z'
+collected_at: '2026-11-16T02:43:29.696664+05:30'
+published_at: '2026-11-15T13:26:43Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 2683
+stars: 2741
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-04-07T16:54:25Z'
-pushed_at: '2026-09-25T18:37:57Z'
+pushed_at: '2026-10-17T06:53:31Z'
 resource_id: github:wassim249/fastapi-langgraph-agent-production-ready-template
-first_seen: '2026-09-30T20:35:22.859577+05:30'
-last_seen: '2026-09-30T20:35:22.859577+05:30'
-last_checked: '2026-09-30T20:35:22.859577+05:30'
+first_seen: '2026-11-16T02:43:29.696664+05:30'
+last_seen: '2026-11-16T02:43:29.696664+05:30'
+last_checked: '2026-11-16T02:43:29.696664+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,8 @@ health_score: 100
 
 ## Summary
 
-*   Integrates FastAPI with LangGraph and LangChain for orchestrating LLM-powered AI agent applications.
-*   Provides a
+*   FastAPI template for scalable LangGraph/LangChain-powered AI agent services.
+*   Dockerized,
 
 ## Why It Matters
 
@@ -38,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: wassim249
-- Stars: 2683
-- Forks: 635
+- Stars: 2741
+- Forks: 649
 - Language: Python
 - Topics: agent, agentic-ai, docker, fastapi, fastapi-template, langchain, langchain-python, langgraph, langgraph-python, llm, memory
-- Last Updated: 2026-09-30T07:47:13Z
+- Last Updated: 2026-11-15T13:26:43Z
 - License: MIT
 - Archived: No
 - Created At: 2025-04-07T16:54:25Z
-- Pushed At: 2026-09-25T18:37:57Z
+- Pushed At: 2026-10-17T06:53:31Z
 
 ## Possible Use Cases
 
