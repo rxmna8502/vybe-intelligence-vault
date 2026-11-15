@@ -13,13 +13,14 @@ collected_at: '2026-11-14T23:45:14.532723+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d
 first_seen: '2026-11-14T23:45:14.532723+05:30'
 last_seen: '2026-11-14T23:45:14.532723+05:30'
 last_checked: '2026-11-14T23:45:14.532723+05:30'
 health_score: 100
 ---
+
 
 # Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM
 

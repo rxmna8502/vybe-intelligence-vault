@@ -40634,10 +40634,8 @@ Resources organized by publisher feed and query sources.
 
   - [Generative AI uses more energy on non-English text](../ai/community/generative-ai-uses-more-energy-on-non-english-text.md)
   - [Lovable apps expose passport details and more than 200K private messages](../ai/community/lovable-apps-expose-passport-details-and-more-than.md)
-  - [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](../ai/community/nvidia-allegedly-engineered-scarcity-by-funding-ai.md)
-  - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](../ai/community/serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d.md)
-  - [Show HN: Agweb – a browser for agents that stays out of your way](../ai/community/paul-nameless-agweb.md)
-  - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
+  - [Seagate's new hybrid drive raises some old questions](../ai/community/seagate-s-new-hybrid-drive-raises-some-old-questio.md)
+  - [Tech companies are trying to shift the concept of privacy again](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -43546,7 +43544,6 @@ Resources organized by publisher feed and query sources.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -44556,4 +44553,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-15T00:01:42.042933+05:30*
+*Index generated on 2026-11-15T05:49:33.866714+05:30*

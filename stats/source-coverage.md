@@ -5,7 +5,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 39744 |
-| github | 1025 |
+| github | 1024 |
 | huggingface | 959 |
 | nextjs.org | 86 |
 | semanticscholar.org | 71 |
@@ -110,7 +110,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | education.gainsight.com | 4 |
 | tech.cornell.edu | 4 |
 | csrc.nist.gov | 4 |
-| developer.nvidia.com | 3 |
 | analyticsvidhya.com | 3 |
 | microsoft.github.io | 3 |
 | policies.google.com | 3 |
@@ -167,11 +166,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-<<<<<<< Updated upstream
-| nextjs.org | 3 |
-=======
-| martinuke0.github.io | 2 |
->>>>>>> Stashed changes
+| arstechnica.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -210,6 +205,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | llm.datasette.io | 2 |
 | openaccess.thecvf.com | 2 |
 | azure.microsoft.com | 2 |
+| developer.nvidia.com | 2 |
 | betterstack.com | 2 |
 | trychroma.com | 2 |
 | docs.trychroma.com | 2 |
@@ -308,9 +304,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| techpowerup.com | 1 |
-| news.umich.edu | 1 |
 | crissyfield.de | 1 |
+| news.umich.edu | 1 |
 | noworneverev.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
@@ -420,7 +415,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | parsintl.com | 1 |
 | cursor.com | 1 |
 | archive.org | 1 |
-| arstechnica.com | 1 |
 | httparchive.org | 1 |
 | alphaxiv.org | 1 |
 | jupyterlab.rtfd.io | 1 |

@@ -1,17 +1,17 @@
 {
-  "total_files": 177396,
+  "total_files": 177386,
   "categories": {
     "agent-frameworks": 7667,
     "agent-instructions": 18,
     "ai-browser-computer-use": 8670,
     "ai-coding-agents": 7594,
     "ai-tools-products": 213,
-    "automation-workflows": 2611,
-    "datasets": 26381,
-    "evals-and-benchmarks": 39385,
+    "automation-workflows": 2608,
+    "datasets": 26380,
+    "evals-and-benchmarks": 39383,
     "frontend-ai-ui": 259,
     "guardrails-security": 21892,
-    "inference-local-llm": 1853,
+    "inference-local-llm": 1852,
     "jobs-market": 17,
     "learning-paths": 149,
     "llm-app-templates": 495,
@@ -21,10 +21,10 @@
     "project-ideas": 111,
     "prompt-libraries": 295,
     "public-apis": 51,
-    "rag-systems": 39807,
-    "startup-builder": 267,
-    "vector-databases": 13323,
+    "rag-systems": 39806,
+    "startup-builder": 266,
+    "vector-databases": 13322,
     "webdev-3d-creative": 200
   },
-  "last_updated": "2026-11-15T00:03:52.970614+05:30"
+  "last_updated": "2026-11-15T05:52:24.967568+05:30"
 }

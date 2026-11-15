@@ -1,153 +1,55 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-11-15T00:15:22.819971+05:30",
+  "generated_at": "2026-11-15T05:53:32.051895+05:30",
   "trending_resources": [
     {
-      "id": "blog:rag-retrieval-augmented-generation-complete-guide",
-      "title": "RAG Retrieval Augmented Generation: Complete Guide 2025",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://collabnix.com/rag-retrieval-augmented-generation-the-complete-guide-to-building-intelligent-ai-systems-in-2025",
-      "file_path": "ai/rag/rag-retrieval-augmented-generation-complete-guide.md",
-      "score": 0,
-      "score_change": 0,
-=======
-  "generated_at": "2026-11-15T00:04:46.144142+05:30",
-  "trending_resources": [
-    {
-      "id": "hackernews:nvidia-allegedly-engineered-scarcity-by-funding-ai",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "id": "hackernews:lovable-apps-expose-passport-details-and-more-than",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
       "category": "ai/community",
       "source_type": "hackernews",
-      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "file_path": "ai/community/nvidia-allegedly-engineered-scarcity-by-funding-ai.md",
-      "score": 956,
-      "score_change": 322,
->>>>>>> Stashed changes
-      "rank_change": 1,
+      "url": "https://crissyfield.de/research/lovable-en",
+      "file_path": "ai/community/lovable-apps-expose-passport-details-and-more-than.md",
+      "score": 586,
+      "score_change": 544,
+      "rank_change": 5,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "github:siyulilyqian/scipytutorial2025_rag",
-      "title": "SiyuLilyQian/ScipyTutorial2025_RAG",
-      "category": "ai/rag",
+      "id": "hackernews:tech-companies-are-trying-to-shift-the-concept-of",
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "file_path": "ai/community/tech-companies-are-trying-to-shift-the-concept-of.md",
+      "score": 435,
+      "score_change": 175,
+      "rank_change": 0,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:generative-ai-uses-more-energy-on-non-english-text",
+      "title": "Generative AI uses more energy on non-English text",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text",
+      "file_path": "ai/community/generative-ai-uses-more-energy-on-non-english-text.md",
+      "score": 170,
+      "score_change": 64,
+      "rank_change": 0,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:sierra-research/tau2-bench",
+      "title": "sierra-research/tau2-bench",
+      "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/siyulilyqian/scipytutorial2025_rag",
-      "file_path": "ai/rag/siyulilyqian-scipytutorial2025-rag.md",
+      "url": "https://github.com/sierra-research/tau2-bench",
+      "file_path": "ai/agents/sierra-research-tau2-bench.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:dannyblaker/rag-tutorial",
-      "title": "dannyblaker/rag-tutorial",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/dannyblaker/rag-tutorial",
-      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:7-best-github-repositories-for-mastering-rag-syste",
-      "title": "7 Best GitHub Repositories For Mastering RAG Systems",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems",
-      "file_path": "ai/rag/7-best-github-repositories-for-mastering-rag-syste.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:rag-tools-awesome-rag",
-      "title": "RAG Tools | Awesome RAG",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://noworneverev.github.io/awesome-rag",
-      "file_path": "ai/rag/rag-tools-awesome-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7,
-=======
-      "id": "blog:rag-techniques-zero-to-hero-a-complete-guide-marti",
-      "title": "RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide",
-      "file_path": "ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 7,
-=======
-      "rank_change": 16,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
-      "title": "ragnarokoffline/ragnarokoffline.github.io",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
-      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 7,
-=======
-      "rank_change": 16,
+      "rank_change": 1534,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -160,20 +62,7 @@
       "file_path": "ai/rag/datawhalechina-llm-universe.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 21,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:sylphai-inc/githubchat",
-      "title": "SylphAI-Inc/GithubChat",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/sylphai-inc/githubchat",
-      "file_path": "ai/rag/sylphai-inc-githubchat.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 19,
+      "rank_change": 4,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -186,24 +75,33 @@
       "file_path": "ai/rag/particlemedia-ragtruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 15,
->>>>>>> Stashed changes
+      "rank_change": 5,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
+      "id": "github:sylphai-inc/githubchat",
+      "title": "SylphAI-Inc/GithubChat",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
+      "url": "https://github.com/sylphai-inc/githubchat",
+      "file_path": "ai/rag/sylphai-inc-githubchat.md",
       "score": 0,
       "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 7,
-=======
-      "rank_change": 13,
+      "rank_change": 3,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1070,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -216,7 +114,7 @@
       "file_path": "ai/companies/data-platforms-and-analytics.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 18,
+      "rank_change": 4,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -229,65 +127,13 @@
       "file_path": "ai/companies/search-information-retrieval.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 18,
->>>>>>> Stashed changes
+      "rank_change": 4,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
-<<<<<<< Updated upstream
-      "id": "github:infiniflow/ragflow",
-      "title": "infiniflow/ragflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/infiniflow/ragflow",
-      "file_path": "ai/rag/infiniflow-ragflow-2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 28072,
-=======
-      "id": "huggingface:spaces/facebook",
-      "title": "facebook/MusicGen",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/facebook",
-      "file_path": "ai/models/huggingface-spaces-facebook.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:stanford-oval/storm",
-      "title": "stanford-oval/storm",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/stanford-oval/storm",
-      "file_path": "ai/rag/stanford-oval-storm.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17195,
-=======
-      "id": "huggingface:spaces/ap123",
-      "title": "AP123/IllusionDiffusion",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/ap123",
-      "file_path": "ai/models/huggingface-spaces-ap123.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
       "id": "github:sierra-research/tau2-bench",
       "title": "sierra-research/tau2-bench",
       "category": "ai/agents",
@@ -296,232 +142,151 @@
       "file_path": "ai/agents/sierra-research-tau2-bench.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:spaces/dalle-mini",
-      "title": "dalle-mini/dalle-mini",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/dalle-mini",
-      "file_path": "ai/models/huggingface-spaces-dalle-mini.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
+      "rank_change": 1534,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "github:evanthomasluke/awesome-ai-hacking-agents",
-      "title": "EvanThomasLuke/Awesome-AI-Hacking-Agents",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/evanthomasluke/awesome-ai-hacking-agents",
-      "file_path": "ai/agents/evanthomasluke-awesome-ai-hacking-agents.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:spaces/mteb",
-      "title": "mteb/leaderboard",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/mteb",
-      "file_path": "ai/models/huggingface-spaces-mteb.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:langchain-ai/new-langgraphjs-project",
-      "title": "langchain-ai/new-langgraphjs-project",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/langchain-ai/new-langgraphjs-project",
-      "file_path": "ai/agents/langchain-ai-new-langgraphjs-project.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:spaces/black-forest-labs",
-      "title": "black-forest-labs/FLUX.1-dev",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/black-forest-labs",
-      "file_path": "ai/models/huggingface-spaces-black-forest-labs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:jcodesmore/ai-website-cloner-template",
-      "title": "JCodesMore/ai-website-cloner-template",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/jcodesmore/ai-website-cloner-template",
-      "file_path": "ai/agents/jcodesmore-ai-website-cloner-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:spaces/kwai-kolors",
-      "title": "Kwai-Kolors/Kolors-Virtual-Try-On",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/kwai-kolors",
-      "file_path": "ai/models/huggingface-spaces-kwai-kolors.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:langchain-ai/rag-from-scratch",
-      "title": "langchain-ai/rag-from-scratch",
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
-      "file_path": "ai/rag/langchain-ai-rag-from-scratch.md",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:spaces/jbilcke-hf",
-      "title": "jbilcke-hf/ai-comic-factory",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/jbilcke-hf",
-      "file_path": "ai/models/huggingface-spaces-jbilcke-hf.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
+      "rank_change": 1070,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "blog:fact-fetch-and-reason-a-unified-evaluation-of-retr",
-      "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
-      "category": "ai/research",
-      "source_type": "research",
-      "url": "https://semanticscholar.org/paper/46ff7e02fd4ff5fdfb9f85bc7071725b8089061f",
-      "file_path": "ai/research/fact-fetch-and-reason-a-unified-evaluation-of-retr.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:spaces/open-llm-leaderboard",
-      "title": "open-llm-leaderboard/open_llm_leaderboard",
+      "id": "huggingface:blog/how-to-train",
+      "title": "How to train a new language model from scratch using Transformers and Tokenizers",
       "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/open-llm-leaderboard",
-      "file_path": "ai/models/huggingface-spaces-open-llm-leaderboard.md",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/how-to-train",
+      "file_path": "ai/models/huggingface-blog-how-to-train.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
+      "rank_change": 43,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "github:agent0ai/agent-zero",
-      "title": "agent0ai/agent-zero",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/agent0ai/agent-zero",
-      "file_path": "ai/agents/agent0ai-agent-zero.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:spaces/enzostvs",
-      "title": "enzostvs/deepsite",
+      "id": "huggingface:blog/how-to-generate",
+      "title": "How to generate text: using different decoding methods for language generation with Transformers",
       "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/enzostvs",
-      "file_path": "ai/models/huggingface-spaces-enzostvs.md",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/how-to-generate",
+      "file_path": "ai/models/huggingface-blog-how-to-generate.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
+      "rank_change": 43,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
-      "id": "github:hkuds/rag-anything",
-      "title": "HKUDS/RAG-Anything",
+      "id": "huggingface:blog/reformer",
+      "title": "The Reformer - Pushing the limits of language modeling",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/reformer",
+      "file_path": "ai/models/huggingface-blog-reformer.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 43,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/pytorch_block_sparse",
+      "title": "Block Sparse Matrices for Smaller and Faster Language Models",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/pytorch_block_sparse",
+      "file_path": "ai/models/huggingface-blog-pytorch-block-sparse.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 43,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/encoder-decoder",
+      "title": "Transformer-based Encoder-Decoder Models",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/encoder-decoder",
+      "file_path": "ai/models/huggingface-blog-encoder-decoder.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 43,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/ray-tune",
+      "title": "Hyperparameter Search with Transformers and Ray Tune",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/ray-tune",
+      "file_path": "ai/models/huggingface-blog-ray-tune.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 43,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/porting-fsmt",
+      "title": "Porting fairseq wmt19 translation system to transformers",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/porting-fsmt",
+      "file_path": "ai/models/huggingface-blog-porting-fsmt.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 43,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:blog/warm-starting-encoder-decoder",
+      "title": "Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models",
       "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/hkuds/rag-anything",
-      "file_path": "ai/rag/hkuds-rag-anything.md",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+      "file_path": "ai/rag/huggingface-blog-warm-starting-encoder-decoder.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1062,
-=======
-      "id": "huggingface:datasets/3dcodeverse",
-      "title": "3dcodeverse/3dcodeverse-2m",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/3dcodeverse",
-      "file_path": "ai/models/huggingface-datasets-3dcodeverse.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1392,
->>>>>>> Stashed changes
+      "rank_change": 43,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-<<<<<<< Updated upstream
-      "id": "blog:suggest",
-      "title": "[SUGGEST] - ",
-      "category": "",
-      "source_type": "",
-      "url": "",
-      "file_path": ".github/ISSUE_TEMPLATE/resource-suggestion.md",
-      "score": 0,
-=======
-      "id": "hackernews:tech-companies-are-trying-to-shift-the-concept-of",
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "id": "hackernews:seagate-s-new-hybrid-drive-raises-some-old-questio",
+      "title": "Seagate's new hybrid drive raises some old questions",
       "category": "ai/community",
       "source_type": "hackernews",
-      "url": "https://eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "file_path": "ai/community/tech-companies-are-trying-to-shift-the-concept-of.md",
-      "score": 260,
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive",
+      "file_path": "ai/community/seagate-s-new-hybrid-drive-raises-some-old-questio.md",
+      "score": 61,
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
-    },
+    }
+  ],
+  "recently_inactive_resources": [
     {
-      "id": "hackernews:generative-ai-uses-more-energy-on-non-english-text",
-      "title": "Generative AI uses more energy on non-English text",
+      "id": "hackernews:nvidia-allegedly-engineered-scarcity-by-funding-ai",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "category": "ai/community",
       "source_type": "hackernews",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text",
-      "file_path": "ai/community/generative-ai-uses-more-energy-on-non-english-text.md",
-      "score": 106,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
+      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "file_path": "ai/community/nvidia-allegedly-engineered-scarcity-by-funding-ai.md"
     },
     {
       "id": "hackernews:serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d",
@@ -529,12 +294,7 @@
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "file_path": "ai/community/serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d.md",
-      "score": 84,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
+      "file_path": "ai/community/serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d.md"
     },
     {
       "id": "github:paul-nameless/agweb",
@@ -542,82 +302,9 @@
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://github.com/paul-nameless/agweb",
-      "file_path": "ai/community/paul-nameless-agweb.md",
-      "score": 53,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:lovable-apps-expose-passport-details-and-more-than",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://crissyfield.de/research/lovable-en",
-      "file_path": "ai/community/lovable-apps-expose-passport-details-and-more-than.md",
-      "score": 42,
->>>>>>> Stashed changes
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
+      "file_path": "ai/community/paul-nameless-agweb.md"
     }
   ],
-<<<<<<< Updated upstream
-  "recently_inactive_resources": [],
-=======
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:reverse-engineering-my-coway-air-purifier-to-ditch",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
-      "file_path": "ai/community/reverse-engineering-my-coway-air-purifier-to-ditch.md"
-    },
-    {
-      "id": "youtube:IRK8h67ol7Q",
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
-      "file_path": "ai/community/youtube-irk8h67ol7q.md"
-    },
-    {
-      "id": "hackernews:live-airband-on-all-frequencies-from-kors-victoria",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://orcasairband.com",
-      "file_path": "ai/community/live-airband-on-all-frequencies-from-kors-victoria.md"
-    },
-    {
-      "id": "hackernews:perplexity-decider-v1-3-training-eval-and-use-case",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://perplexity.ai/hub/blog/perplexity-decider",
-      "file_path": "ai/community/perplexity-decider-v1-3-training-eval-and-use-case.md"
-    },
-    {
-      "id": "hackernews:ask-hn-what-are-the-most-useful-concrete-ai-skills",
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "file_path": "ai/community/ask-hn-what-are-the-most-useful-concrete-ai-skills.md"
-    },
-    {
-      "id": "github:0xdeadf1sh/t1dmai",
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/0xdeadf1sh/t1dmai",
-      "file_path": "ai/community/0xdeadf1sh-t1dmai.md"
-    }
-  ],
->>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }

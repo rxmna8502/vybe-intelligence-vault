@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://crissyfield.de/research/lovable-en
 hn_url: https://news.ycombinator.com/item?id=50499017
-score: 42
+score: 586
 author: armcat
-comments_count: 4
+comments_count: 240
 published_at: '2026-11-14T23:13:10+05:30'
-collected_at: '2026-11-14T23:45:11.750601+05:30'
+collected_at: '2026-11-15T05:32:41.696484+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:lovable-apps-expose-passport-details-and-more-than
 first_seen: '2026-11-14T23:45:11.750601+05:30'
-last_seen: '2026-11-14T23:45:11.750601+05:30'
-last_checked: '2026-11-14T23:45:11.750601+05:30'
+last_seen: '2026-11-15T05:32:41.696484+05:30'
+last_checked: '2026-11-15T05:32:41.696484+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by armcat. Score: 42, Comments: 4.
+Hacker News story by armcat. Score: 586, Comments: 240.
 Original Link: https://www.crissyfield.de/research/lovable-en/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: armcat
-- Score: 42 Upvotes
-- Comments: 4 Discussions
+- Score: 586 Upvotes
+- Comments: 240 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50499017
 - Original Article: https://crissyfield.de/research/lovable-en
 

@@ -6912,7 +6912,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](../ai/rag/arxiv-2607-26631.md)
@@ -7936,7 +7935,6 @@ Resources organized by keyword tags.
   - [Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](../ai/agents/arxiv-2611-12865.md)
   - [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](../ai/agents/arxiv-2610-14209.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: Agweb – a browser for agents that stays out of your way](../ai/community/paul-nameless-agweb.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -10250,8 +10248,8 @@ Resources organized by keyword tags.
 
   - [Generative AI uses more energy on non-English text](../ai/community/generative-ai-uses-more-energy-on-non-english-text.md)
   - [Lovable apps expose passport details and more than 200K private messages](../ai/community/lovable-apps-expose-passport-details-and-more-than.md)
-  - [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](../ai/community/nvidia-allegedly-engineered-scarcity-by-funding-ai.md)
-  - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
+  - [Seagate's new hybrid drive raises some old questions](../ai/community/seagate-s-new-hybrid-drive-raises-some-old-questio.md)
+  - [Tech companies are trying to shift the concept of privacy again](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
 
 ## animation
 
@@ -22714,6 +22712,7 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection](../ai/rag/arxiv-2611-12976.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
@@ -23582,7 +23581,6 @@ Resources organized by keyword tags.
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG over Thinking Traces Can Improve Reasoning Tasks](../ai/rag/arxiv-2605-03344.md)
   - [RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](../ai/rag/arxiv-2607-26631.md)
@@ -35727,7 +35725,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](../ai/rag/arxiv-2607-26631.md)
   - [RAG-NIMBF: A Non-Invasive, Modular Benchmarking Framework for Automated RAG Configuration Analysis](../ai/rag/arxiv-2610-27816.md)
@@ -43152,7 +43149,6 @@ Resources organized by keyword tags.
   - [NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment](../ai/research/arxiv-2609-11234.md)
   - [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](../ai/research/arxiv-2608-04030.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
-  - [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](../ai/community/nvidia-allegedly-engineered-scarcity-by-funding-ai.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance](../ai/agents/arxiv-2608-04524.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -43579,7 +43575,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
   - [RAGMark: A Comprehensive Framework for Benchmarking Retrieval-Augmented Generation Systems](../ai/rag/arxiv-2609-05760.md)
@@ -43890,6 +43885,7 @@ Resources organized by keyword tags.
   - [ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening](../ai/research/arxiv-2608-12219.md)
   - [Screening Autism Spectrum Disorder in children using Deep Learning Approach : Evaluating the classification model of YOLOv26s by comparing with other models](../ai/research/arxiv-2306-14300.md)
   - [SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation](../ai/rag/arxiv-2608-03298.md)
+  - [Seagate's new hybrid drive raises some old questions](../ai/community/seagate-s-new-hybrid-drive-raises-some-old-questio.md)
   - [Search Cases | U.S. Copyright Office](../ai/agents/search-cases-u-s-copyright-office.md)
   - [Search Results | Atlassian Marketplace](../ai/rag/search-results-atlassian-marketplace.md)
   - [Search Results – Stanford University](../ai/resources/search-results-stanford-university.md)
@@ -43947,7 +43943,6 @@ Resources organized by keyword tags.
   - [Serve Gemma open models using GPUs on GKE with vLLM | GKE AI/ML | Google Cloud Documentation](../ai/rag/serve-gemma-open-models-using-gpus-on-gke-with-vll.md)
   - [Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning](../ai/research/arxiv-2607-04336.md)
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
-  - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](../ai/community/serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d.md)
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Shallow neural network approximation in mixed Sobolev spaces](../ai/research/arxiv-2609-05263.md)
@@ -43962,7 +43957,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Agweb – a browser for agents that stays out of your way](../ai/community/paul-nameless-agweb.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -44215,9 +44209,9 @@ Resources organized by keyword tags.
   - [Teaching OPT to Paraphrase through Soft Prompt Tuning | by AI Singapore | AI Singapore TechBytes | Medium](../ai/rag/teaching-opt-to-paraphrase-through-soft-prompt-tun.md)
   - [Teaming Up with AI: Coordination and Cooperation](../ai/agents/arxiv-2607-03181.md)
   - [Tech Blog – Diff](../ai/resources/tech-blog-diff.md)
-  - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
   - [Tech Portal | Home](../ai/resources/tech-portal-home.md)
   - [Tech Resources & Support](../ai/resources/tech-resources-support.md)
+  - [Tech companies are trying to shift the concept of privacy again](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
   - [Tech expert Arvind Narayanan takes helm at joint technology-policy center - Princeton Engineering](../ai/resources/tech-expert-arvind-narayanan-takes-helm-at-joint-t.md)
   - [TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning](../ai/rag/arxiv-2606-01613.md)
   - [Technical Comparative Benchmarking Study: Advanced AI Hybrid Methods for Renewable Energy Farm Optimization and Forecasting](../ai/research/arxiv-2608-26613.md)
@@ -45777,10 +45771,6 @@ Resources organized by keyword tags.
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
 
-## llm
-
-  - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](../ai/community/serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-d.md)
-
 ## mdx
 
   - [cloudflare/cloudflare-docs](../ai/resources/cloudflare-cloudflare-docs.md)
@@ -46583,7 +46573,6 @@ Resources organized by keyword tags.
   - [R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection](../ai/research/arxiv-2609-30100.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAGatouille](../ai/rag/ragatouille.md)
@@ -53337,7 +53326,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-NIMBF: A Non-Invasive, Modular Benchmarking Framework for Automated RAG Configuration Analysis](../ai/rag/arxiv-2610-27816.md)
@@ -61779,7 +61767,6 @@ Resources organized by keyword tags.
   - [RACE-AIMC: Selective Inference for Heterogeneous Analog In-Memory Accelerators at the Edge](../ai/research/arxiv-2609-03149.md)
   - [RADIO1D: Elastic Representations for Condensed Vision Modeling](../ai/research/arxiv-2607-03624.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAGAs: Automated Evaluation of Retrieval Augmented Generation](../ai/research/ragas-automated-evaluation-of-retrieval-augmented.md)
   - [RAGatouille](../ai/rag/ragatouille.md)
@@ -64120,7 +64107,6 @@ Resources organized by keyword tags.
   - [Quickstart - vLLM](../ai/resources/quickstart-vllm.md)
   - [Quickstart: Install the Google Cloud CLI | Google Cloud SDK | Google Cloud Documentation](../ai/resources/quickstart-install-the-google-cloud-cli-google-clo.md)
   - [Qwen3: Think Deeper, Act Faster | Qwen](../ai/agents/qwen3-think-deeper-act-faster-qwen.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RASSG: Repair-Aware Semantic Survival Gating for Streaming Tool Execution](../ai/research/arxiv-2610-14659.md)
   - [ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration](../ai/research/arxiv-2610-41168.md)
   - [RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation](../ai/rag/arxiv-2606-18379.md)
@@ -73772,7 +73758,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG over Thinking Traces Can Improve Reasoning Tasks](../ai/rag/arxiv-2605-03344.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
@@ -79143,7 +79128,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -83102,7 +83086,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -85867,7 +85850,6 @@ Resources organized by keyword tags.
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG-NIMBF: A Non-Invasive, Modular Benchmarking Framework for Automated RAG Configuration Analysis](../ai/rag/arxiv-2610-27816.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -90598,4 +90580,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-15T00:01:41.680080+05:30*
+*Index generated on 2026-11-15T05:49:33.412818+05:30*
