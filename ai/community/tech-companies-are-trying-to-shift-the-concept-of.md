@@ -13,13 +13,14 @@ collected_at: '2026-11-15T05:32:44.222871+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tech-companies-are-trying-to-shift-the-concept-of
 first_seen: '2026-11-14T23:45:13.644280+05:30'
 last_seen: '2026-11-15T05:32:44.222871+05:30'
 last_checked: '2026-11-15T05:32:44.222871+05:30'
 health_score: 100
 ---
+
 
 # Tech companies are trying to shift the concept of privacy again
 

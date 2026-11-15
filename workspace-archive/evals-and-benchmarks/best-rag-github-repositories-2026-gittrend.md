@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) ecosystems are evolving into comprehensive agent engineering
+*   RAG implementations are evolving beyond vector-based retrieval to incorporate knowledge graphs (e.g
 
 ## Use Cases
 

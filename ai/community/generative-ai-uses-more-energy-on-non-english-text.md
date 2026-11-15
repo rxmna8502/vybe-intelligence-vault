@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text
 hn_url: https://news.ycombinator.com/item?id=50441444
-score: 170
+score: 198
 author: DeepLogin
-comments_count: 95
+comments_count: 104
 published_at: '2026-11-10T20:37:28+05:30'
-collected_at: '2026-11-15T05:32:43.176711+05:30'
+collected_at: '2026-11-15T12:15:13.632910+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:generative-ai-uses-more-energy-on-non-english-text
 first_seen: '2026-11-14T23:45:12.611454+05:30'
-last_seen: '2026-11-15T05:32:43.176711+05:30'
-last_checked: '2026-11-15T05:32:43.176711+05:30'
+last_seen: '2026-11-15T12:15:13.632910+05:30'
+last_checked: '2026-11-15T12:15:13.632910+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by DeepLogin. Score: 170, Comments: 95.
+Hacker News story by DeepLogin. Score: 198, Comments: 104.
 Original Link: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: DeepLogin
-- Score: 170 Upvotes
-- Comments: 95 Discussions
+- Score: 198 Upvotes
+- Comments: 104 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50441444
 - Original Article: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text
 

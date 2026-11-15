@@ -40635,7 +40635,8 @@ Resources organized by publisher feed and query sources.
   - [Generative AI uses more energy on non-English text](../ai/community/generative-ai-uses-more-energy-on-non-english-text.md)
   - [Lovable apps expose passport details and more than 200K private messages](../ai/community/lovable-apps-expose-passport-details-and-more-than.md)
   - [Seagate's new hybrid drive raises some old questions](../ai/community/seagate-s-new-hybrid-drive-raises-some-old-questio.md)
-  - [Tech companies are trying to shift the concept of privacy again](../ai/community/tech-companies-are-trying-to-shift-the-concept-of.md)
+  - [Show HN: A custom font based on the Jamaican flag alphabet](../ai/community/show-hn-a-custom-font-based-on-the-jamaican-flag-a.md)
+  - [Show HN: Gawain – Require type hints on all Python variables](../ai/community/matheuzgomes-gawain.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42041,6 +42042,7 @@ Resources organized by publisher feed and query sources.
   - [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
+  - [Best RAG GitHub Repositories (2026) | GitTrend](../ai/rag/best-rag-github-repositories-2026-gittrend.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Better Stack · GitHub](../ai/rag/better-stack-github.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
@@ -44553,4 +44555,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-15T05:49:33.866714+05:30*
+*Index generated on 2026-11-15T12:31:35.567431+05:30*
