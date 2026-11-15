@@ -1,5 +1,5 @@
 ---
-title: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim
+title: nvidia/simready-assets
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/datasets/nvidia
@@ -19,7 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim
+# nvidia/simready-assets
 
 ## Why This Is In The Archive
 
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 276, Downloads: 1107359)
+Trending Hugging Face dataset: nvidia/simready-assets (Likes: 1586, Downloads: 1596662)
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://gittrend.io/best/rag
 resource_id: blog:best-rag-github-repositories-2026-gittrend
 local_vault_path: ai/rag/best-rag-github-repositories-2026-gittrend.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   RAG implementations are evolving beyond vector-based retrieval to incorporate knowledge graphs (e.g
+*   RAG development is heavily converging with AI agent platforms, focusing on agent orchestration
 
 ## Use Cases
 

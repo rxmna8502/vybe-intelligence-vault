@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://noworneverev.github.io/Awesome-RAG/
-published_at: '2026-11-14T17:13:41.616140+05:30'
-collected_at: '2026-11-14T17:13:41.616151+05:30'
+published_at: '2026-11-15T21:17:12.842836+05:30'
+collected_at: '2026-11-15T21:17:12.842849+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-tools-awesome-rag
-first_seen: '2026-11-14T17:13:41.616151+05:30'
-last_seen: '2026-11-14T17:13:41.616151+05:30'
-last_checked: '2026-11-14T17:13:41.616151+05:30'
+first_seen: '2026-11-15T21:17:12.842849+05:30'
+last_seen: '2026-11-15T21:17:12.842849+05:30'
+last_checked: '2026-11-15T21:17:12.842849+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   RAG development is supported by comprehensive frameworks like LangChain, LlamaIndex, and Haystack, which facilitate LLM application orchestration, including agentic workflows and specialized RAG pipeline optimization (e.g., AutoRAG, fastRAG).
-*   Core RAG infrastructure relies on diverse vector databases (e.g., Weaviate, Milvus, Qdrant, PGVector) for efficient semantic retrieval, complemented by advanced components such as GraphRAG for structured knowledge integration and dedicated memory systems (Mem0) for persistent context.
-*   The RAG ecosystem is further augmented by specialized tooling for document/image processing (e.g., Unstructured, Nougat, CLIP), robust evaluation frameworks (e.g., RAGAS, DeepEval, TruLens), and efficient model serving
+*   RAG development is supported by comprehensive frameworks (e.g., LangChain, LlamaIndex, Haystack) for LLM orchestration, including specialized tools for agentic workflows (LangGraph, AutoGen) and graph-based RAG (GraphRAG).
+*   Data management for RAG relies on diverse vector stores (e.g., Weaviate, Milvus, Qdrant, FAISS, PGVector) for efficient semantic search, complemented by robust document parsing (Unstructured, Nougat, Marker) and multimodal processing (CLIP).
+*   Operationalizing RAG involves guardrails (NeMo Guardrails) for safety, dedicated evaluation frameworks (RAGAS, DeepEval, TruLens) for performance assessment, UI/interface tools (Streamlit, Gradio) for application frontends, and optimized model serving platforms (ollama, vllm, litellm).
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-11-14T17:13:41.616140+05:30
+- Published: 2026-11-15T21:17:12.842836+05:30
 
 ## Related Tags
 

@@ -13,13 +13,14 @@ collected_at: '2026-11-15T12:15:13.632910+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:generative-ai-uses-more-energy-on-non-english-text
 first_seen: '2026-11-14T23:45:12.611454+05:30'
 last_seen: '2026-11-15T12:15:13.632910+05:30'
 last_checked: '2026-11-15T12:15:13.632910+05:30'
 health_score: 100
 ---
+
 
 # Generative AI uses more energy on non-English text
 

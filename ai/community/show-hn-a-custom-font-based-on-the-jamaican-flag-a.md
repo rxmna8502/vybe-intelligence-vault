@@ -13,13 +13,14 @@ collected_at: '2026-11-15T12:15:13.910041+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-a-custom-font-based-on-the-jamaican-flag-a
 first_seen: '2026-11-15T12:15:13.910041+05:30'
 last_seen: '2026-11-15T12:15:13.910041+05:30'
 last_checked: '2026-11-15T12:15:13.910041+05:30'
 health_score: 100
 ---
+
 
 # Show HN: A custom font based on the Jamaican flag alphabet
 

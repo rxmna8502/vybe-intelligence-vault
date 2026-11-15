@@ -13,13 +13,14 @@ collected_at: '2026-11-15T12:15:13.818469+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:seagate-s-new-hybrid-drive-raises-some-old-questio
 first_seen: '2026-11-15T05:32:42.576543+05:30'
 last_seen: '2026-11-15T12:15:13.818469+05:30'
 last_checked: '2026-11-15T12:15:13.818469+05:30'
 health_score: 100
 ---
+
 
 # Seagate's new hybrid drive raises some old questions
 

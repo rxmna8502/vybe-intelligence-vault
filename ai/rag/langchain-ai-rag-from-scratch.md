@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-from-scratch
-collected_at: '2026-11-13T17:54:33.161367+05:30'
-published_at: '2026-11-13T10:26:28Z'
+collected_at: '2026-11-15T21:17:17.604984+05:30'
+published_at: '2026-11-15T15:03:12Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-stars: 9997
+stars: 10076
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-01-31T01:23:48Z'
 pushed_at: '2025-06-26T03:16:10Z'
 resource_id: github:langchain-ai/rag-from-scratch
-first_seen: '2026-11-13T17:54:33.161367+05:30'
-last_seen: '2026-11-13T17:54:33.161367+05:30'
-last_checked: '2026-11-13T17:54:33.161367+05:30'
+first_seen: '2026-11-15T21:17:17.604984+05:30'
+last_seen: '2026-11-15T21:17:17.604984+05:30'
+last_checked: '2026-11-15T21:17:17.604984+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,8 @@ health_score: 100
 
 ## Summary
 
-*   Demonstrates Retrieval-Augmented Generation (RAG) system construction from foundational principles.
+*   Implements Retrieval Augmented Generation (RAG) principles from foundational components.
+*
 
 ## Why It Matters
 
@@ -36,11 +37,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 9997
-- Forks: 2290
+- Stars: 10076
+- Forks: 2301
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-11-13T10:26:28Z
+- Last Updated: 2026-11-15T15:03:12Z
 - Archived: No
 - Created At: 2024-01-31T01:23:48Z
 - Pushed At: 2025-06-26T03:16:10Z

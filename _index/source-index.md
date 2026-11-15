@@ -40632,11 +40632,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Generative AI uses more energy on non-English text](../ai/community/generative-ai-uses-more-energy-on-non-english-text.md)
+  - [A Human Reads the Anthropic IPO Filing](../ai/community/a-human-reads-the-anthropic-ipo-filing.md)
+  - [All AI-generated code should be Open Source](../ai/community/all-ai-generated-code-should-be-open-source.md)
   - [Lovable apps expose passport details and more than 200K private messages](../ai/community/lovable-apps-expose-passport-details-and-more-than.md)
-  - [Seagate's new hybrid drive raises some old questions](../ai/community/seagate-s-new-hybrid-drive-raises-some-old-questio.md)
-  - [Show HN: A custom font based on the Jamaican flag alphabet](../ai/community/show-hn-a-custom-font-based-on-the-jamaican-flag-a.md)
-  - [Show HN: Gawain – Require type hints on all Python variables](../ai/community/matheuzgomes-gawain.md)
+  - [Understanding Positional Embeddings in Modern LLMs](../ai/community/understanding-positional-embeddings-in-modern-llms.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41548,7 +41547,6 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: huggingface_dataset)
 
-  - [3dcodeverse/3dcodeverse-2m](../ai/models/huggingface-datasets-3dcodeverse.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [agibot-world/AgiBotWorld2026](../ai/models/huggingface-datasets-agibot-world.md)
   - [allenai/objaverse](../ai/models/huggingface-datasets-allenai.md)
@@ -41556,6 +41554,7 @@ Resources organized by publisher feed and query sources.
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [neashton/windsorml](../ai/models/huggingface-datasets-neashton.md)
   - [nicoboou/IDRCell100k](../ai/models/huggingface-datasets-nicoboou.md)
+  - [nvidia/simready-assets](../ai/models/huggingface-datasets-nvidia.md)
   - [tropos-labs/eigen-face-dataset-256](../ai/models/huggingface-datasets-tropos-labs.md)
   - [wegrthj/e94fjt-qi9l-raw](../ai/models/huggingface-datasets-wegrthj.md)
 
@@ -43542,10 +43541,14 @@ Resources organized by publisher feed and query sources.
   - [R for Data Science (2e) - Solutions to Exercises](../ai/resources/r-for-data-science-2e-solutions-to-exercises.md)
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
+  - [RAG Applications: Build with Ollama & Python Tutorial](../ai/rag/rag-applications-build-with-ollama-python-tutorial.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
+  - [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
+  - [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -43903,6 +43906,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -44053,6 +44057,7 @@ Resources organized by publisher feed and query sources.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
+  - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University Corporation for Atmospheric Research | University Corporation for Atmospheric Research](../ai/resources/university-corporation-for-atmospheric-research-un.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
@@ -44555,4 +44560,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-15T12:31:35.567431+05:30*
+*Index generated on 2026-11-15T21:33:00.609187+05:30*

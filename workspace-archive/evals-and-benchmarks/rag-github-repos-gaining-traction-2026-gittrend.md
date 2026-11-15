@@ -13,14 +13,14 @@ importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - dataset
-- paper
+- hackernews
+- openai
 - rag
 - reddit
 - scripts
 - web-crawled
-- workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) systems integrate external knowledge retrieval
+*   RAG implementations are rapidly evolving towards graph-based knowledge representation, exemplified by
 
 ## Use Cases
 

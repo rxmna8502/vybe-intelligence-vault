@@ -40,7 +40,7 @@ selection_reason:
 
 ## Summary
 
-*   Leading RAG frameworks in 2026 include LangChain for agentic workflows
+*   Leading RAG frameworks in 2026 include LangChain for flexible, agentic workflows via LangGraph; L
 
 ## Use Cases
 
