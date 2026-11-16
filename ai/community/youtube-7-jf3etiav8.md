@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:7_JF3etiAv8
 first_seen: '2026-11-16T02:40:19.201821+05:30'
 last_seen: '2026-11-16T12:13:43.194570+05:30'
 last_checked: '2026-11-16T12:13:43.194570+05:30'
 health_score: 100
 ---
+
 
 # A short explainer on how El Niño works [video]
 

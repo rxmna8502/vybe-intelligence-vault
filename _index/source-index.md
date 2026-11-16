@@ -40274,6 +40274,7 @@ Resources organized by publisher feed and query sources.
   - [OWASP/API-Security](../ai/resources/owasp-api-security.md)
   - [OWASP/Top10](../ai/resources/owasp-top10.md)
   - [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
+  - [OpenMontageInc/OpenMontage](../ai/agents/openmontageinc-openmontage.md)
   - [Orillusion/orillusion](../web-development/webgpu/orillusion-orillusion.md)
   - [PacktPublishing/LLM-Engineers-Handbook](../ai/rag/packtpublishing-llm-engineers-handbook.md)
   - [PacktPublishing/Operational-AI-with-Docker](../ai/resources/packtpublishing-operational-ai-with-docker.md)
@@ -41032,10 +41033,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A short explainer on how El Niño works [video]](../ai/community/youtube-7-jf3etiav8.md)
-  - [Tell HN: HN is being scraped for emails to scam](../ai/community/tell-hn-hn-is-being-scraped-for-emails-to-scam.md)
+  - [Interpreting claims that a theorem is correct because it was checked in Lean](../ai/community/interpreting-claims-that-a-theorem-is-correct-beca.md)
+  - [OpenAI: Strengthening the fight against online child sexual abuse](../ai/community/openai-strengthening-the-fight-against-online-chil.md)
+  - [Quxnet Is a Breath of Fresh Air](../ai/community/quxnet-is-a-breath-of-fresh-air.md)
   - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](../ai/community/tor-project-issues-rapid-response-dos-defense-fix.md)
-  - [WebGL Flight Simulator with seed generated terrain](../ai/community/webgl-flight-simulator-with-seed-generated-terrain.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41416,6 +41417,7 @@ Resources organized by publisher feed and query sources.
   - [Hugging Face and Graphcore partner for IPU-optimized Transformers](../ai/models/huggingface-blog-graphcore.md)
   - [Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders](../ai/models/huggingface-blog-huggingface-and-ibm.md)
   - [Hugging Face and JFrog partner to make AI Security more transparent](../ai/models/huggingface-blog-jfrog.md)
+  - [Hugging Face and OpenRouter join forces to make open-weight models easy to run](../ai/models/huggingface-blog-openrouter.md)
   - [Hugging Face and VirusTotal collaborate to strengthen AI security](../ai/models/huggingface-blog-virustotal.md)
   - [Hugging Face models in Amazon Bedrock](../ai/models/huggingface-blog-bedrock-marketplace.md)
   - [Hugging Face on AMD Instinct MI300 GPU](../ai/models/huggingface-blog-huggingface-amd-mi300.md)
@@ -44953,4 +44955,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-16T12:33:00.633721+05:30*
+*Index generated on 2026-11-17T00:30:18.662166+05:30*

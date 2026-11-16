@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-11-10T00:26:25.321745+05:30'
-published_at: '2026-11-09T01:59:45Z'
+collected_at: '2026-11-17T00:14:42.185491+05:30'
+published_at: '2026-11-15T14:13:19Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-stars: 118
+stars: 121
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-11-10T00:26:25.321745+05:30'
-last_seen: '2026-11-10T00:26:25.321745+05:30'
-last_checked: '2026-11-10T00:26:25.321745+05:30'
+first_seen: '2026-11-17T00:14:42.185491+05:30'
+last_seen: '2026-11-17T00:14:42.185491+05:30'
+last_checked: '2026-11-17T00:14:42.185491+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,7 @@ health_score: 100
 
 ## Summary
 
-*   Provides an end-to-end RAG curriculum, spanning foundational concepts to production deployment, structured across 4 modules and 20 chapters.
-*   Covers practical application of LLMs, LangChain, and vector databases within Retrieval-Augmented Generation architectures.
-*   Features hands-on implementation via 17 Jupyter Notebooks and 6 enterprise-grade RAG case studies.
+*   Comprehensive RAG curriculum spanning foundational concepts to production deployment, structured across 4 modules and
 
 ## Why It Matters
 
@@ -39,11 +37,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vivy-yi
-- Stars: 118
-- Forks: 21
+- Stars: 121
+- Forks: 22
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
-- Last Updated: 2026-11-09T01:59:45Z
+- Last Updated: 2026-11-15T14:13:19Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T16:43:21Z

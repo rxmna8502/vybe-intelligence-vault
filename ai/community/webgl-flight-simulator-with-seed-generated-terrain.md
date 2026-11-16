@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - threejs
-status: active
+status: inactive
 resource_id: hackernews:webgl-flight-simulator-with-seed-generated-terrain
 first_seen: '2026-11-16T12:13:43.934431+05:30'
 last_seen: '2026-11-16T12:13:43.934431+05:30'
 last_checked: '2026-11-16T12:13:43.934431+05:30'
 health_score: 100
 ---
+
 
 # WebGL Flight Simulator with seed generated terrain
 

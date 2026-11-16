@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: openai-community/gpt2 (Likes: 3938, Downloads: 33889983)
+Trending Hugging Face model: openai-community/gpt2 (Likes: 3941, Downloads: 34186762)
 
 ## Use Cases
 
