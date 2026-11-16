@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - rag
-status: active
+status: inactive
 resource_id: hackernews:understanding-positional-embeddings-in-modern-llms
 first_seen: '2026-11-15T21:16:21.065491+05:30'
 last_seen: '2026-11-16T02:40:20.548584+05:30'
 last_checked: '2026-11-16T02:40:20.548584+05:30'
 health_score: 100
 ---
+
 
 # Understanding Positional Embeddings in Modern LLMs
 

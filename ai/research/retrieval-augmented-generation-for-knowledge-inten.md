@@ -11,18 +11,18 @@ authors:
 - F. Petroni
 - Vladimir Karpukhin
 - Naman Goyal
-- Heinrich Kuttler
+- Heinrich Küttler
 - M. Lewis
 - Wen-tau Yih
 - Tim Rocktäschel
 - Sebastian Riedel
 - Douwe Kiela
 year: 2020
-citation_count: 21049
+citation_count: 21197
 code_url: None
 stars: N/A
 published_at: '2020-01-01T00:00:00Z'
-collected_at: '2026-11-13T17:53:24.367337+05:30'
+collected_at: '2026-11-16T12:13:42.616967+05:30'
 tags:
 - augmented
 - generation
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:retrieval-augmented-generation-for-knowledge-inten
 first_seen: '2026-07-19T16:15:03.003762+05:30'
-last_seen: '2026-11-13T17:53:24.367337+05:30'
-last_checked: '2026-11-13T17:53:24.367337+05:30'
+last_seen: '2026-11-16T12:13:42.616967+05:30'
+last_checked: '2026-11-16T12:13:42.616967+05:30'
 health_score: 100
 ---
 
@@ -51,9 +51,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Patrick Lewis, Ethan Perez, Aleksandra Piktus, F. Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Kuttler, M. Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
+- Authors: Patrick Lewis, Ethan Perez, Aleksandra Piktus, F. Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, M. Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
 - Publication Year: 2020
-- Citation Count: 21049
+- Citation Count: 21197
 - Paper Link: https://semanticscholar.org/paper/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31
 - Code Link: None
 - Code Stars: N/A

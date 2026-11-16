@@ -15,6 +15,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) | `ai-coding-agents/` | 70 |
 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
 | [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) | `ai-coding-agents/` | 70 |
+| [JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams](https://arxiv.org/abs/2611.18130) | `ai-coding-agents/` | 70 |
 | [Event-Based Early Warning of Vineyard Disease Risk from Environmental Time Series](https://arxiv.org/abs/2605.04548) | `ai-coding-agents/` | 70 |
 | [ADAPT: Agentic Diff-Aware Patch Testing for Pull Requests](https://arxiv.org/abs/2611.16114) | `ai-coding-agents/` | 70 |
 | [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Sign-Symmetry Learning Rules are Robust Fine-Tuners](https://arxiv.org/abs/2502.05925) | `ai-coding-agents/` | 70 |
 | [Generative AI for Analysts](https://arxiv.org/abs/2512.19705) | `ai-coding-agents/` | 70 |
 | [When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor](https://arxiv.org/abs/2609.01985) | `ai-coding-agents/` | 70 |
-| [FastKernels: Benchmarking GPU Kernel Generation in Production](https://arxiv.org/abs/2605.23215) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -13,13 +13,14 @@ collected_at: '2026-11-16T02:40:20.904936+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:all-ai-generated-code-should-be-open-source
 first_seen: '2026-11-15T21:16:20.677314+05:30'
 last_seen: '2026-11-16T02:40:20.904936+05:30'
 last_checked: '2026-11-16T02:40:20.904936+05:30'
 health_score: 100
 ---
+
 
 # All AI-generated code should be Open Source
 

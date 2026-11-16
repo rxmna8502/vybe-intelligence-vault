@@ -11,11 +11,11 @@ authors:
 - Bing-Hui Wang
 - Jin-Yuan Jia
 year: 2024
-citation_count: 407
+citation_count: 415
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-11-13T17:53:24.367419+05:30'
+collected_at: '2026-11-16T12:13:42.617034+05:30'
 tags:
 - augmented
 - generation
@@ -27,8 +27,8 @@ tags:
 status: active
 resource_id: blog:poisonedrag-knowledge-corruption-attacks-to-retrie
 first_seen: '2026-07-19T16:15:03.003867+05:30'
-last_seen: '2026-11-13T17:53:24.367419+05:30'
-last_checked: '2026-11-13T17:53:24.367419+05:30'
+last_seen: '2026-11-16T12:13:42.617034+05:30'
+last_checked: '2026-11-16T12:13:42.617034+05:30'
 health_score: 100
 ---
 
@@ -46,7 +46,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Wei Zou, Run-Peng Geng, Bing-Hui Wang, Jin-Yuan Jia
 - Publication Year: 2024
-- Citation Count: 407
+- Citation Count: 415
 - Paper Link: https://semanticscholar.org/paper/f4e06256ab07727ff4e0465deea83fcf45012354
 - Code Link: None
 - Code Stars: N/A

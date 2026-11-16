@@ -13,13 +13,14 @@ collected_at: '2026-11-16T02:40:21.385609+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:parents-pay-75k-for-alpha-s-ai-school-half-of-its
 first_seen: '2026-11-16T02:40:21.385609+05:30'
 last_seen: '2026-11-16T02:40:21.385609+05:30'
 last_checked: '2026-11-16T02:40:21.385609+05:30'
 health_score: 100
 ---
+
 
 # Parents pay $75k for Alpha's AI school. Half of its students missed math target
 
