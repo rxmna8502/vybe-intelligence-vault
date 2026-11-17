@@ -41030,9 +41030,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Microsoft blames monster email outage on software defect introduced in July fix](../ai/community/microsoft-blames-monster-email-outage-on-software.md)
-  - [Regulatory Capture by Anthropic Through METR](../ai/community/regulatory-capture-by-anthropic-through-metr.md)
-  - [Spamhaus new email sender requirements in November](../ai/community/spamhaus-new-email-sender-requirements-in-november.md)
+  - [Advancing computer-use agents for healthcare teams](../ai/community/advancing-computer-use-agents-for-healthcare-teams.md)
+  - [Fixing a WebKit bug to see if promises are made of train tracks](../ai/community/fixing-a-webkit-bug-to-see-if-promises-are-made-of.md)
+  - [Harvard researchers find AI coding agents shifted the bottleneck to code review](../ai/community/harvard-researchers-find-ai-coding-agents-shifted.md)
+  - [MAI Code 2 and Code 2 Flash](../ai/community/mai-code-2-and-code-2-flash.md)
+  - [Not Everything Needs an LLM](../ai/community/not-everything-needs-an-llm.md)
+  - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](../ai/community/runanywhereai-trnrt.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42068,6 +42071,7 @@ Resources organized by publisher feed and query sources.
   - [How to Think About Security in Next.js](../web-development/nextjs/how-to-think-about-security-in-next-js.md)
   - [How to Upgrade to React 18](../web-development/how-to-upgrade-to-react-18.md)
   - [How we closed 1,500 GitHub issues in one month](../ai/agents/how-we-closed-1500-github-issues-in-one-month.md)
+  - [How we're using AI to make Next.js more secure](../web-development/nextjs/how-we-re-using-ai-to-make-next-js-more-secure.md)
   - [Improving navigation experience in v0 with Next.js 16.4](../ai/agents/improving-navigation-experience-in-v0-with-next-js.md)
   - [Incrementally Adopting Next.js](../web-development/nextjs/incrementally-adopting-next-js.md)
   - [Inside Turbopack: Building Faster by Building Less](../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)
@@ -44951,4 +44955,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-17T19:23:00.506728+05:30*
+*Index generated on 2026-11-18T05:22:19.258865+05:30*

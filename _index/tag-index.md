@@ -610,6 +610,7 @@ Resources organized by keyword tags.
   - [AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](../ai/agents/arxiv-2610-08773.md)
   - [Advancing Clinical Genomic Analysis with a Skill-Centred Agent](../ai/rag/arxiv-2610-40556.md)
   - [Advancing MLLM-based UAV Image Understanding and Reasoning: A Benchmark and a Training-Free Multi-Agent System](../ai/rag/arxiv-2608-11738.md)
+  - [Advancing computer-use agents for healthcare teams](../ai/community/advancing-computer-use-agents-for-healthcare-teams.md)
   - [Adversarial Calibration Attack on Autonomous Vehicles](../ai/agents/arxiv-2608-28778.md)
   - [Adversarial Detection for Pre-trained Classifiers via Lipschitz-Margin Analysis with Certification](../ai/agents/arxiv-2610-15359.md)
   - [Adversarial Pragmatics for AI Safety Evaluation: A Diagnostic Framework and Seed Benchmark for Language-Mediated Control](../ai/rag/arxiv-2607-01153.md)
@@ -4346,6 +4347,7 @@ Resources organized by keyword tags.
   - [Harnessing agent memory to build lifelong AI partners for materials scientists](../ai/rag/arxiv-2608-11224.md)
   - [Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries](../ai/agents/arxiv-2606-10402.md)
   - [Harnessing the Synergy between LLM Agents and Knowledge Graphs for Urban Socioeconomic Prediction](../ai/rag/arxiv-2411-00028.md)
+  - [Harvard researchers find AI coding agents shifted the bottleneck to code review](../ai/community/harvard-researchers-find-ai-coding-agents-shifted.md)
   - [HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals](../ai/rag/arxiv-2609-04444.md)
   - [Has GPT-6-Astra Achieved Embodied Intelligence?](../ai/agents/arxiv-2610-22471.md)
   - [HasMem: Hard-Origin Adaptively Softened Memory for Long-Term LLM Agents](../ai/rag/arxiv-2609-30797.md)
@@ -10343,8 +10345,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Microsoft blames monster email outage on software defect introduced in July fix](../ai/community/microsoft-blames-monster-email-outage-on-software.md)
-  - [Spamhaus new email sender requirements in November](../ai/community/spamhaus-new-email-sender-requirements-in-november.md)
+  - [Fixing a WebKit bug to see if promises are made of train tracks](../ai/community/fixing-a-webkit-bug-to-see-if-promises-are-made-of.md)
+  - [Harvard researchers find AI coding agents shifted the bottleneck to code review](../ai/community/harvard-researchers-find-ai-coding-agents-shifted.md)
+  - [MAI Code 2 and Code 2 Flash](../ai/community/mai-code-2-and-code-2-flash.md)
+  - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](../ai/community/runanywhereai-trnrt.md)
 
 ## animation
 
@@ -11076,7 +11080,6 @@ Resources organized by keyword tags.
   - [Recursive Self-Improvement on a Budget: Scoring Code Edits Before They Run](../ai/agents/arxiv-2610-29121.md)
   - [Refused in Chat, Written in Code: Workflow-Level Jailbreak Construction in IDE Coding Agents](../ai/agents/arxiv-2607-03968.md)
   - [RegDivergence-101: An LLM Benchmark for Cross-Jurisdiction Regulatory Contradiction Detection in Life Sciences](../ai/rag/arxiv-2608-28607.md)
-  - [Regulatory Capture by Anthropic Through METR](../ai/community/regulatory-capture-by-anthropic-through-metr.md)
   - [Reinforcement Learning for LLM-based Event Forecasting](../ai/research/arxiv-2606-15917.md)
   - [Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models](../ai/research/reka-core-flash-and-edge-a-series-of-powerful-mult.md)
   - [Relational Preference Encoding in Looped Transformer Internal States](../ai/research/arxiv-2604-09870.md)
@@ -39042,6 +39045,7 @@ Resources organized by keyword tags.
   - [How to Upgrade to React 18](../web-development/how-to-upgrade-to-react-18.md)
   - [How to use Baseline in your project | Google Codelabs](../ai/resources/how-to-use-baseline-in-your-project-google-codelab.md)
   - [How we closed 1,500 GitHub issues in one month](../ai/agents/how-we-closed-1500-github-issues-in-one-month.md)
+  - [How we're using AI to make Next.js more secure](../web-development/nextjs/how-we-re-using-ai-to-make-next-js-more-secure.md)
   - [Human-like Object Grouping in Self-supervised Vision Transformers](../ai/research/arxiv-2603-13994.md)
   - [Humanoid Rickshaw Pulling: Whole-Body Locomotion under Coupled Wheeled Loads](../ai/research/arxiv-2610-04238.md)
   - [Humanoid Safe Stop via Learned Stoppability Value](../ai/research/arxiv-2609-02358.md)
@@ -40997,6 +41001,7 @@ Resources organized by keyword tags.
   - [Advanced modelling and data analytics in aviation](../ai/rag/arxiv-2608-14746.md)
   - [Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques](../ai/rag/arxiv-2312-10089.md)
   - [Advancing Health Equity through Multi-Level Fairness in Health Informatics](../ai/research/arxiv-2608-16902.md)
+  - [Advancing computer-use agents for healthcare teams](../ai/community/advancing-computer-use-agents-for-healthcare-teams.md)
   - [Adversarial Attacks on Online Handwriting using Salience-based Temporal Editing](../ai/research/arxiv-2607-12500.md)
   - [Adversarial Debiasing of Machine Learning Models for Enhanced Network Security against DDoS Attacks](../ai/research/arxiv-2609-36167.md)
   - [Adversarial LassoNet: Robust Feature Selection via Stability-Driven Sparse Learning](../ai/research/arxiv-2607-03839.md)
@@ -42290,6 +42295,7 @@ Resources organized by keyword tags.
   - [Fixed Sets and the Hardness of Computing Correlated Equilibria](../ai/research/arxiv-2610-28141.md)
   - [Fixed-Gaussian Spectral Algorithms: Minimax Optimal Rates for Misspecified Learning and Transfer](../ai/research/arxiv-2501-10870.md)
   - [Fixed-Size Active Statistical Inference](../ai/research/arxiv-2610-27389.md)
+  - [Fixing a WebKit bug to see if promises are made of train tracks](../ai/community/fixing-a-webkit-bug-to-see-if-promises-are-made-of.md)
   - [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](../ai/agents/arxiv-2609-19124.md)
   - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](../ai/agents/arxiv-2608-12932.md)
   - [FlashNext-RL: A System Optimization Study for Long-Horizon Agentic RL of Qwen3.8-Flash-Next](../ai/rag/arxiv-2610-28998.md)
@@ -42641,6 +42647,7 @@ Resources organized by keyword tags.
   - [Harrison.Rad 1.5 Technical Report: A radiology foundation model that can draft reports from images, priors and clinical context](../ai/research/arxiv-2607-05880.md)
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
+  - [Harvard researchers find AI coding agents shifted the bottleneck to code review](../ai/community/harvard-researchers-find-ai-coding-agents-shifted.md)
   - [HarvardSites Platform Information Gathering Practices Statement | Harvard Web Publishing](../ai/resources/harvardsites-platform-information-gathering-practi.md)
   - [Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](../ai/research/arxiv-2607-00143.md)
   - [Haystack Enterprise Starter](../ai/rag/haystack-enterprise-starter.md)
@@ -43218,6 +43225,7 @@ Resources organized by keyword tags.
   - [M2K: Making the Model-Kernel Interface Explicit for Reliable CUDA Kernel Verification](../ai/rag/arxiv-2603-24595.md)
   - [MA-HEAD-Net: Adaptive Rule-Guided Multi-Agent DRL for AoI Minimization in UAV-Assisted Emergency Networks](../ai/agents/arxiv-2608-01128.md)
   - [MAGneT: Coordinated Multi-Agent Generation of Synthetic Multi-Turn Mental Health Counseling Sessions](../ai/rag/arxiv-2509-04183.md)
+  - [MAI Code 2 and Code 2 Flash](../ai/community/mai-code-2-and-code-2-flash.md)
   - [MAPLE: A Multi-Axis Parametric Knowledge Extraction Lens for LLM Evaluation](../ai/research/arxiv-2610-19827.md)
   - [MARC records and custom Excel title lists | Librarian Portal | Springer Nature](../ai/resources/marc-records-and-custom-excel-title-lists-libraria.md)
   - [MARCEDES: Score-based causal discovery under non-Gaussianity with continuous optimization](../ai/research/arxiv-2609-30643.md)
@@ -43335,7 +43343,6 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
-  - [Microsoft blames monster email outage on software defect introduced in July fix](../ai/community/microsoft-blames-monster-email-outage-on-software.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -43525,6 +43532,7 @@ Resources organized by keyword tags.
   - [NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale](../ai/agents/arxiv-2611-02102.md)
   - [NostrAgent: A Decentralized Identity and Delegation Architecture for Sovereign Agentic Systems](../ai/rag/arxiv-2609-22944.md)
   - [Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](../ai/research/arxiv-2603-06952.md)
+  - [Not Everything Needs an LLM](../ai/community/not-everything-needs-an-llm.md)
   - [Nothing Personal, a new editorial platform by Mozilla Foundation - Mozilla Foundation](../ai/rag/nothing-personal-a-new-editorial-platform-by-mozil.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
   - [NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment](../ai/research/arxiv-2609-11234.md)
@@ -44045,7 +44053,6 @@ Resources organized by keyword tags.
   - [Regularized Machine Learning for System Identification of Ship Free-Running Manoeuvres from CFD-Based Synthetic Data: A Comparative Study](../ai/research/arxiv-2606-17121.md)
   - [Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief](../ai/rag/arxiv-2606-00680.md)
   - [Regulations.gov](../ai/resources/regulations-gov.md)
-  - [Regulatory Capture by Anthropic Through METR](../ai/community/regulatory-capture-by-anthropic-through-metr.md)
   - [Reinforced Linear Genetic Programming](../ai/research/arxiv-2601-09736.md)
   - [Reinforced sequential Monte Carlo for amortised sampling](../ai/research/arxiv-2510-11711.md)
   - [Reinforcement Federated Learning Method Based on Adaptive OPTICS Clustering](../ai/research/arxiv-2306-12859.md)
@@ -44344,6 +44351,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](../ai/community/runanywhereai-trnrt.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -44424,7 +44432,6 @@ Resources organized by keyword tags.
   - [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](../ai/rag/arxiv-2601-16294.md)
   - [Space Telecommunications, Astronomy and Radiation Laboratory - MIT AeroAstro](../ai/resources/space-telecommunications-astronomy-and-radiation-l.md)
   - [Spam and Sentiment Detection in Arabic Tweets Using MARBERT Model](../ai/research/arxiv-2606-25495.md)
-  - [Spamhaus new email sender requirements in November](../ai/community/spamhaus-new-email-sender-requirements-in-november.md)
   - [Sparse Covariance Neural Networks](../ai/rag/arxiv-2410-01669.md)
   - [Sparse Coverage: Semantic Center Representations for Patent Prior-Art Retrieval](../ai/rag/arxiv-2608-16918.md)
   - [Sparse Data Augmentation for Optimization with Provable Guarantees](../ai/rag/arxiv-2609-08133.md)
@@ -45284,6 +45291,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -45324,7 +45332,6 @@ Resources organized by keyword tags.
   - [gptme/gptme-agent-template](../ai/agents/gptme-gptme-agent-template.md)
   - [graspologic-org/graspologic](../ai/rag/graspologic-org-graspologic.md)
   - [home - h-node.org](../ai/rag/home-h-node-org.md)
-  - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [huggingface (Hugging Face)](../ai/rag/huggingface-hugging-face.md)
   - [huggingface/hub-docs](../ai/resources/huggingface-hub-docs.md)
   - [huggingface/kernels-community](../ai/resources/huggingface-kernels-community.md)
@@ -46165,6 +46172,11 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Not Everything Needs an LLM](../ai/community/not-everything-needs-an-llm.md)
+  - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](../ai/community/runanywhereai-trnrt.md)
 
 ## mdx
 
@@ -56578,6 +56590,7 @@ Resources organized by keyword tags.
   - [Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews](../ai/research/arxiv-2610-35685.md)
   - [Adaptive Query Routing: A Tier-Based Framework for Hybrid Retrieval Across Financial, Legal, and Medical Documents](../ai/rag/arxiv-2604-14222.md)
   - [Add-ons for Firefox (en-US)](../ai/resources/add-ons-for-firefox-en-us.md)
+  - [Advancing computer-use agents for healthcare teams](../ai/community/advancing-computer-use-agents-for-healthcare-teams.md)
   - [Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation](../ai/rag/arxiv-2608-03166.md)
   - [Advertising to Agents: Measuring Description-Framing Bias in LLM Tool Selection](../ai/agents/arxiv-2605-23916.md)
   - [AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents](../ai/agents/arxiv-2609-09875.md)
@@ -91289,4 +91302,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-17T19:23:00.041519+05:30*
+*Index generated on 2026-11-18T05:22:18.926822+05:30*

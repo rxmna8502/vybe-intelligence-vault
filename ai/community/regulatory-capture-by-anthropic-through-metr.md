@@ -13,13 +13,14 @@ collected_at: '2026-11-17T19:06:17.286844+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:regulatory-capture-by-anthropic-through-metr
 first_seen: '2026-11-17T19:06:17.286844+05:30'
 last_seen: '2026-11-17T19:06:17.286844+05:30'
 last_checked: '2026-11-17T19:06:17.286844+05:30'
 health_score: 100
 ---
+
 
 # Regulatory Capture by Anthropic Through METR
 

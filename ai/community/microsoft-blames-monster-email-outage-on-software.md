@@ -14,13 +14,14 @@ collected_at: '2026-11-17T19:06:18.427120+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:microsoft-blames-monster-email-outage-on-software
 first_seen: '2026-11-17T08:31:32.901590+05:30'
 last_seen: '2026-11-17T19:06:18.427120+05:30'
 last_checked: '2026-11-17T19:06:18.427120+05:30'
 health_score: 100
 ---
+
 
 # Microsoft blames monster email outage on software defect introduced in July fix
 
