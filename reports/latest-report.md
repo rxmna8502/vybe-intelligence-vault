@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-17T00:34:19.467750+05:30`
+Generated at: `2026-11-17T06:43:13.692317+05:30`
 
 ## Executive Summary
 
@@ -8,37 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Interpreting claims that a theorem is correct because it was checked in Lean** - Score: `231` in category `ai/community` ([Link](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean)) ([File](../ai/community/interpreting-claims-that-a-theorem-is-correct-beca.md))
-- **OpenAI: Strengthening the fight against online child sexual abuse** - Score: `9` in category `ai/community` ([Link](https://openai.com/index/strengthening-online-child-safety)) ([File](../ai/community/openai-strengthening-the-fight-against-online-chil.md))
-- **Quxnet Is a Breath of Fresh Air** - Score: `7` in category `ai/community` ([Link](https://moddedbear.com/quxnet-is-a-breath-of-fresh-air)) ([File](../ai/community/quxnet-is-a-breath-of-fresh-air.md))
-- **OpenMontageInc/OpenMontage** - Score: `0` in category `ai/agents` ([Link](https://github.com/openmontageinc/openmontage)) ([File](../ai/agents/openmontageinc-openmontage.md))
-- **Hugging Face and OpenRouter join forces to make open-weight models easy to run** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/openrouter)) ([File](../ai/models/huggingface-blog-openrouter.md))
+- **[SUGGEST] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/resource-suggestion.md))
 
 ## Top Trending Resources
 
-- **Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack** - Score: `231` (+116), Rank Change: `+1` ([File](../ai/community/tor-project-issues-rapid-response-dos-defense-fix.md))
-- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+1462` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **langchain-ai/rag-research-agent-template** - Score: `0` (0), Rank Change: `+3277` ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
-- **vercel-labs/ai-sdk-preview-rag** - Score: `0` (0), Rank Change: `+2529` ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+2531` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+2529` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+2531` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+2531` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+2528` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+2531` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/rag/arxiv-2611-17332.md))
+- **An Invariant Neural-Network Eddy-Viscosity Closure with Iterative Solver Coupling for Molten Salt Fast Reactor Thermal-Hydraulics** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/rag/arxiv-2611-17067.md))
+- **Trajectory Density Ratios under Weak Support: A Survey across the Sciences** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/agents/arxiv-2611-11985.md))
+- **on\'ona: Twin Embeddings with Tied Unembeddings** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/rag/arxiv-2611-10556.md))
+- **LEGIT: Live Eligibility Gating over Identifier Tries for Constrained Decoding of Heterogeneous Pages** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/research/arxiv-2611-10357.md))
+- **The Alignment Illusion in Multimodal Large Language Models** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/research/arxiv-2609-30210.md))
+- **UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/rag/arxiv-2609-28610.md))
+- **SA-RAG: Structuring Noisy Conversations for Retrieval-Augmented Generation** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/rag/arxiv-2605-24366.md))
+- **mlr3torch: A Deep Learning Framework in R based on mlr3 and torch** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/research/arxiv-2604-18152.md))
+- **DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation** - Score: `0` (0), Rank Change: `+1059` ([File](../ai/rag/arxiv-2603-21465.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **langchain-ai/rag-research-agent-template** - (Rank Change: `+3277`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+2531`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+2531`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **vivy-yi/rag-tutorial** - (Rank Change: `+2531`) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **krishnaik06/RAG-Tutorials** - (Rank Change: `+2531`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **vercel-labs/ai-sdk-preview-rag** - (Rank Change: `+2529`) ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - (Rank Change: `+2529`) ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **enescingoz/awesome-n8n-templates** - (Rank Change: `+2528`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+2528`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **datawhalechina/hello-agents** - (Rank Change: `+2528`) ([File](../ai/rag/datawhalechina-hello-agents.md))
+- **infiniflow/ragflow** - (Rank Change: `+28067`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17192`) ([File](../ai/rag/stanford-oval-storm.md))
+- **ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research** - (Rank Change: `+1059`) ([File](../ai/rag/arxiv-2611-17332.md))
+- **An Invariant Neural-Network Eddy-Viscosity Closure with Iterative Solver Coupling for Molten Salt Fast Reactor Thermal-Hydraulics** - (Rank Change: `+1059`) ([File](../ai/rag/arxiv-2611-17067.md))
+- **Trajectory Density Ratios under Weak Support: A Survey across the Sciences** - (Rank Change: `+1059`) ([File](../ai/agents/arxiv-2611-11985.md))
+- **on\'ona: Twin Embeddings with Tied Unembeddings** - (Rank Change: `+1059`) ([File](../ai/rag/arxiv-2611-10556.md))
+- **LEGIT: Live Eligibility Gating over Identifier Tries for Constrained Decoding of Heterogeneous Pages** - (Rank Change: `+1059`) ([File](../ai/research/arxiv-2611-10357.md))
+- **The Alignment Illusion in Multimodal Large Language Models** - (Rank Change: `+1059`) ([File](../ai/research/arxiv-2609-30210.md))
+- **UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound** - (Rank Change: `+1059`) ([File](../ai/rag/arxiv-2609-28610.md))
+- **SA-RAG: Structuring Noisy Conversations for Retrieval-Augmented Generation** - (Rank Change: `+1059`) ([File](../ai/rag/arxiv-2605-24366.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -49,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **A short explainer on how El Niño works [video]** (Category: `ai/community`) ([File](../ai/community/youtube-7-jf3etiav8.md))
-- **WebGL Flight Simulator with seed generated terrain** (Category: `ai/community`) ([File](../ai/community/webgl-flight-simulator-with-seed-generated-terrain.md))
-- **Tell HN: HN is being scraped for emails to scam** (Category: `ai/community`) ([File](../ai/community/tell-hn-hn-is-being-scraped-for-emails-to-scam.md))
+No recently active resources transitioned to inactive.
+

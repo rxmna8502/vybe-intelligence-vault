@@ -13,8 +13,8 @@ Claude Desktop, MCP Python SDK, MCP TypeScript SDK.
 *   [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
 *   [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](https://arxiv.org/abs/2608.06305)
 *   [Instance-Aware Algorithm Selection for Maximum Clique via a Dual-Channel Graph Neural Architecture](https://arxiv.org/abs/2508.08005)
+*   [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
 *   [Firestore | Google Cloud](https://cloud.google.com/firestore)
-*   [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 
 ## Project Ideas
 *   Create an MCP server that retrieves database schemas and writes SQL queries.
