@@ -13,13 +13,14 @@ collected_at: '2026-11-17T08:31:33.215485+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:united-airlines-experiencing-a-widespread-system-o
 first_seen: '2026-11-17T08:31:33.215485+05:30'
 last_seen: '2026-11-17T08:31:33.215485+05:30'
 last_checked: '2026-11-17T08:31:33.215485+05:30'
 health_score: 100
 ---
+
 
 # United Airlines experiencing a widespread system outage, airline says
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-09-04T00:57:21.173250+05:30'
-published_at: '2026-07-08T10:21:23Z'
+collected_at: '2026-11-17T19:11:16.767525+05:30'
+published_at: '2026-09-29T17:57:42Z'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-09-04T00:57:21.173250+05:30'
-last_seen: '2026-09-04T00:57:21.173250+05:30'
-last_checked: '2026-09-04T00:57:21.173250+05:30'
+first_seen: '2026-11-17T19:11:16.767525+05:30'
+last_seen: '2026-11-17T19:11:16.767525+05:30'
+last_checked: '2026-11-17T19:11:16.767525+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (using CrewAI, AutoGen, LangChain) to process, analyze, and extract insights from documents via Retrieval-Augmented Generation (RAG) pipelines.
-- **Integration Stack**: Supports multiple LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) and vector databases (ChromaDB, Pinecone, Weaviate) for scalable document retrieval and agent coordination.
-- **Deployment & Extensibility**: Includes Discord bot integration and modular design for custom agent roles, enabling real-time multi-agent collaboration and future scalability.
+*   Implements a multi-agent RAG system for collaborative document processing, analysis, and insight generation.
+*   Leverages `autogen` and `crewai` for agent orchestration, integrating `OpenAI` (GPT-3.5/4/5) and `Anthropic` LLMs.
+*   Utilizes `ChromaDB`, `Pinecone`, and `Weaviate` as vector stores to facilitate the RAG pipeline.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 10
 - Language: Python
 - Topics: agents, ai, anthropic, autogen, chromadb, crewai, discord, gpt-5, gpt35, gpt4, langchain, multi-agent, openai, pinecone, rag, swarms, weaviate
-- Last Updated: 2026-07-08T10:21:23Z
+- Last Updated: 2026-09-29T17:57:42Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-11T19:34:21Z

@@ -6,19 +6,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
 hn_url: https://news.ycombinator.com/item?id=50517321
-score: 233
+score: 363
 author: Bender
-comments_count: 174
+comments_count: 274
 published_at: '2026-11-16T18:48:22+05:30'
-collected_at: '2026-11-17T08:31:32.901590+05:30'
+collected_at: '2026-11-17T19:06:18.427120+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:microsoft-blames-monster-email-outage-on-software
 first_seen: '2026-11-17T08:31:32.901590+05:30'
-last_seen: '2026-11-17T08:31:32.901590+05:30'
-last_checked: '2026-11-17T08:31:32.901590+05:30'
+last_seen: '2026-11-17T19:06:18.427120+05:30'
+last_checked: '2026-11-17T19:06:18.427120+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Bender. Score: 233, Comments: 174.
+Hacker News story by Bender. Score: 363, Comments: 274.
 Original Link: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Bender
-- Score: 233 Upvotes
-- Comments: 174 Discussions
+- Score: 363 Upvotes
+- Comments: 274 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50517321
 - Original Article: https://theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
 

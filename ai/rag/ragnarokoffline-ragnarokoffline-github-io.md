@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-11-17T00:14:31.942239+05:30'
+collected_at: '2026-11-17T19:07:16.368262+05:30'
 published_at: '2026-10-29T14:11:29Z'
 tags:
 - github-repo
@@ -15,11 +15,11 @@ language: HTML
 status: active
 archived: false
 created_at: '2025-02-06T11:16:38Z'
-pushed_at: '2026-10-26T12:25:09Z'
+pushed_at: '2026-11-17T05:19:47Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-11-17T00:14:31.942239+05:30'
-last_seen: '2026-11-17T00:14:31.942239+05:30'
-last_checked: '2026-11-17T00:14:31.942239+05:30'
+first_seen: '2026-11-17T19:07:16.368262+05:30'
+last_seen: '2026-11-17T19:07:16.368262+05:30'
+last_checked: '2026-11-17T19:07:16.368262+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,7 @@ health_score: 100
 
 ## Summary
 
-*   Distributes a pre-renewal Ragnarok Offline game pack.
-*   Associated with `rAthena` server emulation and `OpenKore` botting frameworks.
-*   Implemented as an `HTML`-based `GitHub Pages` site (`.github.io`).
+*   Distributes a Ragnarok Online Pre-Renewal pack, likely leveraging rAthena
 
 ## Why It Matters
 
@@ -45,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Last Updated: 2026-10-29T14:11:29Z
 - Archived: No
 - Created At: 2025-02-06T11:16:38Z
-- Pushed At: 2026-10-26T12:25:09Z
+- Pushed At: 2026-11-17T05:19:47Z
 
 ## Possible Use Cases
 

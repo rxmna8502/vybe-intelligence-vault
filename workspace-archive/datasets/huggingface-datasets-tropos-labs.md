@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: tropos-labs/eigen-face-dataset-256 (Likes: 3, Downloads: 2900881)
+Trending Hugging Face dataset: tropos-labs/eigen-face-dataset-256 (Likes: 3, Downloads: 2912144)
 
 ## Use Cases
 

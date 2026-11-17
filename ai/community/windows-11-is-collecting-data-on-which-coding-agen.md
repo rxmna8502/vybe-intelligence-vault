@@ -14,13 +14,14 @@ collected_at: '2026-11-17T08:31:24.927022+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:windows-11-is-collecting-data-on-which-coding-agen
 first_seen: '2026-11-17T08:31:24.927022+05:30'
 last_seen: '2026-11-17T08:31:24.927022+05:30'
 last_checked: '2026-11-17T08:31:24.927022+05:30'
 health_score: 100
 ---
+
 
 # Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use
 

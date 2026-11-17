@@ -14,13 +14,14 @@ tags:
 - hackernews
 - three.js
 - threejs
-status: active
+status: inactive
 resource_id: hackernews:my-quest-to-push-native-three-js-quality-match-aaa
 first_seen: '2026-11-17T08:31:33.441432+05:30'
 last_seen: '2026-11-17T08:31:33.441432+05:30'
 last_checked: '2026-11-17T08:31:33.441432+05:30'
 health_score: 100
 ---
+
 
 # My Quest to push native Three.js quality match AAA Game Engines
 

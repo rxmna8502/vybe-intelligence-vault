@@ -13,13 +13,14 @@ collected_at: '2026-11-17T08:31:33.829081+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pentagon-fails-ninth-straight-audit-despite-progre
 first_seen: '2026-11-17T08:31:33.829081+05:30'
 last_seen: '2026-11-17T08:31:33.829081+05:30'
 last_checked: '2026-11-17T08:31:33.829081+05:30'
 health_score: 100
 ---
+
 
 # Pentagon fails ninth straight audit despite progress in organizing finances
 

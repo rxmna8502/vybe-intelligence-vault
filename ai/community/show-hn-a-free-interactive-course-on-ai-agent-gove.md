@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-a-free-interactive-course-on-ai-agent-gove
 first_seen: '2026-11-17T08:31:33.057292+05:30'
 last_seen: '2026-11-17T08:31:33.057292+05:30'
 last_checked: '2026-11-17T08:31:33.057292+05:30'
 health_score: 100
 ---
+
 
 # Show HN: A free interactive course on AI agent governance
 

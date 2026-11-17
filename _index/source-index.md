@@ -26539,7 +26539,6 @@ Resources organized by publisher feed and query sources.
   - [PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](../ai/rag/arxiv-2512-21227.md)
   - [Phorecaster365: A Human-Supervised Reference Architecture for Hybrid Pharmaceutical Sales Forecasting and Planning Decision Support](../ai/research/arxiv-2609-13907.md)
   - [PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](../ai/rag/arxiv-2603-01493.md)
-  - [Photogrammetric 3D Model-Based Animal Behavior Classification](../ai/research/arxiv-2611-17881.md)
   - [Photon: Federated LLM Pre-Training](../ai/rag/arxiv-2411-02908.md)
   - [Photonic convolutional neural network with pre-trained in situ training](../ai/research/arxiv-2604-02429.md)
   - [Photonic reservoir computing with complex networks](../ai/research/arxiv-2607-23285.md)
@@ -36143,7 +36142,6 @@ Resources organized by publisher feed and query sources.
   - [TorchCurves: Differentiable Parametric Curves](../ai/rag/arxiv-2611-14516.md)
   - [TorchDCM: A Unified PyTorch-Native Package for Discrete Choice Modeling](../ai/rag/arxiv-2608-19231.md)
   - [TorchSpin: Differentiable Electron Paramagnetic Resonance Simulation in PyTorch](../ai/research/arxiv-2610-18924.md)
-  - [TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU](../ai/research/arxiv-2610-24161.md)
   - [Toric geometry of ReLU neural networks](../ai/research/arxiv-2509-05894.md)
   - [Toscani-Fourier Distance on Probability Measures: Wasserstein Control, Topological Equivalence on Model Classes, and Duality](../ai/research/arxiv-2609-23163.md)
   - [Total Cost of Agency: Exact Attribution of Memory Injection Cost in Multi-Agent LLM Workflows](../ai/agents/arxiv-2609-23790.md)
@@ -39275,7 +39273,6 @@ Resources organized by publisher feed and query sources.
   - [When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions](../ai/research/arxiv-2609-11166.md)
   - [When does distribution shift break graph neural networks calibration?](../ai/research/arxiv-2607-10804.md)
   - [When does training on downscaled images yield the same gradients?](../ai/research/arxiv-2608-04448.md)
-  - [When evaluation becomes intervention in clinical AI](../ai/research/arxiv-2611-18297.md)
   - [When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning](../ai/research/arxiv-2606-16995.md)
   - [When is Your LLM Steerable?](../ai/rag/arxiv-2606-11599.md)
   - [When is a System Discoverable from Data? Discovery Requires Chaos](../ai/research/arxiv-2511-08860.md)
@@ -40265,7 +40262,7 @@ Resources organized by publisher feed and query sources.
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
   - [Nicolepcx/ai-agents-the-definitive-guide](../ai/agents/nicolepcx-ai-agents-the-definitive-guide.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
-  - [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md)
+  - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nithador/crewai_demo](../ai/agents/nithador-crewai-demo.md)
   - [NotPBShaw/awesome-ai-governance](../ai/agents/notpbshaw-awesome-ai-governance.md)
@@ -41034,12 +41031,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Microsoft blames monster email outage on software defect introduced in July fix](../ai/community/microsoft-blames-monster-email-outage-on-software.md)
-  - [My Quest to push native Three.js quality match AAA Game Engines](../web-development/community/my-quest-to-push-native-three-js-quality-match-aaa.md)
-  - [Pentagon fails ninth straight audit despite progress in organizing finances](../ai/community/pentagon-fails-ninth-straight-audit-despite-progre.md)
-  - [Running coding agents without handing them my credentials](../ai/community/running-coding-agents-without-handing-them-my-cred.md)
-  - [Show HN: A free interactive course on AI agent governance](../ai/community/show-hn-a-free-interactive-course-on-ai-agent-gove.md)
-  - [United Airlines experiencing a widespread system outage, airline says](../ai/community/united-airlines-experiencing-a-widespread-system-o.md)
-  - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](../ai/community/windows-11-is-collecting-data-on-which-coding-agen.md)
+  - [Regulatory Capture by Anthropic Through METR](../ai/community/regulatory-capture-by-anthropic-through-metr.md)
+  - [Spamhaus new email sender requirements in November](../ai/community/spamhaus-new-email-sender-requirements-in-november.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41952,16 +41945,16 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: huggingface_dataset)
 
+  - [3dcodeverse/3dcodeverse-2m](../ai/models/huggingface-datasets-3dcodeverse.md)
+  - [IaLoverSpaghetti/LocaIAinHTML](../ai/models/huggingface-datasets-ialoverspaghetti.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [agibot-world/AgiBotWorld2026](../ai/models/huggingface-datasets-agibot-world.md)
   - [allenai/objaverse](../ai/models/huggingface-datasets-allenai.md)
-  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [neashton/windsorml](../ai/models/huggingface-datasets-neashton.md)
   - [nicoboou/IDRCell100k](../ai/models/huggingface-datasets-nicoboou.md)
   - [nvidia/simready-assets](../ai/models/huggingface-datasets-nvidia.md)
   - [tropos-labs/eigen-face-dataset-256](../ai/models/huggingface-datasets-tropos-labs.md)
-  - [wegrthj/e94fjt-qi9l-raw](../ai/models/huggingface-datasets-wegrthj.md)
 
 ## Unknown Source (type: huggingface_model)
 
@@ -44958,4 +44951,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-17T08:48:05.424624+05:30*
+*Index generated on 2026-11-17T19:23:00.506728+05:30*
