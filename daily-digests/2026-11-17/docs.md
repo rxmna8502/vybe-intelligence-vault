@@ -1,55 +1,49 @@
 ---
-title: komaa-com/docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-17
-tech_stack:
-- MDX
-- Mintlify
-- JavaScript
-- Markdown
-quality_score: 7
-rag_relevance: 6
-deployment_complexity: Low
-tags:
-- documentation
-- microsoft teams
-- voice/video integration
-- AI agent backends
-- media bridge
-source: https://github.com/komaa-com/docs
-stars: 0
-language: MDX
-last_updated: '2026-08-09T20:35:18Z'
-discovered_at: '2026-08-09T20:35:32Z'
-evaluated_by: mistral-small-latest
+title: "superdocsapp/docs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["REST API", "MCP (Model Context Protocol)", "MDX", "Python", "JavaScript"]
+quality_score: 8
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["AI document editing", "document automation", "API integration", "MCP support", "real-time editing"]
+source: "https://github.com/superdocsapp/docs"
+stars: 1
+language: "MDX"
+last_updated: "2026-07-12T10:12:59Z"
+discovered_at: "2026-07-12T10:26:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-This repository hosts the documentation for Komaa's Microsoft Teams Bridge (StandIn), a media bridge service enabling voice/video CVI plugins for AI agent backends. It provides guides for integrating with seven agent frameworks and configuring the hosted StandIn service.
+SuperDocs provides an AI-powered document editing platform that allows users to edit documents directly via plain English instructions, with changes reflected in real time. It offers both a web editor for individuals and REST API/MCP integrations for developers to embed AI document editing into their products.
 
 ## Key Features
-- Comprehensive guides for integrating AI agent backends with Microsoft Teams via StandIn
-- Hosted media bridge documentation for real-time voice/video CVI plugins
-- Structured navigation and site configuration via `docs.json`
-- Local preview support using Mintlify for development
-- Brand assets and per-runtime installation instructions
+- Direct AI document editing with real-time changes
+- REST API and MCP integration for developers
+- Support for multiple document types (contracts, reports, proposals, etc.)
+- Comprehensive documentation and code examples
+- Production-ready API with health monitoring
 
 ## Why It Matters for RAG Builders
-It provides essential documentation for integrating AI agents with Microsoft Teams, enabling voice/video capabilities critical for real-world AI deployments.
+SuperDocs enables seamless integration of AI-powered document editing into applications, reducing manual effort and improving workflow automation for users.
 
 ## Tech Stack Deep Dive
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### MDX
 Automated review identified **MDX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Mintlify
-Automated review identified **Mintlify** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### JavaScript
 Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

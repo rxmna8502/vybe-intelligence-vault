@@ -1,45 +1,33 @@
 ---
-title: feastalytics/cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-17
-tech_stack:
-- TypeScript
-- Node.js
-- npm
-- CLI frameworks
-- JSON Schema
-- REST API
-- Agent Skills
-quality_score: 8
-rag_relevance: 7
-deployment_complexity: Low
-tags:
-- CLI
-- API client
-- AI agent integration
-- automation
-- campaign management
-source: https://github.com/feastalytics/cli
-stars: 0
-language: TypeScript
-last_updated: '2026-08-07T16:54:34Z'
-discovered_at: '2026-08-07T16:57:05Z'
-evaluated_by: mistral-small-latest
+title: "getmcpm/cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "npm", "CLI", "YAML", "Sigstore", "OS Keychain Integration"]
+quality_score: 9
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["MCP security", "prompt injection protection", "trust scoring", "package management", "AI tooling"]
+source: "https://github.com/getmcpm/cli"
+stars: 2
+language: "TypeScript"
+last_updated: "2026-08-03T10:17:32Z"
+discovered_at: "2026-08-03T13:42:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A command-line interface (CLI) for the Feastalytics platform that exposes API-driven tools for managing campaigns, automations, offers, funnels, and member rewards. It includes an agent skill for integration with AI agents like Claude Code and Codex.
+mcpm is a package manager and runtime guard for MCP (Model Context Protocol) servers, designed to secure AI tooling by blocking prompt injection, tool poisoning, and credential exfiltration. It provides trust scoring, installation, auditing, and cross-IDE support for MCP servers.
 
 ## Key Features
-- Exposes Feastalytics platform tools as CLI commands for API-driven operations
-- Includes an agent skill for seamless integration with AI agents like Claude Code and Codex
-- Supports non-interactive credential handling via environment variables for sandboxed environments
-- Automatic version update checks without blocking execution
-- Local JSON schema validation for tool inputs before API calls
+- Runtime security guard for MCP traffic to block prompt injection and tool poisoning
+- Trust scoring system based on metadata, static scans, and optional external scanners
+- Cross-IDE support for managing MCP servers across multiple AI clients
+- Stack file management for declarative MCP server setups with version locking
+- Secrets management with AES-GCM encryption and OS keychain integration
 
 ## Why It Matters for RAG Builders
-It enables AI agents and developers to programmatically interact with the Feastalytics platform, streamlining automation and campaign management workflows.
+It provides critical runtime security and trust validation for MCP servers, preventing supply chain attacks and ensuring safe AI tooling execution.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -51,17 +39,17 @@ Automated review identified **Node.js** as a key module contributing to infrastr
 ### npm
 Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI frameworks
-Automated review identified **CLI frameworks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON Schema
-Automated review identified **JSON Schema** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Sigstore
+Automated review identified **Sigstore** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Agent Skills
-Automated review identified **Agent Skills** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OS Keychain Integration
+Automated review identified **OS Keychain Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

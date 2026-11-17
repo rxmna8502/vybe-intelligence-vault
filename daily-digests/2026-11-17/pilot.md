@@ -1,83 +1,49 @@
 ---
-title: sockulags/pilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-17
-tech_stack:
-- Python
-- FastAPI
-- Ollama
-- Next.js
-- WebSocket
-- Windows UI Automation
-- Set-of-Marks
-- Embeddings (nomic-embed-text)
-- LM Studio
-- llama.cpp
-- OpenAI API (optional)
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local-first
-- AI agent
-- grounded verification
-- Windows automation
-- multi-model routing
-source: https://github.com/sockulags/pilot
-stars: 1
-language: Python
-last_updated: '2026-08-01T22:44:30Z'
-discovered_at: '2026-08-01T22:54:59Z'
-evaluated_by: mistral-small-latest
+title: "sujeito-operator/pilot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["AI Agents", "Autonomous Engineering", "Testing Frameworks", "API Integrations", "Data Pipelines"]
+quality_score: 7
+rag_relevance: 6
+deployment_complexity: "Low"
+tags: ["autonomous agents", "scoped development", "pay-on-merge", "48-hour delivery", "verifiable work"]
+source: "https://github.com/sujeito-operator/pilot"
+stars: 0
+language: "None"
+last_updated: "2026-08-09T16:36:47Z"
+discovered_at: "2026-08-09T16:38:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Pilot is a local-first, tool-using AI agent for Windows that executes and verifies grounded desktop and web tasks. It operates on local Ollama models by default, interacts via natural language, and ensures answers are derived only from gathered evidence.
+A service offering autonomous AI engineering agents to deliver scoped tickets (e.g., parsers, scrapers, or integrations) with a 48-hour turnaround, tested end-to-end, and paid only upon successful merge. The model emphasizes transparency, risk-sharing, and verifiable outcomes.
 
 ## Key Features
-- Local-first execution with Ollama models by default, supporting privacy and zero cost
-- Tool-using capabilities including file operations, shell commands, web research, and screen perception
-- Evidence-based grounding: answers are derived only from verified, gathered data
-- Layered safety model with fail-closed mechanisms for network, command risk, prompt injection, and runaway guards
-- Runtime model selection and per-role model assignment for flexible deployment
+- Delivers reviewable patches and tests within 48 hours of scope agreement
+- Flat $149 fee paid only if the work is merge-worthy
+- Focuses on verifiable tasks like parsers, scrapers, or deterministic test fixes
+- Emphasizes transparency with detailed notes on changes and limitations
+- Low-risk trial model for evaluating AI engineering suppliers
 
 ## Why It Matters for RAG Builders
-Pilot provides a robust, local-first framework for building AI agents that can safely interact with desktop and web environments while ensuring grounded, verifiable outputs.
+It provides a low-risk, verifiable way to evaluate autonomous AI engineering agents for critical RAG stack tasks.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### AI Agents
+Automated review identified **AI Agents** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Autonomous Engineering
+Automated review identified **Autonomous Engineering** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Testing Frameworks
+Automated review identified **Testing Frameworks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### API Integrations
+Automated review identified **API Integrations** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Windows UI Automation
-Automated review identified **Windows UI Automation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Set-of-Marks
-Automated review identified **Set-of-Marks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Embeddings (nomic-embed-text)
-Automated review identified **Embeddings (nomic-embed-text)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### LM Studio
-Automated review identified **LM Studio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### llama.cpp
-Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI API (optional)
-Automated review identified **OpenAI API (optional)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Data Pipelines
+Automated review identified **Data Pipelines** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

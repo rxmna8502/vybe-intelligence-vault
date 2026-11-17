@@ -1,48 +1,33 @@
 ---
-title: peterlodri-sec/entheai
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-17
-tech_stack:
-- Rust
-- SQLite
-- Vector DB
-- Git Worktrees
-- Osaurus
-- OpenCode Zen
-- ratatui
-- MCP (Model Context Protocol)
-- Tailscale
-- Honcho
+title: "entropy-om/entheai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "SQLite", "NATS", "JetStream", "Osaurus", "ratatui", "Ghostty", "MCP (Model Context Protocol)", "Git", "Apple Silicon"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- parallel execution
-- hybrid AI
-- memory engine
-- TUI
-source: https://github.com/peterlodri-sec/entheai
+deployment_complexity: "High"
+tags: ["coding agent", "hybrid AI", "parallel execution", "memory engine", "federation"]
+source: "https://github.com/entropy-om/entheai"
 stars: 1
-language: Rust
-last_updated: '2026-07-19T10:26:37Z'
-discovered_at: '2026-07-19T10:26:47Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-21T10:22:32Z"
+discovered_at: "2026-07-21T10:24:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-entheai is a macOS-native hybrid coding agent CLI for Apple Silicon that orchestrates a cloud-based planner with parallel, model-matched sub-agents executing in isolated git worktrees. It combines local and cloud models, a five-namespace memory engine, and a TUI for interactive development with self-improvement capabilities.
+entheai is a macOS-native hybrid coding agent that orchestrates a tiered brain (cloud + local models) to decompose and execute tasks via parallel sub-agents in isolated git worktrees. It features a fan-out architecture, memory engine, federation capabilities, and a native app with visualizations.
 
 ## Key Features
-- Tiered hybrid brain with cloud orchestrator and local Osaurus workers for efficient task decomposition and execution
-- Fan-out orchestration deploying parallel, model-matched sub-agents in isolated git worktrees with verification and integration
-- Five-namespace memory engine (codebase, learnings, trajectories, tool results, scratch) for context-aware agentic loops
-- Extensible skills system and MCP client for dynamic tool integration and customization
-- Interactive TUI with streaming chat, inline tool progress, and a companion beacon for device pairing
+- Tiered hybrid brain with cloud orchestrator and local model execution via Osaurus
+- Fan-out orchestration: parallel sub-agents in isolated git worktrees with model-task matching
+- Five-namespace memory engine (codebase, learnings, trajectories, tool results, scratch) with retrieval and spillover
+- Federation capabilities (NATS event bus and distributed swarm for multi-node task execution)
+- Native app with live swarm visualization, Obsidian wiki-sync, and skills system for extensibility
 
 ## Why It Matters for RAG Builders
-It provides a robust, extensible framework for orchestrating parallel AI agents with memory and verification, enabling scalable and efficient RAG pipelines for complex coding tasks.
+It provides a robust, extensible framework for orchestrating parallel AI agents with memory and federation, critical for scalable RAG and multi-agent AI systems.
 
 ## Tech Stack Deep Dive
 ### Rust
@@ -51,29 +36,29 @@ Automated review identified **Rust** as a key module contributing to infrastruct
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vector DB
-Automated review identified **Vector DB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### NATS
+Automated review identified **NATS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git Worktrees
-Automated review identified **Git Worktrees** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JetStream
+Automated review identified **JetStream** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Osaurus
 Automated review identified **Osaurus** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenCode Zen
-Automated review identified **OpenCode Zen** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### ratatui
 Automated review identified **ratatui** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Ghostty
+Automated review identified **Ghostty** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tailscale
-Automated review identified **Tailscale** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Honcho
-Automated review identified **Honcho** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Apple Silicon
+Automated review identified **Apple Silicon** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

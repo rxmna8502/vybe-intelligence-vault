@@ -1,67 +1,52 @@
 ---
-title: cloudflare/mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-17
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- MCP (Model Context Protocol)
-- Code Mode
-- JavaScript
-- REST API
-- GraphQL
+title: "Teamwork/mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "HTTP", "STDIO", "OAuth2", "Bearer Token Authentication"]
 quality_score: 9
-rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- Cloudflare API
-- Code Mode
-- Token efficiency
-- Agent integration
-source: https://github.com/cloudflare/mcp
-stars: 695
-language: TypeScript
-last_updated: '2026-08-04T10:28:11Z'
-discovered_at: '2026-08-04T10:40:54Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["MCP", "Teamwork.com", "Project Management", "AI Integration", "Orchestration"]
+source: "https://github.com/Teamwork/mcp"
+stars: 24
+language: "Go"
+last_updated: "2026-08-07T09:52:35Z"
+discovered_at: "2026-08-07T10:04:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A token-efficient MCP server for the Cloudflare API that leverages Code Mode to reduce token usage from millions to ~1,100 tokens. It enables agents to interact with Cloudflare's 2,500+ endpoints via code execution in isolated Workers.
+A Model Context Protocol (MCP) server that enables Large Language Models (LLMs) to interact with Teamwork.com's project management platform. It provides standardized interfaces for AI agents to perform project operations via HTTP, STDIO, or CLI transports.
 
 ## Key Features
-- Reduces token usage from ~2M to ~1,100 tokens using Code Mode for dynamic endpoint discovery and execution
-- Supports 2,500+ Cloudflare API endpoints across Workers, KV, R2, D1, Pages, DNS, Firewall, and more
-- Provides tools for searching Cloudflare documentation, querying API specs, and executing API calls
-- Supports both OAuth and API token authentication for secure access
-- Enables seamless GraphQL Analytics API queries through the same execution interface
+- Standardized MCP interface for Teamwork.com integration with LLMs
+- Multiple transport modes (HTTP, STDIO, CLI) for flexible deployment
+- Secure authentication via Bearer tokens and OAuth2
+- Extensible toolset architecture for adding new capabilities
+- Production-ready with logging, monitoring, and observability
 
 ## Why It Matters for RAG Builders
-It drastically reduces token overhead for agents interacting with the Cloudflare API, enabling efficient RAG pipelines and AI workflows.
+This MCP server bridges Teamwork.com's project management data with LLMs, enabling AI agents to automate and contextualize project operations for enhanced productivity.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cloudflare Workers
-Automated review identified **Cloudflare Workers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTTP
+Automated review identified **HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Code Mode
-Automated review identified **Code Mode** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### STDIO
+Automated review identified **STDIO** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OAuth2
+Automated review identified **OAuth2** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### GraphQL
-Automated review identified **GraphQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Bearer Token Authentication
+Automated review identified **Bearer Token Authentication** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
