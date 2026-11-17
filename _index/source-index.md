@@ -41033,10 +41033,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Interpreting claims that a theorem is correct because it was checked in Lean](../ai/community/interpreting-claims-that-a-theorem-is-correct-beca.md)
-  - [OpenAI: Strengthening the fight against online child sexual abuse](../ai/community/openai-strengthening-the-fight-against-online-chil.md)
-  - [Quxnet Is a Breath of Fresh Air](../ai/community/quxnet-is-a-breath-of-fresh-air.md)
-  - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](../ai/community/tor-project-issues-rapid-response-dos-defense-fix.md)
+  - [Microsoft blames monster email outage on software defect introduced in July fix](../ai/community/microsoft-blames-monster-email-outage-on-software.md)
+  - [My Quest to push native Three.js quality match AAA Game Engines](../web-development/community/my-quest-to-push-native-three-js-quality-match-aaa.md)
+  - [Pentagon fails ninth straight audit despite progress in organizing finances](../ai/community/pentagon-fails-ninth-straight-audit-despite-progre.md)
+  - [Running coding agents without handing them my credentials](../ai/community/running-coding-agents-without-handing-them-my-cred.md)
+  - [Show HN: A free interactive course on AI agent governance](../ai/community/show-hn-a-free-interactive-course-on-ai-agent-gove.md)
+  - [United Airlines experiencing a widespread system outage, airline says](../ai/community/united-airlines-experiencing-a-widespread-system-o.md)
+  - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](../ai/community/windows-11-is-collecting-data-on-which-coding-agen.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -44955,4 +44958,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-17T00:30:18.662166+05:30*
+*Index generated on 2026-11-17T08:48:05.424624+05:30*

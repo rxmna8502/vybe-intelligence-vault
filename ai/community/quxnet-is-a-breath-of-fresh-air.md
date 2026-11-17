@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:quxnet-is-a-breath-of-fresh-air
 first_seen: '2026-11-17T00:13:13.852346+05:30'
 last_seen: '2026-11-17T00:13:13.852346+05:30'
 last_checked: '2026-11-17T00:13:13.852346+05:30'
 health_score: 100
 ---
+
 
 # Quxnet Is a Breath of Fresh Air
 

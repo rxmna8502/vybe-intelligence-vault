@@ -7481,6 +7481,7 @@ Resources organized by keyword tags.
   - [Rules Before Oracles: Auditable, User-Configurable Argument Selection for Deliberative Polling](../ai/rag/arxiv-2608-23979.md)
   - [Rules to Tools: Executable Checks for LLM Agents in Scientific Computing](../ai/agents/arxiv-2610-00313.md)
   - [Run fast, private agents on-device with LFM2.5-24B-A2B](../ai/agents/huggingface-blog-liquidai-lfm25-24b-a2b.md)
+  - [Running coding agents without handing them my credentials](../ai/community/running-coding-agents-without-handing-them-my-cred.md)
   - [Running the Gauntlet: Challenging Agentic Tasks](../ai/agents/arxiv-2606-14397.md)
   - [Runtime Authorization for Resources Acquired by AI Agents](../ai/agents/arxiv-2609-14744.md)
   - [Runtime Control for AI Agents: Closing the Evaluation--Execution Gap in Operational Workflows](../ai/agents/arxiv-2610-27480.md)
@@ -8008,6 +8009,7 @@ Resources organized by keyword tags.
   - [Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](../ai/agents/arxiv-2611-12865.md)
   - [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](../ai/agents/arxiv-2610-14209.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: A free interactive course on AI agent governance](../ai/community/show-hn-a-free-interactive-course-on-ai-agent-gove.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -9889,6 +9891,7 @@ Resources organized by keyword tags.
   - [Will the Agent Recuse, and Will It Stop? Measuring LLM-Agent Compliance with In-Band Governance Signals at the Access Door and Mid-Flight](../ai/agents/arxiv-2606-06460.md)
   - [Will the User Ever Know? Covert Indirect Prompt Injection Attacks on Tool-Using LLM Agents](../ai/agents/arxiv-2608-30362.md)
   - [WinDOM: Self-Family Distillation for Small-Model GUI Grounding](../ai/agents/arxiv-2606-25964.md)
+  - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](../ai/community/windows-11-is-collecting-data-on-which-coding-agen.md)
   - [WiseSpec: Requirements-Driven Agents for Code Generation](../ai/rag/arxiv-2609-00568.md)
   - [With Tools or Because of Tools? Tracing Capability Gains in Multimodal Agents](../ai/agents/arxiv-2606-02357.md)
   - [WitnessGym: Benchmarking Coding Agents on the Construction of Bug Witnesses](../ai/agents/arxiv-2609-36635.md)
@@ -10343,10 +10346,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Interpreting claims that a theorem is correct because it was checked in Lean](../ai/community/interpreting-claims-that-a-theorem-is-correct-beca.md)
-  - [OpenAI: Strengthening the fight against online child sexual abuse](../ai/community/openai-strengthening-the-fight-against-online-chil.md)
-  - [Quxnet Is a Breath of Fresh Air](../ai/community/quxnet-is-a-breath-of-fresh-air.md)
-  - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](../ai/community/tor-project-issues-rapid-response-dos-defense-fix.md)
+  - [Microsoft blames monster email outage on software defect introduced in July fix](../ai/community/microsoft-blames-monster-email-outage-on-software.md)
+  - [Pentagon fails ninth straight audit despite progress in organizing finances](../ai/community/pentagon-fails-ninth-straight-audit-despite-progre.md)
+  - [Show HN: A free interactive course on AI agent governance](../ai/community/show-hn-a-free-interactive-course-on-ai-agent-gove.md)
+  - [United Airlines experiencing a widespread system outage, airline says](../ai/community/united-airlines-experiencing-a-widespread-system-o.md)
 
 ## animation
 
@@ -42881,7 +42884,6 @@ Resources organized by keyword tags.
   - [Interpretable clustering via optimal multi-way decision trees](../ai/research/arxiv-2602-13586.md)
   - [Interpreting Language Model Hidden States at Scale](../ai/rag/arxiv-2608-10260.md)
   - [Interpreting Protein Language Model Embeddings via Orthogonal Projection for Protein Fitness Prediction](../ai/rag/arxiv-2608-25548.md)
-  - [Interpreting claims that a theorem is correct because it was checked in Lean](../ai/community/interpreting-claims-that-a-theorem-is-correct-beca.md)
   - [Into the danger zone: stable extrapolation in high-dimensional function and operator learning](../ai/research/arxiv-2609-36709.md)
   - [Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes](../ai/rag/arxiv-2609-35948.md)
   - [Introducing EmbeddingGemma: The Best-in-Class Open Model for On-Device Embeddings - Google Developers Blog](../ai/rag/introducing-embeddinggemma-the-best-in-class-open.md)
@@ -43339,6 +43341,7 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
+  - [Microsoft blames monster email outage on software defect introduced in July fix](../ai/community/microsoft-blames-monster-email-outage-on-software.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -43426,6 +43429,7 @@ Resources organized by keyword tags.
   - [Music-Source-Separation-Training (MSST): A Unified Framework for Training and Evaluating Music Demixing Models](../ai/research/arxiv-2607-23395.md)
   - [Muting Tokens: Exploring Token Sparsification for Efficient Audio Transformers](../ai/rag/arxiv-2610-31235.md)
   - [Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study](../ai/research/arxiv-2608-20447.md)
+  - [My Quest to push native Three.js quality match AAA Game Engines](../web-development/community/my-quest-to-push-native-three-js-quality-match-aaa.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [N$^2$: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion](../ai/research/arxiv-2506-04166.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
@@ -43612,7 +43616,6 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI: Strengthening the fight against online child sexual abuse](../ai/community/openai-strengthening-the-fight-against-online-chil.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -43721,6 +43724,7 @@ Resources organized by keyword tags.
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage](../ai/rag/arxiv-2608-18438.md)
   - [Penalized Fair Regression for Multiple Groups in Chronic Kidney Disease](../ai/research/arxiv-2512-17340.md)
+  - [Pentagon fails ninth straight audit despite progress in organizing finances](../ai/community/pentagon-fails-ninth-straight-audit-despite-progre.md)
   - [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](../ai/research/perception-tokens-enhance-visual-reasoning-in-mult.md)
   - [Perception-Aligned AI Outputs: End-to-End Visual Prediction for Uncertainty Communication in Clinical Decision-Making](../ai/research/arxiv-2205-04599.md)
   - [Performance Foundations of Parallel & Distributed Reasoning Language Models](../ai/research/arxiv-2608-27046.md)
@@ -43954,7 +43958,6 @@ Resources organized by keyword tags.
   - [Quickstart to Serving Cluster | BYOC | Zilliz Cloud Developer Hub](../ai/rag/quickstart-to-serving-cluster-byoc-zilliz-cloud-de.md)
   - [Quickstart | GitBook Documentation](../ai/rag/quickstart-gitbook-documentation.md)
   - [Quickstart — Sentence Transformers documentation](../ai/rag/quickstart-sentence-transformers-documentation.md)
-  - [Quxnet Is a Breath of Fresh Air](../ai/community/quxnet-is-a-breath-of-fresh-air.md)
   - [Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](../ai/research/arxiv-2606-17846.md)
   - [QwenLM/Qwen3](../ai/resources/qwenlm-qwen3.md)
   - [R Markdown: The Definitive Guide](../ai/rag/r-markdown-the-definitive-guide.md)
@@ -44174,6 +44177,7 @@ Resources organized by keyword tags.
   - [Routing | Docusaurus](../ai/rag/routing-docusaurus.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
   - [RubricRefine: Improving Tool-Use Agent Reliability with Training-Free Pre-Execution Refinement](../ai/rag/arxiv-2605-09730.md)
+  - [Running coding agents without handing them my credentials](../ai/community/running-coding-agents-without-handing-them-my-cred.md)
   - [Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](../ai/research/arxiv-2606-14824.md)
   - [Russ Cox](../ai/rag/russ-cox.md)
   - [Russia-Ukraine Disinformation Tracking Center - NewsGuard](../ai/rag/russia-ukraine-disinformation-tracking-center-news.md)
@@ -44348,6 +44352,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: A free interactive course on AI agent governance](../ai/community/show-hn-a-free-interactive-course-on-ai-agent-gove.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -44792,7 +44797,6 @@ Resources organized by keyword tags.
   - [Topological Data Analysis and Graph-Theoretic Approaches for Tennis Match Prediction](../ai/research/arxiv-2607-23509.md)
   - [Topological Data Analysis combined with Machine Learning for Predicting Permeability of Porous Media](../ai/rag/arxiv-2605-17581.md)
   - [Topology-Aware Reinforcement Learning for CAD Decomposition toward All-Hexahedral Meshing](../ai/rag/arxiv-2611-12930.md)
-  - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](../ai/community/tor-project-issues-rapid-response-dos-defense-fix.md)
   - [Tor Project | Anonymity Online](../ai/resources/tor-project-anonymity-online.md)
   - [TorchNeuron: running HF models on AWS Trainium is easier than ever](../ai/models/huggingface-blog-hf-torchneuron.md)
   - [Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese](../ai/rag/arxiv-2606-19626.md)
@@ -44968,6 +44972,7 @@ Resources organized by keyword tags.
   - [Unicode TAG-Block Concealment of Tool-Metadata Payloads in the Model Context Protocol: An Approval-View Fidelity Gap Across Three Independent Server Implementations](../ai/agents/arxiv-2607-05744.md)
   - [Unified convergence analysis for gradient descent optimization methods in the training of deep neural networks](../ai/research/arxiv-2607-04233.md)
   - [Unintended Consequences: Twelve Years under the DMCA | Electronic Frontier Foundation](../ai/rag/unintended-consequences-twelve-years-under-the-dmc.md)
+  - [United Airlines experiencing a widespread system outage, airline says](../ai/community/united-airlines-experiencing-a-widespread-system-o.md)
   - [Unity - Manual: Best practice guides](../ai/rag/unity-manual-best-practice-guides.md)
   - [Unity - Manual: ScriptableObject](../ai/resources/unity-manual-scriptableobject.md)
   - [Unity - Manual: Unity Asset Store](../ai/resources/unity-manual-unity-asset-store.md)
@@ -45175,6 +45180,7 @@ Resources organized by keyword tags.
   - [Wikimedia Foundation/Organizational chart - Meta-Wiki](../ai/rag/wikimedia-foundation-organizational-chart-meta-wik.md)
   - [Wikimedia Projects – Wikimedia Foundation](../ai/rag/wikimedia-projects-wikimedia-foundation.md)
   - [Wikitech](../ai/resources/wikitech.md)
+  - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](../ai/community/windows-11-is-collecting-data-on-which-coding-agen.md)
   - [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](../ai/research/arxiv-2608-17017.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
@@ -57079,7 +57085,6 @@ Resources organized by keyword tags.
   - [Open Biomedical Knowledge Graphs at Scale: Construction, Federation, and AI Agent Access with Samyama Graph Database](../ai/rag/arxiv-2603-15080.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
-  - [OpenAI: Strengthening the fight against online child sexual abuse](../ai/community/openai-strengthening-the-fight-against-online-chil.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAl4S: Code as Action, Science as Sessions](../ai/agents/arxiv-2609-15096.md)
   - [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](../ai/rag/arxiv-2509-24900.md)
@@ -79778,7 +79783,6 @@ Resources organized by keyword tags.
   - [Quickstart | Milvus Documentation](../ai/rag/quickstart-milvus-documentation.md)
   - [Quickstart — Sentence Transformers documentation](../ai/rag/quickstart-sentence-transformers-documentation.md)
   - [Quickstart: Install the Google Cloud CLI | Google Cloud SDK | Google Cloud Documentation](../ai/resources/quickstart-install-the-google-cloud-cli-google-clo.md)
-  - [Quxnet Is a Breath of Fresh Air](../ai/community/quxnet-is-a-breath-of-fresh-air.md)
   - [R Programming | Master R Programming for Data Science - DataCamp | DataCamp](../ai/resources/r-programming-master-r-programming-for-data-scienc.md)
   - [R$^2$PO: Decoupling Rollout and Inference Policies for LLM Reasoning](../ai/rag/arxiv-2601-11960.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
@@ -81542,6 +81546,10 @@ Resources organized by keyword tags.
   - [arXiv/arxiv-docs](../ai/resources/arxiv-arxiv-docs.md)
   - [plk/biblatex](../ai/resources/plk-biblatex.md)
 
+## three.js
+
+  - [My Quest to push native Three.js quality match AAA Game Engines](../web-development/community/my-quest-to-push-native-three-js-quality-match-aaa.md)
+
 ## threejs
 
   - [$\mu_0$: A Scalable 3D Interaction-Trace World Model](../ai/research/arxiv-2606-13769.md)
@@ -81651,6 +81659,7 @@ Resources organized by keyword tags.
   - [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo.md)
   - [Media Types](../ai/rag/media-types.md)
   - [Monotonic Kolmogorov-Arnold Networks: A Theoretical and Empirical Study of Monotonicity as an Inductive Bias](../ai/research/arxiv-2606-17886.md)
+  - [My Quest to push native Three.js quality match AAA Game Engines](../web-development/community/my-quest-to-push-native-three-js-quality-match-aaa.md)
   - [Nathan Rooy](../ai/rag/nathan-rooy.md)
   - [NeuSOGA3D: A Neuro-Symbolic Framework for Explainable 3D Geometric Reconstruction](../ai/research/arxiv-2609-20323.md)
   - [Neural Wasserstein Splines: Representation-Invariant Second-Order Priors for Trajectory Inference](../ai/research/arxiv-2610-19878.md)
@@ -91298,4 +91307,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-17T00:30:18.182913+05:30*
+*Index generated on 2026-11-17T08:48:05.090526+05:30*

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-strengthening-the-fight-against-online-chil
 first_seen: '2026-11-17T00:13:11.726205+05:30'
 last_seen: '2026-11-17T00:13:11.726205+05:30'
 last_checked: '2026-11-17T00:13:11.726205+05:30'
 health_score: 100
 ---
+
 
 # OpenAI: Strengthening the fight against online child sexual abuse
 
