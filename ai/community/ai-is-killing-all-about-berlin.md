@@ -13,13 +13,14 @@ collected_at: '2026-11-18T13:13:26.836318+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-is-killing-all-about-berlin
 first_seen: '2026-11-18T13:13:26.836318+05:30'
 last_seen: '2026-11-18T13:13:26.836318+05:30'
 last_checked: '2026-11-18T13:13:26.836318+05:30'
 health_score: 100
 ---
+
 
 # AI is killing All About Berlin
 

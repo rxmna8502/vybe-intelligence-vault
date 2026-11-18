@@ -1,19 +1,28 @@
 ---
-title: "alphaparkinc/genpark-infinite-canvas-spatial-clustering-synthesizer-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "Standard Library Only"]
+title: alphaparkinc/genpark-infinite-canvas-spatial-clustering-synthesizer-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- Python 3.9+
+- Model Context Protocol (MCP)
+- JSON-RPC
+- Standard Library Only
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["spatial clustering", "multimodal UI", "MCP server", "zero dependencies", "canvas reasoning"]
-source: "https://github.com/alphaparkinc/genpark-infinite-canvas-spatial-clustering-synthesizer-skill"
+deployment_complexity: Low
+tags:
+- spatial clustering
+- multimodal UI
+- MCP server
+- zero dependencies
+- canvas reasoning
+source: https://github.com/alphaparkinc/genpark-infinite-canvas-spatial-clustering-synthesizer-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-03T15:34:06Z"
-discovered_at: "2026-09-03T15:41:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:34:06Z'
+discovered_at: '2026-09-03T15:41:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

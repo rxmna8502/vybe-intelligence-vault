@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:harvard-researchers-find-ai-coding-agents-shifted
 first_seen: '2026-11-18T05:05:54.223086+05:30'
 last_seen: '2026-11-18T13:13:28.487206+05:30'
 last_checked: '2026-11-18T13:13:28.487206+05:30'
 health_score: 100
 ---
+
 
 # Harvard researchers find AI coding agents shifted the bottleneck to code review
 

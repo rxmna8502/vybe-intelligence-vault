@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-11-17T19:07:26.526751+05:30'
+collected_at: '2026-11-18T22:54:16.341990+05:30'
 published_at: '2026-11-17T06:00:59Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-11-17T19:07:26.526751+05:30'
-last_seen: '2026-11-17T19:07:26.526751+05:30'
-last_checked: '2026-11-17T19:07:26.526751+05:30'
+first_seen: '2026-11-18T22:54:16.341990+05:30'
+last_seen: '2026-11-18T22:54:16.341990+05:30'
+last_checked: '2026-11-18T22:54:16.341990+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Systematic RAG curriculum spanning foundational principles to production-grade deployment strategies.
-*   Practical RAG implementation demonstrated through 17 Jupyter Notebooks and 6 enterprise-level case studies.
-*   Utilizes core RAG ecosystem components, specifically LangChain, LLMs, and vector databases.
+*   Provides a structured RAG curriculum, progressing from foundational concepts to production-grade deployment strategies.
+*   Features 17 Jupyter Notebooks and 6 enterprise-level practical cases for hands-on RAG system development.
+*   Leverages LangChain, LLMs, and vector databases for building robust Retrieval-Augmented Generation pipelines.
 
 ## Why It Matters
 

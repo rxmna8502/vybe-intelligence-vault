@@ -10,12 +10,12 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (tool - USEFUL Tier)
 - [spite/Wagner](https://github.com/spite/wagner) (tool - USEFUL Tier)
+- [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (tool - USEFUL Tier)
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (tool - USEFUL Tier)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) (framework - USEFUL Tier)
-- [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (tool - USEFUL Tier)
 - [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer) (template - USEFUL Tier)
-- [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (tutorial - USEFUL Tier)
-- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols) (tool - USEFUL Tier)
+- [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) (tool - USEFUL Tier)
+- [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,8 +23,8 @@ https://github.com/mrdoob/three.js (Three.js)
 https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
 - [spite/Wagner](https://github.com/spite/wagner)
-- [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
 - [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples)
+- [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
 - [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
 
 ## Best Learning Resources
@@ -43,4 +43,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-11-18 13:37 IST*
+*Last updated: 2026-11-18 23:12 IST*

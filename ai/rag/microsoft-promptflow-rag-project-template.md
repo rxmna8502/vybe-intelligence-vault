@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-09-03T04:15:51.018165+05:30'
-published_at: '2026-08-30T21:03:35Z'
+collected_at: '2026-11-18T22:54:26.397946+05:30'
+published_at: '2026-11-10T13:51:41Z'
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
-- reddit
 - workflows
-stars: 61
+stars: 62
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: true
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-09-03T04:15:51.018165+05:30'
-last_seen: '2026-09-03T04:15:51.018165+05:30'
-last_checked: '2026-09-03T04:15:51.018165+05:30'
+first_seen: '2026-11-18T22:54:26.397946+05:30'
+last_seen: '2026-11-18T22:54:26.397946+05:30'
+last_checked: '2026-11-18T22:54:26.397946+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end RAG pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow integrating development, evaluation, experimentation, and deployment using **Promptflow**.
-- **Multi-backend search integration**: Supports **CosmosDB, PostgreSQL, and Azure AI Search** for vector/keyword-based retrieval.
-- **Jupyter Notebook-based implementation**: Provides executable notebooks for RAG system development, testing, and deployment workflows.
+*   Provides an end-to-end RAG pipeline encompassing development, evaluation, experimentation, and deployment.
+*   Leverages Promptflow for orchestrating RAG workflows and lifecycle management.
+*   Integrates with CosmosDB, PostgreSQL, and Azure AI Search as configurable search/vector store backends.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 61
+- Stars: 62
 - Forks: 12
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-08-30T21:03:35Z
+- Last Updated: 2026-11-10T13:51:41Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-12-14T01:47:16Z

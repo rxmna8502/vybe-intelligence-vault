@@ -1,19 +1,35 @@
 ---
-title: "OpenByteInc/QuantDinger"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PostgreSQL", "Redis", "Docker", "Flask", "Gunicorn", "Celery", "Prometheus", "Grafana", "Mermaid.js", "OpenAPI"]
+title: OpenByteInc/QuantDinger
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- Python
+- PostgreSQL
+- Redis
+- Docker
+- Flask
+- Gunicorn
+- Celery
+- Prometheus
+- Grafana
+- Mermaid.js
+- OpenAPI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["trading automation", "AI-driven strategies", "self-hosted platform", "multi-market execution", "quantitative finance"]
-source: "https://github.com/OpenByteInc/QuantDinger"
+deployment_complexity: High
+tags:
+- trading automation
+- AI-driven strategies
+- self-hosted platform
+- multi-market execution
+- quantitative finance
+source: https://github.com/OpenByteInc/QuantDinger
 stars: 9755
-language: "Python"
-last_updated: "2026-07-19T10:22:18Z"
-discovered_at: "2026-07-19T10:26:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T10:22:18Z'
+discovered_at: '2026-07-19T10:26:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "getmcpm/cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "CLI", "YAML", "Sigstore", "OS Keychain Integration"]
+title: getmcpm/cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- CLI
+- YAML
+- Sigstore
+- OS Keychain Integration
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP security", "prompt injection protection", "trust scoring", "package management", "AI tooling"]
-source: "https://github.com/getmcpm/cli"
+deployment_complexity: Medium
+tags:
+- MCP security
+- prompt injection protection
+- trust scoring
+- package management
+- AI tooling
+source: https://github.com/getmcpm/cli
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-03T10:17:32Z"
-discovered_at: "2026-08-03T13:42:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T10:17:32Z'
+discovered_at: '2026-08-03T13:42:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

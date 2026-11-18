@@ -4,30 +4,30 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
-| [ORCA-bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545) | `ai-coding-agents/` | 70 |
-| [UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity](https://arxiv.org/abs/2610.35980) | `ai-coding-agents/` | 70 |
-| [Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits](https://arxiv.org/abs/2610.13494) | `ai-coding-agents/` | 70 |
-| [Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481) | `ai-coding-agents/` | 70 |
-| [Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341) | `ai-coding-agents/` | 70 |
-| [Beyond Pass@k: Measuring Reliability and Security of Agentic Code Generation](https://arxiv.org/abs/2608.14711) | `ai-coding-agents/` | 70 |
-| [TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing](https://arxiv.org/abs/2605.18859) | `ai-coding-agents/` | 70 |
-| [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) | `ai-coding-agents/` | 70 |
-| [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) | `ai-coding-agents/` | 70 |
-| [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
-| [Fragmented Markers, Mixed Results: A Systematic Review of AI Coding Assistants and Developer Productivity](https://arxiv.org/abs/2611.21632) | `ai-coding-agents/` | 70 |
-| [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) | `ai-coding-agents/` | 70 |
-| [JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams](https://arxiv.org/abs/2611.18130) | `ai-coding-agents/` | 70 |
-| [Event-Based Early Warning of Vineyard Disease Risk from Environmental Time Series](https://arxiv.org/abs/2605.04548) | `ai-coding-agents/` | 70 |
-| [ADAPT: Agentic Diff-Aware Patch Testing for Pull Requests](https://arxiv.org/abs/2611.16114) | `ai-coding-agents/` | 70 |
-| [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) | `ai-coding-agents/` | 70 |
-| [Eliciting and Mitigating Specification Satisficing in Coding Agents](https://arxiv.org/abs/2611.16289) | `ai-coding-agents/` | 70 |
-| [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](https://arxiv.org/abs/2608.14580) | `ai-coding-agents/` | 70 |
-| [Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370) | `ai-coding-agents/` | 70 |
-| [CompressionBench: How can your coding agents compress LLMs?](https://arxiv.org/abs/2611.06858) | `ai-coding-agents/` | 70 |
-| [Colla-Q: Toward Collaborative Experts in MoE Quantization via Minimax Precision Balancing](https://arxiv.org/abs/2609.18131) | `ai-coding-agents/` | 70 |
-| [RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents](https://arxiv.org/abs/2609.04898) | `ai-coding-agents/` | 70 |
-| [Deep LLM layers expose passage-level context in EEG during silent reading](https://arxiv.org/abs/2610.23638) | `ai-coding-agents/` | 70 |
-| [A closed-loop framework for perovskite precursor additive discovery](https://arxiv.org/abs/2605.20242) | `ai-coding-agents/` | 70 |
-| [Sign-Symmetry Learning Rules are Robust Fine-Tuners](https://arxiv.org/abs/2502.05925) | `ai-coding-agents/` | 70 |
+| [Exploring napping paradigm for Recurrent Spiking Neural Networks](https://arxiv.org/abs/2609.13927) | `ai-coding-agents/` | 70 |
+| [When the Gradient Sees Rank: Provable Necessity, Causal Recruitment, and Composition in Trained Matrix Memories](https://arxiv.org/abs/2609.17594) | `ai-coding-agents/` | 70 |
+| [ClinEdge: An Expert-Graded Benchmark of Real Patient Edge Cases Where Frontier Multimodal Models Fail](https://arxiv.org/abs/2610.15239) | `ai-coding-agents/` | 70 |
+| [AI-Assisted Discovery and Construction of a Counterexample to the Convergence of Three-Block ADMM with the Identity Matrix as its Third Constraint Block](https://arxiv.org/abs/2608.14396) | `ai-coding-agents/` | 70 |
+| [How Post-Training Shapes Biological Reasoning Models](https://arxiv.org/abs/2606.16517) | `ai-coding-agents/` | 70 |
+| [GroundBench: A Factorized, Counterfactual Benchmark for Locating VLM Affordance Failures](https://arxiv.org/abs/2609.13308) | `ai-coding-agents/` | 70 |
+| [Neural Network-Assisted CLEAN for Efficient Multipath Parameter Estimation in MIMO Systems](https://arxiv.org/abs/2611.13298) | `ai-coding-agents/` | 70 |
+| [Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments](https://arxiv.org/abs/2608.14456) | `ai-coding-agents/` | 70 |
+| [Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation](https://arxiv.org/abs/2607.08255) | `ai-coding-agents/` | 70 |
+| [Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms](https://arxiv.org/abs/2606.25066) | `ai-coding-agents/` | 70 |
+| [Not the Same Protector: Deployment-Dependent Protective Intervention in LLMs](https://arxiv.org/abs/2608.29136) | `ai-coding-agents/` | 70 |
+| [CCMAN: Cognitive Instability-Aware Cross-Modal Attention Network for Interpretable Temporal Biomarkers of Verbal Fluency Speech](https://arxiv.org/abs/2609.14764) | `ai-coding-agents/` | 70 |
+| [Configurable Multi-Stage Vision Pipeline for Crop Disease and Pest Diagnosis](https://arxiv.org/abs/2609.21651) | `ai-coding-agents/` | 70 |
+| [M\"obius Interaction Filtering: Order-Selective Spectral Regularization for Multimodal Humor Detection](https://arxiv.org/abs/2611.12913) | `ai-coding-agents/` | 70 |
+| [Prompts Without Evidence: How Neuroimaging Mentions Shift Clinical Vision-Language Model Predictions](https://arxiv.org/abs/2603.28387) | `ai-coding-agents/` | 70 |
+| [Advancing All-Weather Building Damage Mapping to the Instance Level: Outcomes and Insights from the 2026 Bright Challenge](https://arxiv.org/abs/2607.22746) | `ai-coding-agents/` | 70 |
+| [Monotone-Constrained Diffusion Models for Long-Horizon Production Forecasting](https://arxiv.org/abs/2609.22643) | `ai-coding-agents/` | 70 |
+| [Transferability and operational reliability of a Prithvi crop classification foundation model under phenological and geographic shift across three continents](https://arxiv.org/abs/2610.08810) | `ai-coding-agents/` | 70 |
+| [RESYNC: Residual Latent-State Synchronization for Deadline-Bound Streaming Inference](https://arxiv.org/abs/2611.16523) | `ai-coding-agents/` | 70 |
+| [Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment](https://arxiv.org/abs/2606.01456) | `ai-coding-agents/` | 70 |
+| [Did You Forget What I Asked? Prospective Memory Failures in Large Language Models](https://arxiv.org/abs/2603.23530) | `ai-coding-agents/` | 70 |
+| [The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models](https://arxiv.org/abs/2607.27281) | `ai-coding-agents/` | 70 |
+| [Decoding What iOS Location Services Send to Apple: An LLM Is an Unreliable Analyst but a Useful Toolmaker](https://arxiv.org/abs/2610.21597) | `ai-coding-agents/` | 70 |
+| [ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation](https://arxiv.org/abs/2607.29539) | `ai-coding-agents/` | 70 |
+| [The Direction of Ignorance: LLMs Encode and Temper a Unigram Prior](https://arxiv.org/abs/2609.02959) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

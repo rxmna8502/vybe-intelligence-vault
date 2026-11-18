@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [ORCA-bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545) (Score: 70) - Category: `ai-coding-agents/`
-*   [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review) (Score: 70) - Category: `ai-coding-agents/`
-*   [UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity](https://arxiv.org/abs/2610.35980) (Score: 70) - Category: `ai-coding-agents/`
-*   [Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits](https://arxiv.org/abs/2610.13494) (Score: 70) - Category: `ai-coding-agents/`
-*   [Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481) (Score: 70) - Category: `ai-coding-agents/`
-*   [Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341) (Score: 70) - Category: `ai-coding-agents/`
-*   [Beyond Pass@k: Measuring Reliability and Security of Agentic Code Generation](https://arxiv.org/abs/2608.14711) (Score: 70) - Category: `ai-coding-agents/`
-*   [TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing](https://arxiv.org/abs/2605.18859) (Score: 70) - Category: `ai-coding-agents/`
-*   [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) (Score: 70) - Category: `ai-coding-agents/`
-*   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
-*   [Getting Started with Roboflow](https://blog.roboflow.com/getting-started-with-roboflow) (Score: 70) - Category: `ai-coding-agents/`
-*   [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) (Score: 70) - Category: `ai-coding-agents/`
-*   [Fragmented Markers, Mixed Results: A Systematic Review of AI Coding Assistants and Developer Productivity](https://arxiv.org/abs/2611.21632) (Score: 70) - Category: `ai-coding-agents/`
-*   [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) (Score: 70) - Category: `ai-coding-agents/`
-*   [JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams](https://arxiv.org/abs/2611.18130) (Score: 70) - Category: `ai-coding-agents/`
+*   [Exploring napping paradigm for Recurrent Spiking Neural Networks](https://arxiv.org/abs/2609.13927) (Score: 70) - Category: `ai-coding-agents/`
+*   [When the Gradient Sees Rank: Provable Necessity, Causal Recruitment, and Composition in Trained Matrix Memories](https://arxiv.org/abs/2609.17594) (Score: 70) - Category: `ai-coding-agents/`
+*   [ClinEdge: An Expert-Graded Benchmark of Real Patient Edge Cases Where Frontier Multimodal Models Fail](https://arxiv.org/abs/2610.15239) (Score: 70) - Category: `ai-coding-agents/`
+*   [AI-Assisted Discovery and Construction of a Counterexample to the Convergence of Three-Block ADMM with the Identity Matrix as its Third Constraint Block](https://arxiv.org/abs/2608.14396) (Score: 70) - Category: `ai-coding-agents/`
+*   [How Post-Training Shapes Biological Reasoning Models](https://arxiv.org/abs/2606.16517) (Score: 70) - Category: `ai-coding-agents/`
+*   [GroundBench: A Factorized, Counterfactual Benchmark for Locating VLM Affordance Failures](https://arxiv.org/abs/2609.13308) (Score: 70) - Category: `ai-coding-agents/`
+*   [Neural Network-Assisted CLEAN for Efficient Multipath Parameter Estimation in MIMO Systems](https://arxiv.org/abs/2611.13298) (Score: 70) - Category: `ai-coding-agents/`
+*   [Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments](https://arxiv.org/abs/2608.14456) (Score: 70) - Category: `ai-coding-agents/`
+*   [Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation](https://arxiv.org/abs/2607.08255) (Score: 70) - Category: `ai-coding-agents/`
+*   [Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms](https://arxiv.org/abs/2606.25066) (Score: 70) - Category: `ai-coding-agents/`
+*   [Not the Same Protector: Deployment-Dependent Protective Intervention in LLMs](https://arxiv.org/abs/2608.29136) (Score: 70) - Category: `ai-coding-agents/`
+*   [CCMAN: Cognitive Instability-Aware Cross-Modal Attention Network for Interpretable Temporal Biomarkers of Verbal Fluency Speech](https://arxiv.org/abs/2609.14764) (Score: 70) - Category: `ai-coding-agents/`
+*   [Configurable Multi-Stage Vision Pipeline for Crop Disease and Pest Diagnosis](https://arxiv.org/abs/2609.21651) (Score: 70) - Category: `ai-coding-agents/`
+*   [M\"obius Interaction Filtering: Order-Selective Spectral Regularization for Multimodal Humor Detection](https://arxiv.org/abs/2611.12913) (Score: 70) - Category: `ai-coding-agents/`
+*   [Prompts Without Evidence: How Neuroimaging Mentions Shift Clinical Vision-Language Model Predictions](https://arxiv.org/abs/2603.28387) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: autogluon/chronos-2 (Likes: 97, Downloads: 33734387)
+Trending Hugging Face model: autogluon/chronos-2 (Likes: 97, Downloads: 34066524)
 
 ## Use Cases
 

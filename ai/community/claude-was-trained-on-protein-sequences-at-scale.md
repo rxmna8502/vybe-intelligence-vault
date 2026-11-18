@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:claude-was-trained-on-protein-sequences-at-scale
 first_seen: '2026-11-18T13:13:27.804054+05:30'
 last_seen: '2026-11-18T13:13:27.804054+05:30'
 last_checked: '2026-11-18T13:13:27.804054+05:30'
 health_score: 100
 ---
+
 
 # Claude was trained on protein sequences at scale
 

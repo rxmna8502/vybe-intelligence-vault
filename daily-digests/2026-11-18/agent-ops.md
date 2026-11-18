@@ -1,19 +1,31 @@
 ---
-title: "tddh/agent-ops"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "QUIC", "MCP (Model Context Protocol)", "rmux (terminal multiplexer)", "SQLite", "YAML", "TLS/SSL"]
+title: tddh/agent-ops
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- Rust
+- QUIC
+- MCP (Model Context Protocol)
+- rmux (terminal multiplexer)
+- SQLite
+- YAML
+- TLS/SSL
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["terminal orchestration", "AI agent infrastructure", "audit logging", "multi-host management", "secure remote access"]
-source: "https://github.com/tddh/agent-ops"
+deployment_complexity: Medium
+tags:
+- terminal orchestration
+- AI agent infrastructure
+- audit logging
+- multi-host management
+- secure remote access
+source: https://github.com/tddh/agent-ops
 stars: 1
-language: "Rust"
-last_updated: "2026-07-15T02:01:00Z"
-discovered_at: "2026-07-15T02:12:20Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-15T02:01:00Z'
+discovered_at: '2026-07-15T02:12:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

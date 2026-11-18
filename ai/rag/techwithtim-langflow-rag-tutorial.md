@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-11-17T19:07:26.526334+05:30'
+collected_at: '2026-11-18T22:54:16.246758+05:30'
 published_at: '2026-09-02T19:05:21Z'
 tags:
 - github-repo
 - rag
 - unknown
-- workflows
 stars: 96
 language: Unknown
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-11-17T19:07:26.526334+05:30'
-last_seen: '2026-11-17T19:07:26.526334+05:30'
-last_checked: '2026-11-17T19:07:26.526334+05:30'
+first_seen: '2026-11-18T22:54:16.246758+05:30'
+last_seen: '2026-11-18T22:54:16.246758+05:30'
+last_checked: '2026-11-18T22:54:16.246758+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements Retrieval-Augmented Generation (RAG) principles.
-*   Leverages the Langflow framework for LLM application development.
-*   Offers a tutorial-driven approach to integrating RAG within Langflow workflows.
+*   Implements Retrieval Augmented Generation (RAG) principles.
+*   Leverages Langflow for visual LLM pipeline construction.
+*   Structured as a tutorial for practical RAG system development.
 
 ## Why It Matters
 

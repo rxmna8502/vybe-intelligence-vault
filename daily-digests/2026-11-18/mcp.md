@@ -1,19 +1,30 @@
 ---
-title: "Teamwork/mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "HTTP", "STDIO", "OAuth2", "Bearer Token Authentication"]
+title: Teamwork/mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- HTTP
+- STDIO
+- OAuth2
+- Bearer Token Authentication
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "Teamwork.com", "Project Management", "AI Integration", "Orchestration"]
-source: "https://github.com/Teamwork/mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- Teamwork.com
+- Project Management
+- AI Integration
+- Orchestration
+source: https://github.com/Teamwork/mcp
 stars: 24
-language: "Go"
-last_updated: "2026-08-07T09:52:35Z"
-discovered_at: "2026-08-07T10:04:36Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T09:52:35Z'
+discovered_at: '2026-08-07T10:04:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

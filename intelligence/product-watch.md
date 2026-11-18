@@ -4,25 +4,25 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 
 | Product | Focus Area | Score |
 | :--- | :--- | :--- |
-| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | `mcp-registry/` | 70 |
-| [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](https://arxiv.org/abs/2608.06305) | `mcp-registry/` | 70 |
-| [Instance-Aware Algorithm Selection for Maximum Clique via a Dual-Channel Graph Neural Architecture](https://arxiv.org/abs/2508.08005) | `mcp-registry/` | 70 |
-| [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) | `mcp-registry/` | 70 |
-| [Firestore | Google Cloud](https://cloud.google.com/firestore) | `mcp-registry/` | 70 |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | `mcp-registry/` | 70 |
-| [Intro | Zod](https://zod.dev) | `mcp-registry/` | 70 |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | `mcp-registry/` | 70 |
-| [PHMForge: Evaluating LLM Agents on Industrial Prognostics through MCP-Native, Algorithm-Grounded Tools](https://arxiv.org/abs/2604.01532) | `mcp-registry/` | 70 |
-| [Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling](https://arxiv.org/abs/2608.26199) | `mcp-registry/` | 70 |
-| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | `mcp-registry/` | 70 |
-| [Building AI That Works: ESnet's Pragmatic Approach to AI-Driven Operational Excellence](https://arxiv.org/abs/2607.22948) | `mcp-registry/` | 70 |
-| [Collaboration software for software, IT and business teams | Atlassian](https://www.atlassian.com) | `mcp-registry/` | 70 |
-| [Agentic AI – Personal RAG System - Hugo Atlantic](https://subhashydv.github.io/blog/2025/09/agentic-ai-personal-rag-system/) | `mcp-registry/` | 70 |
-| [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](https://arxiv.org/abs/2607.08495) | `mcp-registry/` | 70 |
-| [Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2611.14015) | `mcp-registry/` | 70 |
-| [Oculi: A Conversational Agentic Platform for Automated Credit Risk Analysis](https://arxiv.org/abs/2608.28944) | `mcp-registry/` | 70 |
-| [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | `mcp-registry/` | 70 |
-| [Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools](https://arxiv.org/abs/2608.04719) | `mcp-registry/` | 70 |
-| [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) | `mcp-registry/` | 70 |
+| [Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions](https://arxiv.org/abs/2610.14334) | `mcp-registry/` | 70 |
+| [CASCADE: A Component Ablation and Corpus Audit of a Layered Local Defense for MCP-Based Systems](https://arxiv.org/abs/2604.17125) | `mcp-registry/` | 70 |
+| [MCPGen: Benchmarking LLMs on Executable MCPWorkflow Development](https://arxiv.org/abs/2609.23925) | `mcp-registry/` | 70 |
+| [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) | `mcp-registry/` | 70 |
+| [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](https://arxiv.org/abs/2609.10854) | `mcp-registry/` | 70 |
+| [Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators](https://arxiv.org/abs/2609.06796) | `mcp-registry/` | 70 |
+| [Redakto - The Incognito Tab for LLMs](https://arxiv.org/abs/2608.18260) | `mcp-registry/` | 70 |
+| [What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962) | `mcp-registry/` | 70 |
+| [Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization](https://arxiv.org/abs/2607.10618) | `mcp-registry/` | 70 |
+| [Program Learning with Verifiable Rewards: Distilling Expert Traces into Programs](https://arxiv.org/abs/2610.19148) | `mcp-registry/` | 70 |
+| [Grid-Orch: An LLM-Powered Orchestrator for Distribution Grid Simulation and Analytics](https://arxiv.org/abs/2605.12728) | `mcp-registry/` | 70 |
+| [MCPO: Modality-Contrastive Preference Optimization for Multimodal Chain-of-Thought Compression](https://arxiv.org/abs/2609.04947) | `mcp-registry/` | 70 |
+| [From Answers to Policies: Efficient In-Context Learning System through Emulating Expert Investigation](https://arxiv.org/abs/2608.16831) | `mcp-registry/` | 70 |
+| [Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation](https://arxiv.org/abs/2611.06734) | `mcp-registry/` | 70 |
+| [Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data](https://arxiv.org/abs/2609.11286) | `mcp-registry/` | 70 |
+| [Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise](https://arxiv.org/abs/2610.28810) | `mcp-registry/` | 70 |
+| [SafeOrchestrate: Runtime Checked Intent-Driven Orchestration for Cyber-Physical Systems](https://arxiv.org/abs/2611.09364) | `mcp-registry/` | 70 |
+| [Gaussian Mixture Copula Processes for Irregular Time Series](https://arxiv.org/abs/2605.23632) | `mcp-registry/` | 70 |
+| [LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses](https://arxiv.org/abs/2608.01734) | `mcp-registry/` | 70 |
+| [A Large-Scale Dataset of MCP Implementations on GitHub](https://arxiv.org/abs/2607.10123) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

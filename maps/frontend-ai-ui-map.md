@@ -10,11 +10,11 @@ Streaming JSON rendering, message bubble styles, typing animations, layout state
 React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
-*   [Configure security](https://gohugo.io/configuration/security/)
 *   [Home | Cornell Research Services](https://researchservices.cornell.edu/)
-*   [Privacy Practices & Protections - Google Safety Center](https://safety.google/principles)
-*   [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites)
+*   [GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe · GitHub](https://github.com/algolia/firestore-algolia-search/tree/36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe)
 *   [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app)
+*   [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024)
+*   [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

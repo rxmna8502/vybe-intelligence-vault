@@ -1,19 +1,32 @@
 ---
-title: "Mindola-ai/mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["MCP (Model Context Protocol)", "REST API", "Vector embeddings", "Retrieval-Augmented Generation (RAG)", "Stripe (for payments)", "Natural Language Processing (NLP)", "WebSockets (for live voice)", "React (for UI)"]
+title: Mindola-ai/mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- MCP (Model Context Protocol)
+- REST API
+- Vector embeddings
+- Retrieval-Augmented Generation (RAG)
+- Stripe (for payments)
+- Natural Language Processing (NLP)
+- WebSockets (for live voice)
+- React (for UI)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["RAG", "grounded answers", "public AI pages", "MCP server", "citations"]
-source: "https://github.com/Mindola-ai/mcp-server"
+deployment_complexity: Low
+tags:
+- RAG
+- grounded answers
+- public AI pages
+- MCP server
+- citations
+source: https://github.com/Mindola-ai/mcp-server
 stars: 0
-language: "None"
-last_updated: "2026-08-02T13:41:29Z"
-discovered_at: "2026-08-02T13:49:40Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-02T13:41:29Z'
+discovered_at: '2026-08-02T13:49:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

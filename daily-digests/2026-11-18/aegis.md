@@ -1,19 +1,35 @@
 ---
-title: "hamidmatiny/aegis"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Python", "React", "TypeScript", "PostgreSQL", "Protobuf", "CEL (Common Expression Language)", "Helm", "Docker", "Ed25519", "OpenAPI"]
+title: hamidmatiny/aegis
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- Go
+- Python
+- React
+- TypeScript
+- PostgreSQL
+- Protobuf
+- CEL (Common Expression Language)
+- Helm
+- Docker
+- Ed25519
+- OpenAPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["LLM security", "prompt injection defense", "agentic system protection", "policy-as-code", "audit trail"]
-source: "https://github.com/hamidmatiny/aegis"
+deployment_complexity: High
+tags:
+- LLM security
+- prompt injection defense
+- agentic system protection
+- policy-as-code
+- audit trail
+source: https://github.com/hamidmatiny/aegis
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T20:59:08Z"
-discovered_at: "2026-08-09T21:35:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T20:59:08Z'
+discovered_at: '2026-08-09T21:35:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

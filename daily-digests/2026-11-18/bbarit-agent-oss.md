@@ -1,19 +1,32 @@
 ---
-title: "myother6380/bbarit-agent-oss"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "CLI", "TUI", "Ollama", "OpenAI", "Anthropic", "Gemini", "Local LLM"]
+title: myother6380/bbarit-agent-oss
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-18
+tech_stack:
+- Rust
+- CLI
+- TUI
+- Ollama
+- OpenAI
+- Anthropic
+- Gemini
+- Local LLM
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agent", "code assistance", "local LLM", "terminal tool", "developer productivity"]
-source: "https://github.com/myother6380/bbarit-agent-oss"
+deployment_complexity: Low
+tags:
+- AI agent
+- code assistance
+- local LLM
+- terminal tool
+- developer productivity
+source: https://github.com/myother6380/bbarit-agent-oss
 stars: 1
-language: "None"
-last_updated: "2026-08-07T00:00:07Z"
-discovered_at: "2026-08-07T00:01:44Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T00:00:07Z'
+discovered_at: '2026-08-07T00:01:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
