@@ -1,79 +1,67 @@
 ---
-title: shisuidata/Forge
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-18
-tech_stack:
-- Python
-- SQL
-- JSON Schema
-- LLM
-- PostgreSQL
-- SQLite
-- MySQL
-- Docker
-- CLI
-- Web UI
+title: "SidCorp-co/forge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Rust", "Hono", "Drizzle ORM", "PostgreSQL", "Next.js", "WebSocket", "Claude Code", "Docker", "pg-boss", "MCP"]
 quality_score: 9
-rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- trustworthy AI
-- deterministic SQL
-- data querying
-- auditability
-- AI agent infrastructure
-source: https://github.com/shisuidata/Forge
-stars: 11
-language: Python
-last_updated: '2026-09-03T19:03:33Z'
-discovered_at: '2026-09-03T19:07:01Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["AI-powered workflows", "self-hosted orchestration", "Claude Code integration", "pipeline management", "multi-device coordination"]
+source: "https://github.com/SidCorp-co/forge"
+stars: 5
+language: "None"
+last_updated: "2026-09-02T02:06:35Z"
+discovered_at: "2026-09-02T02:12:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Forge is an open-source infrastructure layer designed to enable trustworthy AI-assisted data querying by providing constrained, reviewable, executable, and auditable SQL generation and execution workflows. It acts as a middle layer between AI agents and databases, ensuring deterministic SQL compilation, human review, and comprehensive auditing.
+Forge is an open-source AI-powered software lifecycle platform that orchestrates Claude Code on user-controlled devices. It provides a web dashboard for managing projects from build to maintenance, a configurable pipeline for issue routing, and real-time job auditing without holding user credentials.
 
 ## Key Features
-- Constrained Forge JSON intermediate representation with deterministic SQL compilation
-- Registry-backed schema and semantic constraints for organizational knowledge management
-- Human review and audit trails for executed queries, ensuring traceability and accountability
-- Support for Direct SQL and Forge JSON candidate paths with read-only database access
-- Versioned APIs (Evaluate, Enforce, Explain) for benchmarking, governance, and transparency
+- Configurable AI-driven pipeline with stages like triage, plan, code, and review
+- Real-time job streaming and auditing with full event logs retained for 30 days
+- Multi-project and multi-device coordination with device-specific credential management
+- Extensible architecture supporting custom skills, pipeline stages, and runners
+- Organizational role-based access control and shared integration connections
 
 ## Why It Matters for RAG Builders
-Forge provides a critical middle layer that transforms unreliable AI-generated SQL into trustworthy, auditable, and reviewable queries, essential for production-grade RAG and AI stack deployments.
+Forge provides a critical orchestration layer for AI-driven software development workflows, enabling secure, self-hosted, and extensible automation of Claude Code-powered tasks while maintaining full control over credentials and compute.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQL
-Automated review identified **SQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON Schema
-Automated review identified **JSON Schema** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Hono
+Automated review identified **Hono** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM
-Automated review identified **LLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Drizzle ORM
+Automated review identified **Drizzle ORM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### PostgreSQL
 Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Next.js
+Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MySQL
-Automated review identified **MySQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebSocket
+Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Claude Code
+Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### pg-boss
+Automated review identified **pg-boss** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Web UI
-Automated review identified **Web UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP
+Automated review identified **MCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,59 +1,58 @@
 ---
-title: voyagehacks-com/mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-18
-tech_stack:
-- JavaScript
-- Model Context Protocol (MCP)
-- Cloudflare Pages Functions
-- JSON-RPC 2.0
-- Hugo (for content generation)
-quality_score: 8
-rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- travel data
-- affiliate links
-- multilingual content
-- AI agent tools
-source: https://github.com/voyagehacks-com/mcp-server
+title: "Mindola-ai/mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["MCP (Model Context Protocol)", "REST API", "Vector embeddings", "Retrieval-Augmented Generation (RAG)", "Stripe (for payments)", "Natural Language Processing (NLP)", "WebSockets (for live voice)", "React (for UI)"]
+quality_score: 9
+rag_relevance: 10
+deployment_complexity: "Low"
+tags: ["RAG", "grounded answers", "public AI pages", "MCP server", "citations"]
+source: "https://github.com/Mindola-ai/mcp-server"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T17:48:24Z'
-discovered_at: '2026-08-01T18:00:19Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T13:41:29Z"
+discovered_at: "2026-08-02T13:49:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-The VoyageHacks MCP Server provides an official Model Context Protocol (MCP) interface for accessing multilingual travel content, including articles, travel gear, flight/hotel links, and affiliate booking resources. It enables AI agents to dynamically fetch structured travel data via HTTP transport.
+Mindola MCP server enables users to create public AI-powered lenses (shareable web pages) that answer questions grounded in their own material (documents, notes, links) with citations, while supporting live voice interactions and lead capture. The server is hosted remotely and integrates with MCP clients like Claude or Cursor via a single URL.
 
 ## Key Features
-- Provides stateless HTTP transport for MCP clients with no authentication required
-- Offers 14 specialized tools for travel content retrieval (articles, gear, flights, hotels, etc.)
-- Returns structured Markdown content and affiliate booking links for AI agents
-- Supports self-hosting via Cloudflare Pages Functions with configurable affiliate IDs
-- Includes transparency disclosures for affiliate tracking and content attribution
+- Hosted MCP server with zero local setup required
+- Grounded answers with citations from user-provided material
+- Honest refusal for out-of-scope questions
+- Live voice interactions with barge-in support
+- Lead capture and CRM integration via unanswered questions
 
 ## Why It Matters for RAG Builders
-This MCP server enables AI agents to dynamically access real-time travel data, affiliate links, and structured content, making it essential for building travel-focused RAG applications.
+Mindola eliminates the complexity of building a RAG pipeline from scratch, providing a ready-to-use solution for creating grounded AI assistants that answer from personal or proprietary knowledge with citations.
 
 ## Tech Stack Deep Dive
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cloudflare Pages Functions
-Automated review identified **Cloudflare Pages Functions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Vector embeddings
+Automated review identified **Vector embeddings** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON-RPC 2.0
-Automated review identified **JSON-RPC 2.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Retrieval-Augmented Generation (RAG)
+Automated review identified **Retrieval-Augmented Generation (RAG)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Hugo (for content generation)
-Automated review identified **Hugo (for content generation)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Stripe (for payments)
+Automated review identified **Stripe (for payments)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Natural Language Processing (NLP)
+Automated review identified **Natural Language Processing (NLP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### WebSockets (for live voice)
+Automated review identified **WebSockets (for live voice)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### React (for UI)
+Automated review identified **React (for UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
