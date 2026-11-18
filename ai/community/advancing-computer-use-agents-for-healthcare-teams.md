@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:advancing-computer-use-agents-for-healthcare-teams
 first_seen: '2026-11-18T05:05:56.424987+05:30'
 last_seen: '2026-11-18T05:05:56.424987+05:30'
 last_checked: '2026-11-18T05:05:56.424987+05:30'
 health_score: 100
 ---
+
 
 # Advancing computer-use agents for healthcare teams
 

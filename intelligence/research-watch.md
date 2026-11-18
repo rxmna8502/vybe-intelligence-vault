@@ -14,6 +14,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) | `ai-coding-agents/` | 70 |
 | [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) | `ai-coding-agents/` | 70 |
 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
+| [Fragmented Markers, Mixed Results: A Systematic Review of AI Coding Assistants and Developer Productivity](https://arxiv.org/abs/2611.21632) | `ai-coding-agents/` | 70 |
 | [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) | `ai-coding-agents/` | 70 |
 | [JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams](https://arxiv.org/abs/2611.18130) | `ai-coding-agents/` | 70 |
 | [Event-Based Early Warning of Vineyard Disease Risk from Environmental Time Series](https://arxiv.org/abs/2605.04548) | `ai-coding-agents/` | 70 |
@@ -26,8 +27,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Colla-Q: Toward Collaborative Experts in MoE Quantization via Minimax Precision Balancing](https://arxiv.org/abs/2609.18131) | `ai-coding-agents/` | 70 |
 | [RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents](https://arxiv.org/abs/2609.04898) | `ai-coding-agents/` | 70 |
 | [Deep LLM layers expose passage-level context in EEG during silent reading](https://arxiv.org/abs/2610.23638) | `ai-coding-agents/` | 70 |
+| [A closed-loop framework for perovskite precursor additive discovery](https://arxiv.org/abs/2605.20242) | `ai-coding-agents/` | 70 |
 | [Sign-Symmetry Learning Rules are Robust Fine-Tuners](https://arxiv.org/abs/2502.05925) | `ai-coding-agents/` | 70 |
-| [Generative AI for Analysts](https://arxiv.org/abs/2512.19705) | `ai-coding-agents/` | 70 |
-| [When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor](https://arxiv.org/abs/2609.01985) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:runanywhereai/trnrt
 first_seen: '2026-11-18T05:05:56.297651+05:30'
 last_seen: '2026-11-18T05:05:56.297651+05:30'
 last_checked: '2026-11-18T05:05:56.297651+05:30'
 health_score: 100
 ---
+
 
 # Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium
 
