@@ -10,12 +10,12 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
-- [UBEP: Re-architecting Expert Parallelism Communication Library for Production Superpods](https://arxiv.org/abs/2607.06202) (framework - USEFUL Tier)
-- [Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning](https://arxiv.org/abs/2602.02355) (framework - USEFUL Tier)
-- [Efficient Recommendations via Graph Coarsening and Label Propagation](https://arxiv.org/abs/2607.22287) (framework - USEFUL Tier)
-- [FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI](https://arxiv.org/abs/2610.24349) (framework - USEFUL Tier)
-- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](https://arxiv.org/abs/2609.24815) (framework - USEFUL Tier)
-- [GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275) (framework - USEFUL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - USEFUL Tier)
+- [Physics-Unrolled Neural Operator for Wireless Field Modeling](https://arxiv.org/abs/2608.18495) (framework - USEFUL Tier)
+- [A Hierarchical Approach to Imitation Learning for Manipulation Tasks Requiring Time Varying Forces](https://arxiv.org/abs/2608.03103) (framework - USEFUL Tier)
+- [Training-Free Model Selection and Domain-Aware Score Calibration for First-Shot Anomalous Sound Detection](https://arxiv.org/abs/2607.04526) (benchmark - USEFUL Tier)
+- [Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986) (framework - USEFUL Tier)
+- [MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems](https://arxiv.org/abs/2605.28732) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,8 +24,8 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- [Releases · docker/scout-cli · GitHub](https://github.com/docker/scout-cli/releases)
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
+- [pinecone-io/canopy](https://github.com/pinecone-io/canopy)
+- [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-11-18 23:11 IST*
+*Last updated: 2026-11-19 07:47 IST*

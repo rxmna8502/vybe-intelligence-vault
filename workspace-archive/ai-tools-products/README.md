@@ -8,21 +8,21 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
+- [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718) (framework - USEFUL Tier)
-- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
-- [On a joint simultaneous learning of relevant feature subsets and subspaces in regression-like problems](https://arxiv.org/abs/2607.28080) (framework - USEFUL Tier)
+- [MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence](https://arxiv.org/abs/2412.17228) (benchmark - USEFUL Tier)
+- [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development/) (tutorial - USEFUL Tier)
+- [Docker Developer Tools | Dockertools - A Curated List of Developers Tools](https://dockertools.collabnix.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [Mintlify · GitHub](https://github.com/mintlify)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+- [Mintlify · GitHub](https://github.com/mintlify)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [continuedev/continue](https://github.com/continuedev/continue)
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-11-18 23:12 IST*
+*Last updated: 2026-11-19 07:48 IST*

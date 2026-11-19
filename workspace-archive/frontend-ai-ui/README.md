@@ -9,13 +9,13 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 ## Top Matched Resources
 
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
-- [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407) (framework - USEFUL Tier)
+- [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
-- [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
+- [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407) (framework - USEFUL Tier)
 - [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template) (template - USEFUL Tier)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
+- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (template - USEFUL Tier)
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 - [ElevenLabs · GitHub](https://github.com/elevenlabs)
 - [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
-- [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree)
-- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
+- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar)
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-11-18 23:12 IST*
+*Last updated: 2026-11-19 07:48 IST*

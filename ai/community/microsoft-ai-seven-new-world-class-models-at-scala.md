@@ -13,13 +13,14 @@ collected_at: '2026-11-18T22:53:04.114267+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:microsoft-ai-seven-new-world-class-models-at-scala
 first_seen: '2026-11-18T22:53:04.114267+05:30'
 last_seen: '2026-11-18T22:53:04.114267+05:30'
 last_checked: '2026-11-18T22:53:04.114267+05:30'
 health_score: 100
 ---
+
 
 # Microsoft AI: Seven new world-class models at scalable price-performance
 

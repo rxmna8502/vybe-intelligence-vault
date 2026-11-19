@@ -9,20 +9,20 @@ Public developer APIs supply external context and utilities for LLM tools.
 ## Top Matched Resources
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
-- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
-- [Redakto - The Incognito Tab for LLMs](https://arxiv.org/abs/2608.18260) (framework - USEFUL Tier)
-- [Benchmarking API Drift in LLM-Generated Quantum Code Across Successive SDK Versions](https://arxiv.org/abs/2607.04072) (framework - USEFUL Tier)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [Mozilla Hacks - YouTube](http://www.youtube.com/user/mozhacks) (framework - USEFUL Tier)
+- [Microsoft Academic Graph - Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [supabase/supabase](https://github.com/supabase/supabase)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-11-18 23:12 IST*
+*Last updated: 2026-11-19 07:48 IST*

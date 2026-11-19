@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:u-s-airforce-is-looking-for-old-storage-media-cf-o
 first_seen: '2026-11-18T22:53:04.755015+05:30'
 last_seen: '2026-11-18T22:53:04.755015+05:30'
 last_checked: '2026-11-18T22:53:04.755015+05:30'
 health_score: 100
 ---
+
 
 # U.S. AirForce is looking for old storage Media (CF or PC cards)
 

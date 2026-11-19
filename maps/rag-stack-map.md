@@ -10,11 +10,11 @@ Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc
 Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
-*   [Encoding, Decodability, and Use: A Five-Layer Framework for Benchmark Measurement Audits with Evidence from UAV Intent Recognition](https://arxiv.org/abs/2611.22434)
-*   [Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](https://arxiv.org/abs/2606.14748)
-*   [Mesh Field Theory: Port-Hamiltonian Formulation of Mesh-Based Physics](https://arxiv.org/abs/2605.00394)
-*   [DisParQ: Self-Supervised Part Concepts for Interpretable Vision Foundation Models](https://arxiv.org/abs/2610.09802)
-*   [Tracing Computation Density in LLMs](https://arxiv.org/abs/2605.27033)
+*   [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153)
+*   [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting)
+*   [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
+*   [LEBGen: An LLM-Enhanced Bayesian Network Framework for Few-Shot Travel Survey Data Generation](https://arxiv.org/abs/2609.08288)
+*   [Cross-Attentive Bayesian Low-Rank Adaptation for Multimodal Uncertainty Estimation](https://arxiv.org/abs/2604.16657)
 
 ## Project Ideas
 *   PDF QA script that processes papers and saves vector embeddings to pgvector.

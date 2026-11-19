@@ -18,11 +18,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`spite-wagner.md`](../../web-development/threejs/spite-wagner.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples)
-- **Category**: `web-development/threejs` | **Kind**: `TOOL` | **Tier**: `USEFUL`
-- **Score**: `83` | **Path**: [`luosijie-threejs-examples.md`](../../web-development/threejs/luosijie-threejs-examples.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
 - **Category**: `web-development/threejs` | **Kind**: `TOOL` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`pixiv-three-vrm.md`](../../web-development/threejs/pixiv-three-vrm.md)
@@ -33,10 +28,25 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`mrdoob-three-js.md`](../../web-development/threejs/mrdoob-three-js.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples)
+- **Category**: `web-development/threejs` | **Kind**: `TOOL` | **Tier**: `USEFUL`
+- **Score**: `83` | **Path**: [`luosijie-threejs-examples.md`](../../web-development/threejs/luosijie-threejs-examples.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
 - **Category**: `web-development/react-three-fiber` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`juniorxsound-r3f-multiplayer.md`](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator)
+- **Category**: `web-development/react-three-fiber` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `83` | **Path**: [`wass08-r3f-ultimate-character-configurator.md`](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)
+- **Category**: `web-development/react-three-fiber` | **Kind**: `TOOL` | **Tier**: `USEFUL`
+- **Score**: `83` | **Path**: [`tiagocavalcante-r3f-native-orbitcontrols.md`](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
 - **Category**: `web-development/react-three-fiber` | **Kind**: `TOOL` | **Tier**: `USEFUL`
@@ -48,20 +58,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`benjaminmiles-react-three-vite.md`](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)
-- **Category**: `web-development/react-three-fiber` | **Kind**: `TOOL` | **Tier**: `USEFUL`
-- **Score**: `83` | **Path**: [`tiagocavalcante-r3f-native-orbitcontrols.md`](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter)
 - **Category**: `web-development/react-three-fiber` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`whoisryosuke-r3f-next-starter.md`](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator)
-- **Category**: `web-development/react-three-fiber` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
-- **Score**: `83` | **Path**: [`wass08-r3f-ultimate-character-configurator.md`](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu)
 - **Category**: `web-development/webgpu` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-11-18 23:12 IST*
+*Last updated: 2026-11-19 07:48 IST*

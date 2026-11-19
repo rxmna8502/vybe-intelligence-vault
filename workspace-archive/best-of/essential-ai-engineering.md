@@ -18,15 +18,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
-- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`microsoft-trec-2019-deep-learning.md`](../../ai/resources/microsoft-trec-2019-deep-learning.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`weaviate-verba.md`](../../ai/rag/weaviate-verba.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`microsoft-trec-2019-deep-learning.md`](../../ai/resources/microsoft-trec-2019-deep-learning.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -43,29 +43,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `88` | **Path**: [`arxiv-2609-05881.md`](../../ai/research/arxiv-2609-05881.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
+### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [weaviate/Verba](https://github.com/weaviate/Verba)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`weaviate-verba.md`](../../ai/rag/weaviate-verba.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`firecrawl-firecrawl-mcp-server.md`](../../ai/resources/firecrawl-firecrawl-mcp-server.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Mintlify · GitHub](https://github.com/mintlify)
-- **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mintlify-github.md`](../../ai/resources/mintlify-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
+### [Mintlify · GitHub](https://github.com/mintlify)
+- **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`mintlify-github.md`](../../ai/resources/mintlify-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-11-18 23:12 IST*
+*Last updated: 2026-11-19 07:48 IST*

@@ -9,13 +9,13 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 ## Top Matched Resources
 
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
-- [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (dataset - USEFUL Tier)
-- [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (prompt - USEFUL Tier)
-- [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (framework - USEFUL Tier)
-- [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
-- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (dataset - USEFUL Tier)
+- [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (framework - USEFUL Tier)
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (benchmark - USEFUL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
+- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (dataset - USEFUL Tier)
+- [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (prompt - USEFUL Tier)
+- [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (dataset - USEFUL Tier)
+- [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -37,4 +37,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-11-18 23:12 IST*
+*Last updated: 2026-11-19 07:48 IST*

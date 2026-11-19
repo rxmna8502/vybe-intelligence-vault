@@ -5,7 +5,10 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://businesswire.com/news/home/20261118974464/en/anthropic-is-not-a-safe-ai-company
 resource_id: hackernews:anthropic-is-not-a-safe-ai-company-coalition-chall
----broad-coalition-of-scientists-legal-scholars-and-tech-leaders-challenge-anthropics-safety-branding-ahead-of-ipo
+status: inactive
+last_seen: '2026-11-18T22:53:05.739736+05:30'
+---
+broad-coalition-of-scientists-legal-scholars-and-tech-leaders-challenge-anthropics-safety-branding-ahead-of-ipo
 hn_url: https://news.ycombinator.com/item?id=50548485
 score: 23
 author: sshah03
