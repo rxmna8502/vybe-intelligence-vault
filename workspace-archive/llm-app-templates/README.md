@@ -8,25 +8,25 @@ Starter kits and application templates drastically accelerate the deployment of 
 
 ## Top Matched Resources
 
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
-- [RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development](https://arxiv.org/abs/2610.26826) (framework - USEFUL Tier)
-- [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](https://arxiv.org/abs/2511.15755) (framework - USEFUL Tier)
-- [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (benchmark - USEFUL Tier)
-- [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793) (benchmark - USEFUL Tier)
-- [Latent Preference Modeling for Multi-Session Personalized Tool Calling](https://arxiv.org/abs/2604.17886) (framework - USEFUL Tier)
-- [AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](https://arxiv.org/abs/2605.28655) (reference - USEFUL Tier)
-- [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (framework - USEFUL Tier)
+- [$A^2E$ : An End-to-End Agent Auditing Engine](https://arxiv.org/abs/2608.07346) (framework - USEFUL Tier)
+- [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (framework - USEFUL Tier)
+- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (framework - USEFUL Tier)
+- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
+- [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/abs/2605.12481) (framework - USEFUL Tier)
+- [LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents](https://arxiv.org/abs/2609.14138) (framework - USEFUL Tier)
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
+- [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
-- [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template)
+- [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph)
+- [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template)
 - [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
-- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
-- [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-11-19 19:15 IST*
+*Last updated: 2026-11-20 05:01 IST*

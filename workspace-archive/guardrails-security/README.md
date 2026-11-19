@@ -10,23 +10,23 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (framework - USEFUL Tier)
-- [GEAR | Google Developer Program | Google for Developers](https://developers.google.com/program/gear) (template - USEFUL Tier)
-- [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311) (framework - USEFUL Tier)
-- [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (framework - USEFUL Tier)
-- [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
-- [WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites](https://arxiv.org/abs/2610.03036) (template - USEFUL Tier)
-- [APEX: Active Protection at Execution Boundaries for LLM Agents](https://arxiv.org/abs/2610.06966) (mcp-server - USEFUL Tier)
+- [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (framework - USEFUL Tier)
+- [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) (framework - USEFUL Tier)
+- [Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets](https://arxiv.org/abs/2608.17360) (template - USEFUL Tier)
+- [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](https://arxiv.org/abs/2607.28685) (template - USEFUL Tier)
+- [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (template - USEFUL Tier)
+- [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security)
 - [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
-- [uber/ADR](https://github.com/uber/ADR)
-- [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+- [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security)
+- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 - [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+- [uber/ADR](https://github.com/uber/ADR)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-11-19 19:16 IST*
+*Last updated: 2026-11-20 05:02 IST*

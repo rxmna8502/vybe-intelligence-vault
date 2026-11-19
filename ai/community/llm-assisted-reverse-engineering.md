@@ -13,13 +13,14 @@ collected_at: '2026-11-19T18:54:41.123684+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llm-assisted-reverse-engineering
 first_seen: '2026-11-19T07:28:32.723741+05:30'
 last_seen: '2026-11-19T18:54:41.123684+05:30'
 last_checked: '2026-11-19T18:54:41.123684+05:30'
 health_score: 100
 ---
+
 
 # LLM assisted reverse engineering
 

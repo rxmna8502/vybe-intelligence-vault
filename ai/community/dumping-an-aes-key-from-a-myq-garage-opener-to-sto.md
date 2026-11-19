@@ -13,13 +13,14 @@ collected_at: '2026-11-19T18:54:41.466644+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:dumping-an-aes-key-from-a-myq-garage-opener-to-sto
 first_seen: '2026-11-19T07:28:33.576336+05:30'
 last_seen: '2026-11-19T18:54:41.466644+05:30'
 last_checked: '2026-11-19T18:54:41.466644+05:30'
 health_score: 100
 ---
+
 
 # Dumping an AES key from a MyQ garage opener to stop rebooting when offline
 

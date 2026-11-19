@@ -10,22 +10,23 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
-- [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (framework - USEFUL Tier)
+- [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407) (framework - USEFUL Tier)
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) (template - USEFUL Tier)
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (template - USEFUL Tier)
-- [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio) (template - USEFUL Tier)
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) (template - USEFUL Tier)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 - [ElevenLabs · GitHub](https://github.com/elevenlabs)
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar)
-- [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio)
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui)
+- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)
+- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui)
 
 ## Best Learning Resources
 
@@ -43,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-11-19 19:17 IST*
+*Last updated: 2026-11-20 05:03 IST*

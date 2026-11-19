@@ -14,13 +14,14 @@ tags:
 - ai
 - deepmind
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:genie-4-is-now-available
 first_seen: '2026-11-19T07:28:34.151716+05:30'
 last_seen: '2026-11-19T18:54:41.352011+05:30'
 last_checked: '2026-11-19T18:54:41.352011+05:30'
 health_score: 100
 ---
+
 
 # Genie 4 is now available
 

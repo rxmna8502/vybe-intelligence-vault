@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-11-18T22:54:06.365184+05:30'
-published_at: '2026-11-18T16:47:52Z'
+collected_at: '2026-11-20T04:43:24.648444+05:30'
+published_at: '2026-11-19T21:35:14Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 87325
+stars: 87425
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-11-13T12:20:01Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-11-18T22:54:06.365184+05:30'
-last_seen: '2026-11-18T22:54:06.365184+05:30'
-last_checked: '2026-11-18T22:54:06.365184+05:30'
+first_seen: '2026-11-20T04:43:24.648444+05:30'
+last_seen: '2026-11-20T04:43:24.648444+05:30'
+last_checked: '2026-11-20T04:43:24.648444+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive tutorial on intelligent agent development, covering foundational principles and practical implementation.
-*   Focuses on integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) within agent architectures.
-*   Provides hands-on guidance for building agents from scratch, primarily utilizing Python.
+*   Comprehensive tutorial on intelligent agent principles and from-scratch construction.
+*   Emphasizes practical integration of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) within agent frameworks.
+*   Provides hands-on implementation examples primarily utilizing Python.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 87325
-- Forks: 10917
+- Stars: 87425
+- Forks: 10934
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-11-18T16:47:52Z
+- Last Updated: 2026-11-19T21:35:14Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

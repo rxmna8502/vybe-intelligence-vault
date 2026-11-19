@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
-*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Curriculum-Adapted Robust Reinforcement Learning for UAV Deconfliction in Adversarial Environments](https://arxiv.org/abs/2506.21129) (Score: 70) - Category: `ai-coding-agents/`
-*   [Autonomous Droplet Navigation via Model-Based Reinforcement Learning: Zero-Shot Transfer and Emergent Dynamics](https://arxiv.org/abs/2610.08852) (Score: 70) - Category: `ai-coding-agents/`
-*   [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (Score: 70) - Category: `ai-coding-agents/`
-*   [Can LLMs Imagine Moral Alternatives Beyond Binary Dilemmas?](https://arxiv.org/abs/2606.31213) (Score: 70) - Category: `ai-coding-agents/`
-*   [Audit the Scaffold, Not the Checkpoint: A Stationarity Dichotomy for Recursive Self-Improvement in Agentic Coding](https://arxiv.org/abs/2609.34924) (Score: 70) - Category: `ai-coding-agents/`
-*   [The Language of Bargaining: Linguistic Effects in LLM Negotiations](https://arxiv.org/abs/2601.04387) (Score: 70) - Category: `ai-coding-agents/`
-*   [Sensory Precision Inference for Multimodal Arbitration under Uncertainty](https://arxiv.org/abs/2609.15065) (Score: 70) - Category: `ai-coding-agents/`
-*   [Evaluating Agentic Code Repair Capabilities in Distributed Systems](https://arxiv.org/abs/2608.14863) (Score: 70) - Category: `ai-coding-agents/`
-*   [Governing the Edge: Automating Commercial Property and Casualty Insurance Underwriting via a Hybrid Local-Cloud Multi-Agent Framework](https://arxiv.org/abs/2609.37454) (Score: 70) - Category: `ai-coding-agents/`
-*   [Fundamental limits of distributed multiclass classification from simple binary decisions](https://arxiv.org/abs/2607.19334) (Score: 70) - Category: `ai-coding-agents/`
-*   [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) (Score: 70) - Category: `ai-coding-agents/`
-*   [CastFlow: Bridging Evidence Acquisition and Accurate Prediction in Agentic Time Series Forecasting](https://arxiv.org/abs/2604.27840) (Score: 70) - Category: `ai-coding-agents/`
-*   [Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution](https://arxiv.org/abs/2610.00590) (Score: 70) - Category: `ai-coding-agents/`
+*   [ORCA-bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545) (Score: 70) - Category: `ai-coding-agents/`
+*   [UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity](https://arxiv.org/abs/2610.35980) (Score: 70) - Category: `ai-coding-agents/`
+*   [Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits](https://arxiv.org/abs/2610.13494) (Score: 70) - Category: `ai-coding-agents/`
+*   [Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481) (Score: 70) - Category: `ai-coding-agents/`
+*   [Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341) (Score: 70) - Category: `ai-coding-agents/`
+*   [Beyond Pass@k: Measuring Reliability and Security of Agentic Code Generation](https://arxiv.org/abs/2608.14711) (Score: 70) - Category: `ai-coding-agents/`
+*   [TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing](https://arxiv.org/abs/2605.18859) (Score: 70) - Category: `ai-coding-agents/`
+*   [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) (Score: 70) - Category: `ai-coding-agents/`
+*   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
+*   [Getting Started with Roboflow](https://blog.roboflow.com/getting-started-with-roboflow) (Score: 70) - Category: `ai-coding-agents/`
+*   [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) (Score: 70) - Category: `ai-coding-agents/`
+*   [Fragmented Markers, Mixed Results: A Systematic Review of AI Coding Assistants and Developer Productivity](https://arxiv.org/abs/2611.21632) (Score: 70) - Category: `ai-coding-agents/`
+*   [TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980) (Score: 70) - Category: `ai-coding-agents/`
+*   [JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams](https://arxiv.org/abs/2611.18130) (Score: 70) - Category: `ai-coding-agents/`
+*   [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

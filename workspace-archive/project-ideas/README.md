@@ -9,19 +9,19 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 ## Top Matched Resources
 
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
-- [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (prompt - USEFUL Tier)
-- [Silent and Costly: Characterizing and Detecting Prompt-Caching Mis-Integration in LLM Agents](https://arxiv.org/abs/2610.34817) (framework - USEFUL Tier)
-- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 - [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (framework - USEFUL Tier)
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (benchmark - USEFUL Tier)
-- [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (framework - USEFUL Tier)
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
+- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (dataset - USEFUL Tier)
 - [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (prompt - USEFUL Tier)
+- [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (dataset - USEFUL Tier)
+- [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
-- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 
 ## Best Learning Resources
 
@@ -37,4 +37,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-11-19 19:17 IST*
+*Last updated: 2026-11-20 05:03 IST*

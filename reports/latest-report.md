@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-19T23:43:00.657094+05:30`
+Generated at: `2026-11-20T05:04:58.973393+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,39 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **Anthropic’s Nasdaq debut** - Score: `783` in category `ai/community` ([Link](https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19)) ([File](../ai/community/anthropics-nasdaq-debut.md))
+- **Fuck Your AI Safeguards** - Score: `437` in category `ai/community` ([Link](https://ounapuu.ee/posts/2026/11/19/unsafeguards)) ([File](../ai/community/fuck-your-ai-safeguards.md))
+- **Pete warden on local AI, open models, voice interfaces, the future of hardware** - Score: `196` in category `ai/community` ([Link](https://thedataexchange.media/pete-warden-moonshine)) ([File](../ai/community/pete-warden-on-local-ai-open-models-voice-interfac.md))
+- **An Oregon library ditched Dewey Decimal and got people excited about books again** - Score: `177` in category `ai/community` ([Link](https://fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)) ([File](../ai/community/an-oregon-library-ditched-dewey-decimal-and-got-pe.md))
+- **The 98% Slot Machine: How Paid Advertising Became an Extraction Tax** - Score: `149` in category `ai/community` ([Link](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)) ([File](../ai/community/the-98-slot-machine-how-paid-advertising-became-an.md))
+- **Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]** - Score: `54` in category `ai/community` ([Link](https://youtube.com/watch?v=lwfewYL7X0o)) ([File](../ai/community/youtube-lwfewyl7x0o.md))
+- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
 
 ## Top Trending Resources
 
-- **Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/arxiv-2611-23229.md))
-- **StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/arxiv-2611-23225.md))
-- **Do LLM Agents Still Need to Be Told How to Self-Improve?** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/agents/arxiv-2611-23219.md))
-- **Higher-Scoring Coding Models Did Not Get More Work Done** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/research/arxiv-2611-23216.md))
-- **Reading Scene States: Uncovering Safety Failures in Vision-Language Models** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/arxiv-2611-23206.md))
-- **Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/research/arxiv-2611-23205.md))
-- **Structure--Residual Inductive Biases for Language Model Pretraining** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/research/arxiv-2611-23197.md))
-- **Retrieval-Augmented Correction for Generalist Medical Image Segmentation** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/arxiv-2611-23189.md))
-- **Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/rag/arxiv-2611-23179.md))
-- **Inference after coding agents** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/agents/arxiv-2611-23174.md))
+- **Garage Door Spam** - Score: `707` (+599), Rank Change: `+6` ([File](../ai/community/garage-door-spam.md))
+- **Ruby2ßhell: Pre-authentication RCE on stock Rails** - Score: `368` (+144), Rank Change: `+1` ([File](../ai/community/ruby2sshell-pre-authentication-rce-on-stock-rails.md))
+- **Distributed, high-performance blob storage on SQLite** - Score: `246` (+125), Rank Change: `+2` ([File](../ai/community/distributed-high-performance-blob-storage-on-sqlit.md))
+- **datawhalechina/hello-agents** - Score: `0` (0), Rank Change: `+1494` ([File](../ai/rag/datawhalechina-hello-agents.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+18` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+18` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+18` ([File](../ai/rag/datawhalechina-all-in-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+28062`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **stanford-oval/storm** - (Rank Change: `+17193`) ([File](../ai/rag/stanford-oval-storm.md))
-- **braincrew-lab/langgraph-mcp-agents** - (Rank Change: `+1062`) ([File](../ai/agents/braincrew-lab-langgraph-mcp-agents.md))
-- **muhammad-uzair-yasin/CrewAi_starter_template** - (Rank Change: `+1062`) ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
-- **sleeepeer/PoisonedRAG** - (Rank Change: `+1062`) ([File](../ai/rag/sleeepeer-poisonedrag.md))
-- **jxzhangjhu/Awesome-LLM-RAG** - (Rank Change: `+1062`) ([File](../ai/rag/jxzhangjhu-awesome-llm-rag.md))
-- **microsoft/promptflow-rag-project-template** - (Rank Change: `+1062`) ([File](../ai/rag/microsoft-promptflow-rag-project-template.md))
-- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - (Rank Change: `+1062`) ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
-- **Azure-Samples/azure-openai-rag-workshop-template** - (Rank Change: `+1062`) ([File](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md))
-- **langchain-ai/rag-research-agent-template** - (Rank Change: `+1062`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
+- **datawhalechina/hello-agents** - (Rank Change: `+1494`) ([File](../ai/rag/datawhalechina-hello-agents.md))
+- **An update on independent evaluators** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/an-update-on-independent-evaluators.md))
+- **Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md))
+- **Open call for guest investigators in the life sciences** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md))
+- **Donating Agent Skills to the Agentic AI Foundation** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md))
+- **Partnerships** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/partnerships.md))
+- **Expanding our partnership with GSA to bring Claude to all levels of government** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/expanding-our-partnership-with-gsa-to-bring-claude.md))
+- **AI for Science expands to foundations and research institutions** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md))
+- **Anthropic launches roadshow for proposed initial public offering** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/anthropic-launches-roadshow-for-proposed-initial-p.md))
+- **Announcements** - (Rank Change: `+635`) ([File](../ai/companies/anthropic/announcements.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +51,8 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Genie 4 is now available** (Category: `ai/community`) ([File](../ai/community/genie-4-is-now-available.md))
+- **LLM assisted reverse engineering** (Category: `ai/community`) ([File](../ai/community/llm-assisted-reverse-engineering.md))
+- **DaisyRose-27B** (Category: `ai/community`) ([File](../ai/community/daisyrose-27b.md))
+- **Dumping an AES key from a MyQ garage opener to stop rebooting when offline** (Category: `ai/community`) ([File](../ai/community/dumping-an-aes-key-from-a-myq-garage-opener-to-sto.md))
+- **The AI Superintelligence Debate Has Serious Flaws** (Category: `ai/community`) ([File](../ai/community/the-ai-superintelligence-debate-has-serious-flaws.md))
