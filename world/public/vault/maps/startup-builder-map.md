@@ -10,11 +10,11 @@ Boilerplates, landing landing conversions, billing integrations, database setups
 Supabase, Stripe, Next.js templates, Vercel, Resend.
 
 ## Recommended Resources from the Vault
-*   [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari)
+*   [Manage your Apple Account](https://account.apple.com/)
 *   [moby/moby · Discussions · GitHub](https://github.com/moby/moby/discussions)
-*   [Home - Cornell Research & Innovation](https://research.cornell.edu/video/future-computation)
 *   [Twilio Hub](https://developers.twilio.com/series/twilio-developers-hub/landing_page)
-*   [Dr. Axel Rauschmayer](https://dr-axel.de)
+*   [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari)
+*   [Home - Cornell Research & Innovation](https://research.cornell.edu/video/future-computation)
 
 ## Project Ideas
 *   Deploy a complete SaaS boilerplate with Stripe billing and user login in 2 hours.

@@ -10,11 +10,11 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
-*   [TV & Home - Apple](https://www.apple.com/tv-home/)
-*   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
-*   [Debezium](https://debezium.io/)
-*   [Web EDAA - YouTube](https://www.youtube.com/channel/UC5ZkoeB9RI3sODde6GBBNOg)
-*   [Newly identified barrier cells seal off choroid plexus from CSF, rest of brain | The Transmitter: Neuroscience News and](https://www.thetransmitter.org/choroid-plexus/newly-identified-barrier-cells-seal-off-choroid-plexus-from-csf-rest-of-brain/)
+*   [OpenTelemetry - DevStats](https://opentelemetry.devstats.cncf.io/d/8/dashboards?orgId=1&refresh=15m)
+*   [[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+*   [Pinecone - YouTube](https://www.youtube.com/@pinecone-io)
+*   [Google - YouTube](https://www.youtube.com/user/Google)
+*   [CSS Nesting | Chrome for Developers](https://developer.chrome.com/docs/css-ui/css-nesting)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.
