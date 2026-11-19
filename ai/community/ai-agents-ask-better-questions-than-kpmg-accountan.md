@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-agents-ask-better-questions-than-kpmg-accountan
 first_seen: '2026-11-18T22:53:04.681349+05:30'
 last_seen: '2026-11-19T07:28:32.846427+05:30'
 last_checked: '2026-11-19T07:28:32.846427+05:30'
 health_score: 100
 ---
+
 
 # AI agents ask better questions than KPMG accountants in audit trial
 

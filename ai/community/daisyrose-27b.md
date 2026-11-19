@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://radixark.com/blog/daisyrose-27b
 hn_url: https://news.ycombinator.com/item?id=50551046
-score: 138
+score: 233
 author: de_sty
-comments_count: 41
+comments_count: 86
 published_at: '2026-11-19T01:09:16+05:30'
-collected_at: '2026-11-19T07:28:33.319858+05:30'
+collected_at: '2026-11-19T18:54:41.237499+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:daisyrose-27b
 first_seen: '2026-11-19T07:28:33.319858+05:30'
-last_seen: '2026-11-19T07:28:33.319858+05:30'
-last_checked: '2026-11-19T07:28:33.319858+05:30'
+last_seen: '2026-11-19T18:54:41.237499+05:30'
+last_checked: '2026-11-19T18:54:41.237499+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by de_sty. Score: 138, Comments: 41.
+Hacker News story by de_sty. Score: 233, Comments: 86.
 Original Link: https://www.radixark.com/blog/daisyrose-27b
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: de_sty
-- Score: 138 Upvotes
-- Comments: 41 Discussions
+- Score: 233 Upvotes
+- Comments: 86 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50551046
 - Original Article: https://radixark.com/blog/daisyrose-27b
 

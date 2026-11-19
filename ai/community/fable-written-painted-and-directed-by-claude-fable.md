@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fable-written-painted-and-directed-by-claude-fable
 first_seen: '2026-11-19T07:28:33.443341+05:30'
 last_seen: '2026-11-19T07:28:33.443341+05:30'
 last_checked: '2026-11-19T07:28:33.443341+05:30'
 health_score: 100
 ---
+
 
 # Fable: Written, painted and directed by Claude Fable 5.2
 

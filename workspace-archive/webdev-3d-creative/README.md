@@ -9,23 +9,23 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 ## Top Matched Resources
 
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (tool - USEFUL Tier)
-- [spite/Wagner](https://github.com/spite/wagner) (tool - USEFUL Tier)
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (tool - USEFUL Tier)
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) (framework - USEFUL Tier)
+- [spite/Wagner](https://github.com/spite/wagner) (tool - USEFUL Tier)
 - [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (tool - USEFUL Tier)
-- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer) (template - USEFUL Tier)
-- [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (tutorial - USEFUL Tier)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) (framework - USEFUL Tier)
 - [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols) (tool - USEFUL Tier)
+- [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (tutorial - USEFUL Tier)
+- [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/mrdoob/three.js (Three.js)
 https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
-- [spite/Wagner](https://github.com/spite/wagner)
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
+- [spite/Wagner](https://github.com/spite/wagner)
 - [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples)
-- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
+- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-11-19 07:48 IST*
+*Last updated: 2026-11-19 19:17 IST*

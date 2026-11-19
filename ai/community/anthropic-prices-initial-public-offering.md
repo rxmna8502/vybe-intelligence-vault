@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://anthropic.com/news/anthropic-prices-initial-public-offering
 hn_url: https://news.ycombinator.com/item?id=50553843
-score: 53
+score: 294
 author: surprisetalk
-comments_count: 23
+comments_count: 543
 published_at: '2026-11-19T05:00:09+05:30'
-collected_at: '2026-11-19T07:28:33.201740+05:30'
+collected_at: '2026-11-19T18:54:40.308476+05:30'
 tags:
 - anthropic
 - hackernews
 status: active
 resource_id: hackernews:anthropic-prices-initial-public-offering
 first_seen: '2026-11-19T07:28:33.201740+05:30'
-last_seen: '2026-11-19T07:28:33.201740+05:30'
-last_checked: '2026-11-19T07:28:33.201740+05:30'
+last_seen: '2026-11-19T18:54:40.308476+05:30'
+last_checked: '2026-11-19T18:54:40.308476+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by surprisetalk. Score: 53, Comments: 23.
+Hacker News story by surprisetalk. Score: 294, Comments: 543.
 Original Link: https://www.anthropic.com/news/anthropic-prices-initial-public-offering
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: surprisetalk
-- Score: 53 Upvotes
-- Comments: 23 Discussions
+- Score: 294 Upvotes
+- Comments: 543 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50553843
 - Original Article: https://anthropic.com/news/anthropic-prices-initial-public-offering
 

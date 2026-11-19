@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-11-18T22:54:11.314285+05:30'
-published_at: '2026-11-18T17:11:03Z'
+collected_at: '2026-11-19T18:58:37.409194+05:30'
+published_at: '2026-11-19T11:53:56Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
-- models
 - rag
-stars: 41997
+stars: 42020
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-11-01T04:39:16Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-11-18T22:54:11.314285+05:30'
-last_seen: '2026-11-18T22:54:11.314285+05:30'
-last_checked: '2026-11-18T22:54:11.314285+05:30'
+first_seen: '2026-11-19T18:58:37.409194+05:30'
+last_seen: '2026-11-19T18:58:37.409194+05:30'
+last_checked: '2026-11-19T18:58:37.409194+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Offers in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures, and real-world AI agent development.
-*   Covers practical applications of advanced AI/ML concepts, including multi-component pipelines (MCP) for agent orchestration.
-*   Content is primarily delivered through Jupyter Notebooks, enabling interactive exploration of AI engineering principles.
+*   Comprehensive tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG
 
 ## Why It Matters
 
@@ -41,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 41997
-- Forks: 6714
+- Stars: 42020
+- Forks: 6720
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-11-18T17:11:03Z
+- Last Updated: 2026-11-19T11:53:56Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

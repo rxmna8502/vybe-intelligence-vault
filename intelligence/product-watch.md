@@ -4,25 +4,25 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 
 | Product | Focus Area | Score |
 | :--- | :--- | :--- |
-| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | `mcp-registry/` | 70 |
-| [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](https://arxiv.org/abs/2608.06305) | `mcp-registry/` | 70 |
-| [Instance-Aware Algorithm Selection for Maximum Clique via a Dual-Channel Graph Neural Architecture](https://arxiv.org/abs/2508.08005) | `mcp-registry/` | 70 |
-| [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) | `mcp-registry/` | 70 |
-| [Firestore | Google Cloud](https://cloud.google.com/firestore) | `mcp-registry/` | 70 |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | `mcp-registry/` | 70 |
-| [Intro | Zod](https://zod.dev) | `mcp-registry/` | 70 |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | `mcp-registry/` | 70 |
-| [PHMForge: Evaluating LLM Agents on Industrial Prognostics through MCP-Native, Algorithm-Grounded Tools](https://arxiv.org/abs/2604.01532) | `mcp-registry/` | 70 |
-| [Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling](https://arxiv.org/abs/2608.26199) | `mcp-registry/` | 70 |
-| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | `mcp-registry/` | 70 |
-| [Building AI That Works: ESnet's Pragmatic Approach to AI-Driven Operational Excellence](https://arxiv.org/abs/2607.22948) | `mcp-registry/` | 70 |
-| [Collaboration software for software, IT and business teams | Atlassian](https://www.atlassian.com) | `mcp-registry/` | 70 |
-| [Agentic AI – Personal RAG System - Hugo Atlantic](https://subhashydv.github.io/blog/2025/09/agentic-ai-personal-rag-system/) | `mcp-registry/` | 70 |
-| [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](https://arxiv.org/abs/2607.08495) | `mcp-registry/` | 70 |
-| [Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2611.14015) | `mcp-registry/` | 70 |
-| [Oculi: A Conversational Agentic Platform for Automated Credit Risk Analysis](https://arxiv.org/abs/2608.28944) | `mcp-registry/` | 70 |
-| [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | `mcp-registry/` | 70 |
-| [Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools](https://arxiv.org/abs/2608.04719) | `mcp-registry/` | 70 |
-| [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) | `mcp-registry/` | 70 |
+| [Jpisnice/shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server) | `mcp-registry/` | 70 |
+| [udecode/plate](https://github.com/udecode/plate) | `mcp-registry/` | 70 |
+| [Prompts - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/prompts) | `mcp-registry/` | 70 |
+| [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
+| [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
+| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | `mcp-registry/` | 70 |
+| [Welcome to the Planetary Data System](https://pds.nasa.gov) | `mcp-registry/` | 70 |
+| [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
+| [cloudflare/mcp](https://github.com/cloudflare/mcp) | `mcp-registry/` | 70 |
+| [semgrep/mcp](https://github.com/semgrep/mcp) | `mcp-registry/` | 70 |
+| [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
+| [Black Forest Labs · GitHub](https://github.com/black-forest-labs) | `mcp-registry/` | 70 |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | `mcp-registry/` | 70 |
+| [acuvity/minibridge](https://github.com/acuvity/minibridge) | `mcp-registry/` | 70 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | `mcp-registry/` | 70 |
+| [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
+| [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
+| [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | `mcp-registry/` | 70 |
+| [Tools - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/tools) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

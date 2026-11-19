@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie
 hn_url: https://news.ycombinator.com/item?id=50550415
-score: 190
+score: 277
 author: leumon
-comments_count: 143
+comments_count: 173
 published_at: '2026-11-19T00:19:51+05:30'
-collected_at: '2026-11-19T07:28:34.151716+05:30'
+collected_at: '2026-11-19T18:54:41.352011+05:30'
 tags:
 - ai
 - deepmind
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:genie-4-is-now-available
 first_seen: '2026-11-19T07:28:34.151716+05:30'
-last_seen: '2026-11-19T07:28:34.151716+05:30'
-last_checked: '2026-11-19T07:28:34.151716+05:30'
+last_seen: '2026-11-19T18:54:41.352011+05:30'
+last_checked: '2026-11-19T18:54:41.352011+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by leumon. Score: 190, Comments: 143.
+Hacker News story by leumon. Score: 277, Comments: 173.
 Original Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: leumon
-- Score: 190 Upvotes
-- Comments: 143 Discussions
+- Score: 277 Upvotes
+- Comments: 173 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50550415
 - Original Article: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie
 

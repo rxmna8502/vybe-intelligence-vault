@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - scripts
-status: active
+status: inactive
 resource_id: github:ri4dh/failtrace
 first_seen: '2026-11-19T07:28:34.921836+05:30'
 last_seen: '2026-11-19T07:28:34.921836+05:30'
 last_checked: '2026-11-19T07:28:34.921836+05:30'
 health_score: 100
 ---
+
 
 # FailTrace – Reproduce a failed GitHub Actions run locally from its URL
 

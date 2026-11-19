@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:advancing-chip-design-with-openai-models
 first_seen: '2026-11-19T07:28:33.924376+05:30'
 last_seen: '2026-11-19T07:28:33.924376+05:30'
 last_checked: '2026-11-19T07:28:33.924376+05:30'
 health_score: 100
 ---
+
 
 # Advancing chip design with OpenAI models
 

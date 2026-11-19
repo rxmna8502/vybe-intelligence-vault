@@ -13,13 +13,14 @@ collected_at: '2026-11-19T07:28:33.689191+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-will-not-make-you-rich-2025
 first_seen: '2026-11-19T07:28:33.689191+05:30'
 last_seen: '2026-11-19T07:28:33.689191+05:30'
 last_checked: '2026-11-19T07:28:33.689191+05:30'
 health_score: 100
 ---
+
 
 # AI Will Not Make You Rich (2025)
 

@@ -4,6 +4,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 
 | Date | Resource | Category |
 | :--- | :--- | :--- |
+| 2026-10-31 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | `rag-systems/` |
 | 2026-08-12 | [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) | `rag-systems/` |
 | 2026-08-04 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | `ai-coding-agents/` |
 | 2026-07-30 | [scaleapi/rsi-benchmark](https://github.com/scaleapi/rsi-benchmark) | `ai-coding-agents/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` |
 | 2026-05-08 | [CALLE-AI/awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) | `ai-coding-agents/` |
 | 2026-05-08 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | `ai-coding-agents/` |
-| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` |
