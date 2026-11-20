@@ -42161,12 +42161,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic’s Nasdaq debut](../ai/community/anthropics-nasdaq-debut.md)
-  - [Garage Door Spam](../ai/community/garage-door-spam.md)
-  - [Google is pushing OEMs against GrapheneOS and bootloader unlocking](../ai/community/google-is-pushing-oems-against-grapheneos-and-boot.md)
-  - [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](../ai/community/postgres-19-is-out-and-it-s-available-on-neon-and.md)
-  - [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](../ai/community/youtube-lwfewyl7x0o.md)
-  - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](../ai/community/the-98-slot-machine-how-paid-advertising-became-an.md)
+  - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
+  - [Frostbite: A new CPU architecture discovered, designed and verified by AI](../ai/community/frostbite-a-new-cpu-architecture-discovered-design.md)
+  - [I'll never buy Framework hardware again](../ai/community/i-ll-never-buy-framework-hardware-again.md)
+  - [If you can't explain something in simple terms, you don't understand it (2017)](../ai/community/if-you-can-t-explain-something-in-simple-terms-you.md)
+  - [What people are building, discovered through new domains](../ai/community/what-people-are-building-discovered-through-new-do.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42626,6 +42625,7 @@ Resources organized by publisher feed and query sources.
   - [Introducing Training Cluster as a Service - a new collaboration with NVIDIA](../ai/models/huggingface-blog-nvidia-training-cluster.md)
   - [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](../ai/models/huggingface-blog-waypoint-1.md)
   - [Introducing Würstchen: Fast Diffusion for Image Generation](../ai/models/huggingface-blog-wuerstchen.md)
+  - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](../ai/models/huggingface-blog-harness-adapters-at-scale.md)
   - [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md)
   - [Introducing new audio and vision documentation in 🤗 Datasets](../ai/models/huggingface-blog-datasets-docs-update.md)
   - [Introducing our new pricing](../ai/models/huggingface-blog-pricing-update.md)
@@ -46091,4 +46091,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-20T13:16:10.280040+05:30*
+*Index generated on 2026-11-20T22:53:03.484892+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-11-20T12:57:43.337861+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:garage-door-spam
 first_seen: '2026-11-19T18:54:38.566693+05:30'
 last_seen: '2026-11-20T12:57:43.337861+05:30'
 last_checked: '2026-11-20T12:57:43.337861+05:30'
 health_score: 100
 ---
+
 
 # Garage Door Spam
 

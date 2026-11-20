@@ -13,13 +13,14 @@ collected_at: '2026-11-20T12:57:43.672000+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropics-nasdaq-debut
 first_seen: '2026-11-20T04:42:20.066663+05:30'
 last_seen: '2026-11-20T12:57:43.672000+05:30'
 last_checked: '2026-11-20T12:57:43.672000+05:30'
 health_score: 100
 ---
+
 
 # Anthropic’s Nasdaq debut
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:lwfewYL7X0o
 first_seen: '2026-11-20T04:42:21.574167+05:30'
 last_seen: '2026-11-20T12:57:44.594140+05:30'
 last_checked: '2026-11-20T12:57:44.594140+05:30'
 health_score: 100
 ---
+
 
 # Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
 

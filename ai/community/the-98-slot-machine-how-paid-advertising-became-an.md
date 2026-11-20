@@ -13,13 +13,14 @@ collected_at: '2026-11-20T12:57:43.935754+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-98-slot-machine-how-paid-advertising-became-an
 first_seen: '2026-11-20T04:42:21.441623+05:30'
 last_seen: '2026-11-20T12:57:43.935754+05:30'
 last_checked: '2026-11-20T12:57:43.935754+05:30'
 health_score: 100
 ---
+
 
 # The 98% Slot Machine: How Paid Advertising Became an Extraction Tax
 
