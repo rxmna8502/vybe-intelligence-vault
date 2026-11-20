@@ -1,0 +1,58 @@
+# =====================================================================
+# 🌌 VYBE INTELLIGENCE VAULT: AGENT OPERATING DIRECTIVE
+# Generated automatically via `npx vybe sync`
+# Timestamp: 2026-11-20T05:18:30.089Z
+# Knowledge Graph: https://github.com/rxmna8502/vybe-intelligence-vault
+# =====================================================================
+
+## 🎯 ARCHITECTURAL IDENTITY & TECH CONSTRAINTS
+- Active Stack: general-agentic-ai, typescript
+- Enforcement: Use modern 2025/2026 idioms; reject deprecated syntax.
+- Grounding: Strictly adhere to verified patterns. No hallucinated imports or mock APIs.
+
+## ⚡ CORE AGENT PROTOCOLS
+1. Zero Speculative Complexity: Never introduce premature abstractions or unneeded wrappers.
+2. Production-Grade Robustness: Validate all environment variables, error boundaries, and rate limits.
+3. Clean Type Safety: Strictly type all boundaries and function contracts.
+
+## 🏛️ VERIFIED BLUEPRINTS GROUNDED FOR YOUR STACK
+### Node: RocketChat/Rocket.Chat (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, typescript
+
+### Node: rmyndharis/OpenWA (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, typescript
+
+### Node: puppeteer/puppeteer (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, reddit, typescript
+
+### Node: meshery/meshery (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, typescript
+
+### Node: mauriceboe/TREK (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, typescript
+
+### Node: makeplane/plane (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, typescript
+
+### Node: iptv-org/iptv (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, typescript, youtube
+
+### Node: freeCodeCamp/freeCodeCamp (Quality: 100/10)
+- Category: ai
+- Guidance: Production architectural pattern
+- Key Vectors: github-trending, typescript
+

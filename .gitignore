@@ -20,3 +20,4 @@ world/dist/
 world/build/
 vault-core/vault-index.json
 vault-core/embeddings/
+state.lock

@@ -1,12 +1,45 @@
 {
-  "name": "ai-web-intel-vault",
-  "version": "2.0.0",
-  "private": true,
+  "name": "vybe-vault",
+  "version": "2.1.0",
+  "description": "Autonomous AI Engineering Knowledge Graph, Anti-Slop Truth Engine & Live IDE Agent Memory",
+  "main": "bin/vybe.js",
+  "bin": {
+    "vybe": "./bin/vybe.js",
+    "vybe-vault": "./bin/vybe.js"
+  },
   "scripts": {
+    "vybe": "node bin/vybe.js",
+    "sync": "node bin/vybe.js sync",
+    "mcp": "node bin/vybe.js mcp",
+    "audit": "node bin/vybe.js audit",
+    "search": "node bin/vybe.js search",
+    "matrix": "node bin/vybe.js matrix",
     "build-index": "node scripts/build-index.js",
     "build:index": "node scripts/build-index.js",
     "build:web": "npm run build --prefix world",
     "lint:web": "npm run lint --prefix world",
     "test:smoke": "node scripts/test-smoke.js"
+  },
+  "keywords": [
+    "ai",
+    "ai-agents",
+    "mcp",
+    "model-context-protocol",
+    "cursorrules",
+    "rag",
+    "vllm",
+    "langgraph",
+    "llm",
+    "knowledge-graph",
+    "threejs",
+    "agentic-ai",
+    "claude",
+    "windsurf"
+  ],
+  "author": "sairaman436",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault.git"
   }
 }
