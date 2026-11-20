@@ -249,6 +249,10 @@ The vault operates as an end-to-end autonomous intelligence lifecycle:
 
 Accelerate your engineering lifecycle with curated execution plans and system architectures:
 
+### Featured: The $0 Local AI Engineering Stack
+Build a frontier AI development rig with zero subscriptions, zero paid API keys, and 100% offline privacy using DeepSeek-R1, Qwen 2.5 Coder, Ollama, VS Code, and the Vybe MCP Server:
+- Read the complete blueprint: [The Zero-Dollar ($0) Local AI Engineering Stack](learning-paths/zero-dollar-local-ai-stack.md)
+
 ### 8 Accelerated 7-Day Sprints
 | Track | Focus | Blueprint |
 |---|---|:---:|
