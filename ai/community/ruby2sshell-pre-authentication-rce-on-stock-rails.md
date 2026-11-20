@@ -13,13 +13,14 @@ collected_at: '2026-11-20T04:42:22.991739+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ruby2sshell-pre-authentication-rce-on-stock-rails
 first_seen: '2026-11-19T18:54:38.452920+05:30'
 last_seen: '2026-11-20T04:42:22.991739+05:30'
 last_checked: '2026-11-20T04:42:22.991739+05:30'
 health_score: 100
 ---
+
 
 # Ruby2ßhell: Pre-authentication RCE on stock Rails
 

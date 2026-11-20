@@ -13,13 +13,14 @@ collected_at: '2026-11-20T04:42:22.698923+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pete-warden-on-local-ai-open-models-voice-interfac
 first_seen: '2026-11-20T04:42:22.698923+05:30'
 last_seen: '2026-11-20T04:42:22.698923+05:30'
 last_checked: '2026-11-20T04:42:22.698923+05:30'
 health_score: 100
 ---
+
 
 # Pete warden on local AI, open models, voice interfaces, the future of hardware
 

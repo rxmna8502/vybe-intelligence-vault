@@ -3,8 +3,8 @@ title: Anthropic prices initial public offering
 archive_category: model-providers
 source_category: ai/companies/anthropic
 source_url: https://anthropic.com/news/anthropic-prices-initial-public-offering
-resource_id: hackernews:anthropic-prices-initial-public-offering
-local_vault_path: ai/community/anthropic-prices-initial-public-offering.md
+resource_id: blog:anthropic-prices-initial-public-offering
+local_vault_path: ai/companies/anthropic/anthropic-prices-initial-public-offering.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/anthropic-prices-initial-public-
 
 ## Local Vault File
 
-Path: [anthropic-prices-initial-public-offering.md](../../ai/community/anthropic-prices-initial-public-offering.md)
+Path: [anthropic-prices-initial-public-offering.md](../../ai/companies/anthropic/anthropic-prices-initial-public-offering.md)
