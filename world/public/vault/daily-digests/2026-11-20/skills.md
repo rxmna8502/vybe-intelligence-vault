@@ -1,55 +1,55 @@
 ---
-title: foxl-ai/skills
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-11-20
-tech_stack:
-- YAML
-- Python
-- Git
-- CLI Tools
-quality_score: 8
-rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI agent skills
-- modular instructions
-- dynamic task execution
-- agent framework
-- skill library
-source: https://github.com/foxl-ai/skills
-stars: 0
-language: Python
-last_updated: '2026-08-04T21:03:25Z'
-discovered_at: '2026-08-04T21:14:58Z'
-evaluated_by: mistral-small-latest
+title: "modelstudioai/skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "Python", "Bailian CLI", "Alibaba Cloud APIs", "MCP (Model Context Protocol)", "React", "TypeScript"]
+quality_score: 9
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["AI agents", "skill management", "curated skills", "multimodal", "Bailian platform"]
+source: "https://github.com/modelstudioai/skills"
+stars: 46
+language: "Python"
+last_updated: "2026-08-03T20:27:50Z"
+discovered_at: "2026-08-03T20:28:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Foxl Skills is a dynamic skill library for the Foxl AI agent framework, enabling specialized task execution through modular, YAML-defined instructions and scripts. It allows agents to dynamically load and execute skills for tasks like productivity, communication, and automation.
+A curated collection of AI Agent Skills for Aliyun Model Studio (DashScope) platform, offering both first-party and third-party skills to extend AI agent capabilities. It includes tools for documentation, model recommendation, financial analysis, video production, and interactive fiction, all designed to integrate seamlessly with the Bailian CLI ecosystem.
 
 ## Key Features
-- Dynamic skill loading and execution via YAML-defined instructions
-- Support for auto and manual skill triggers
-- Modular structure with optional scripts, references, and templates
-- Automatic synchronization with remote skill repository
-- Custom skill creation and local preservation of user edits
+- Pre-built and curated AI agent skills for rapid deployment
+- Supports both first-party (ModelStudio team) and third-party (community) skills
+- Integrates with Aliyun Model Studio (DashScope) for multimodal and RAG capabilities
+- Modular and composable skill architecture for flexible agent customization
+- Includes tools for documentation, financial analysis, video production, and interactive fiction
 
 ## Why It Matters for RAG Builders
-It provides a reusable, modular way to extend AI agent capabilities with specialized tasks, reducing development overhead for RAG builders.
+It provides a centralized, verified repository of AI agent skills that accelerates the development and deployment of RAG and multimodal AI systems on the Aliyun platform.
 
 ## Tech Stack Deep Dive
-### YAML
-Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Bailian CLI
+Automated review identified **Bailian CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI Tools
-Automated review identified **CLI Tools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Alibaba Cloud APIs
+Automated review identified **Alibaba Cloud APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
