@@ -1,6 +1,7 @@
 import { useState, useMemo, useEffect } from 'react';
 import { Search, Database, Activity, Cpu, Layers, ListFilter, HelpCircle, Zap, Flame, ShieldAlert, Sparkles, Terminal } from 'lucide-react';
 import DetailPanel from './components/DetailPanel';
+import WebGLGraph from './components/WebGLGraph';
 import { useVaultIndex, useEventStream, useMCPBridge } from './data/vaultHooks';
 
 const CATEGORY_STYLES = {
@@ -66,6 +67,7 @@ export default function App() {
   const [scoreFilter, setScoreFilter] = useState('all');
   const [techFilter, setTechFilter] = useState('all');
   const [visibleCount, setVisibleCount] = useState(48);
+  const [viewMode, setViewMode] = useState('grid');
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
@@ -456,9 +458,24 @@ export default function App() {
                   <div className="bg-[#00FF66] text-black px-3 py-1 font-mono font-black text-xs border-2 border-black neo-shadow">
                     ACTIVE NODES: {filteredNodes.length}
                   </div>
-                  <span className="font-mono text-xs font-bold text-neutral-600 hidden sm:inline">
-                    // READY FOR MODEL CONTEXT INJECTION
-                  </span>
+                  <div className="flex items-center gap-1 border-2 border-black p-0.5 bg-black">
+                    <button
+                      onClick={() => setViewMode('grid')}
+                      className={`px-3 py-1 font-mono font-black text-xs transition-colors ${
+                        viewMode === 'grid' ? 'bg-[#FFE600] text-black' : 'bg-transparent text-white hover:text-[#FFE600]'
+                      }`}
+                    >
+                      GRID VIEW
+                    </button>
+                    <button
+                      onClick={() => setViewMode('3d')}
+                      className={`px-3 py-1 font-mono font-black text-xs transition-colors ${
+                        viewMode === '3d' ? 'bg-[#00F0FF] text-black' : 'bg-transparent text-white hover:text-[#00F0FF]'
+                      }`}
+                    >
+                      3D GRAPH (WEBGL)
+                    </button>
+                  </div>
                 </div>
 
                 {searchQuery && (
@@ -471,8 +488,10 @@ export default function App() {
                 )}
               </div>
 
-              {/* Neo-Brutalist Cards Grid */}
-              <div className="flex-1 overflow-y-auto pr-1">
+              {viewMode === '3d' ? (
+                <WebGLGraph nodes={filteredNodes} onSelectNode={handleSelectNode} />
+              ) : (
+                <div className="flex-1 overflow-y-auto pr-1">
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 pb-8">
                   {visibleNodes.map((node, idx) => {
                     const meta = getCategoryMeta(node.category);
@@ -561,6 +580,7 @@ export default function App() {
                 )}
 
               </div>
+              )}
 
             </div>
           )}
