@@ -10,11 +10,11 @@ Scene graphs, camera constraints, shaders, layout grids, animations.
 Three.js, React Three Fiber (R3F), GSAP, WebGPU, Spline.
 
 ## Recommended Resources from the Vault
-*   [idflood/ThreeNodes.js](https://github.com/idflood/threenodes.js)
-*   [Mario343214420/Webgl-Data-Demo](https://github.com/mario343214420/webgl-data-demo)
-*   [z2586300277/three-cesium-examples](https://github.com/z2586300277/three-cesium-examples)
-*   [creativelifeform/three-nebula](https://github.com/creativelifeform/three-nebula)
-*   [mkkellogg/GaussianSplats3D](https://github.com/mkkellogg/gaussiansplats3d)
+*   [Static Asset Handling | Vite](https://vite.dev/guide/assets.html#importing-asset-as-url)
+*   [Listen to WasmAssembly podcast | Deezer](https://www.deezer.com/show/1000884501)
+*   [spite/Wagner](https://github.com/spite/wagner)
+*   [gkjohnson/threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
+*   [davidlyons/threejs-intro](https://github.com/davidlyons/threejs-intro)
 
 ## Project Ideas
 *   Interactive 3D landing landing page using React Three Fiber and GSAP.

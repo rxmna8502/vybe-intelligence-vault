@@ -10,11 +10,11 @@ Context window management, prompt engineering, few-shot prompting, API rate limi
 LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 
 ## Recommended Resources from the Vault
-*   [deepset, makers of Haystack - YouTube](https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw)
-*   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
-*   [deepset-ai/haystack-integrations](https://github.com/deepset-ai/haystack-integrations)
-*   [On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management](https://arxiv.org/abs/2610.23673)
-*   [KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059)
+*   [FRAMEWORKERS: A Dynamic Multi-Agent Framework for AI-Generated Video Production](https://arxiv.org/abs/2608.29814)
+*   [RACER: Reinforced Agent Collaboration for Explainable Reasoning on Knowledge Graphs](https://arxiv.org/abs/2608.29263)
+*   [Comparative Study of Multi-Agent Actor-Critic Algorithms in Parameterized Action Reinforcement Learning](https://arxiv.org/abs/2607.19117)
+*   [Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning](https://arxiv.org/abs/2606.16478)
+*   [Interpretable Inverse Design of Metal-Organic Frameworks with Large Language Model Agents](https://arxiv.org/abs/2606.29459)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.
