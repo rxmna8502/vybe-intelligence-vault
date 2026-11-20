@@ -1,6 +1,6 @@
-# 🛡️ Vybe Truth Engine Badges & Embeds
+# Vybe Truth Engine Badges & Embeds
 
-Embed these badges in your repository to prove that your codebase has passed the **Vybe Reproducibility Standard (VRS)**.
+Embed these badges in your repository to prove that your codebase has passed the Vybe Reproducibility Standard (VRS).
 
 ### Reproducible Build Verified
 ```markdown

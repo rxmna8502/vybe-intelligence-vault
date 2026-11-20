@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * 🌌 VYBE INTELLIGENCE VAULT - UNIFIED CLI
+ * VYBE INTELLIGENCE VAULT - UNIFIED CLI
  * The Autonomous AI Engineering Toolkit & Live Agent Memory
  * 
  * Commands:
@@ -47,7 +47,7 @@ ${C.neonCyan}  ██╗   ██╗██╗   ██╗██████╗ �
   ╚██╗ ██╔╝  ╚██╔╝  ██╔══██╗██╔══╝      ╚██╗ ██╔╝██╔══██║██║   ██║██║     ██║   
    ╚████╔╝    ██║   ██████╔╝███████╗     ╚████╔╝ ██║  ██║╚██████╔╝███████╗██║   
     ╚═══╝     ╚═╝   ╚═════╝ ╚══════╝      ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   ${C.reset}
-  ${C.dim}The Autonomous Knowledge Graph & Agent Memory Engine • v${VERSION}${C.reset}
+  ${C.dim}The Autonomous Knowledge Graph & Agent Memory Engine - v${VERSION}${C.reset}
   ${C.crtGreen}Live 3D World: ${LIVE_MAP_URL}${C.reset}
 `);
 }
@@ -124,22 +124,22 @@ function detectTechStack(cwd) {
 async function cmdSync() {
   banner();
   const cwd = process.cwd();
-  console.log(`${C.neonCyan}⚡ [SCAN]${C.reset} Inspecting project architecture in: ${C.bold}${cwd}${C.reset}`);
+  console.log(`${C.neonCyan}[SCAN]${C.reset} Inspecting project architecture in: ${C.bold}${cwd}${C.reset}`);
   
   const detected = detectTechStack(cwd);
   if (detected.length === 0) {
     detected.push('general-agentic-ai', 'typescript');
   }
   
-  console.log(`${C.green}✓ [DETECTED STACK]${C.reset} ${detected.map(d => `${C.yellow}${d}${C.reset}`).join(', ')}`);
-  console.log(`${C.cyan}⟳ [FETCH]${C.reset} Synchronizing verified frontier knowledge nodes...`);
+  console.log(`${C.green}[DETECTED STACK]${C.reset} ${detected.map(d => `${C.yellow}${d}${C.reset}`).join(', ')}`);
+  console.log(`${C.cyan}[FETCH]${C.reset} Synchronizing verified frontier knowledge nodes...`);
 
   const startTime = Date.now();
   const index = await loadIndex();
   const nodes = (index && index.nodes) ? index.nodes : [];
   const latency = Date.now() - startTime;
 
-  console.log(`${C.green}✓ [RESOLVED]${C.reset} Synced across ${nodes.length || '160,000+'} nodes in ${latency}ms`);
+  console.log(`${C.green}[RESOLVED]${C.reset} Synced across ${nodes.length || '160,000+'} nodes in ${latency}ms`);
 
   // Match relevant patterns
   const matched = nodes
@@ -152,18 +152,18 @@ async function cmdSync() {
 
   // Generate .cursorrules
   let cursorRules = `# =====================================================================
-# 🌌 VYBE INTELLIGENCE VAULT: AGENT OPERATING DIRECTIVE
+# VYBE INTELLIGENCE VAULT: AGENT OPERATING DIRECTIVE
 # Generated automatically via \`npx vybe sync\`
 # Timestamp: ${new Date().toISOString()}
 # Knowledge Graph: https://github.com/rxmna8502/vybe-intelligence-vault
 # =====================================================================
 
-## 🎯 ARCHITECTURAL IDENTITY & TECH CONSTRAINTS
+## ARCHITECTURAL IDENTITY & TECH CONSTRAINTS
 - Active Stack: ${detected.join(', ')}
 - Enforcement: Use modern 2025/2026 idioms; reject deprecated syntax.
 - Grounding: Strictly adhere to verified patterns. No hallucinated imports or mock APIs.
 
-## ⚡ CORE AGENT PROTOCOLS
+## CORE AGENT PROTOCOLS
 1. Zero Speculative Complexity: Never introduce premature abstractions or unneeded wrappers.
 2. Production-Grade Robustness: Validate all environment variables, error boundaries, and rate limits.
 3. Clean Type Safety: Strictly type all boundaries and function contracts.
@@ -171,7 +171,7 @@ async function cmdSync() {
 `;
 
   if (matched.length > 0) {
-    cursorRules += `## 🏛️ VERIFIED BLUEPRINTS GROUNDED FOR YOUR STACK\n`;
+    cursorRules += `## VERIFIED BLUEPRINTS GROUNDED FOR YOUR STACK\n`;
     matched.forEach(m => {
       cursorRules += `### Node: ${m.title} (Quality: ${m.quality_score || 9}/10)\n`;
       cursorRules += `- Category: ${m.category}\n`;
@@ -184,29 +184,29 @@ async function cmdSync() {
   // Write .cursorrules
   const cursorFile = path.join(cwd, '.cursorrules');
   fs.writeFileSync(cursorFile, cursorRules, 'utf8');
-  console.log(`${C.crtGreen}✓ [INJECTED]${C.reset} Successfully created/updated ${C.bold}.cursorrules${C.reset}`);
+  console.log(`${C.crtGreen}[INJECTED]${C.reset} Successfully created/updated ${C.bold}.cursorrules${C.reset}`);
 
   // Write universal AGENT.md
   const agentFile = path.join(cwd, 'AGENT.md');
   const agentContent = `# AGENT DIRECTIVES (${detected.join(' + ')})
-Synchronized with **Vybe Intelligence Vault** (${new Date().toLocaleDateString()}).
+Synchronized with Vybe Intelligence Vault (${new Date().toLocaleDateString()}).
 
 ## Verified Rules
 - Stack: \`${detected.join(', ')}\`
 - Never hallucinate deprecated APIs.
 - Before suggesting complex third-party dependencies, check if modern standard library / platform APIs suffice.
-- Refer to the master knowledge graph: [Vybe Vault](https://github.com/rxmna8502/vybe-intelligence-vault)
+- Refer to the master knowledge graph: https://github.com/rxmna8502/vybe-intelligence-vault
 `;
   fs.writeFileSync(agentFile, agentContent, 'utf8');
-  console.log(`${C.crtGreen}✓ [INJECTED]${C.reset} Successfully created/updated ${C.bold}AGENT.md${C.reset}`);
+  console.log(`${C.crtGreen}[INJECTED]${C.reset} Successfully created/updated ${C.bold}AGENT.md${C.reset}`);
 
   // Also write .windsurfrules for Windsurf users
   const windsurfFile = path.join(cwd, '.windsurfrules');
   fs.writeFileSync(windsurfFile, cursorRules, 'utf8');
-  console.log(`${C.crtGreen}✓ [INJECTED]${C.reset} Successfully created/updated ${C.bold}.windsurfrules${C.reset}`);
+  console.log(`${C.crtGreen}[INJECTED]${C.reset} Successfully created/updated ${C.bold}.windsurfrules${C.reset}`);
 
   console.log(`
-${C.bold}${C.green}✨ SYNC COMPLETE!${C.reset} Your agent in Cursor, Claude Desktop, Windsurf, or Antigravity
+${C.bold}${C.green}[SYNC COMPLETE]${C.reset} Your agent in Cursor, Claude Desktop, Windsurf, or Antigravity
 now operates with zero hallucination risk backed by the Vybe Vault.
 `);
 }
@@ -218,7 +218,7 @@ async function cmdSearch(query) {
   }
 
   banner();
-  console.log(`${C.cyan}🔍 Searching Vybe Intelligence Vault for:${C.reset} "${C.bold}${query}${C.reset}"...\n`);
+  console.log(`${C.cyan}[SEARCH] Searching Vybe Intelligence Vault for:${C.reset} "${C.bold}${query}${C.reset}"...\n`);
 
   const index = await loadIndex();
   const nodes = (index && index.nodes) ? index.nodes : [];
@@ -240,7 +240,7 @@ async function cmdSearch(query) {
   results.forEach((r, idx) => {
     console.log(`${C.bold}${idx + 1}. ${C.neonCyan}${r.title}${C.reset} ${C.dim}[${r.category || 'node'}]${C.reset}`);
     if (r.quality_score) {
-      console.log(`   ${C.yellow}⭐ Quality:${C.reset} ${r.quality_score}/10  ${C.blue}Relevance:${C.reset} ${r.rag_relevance || 8}/10`);
+      console.log(`   ${C.yellow}Score:${C.reset} ${r.quality_score}/10  ${C.blue}Relevance:${C.reset} ${r.rag_relevance || 8}/10`);
     }
     if (r.summary) {
       console.log(`   ${C.dim}${r.summary.slice(0, 140)}...${C.reset}`);
@@ -255,17 +255,17 @@ async function cmdSearch(query) {
 function cmdAudit(target) {
   banner();
   const repo = target || 'sample-repo/ai-agent';
-  console.log(`${C.neonPink}🛡️ [ANTI-SLOP TRUTH ENGINE]${C.reset} Auditing target: ${C.bold}${repo}${C.reset}\n`);
+  console.log(`${C.neonPink}[ANTI-SLOP TRUTH ENGINE]${C.reset} Auditing target: ${C.bold}${repo}${C.reset}\n`);
 
-  console.log(`${C.cyan}[1/5] Checking Star-to-Fork Authenticity Ratio...${C.reset}    ${C.green}PASS${C.reset}`);
-  console.log(`${C.cyan}[2/5] Dependency Health & Lockfile Audit...${C.reset}          ${C.green}PASS${C.reset}`);
-  console.log(`${C.cyan}[3/5] Docker Sandbox Compilation Check...${C.reset}            ${C.green}PASS${C.reset}`);
-  console.log(`${C.cyan}[4/5] Model Weights / API Endpoint Verification...${C.reset}   ${C.green}PASS${C.reset}`);
-  console.log(`${C.cyan}[5/5] Anti-Hallucination Claim Validation...${C.reset}         ${C.green}PASS${C.reset}`);
+  console.log(`${C.cyan}[1/5] Checking Star-to-Fork Authenticity Ratio...${C.reset}    PASS`);
+  console.log(`${C.cyan}[2/5] Dependency Health & Lockfile Audit...${C.reset}          PASS`);
+  console.log(`${C.cyan}[3/5] Docker Sandbox Compilation Check...${C.reset}            PASS`);
+  console.log(`${C.cyan}[4/5] Model Weights / API Endpoint Verification...${C.reset}   PASS`);
+  console.log(`${C.cyan}[5/5] Anti-Hallucination Claim Validation...${C.reset}         PASS`);
 
   console.log(`
 ${C.bold}-------------------------------------------------------${C.reset}
-${C.crtGreen}🏆 VYBE REPRODUCIBILITY SCORE (VRS): 94/100 [TIER: GOLD]${C.reset}
+${C.crtGreen}VYBE REPRODUCIBILITY SCORE (VRS): 94/100 [TIER: GOLD]${C.reset}
 ${C.bold}-------------------------------------------------------${C.reset}
 
 ${C.bold}Embed Your Verified Badge:${C.reset}
@@ -275,7 +275,7 @@ ${C.bold}Embed Your Verified Badge:${C.reset}
 
 function cmdMatrix() {
   console.clear();
-  const chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZアイウエオカキクケコサシスセソタチツテト';
+  const chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
   const width = process.stdout.columns || 80;
   let iterations = 0;
 
@@ -294,7 +294,7 @@ function cmdMatrix() {
     if (iterations > 30) {
       clearInterval(interval);
       banner();
-      console.log(`\n${C.bold}${C.neonCyan}🌌 160,000+ COGNITIVE NODES ACTIVE${C.reset}`);
+      console.log(`\n${C.bold}${C.neonCyan}160,000+ COGNITIVE NODES ACTIVE${C.reset}`);
       console.log(`${C.green}Explore live 3D neural map:${C.reset} ${LIVE_MAP_URL}\n`);
     }
   }, 60);
@@ -303,14 +303,14 @@ function cmdMatrix() {
 function cmdInfo() {
   banner();
   console.log(`
-${C.bold}🌌 VAULT TELEMETRY & SYSTEM STATE${C.reset}
+${C.bold}VAULT TELEMETRY & SYSTEM STATE${C.reset}
 -------------------------------------------------------
-• Version:         ${VERSION}
-• Repository:      https://github.com/rxmna8502/vybe-intelligence-vault
-• 3D WebGL World:  ${LIVE_MAP_URL}
-• Core Protocol:   Native Model Context Protocol (MCP) STDIO
-• Engine:          Autonomous Multi-Model Cognitive Evaluator
-• Status:          160,000+ Indexed Nodes Live & Evolving
+- Version:         ${VERSION}
+- Repository:      https://github.com/rxmna8502/vybe-intelligence-vault
+- 3D WebGL World:  ${LIVE_MAP_URL}
+- Core Protocol:   Native Model Context Protocol (MCP) STDIO
+- Engine:          Autonomous Multi-Model Cognitive Evaluator
+- Status:          160,000+ Indexed Nodes Live & Evolving
 
 ${C.bold}QUICK COMMANDS:${C.reset}
   ${C.yellow}npx vybe sync${C.reset}            Inject verified context into .cursorrules / AGENT.md
@@ -322,7 +322,6 @@ ${C.bold}QUICK COMMANDS:${C.reset}
 }
 
 function cmdMcp() {
-  // Launch the native stdio MCP server
   const bridge = require('./mcp-bridge.js');
   bridge.start();
 }

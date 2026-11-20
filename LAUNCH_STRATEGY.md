@@ -1,21 +1,21 @@
-# 🚀 Vybe Intelligence Vault: Viral Launch Strategy & Distribution Kit
+# Vybe Intelligence Vault: Viral Launch Strategy & Distribution Kit
 
-This playbook is engineered to position **Vybe Intelligence Vault** at the top of GitHub Trending, Hacker News front page, X (Twitter), and technical Reddit communities.
-
----
-
-## 🎯 The Core Narrative & Hook
-
-> **"Static 'Awesome Lists' are dead. 90% of AI repos trending in 2026 are broken abandonware. We built an autonomous truth engine that stress-tests, reproduces, and graphs verified AI architectures into a live 3D neural map and instant MCP memory for your IDE."**
+This playbook is engineered to position Vybe Intelligence Vault at the top of GitHub Trending, Hacker News front page, X (Twitter), and technical Reddit communities.
 
 ---
 
-## 1. 🌐 Hacker News (Show HN)
+## The Core Narrative & Hook
+
+> "Static 'Awesome Lists' are dead. 90% of AI repos trending in 2026 are broken abandonware. We built an autonomous truth engine that stress-tests, reproduces, and graphs verified AI architectures into a live 3D neural map and instant MCP memory for your IDE."
+
+---
+
+## 1. Hacker News (Show HN)
 
 ### Title Ideas:
-- `Show HN: Vybe Vault – We got tired of broken AI repos, so we built an anti-slop knowledge graph` *(Recommended)*
+- `Show HN: Vybe Vault - We got tired of broken AI repos, so we built an anti-slop knowledge graph` (Recommended)
 - `Show HN: An autonomous truth engine and 3D WebGL knowledge graph for AI engineering`
-- `Show HN: Vybe – 1-second IDE agent context injection backed by 160k verified nodes`
+- `Show HN: Vybe - 1-second IDE agent context injection backed by 160k verified nodes`
 
 ### Post Body / First Comment:
 ```markdown
@@ -26,7 +26,7 @@ Over the past two years, the explosion of "Awesome-AI" lists and LLM wrappers ha
 2. READMEs claim "SOTA agent reasoning", but the code is an empty API wrapper or mocked response.
 3. Static markdown lists rot weeks after creation.
 
-We built Vybe Intelligence Vault to fix this. It’s an open-source, autonomous intelligence engine with three core components:
+We built Vybe Intelligence Vault to fix this. It is an open-source, autonomous intelligence engine with three core components:
 
 1. The Anti-Slop Truth Engine: A distributed pipeline that evaluates AI research, repositories, and papers against the Vybe Reproducibility Standard (VRS). Repos are tested for real dependencies, reproducible sandbox runs, and grounded AST patterns.
 2. Live 3D WebGL Neural Map: A retro CRT Noir spatial graph (React 19 + Three.js) indexing over 160,000 cognitive nodes and multi-hop relationships. You can explore it live in your browser: https://rxmna8502.github.io/vybe-intelligence-vault/
@@ -35,12 +35,12 @@ We built Vybe Intelligence Vault to fix this. It’s an open-source, autonomous 
 GitHub: https://github.com/rxmna8502/vybe-intelligence-vault
 Live 3D Map: https://rxmna8502.github.io/vybe-intelligence-vault/
 
-We’d love your brutal feedback on our scoring methodology and architecture maps.
+We would love your brutal feedback on our scoring methodology and architecture maps.
 ```
 
 ---
 
-## 2. 🐦 X (Twitter) Viral Thread Script
+## 2. X (Twitter) Viral Thread Script
 
 ### Tweet 1 (The Hook + 15s Screen Recording Video):
 ```
@@ -50,7 +50,7 @@ Awesome-AI lists are dead.
 
 So we built Vybe: an autonomous anti-slop engine that stress-tests AI repos, maps verified architectures in a 3D WebGL universe, and injects live memory into Cursor with 1 command.
 
-Here is how it works: 🧵👇
+Here is how it works:
 [ATTACH 15s VIDEO: Terminal running `npx vybe sync` -> 3D WebGL graph flying into nodes -> Claude Desktop executing `vault_search`]
 ```
 
@@ -98,12 +98,12 @@ Try the CLI:
 `npx vybe search rag`
 
 Star the repo and explore the graph:
-⭐ https://github.com/rxmna8502/vybe-intelligence-vault
+https://github.com/rxmna8502/vybe-intelligence-vault
 ```
 
 ---
 
-## 3. 🔴 Reddit Post Blueprint
+## 3. Reddit Post Blueprint
 
 ### Subreddits:
 - `r/MachineLearning` (Tag: `[Project]`)
@@ -115,18 +115,18 @@ Star the repo and explore the graph:
 `I built an autonomous 3D knowledge graph & 1-line context injector for AI agents (160k+ verified nodes)`
 
 ### Post Structure:
-- **Problem**: Explain how AI engineering context goes stale in days.
-- **Solution**: Break down `npx vybe sync` and the 3D WebGL interface.
-- **Demo Link**: Direct link to GitHub Pages live demo.
-- **Code snippet**: Show the generated `.cursorrules` output.
+- Problem: Explain how AI engineering context goes stale in days.
+- Solution: Break down `npx vybe sync` and the 3D WebGL interface.
+- Demo Link: Direct link to GitHub Pages live demo.
+- Code snippet: Show the generated `.cursorrules` output.
 
 ---
 
-## 4. 🎬 15-Second Video Storyboard (For Twitter & LinkedIn)
+## 4. 15-Second Video Storyboard (For Twitter & LinkedIn)
 
 | Second | Visual | Audio/Text Overlay |
 |---|---|---|
-| **0:00 - 0:04** | Terminal typing `npx vybe sync`. Screen bursts with ASCII banner and green checkmarks detecting stack and injecting `.cursorrules`. | *"Stop letting your AI agents hallucinate outdated code."* |
-| **0:04 - 0:09** | Smooth cinematic camera pan into the 3D WebGL graph (stars, neon nodes, CRT scanlines). Click on a node to reveal architecture breakdown. | *"160,000+ verified nodes in an interactive 3D universe."* |
-| **0:09 - 0:13** | Claude Desktop side pane calling `vybe: vault_search` and answering a complex agent architecture question with zero latency. | *"Native MCP memory for Claude and Cursor."* |
-| **0:13 - 0:15** | Quick cut to GitHub repo with star button highlight. | *"Vybe Intelligence Vault. Live on GitHub."* |
+| **0:00 - 0:04** | Terminal typing `npx vybe sync`. Screen shows ASCII banner and checkmarks detecting stack and injecting `.cursorrules`. | "Stop letting your AI agents hallucinate outdated code." |
+| **0:04 - 0:09** | Smooth camera pan into the 3D WebGL graph (stars, neon nodes, CRT scanlines). Click on a node to reveal architecture breakdown. | "160,000+ verified nodes in an interactive 3D universe." |
+| **0:09 - 0:13** | Claude Desktop side pane calling `vybe: vault_search` and answering a complex agent architecture question with zero latency. | "Native MCP memory for Claude and Cursor." |
+| **0:13 - 0:15** | Quick cut to GitHub repo with star button highlight. | "Vybe Intelligence Vault. Live on GitHub." |

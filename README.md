@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 VYBE INTELLIGENCE VAULT
+# VYBE INTELLIGENCE VAULT
 ### *The Autonomous Knowledge Graph, Anti-Slop Truth Engine & Live Agent Memory*
 
 <p align="center">
@@ -9,26 +9,26 @@
 
 <p align="center">
   <a href="https://rxmna8502.github.io/vybe-intelligence-vault/"><img src="https://img.shields.io/badge/3D%20GRAPH-LIVE%20WEBGL%20DEMO-00f0ff?style=for-the-badge&logo=three.js&logoColor=black" alt="3D WebGL Demo" /></a>
-  <a href="#-the-anti-slop-truth-engine--reproducibility-standard"><img src="https://img.shields.io/badge/TRUTH%20ENGINE-ANTI--SLOP%20VERIFIED-10b981?style=for-the-badge&logo=shield" alt="Truth Engine" /></a>
-  <a href="#-zero-install-mcp-agent-integration"><img src="https://img.shields.io/badge/MCP%20SERVER-ZERO%20INSTALL-ec4899?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Server" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/INDEXED%20NODES-160%2C000%2B-8b5cf6?style=for-the-badge&logo=databricks&logoColor=white" alt="Indexed Nodes" /></a>
+  <a href="#the-anti-slop-truth-engine--reproducibility-standard"><img src="https://img.shields.io/badge/TRUTH%20ENGINE-ANTI--SLOP%20VERIFIED-10b981?style=for-the-badge" alt="Truth Engine" /></a>
+  <a href="#zero-install-mcp-agent-integration"><img src="https://img.shields.io/badge/MCP%20SERVER-ZERO%20INSTALL-ec4899?style=for-the-badge" alt="MCP Server" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/INDEXED%20NODES-160%2C000%2B-8b5cf6?style=for-the-badge" alt="Indexed Nodes" /></a>
   <a href="https://github.com/rxmna8502/vybe-intelligence-vault/actions"><img src="https://img.shields.io/github/actions/workflow/status/rxmna8502/vybe-intelligence-vault/harvester.yml?style=for-the-badge&label=INTELLIGENCE%20PIPELINE&color=10b981&logo=githubactions&logoColor=white" alt="Pipeline Status" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-22c55e?style=for-the-badge" alt="License" /></a>
 </p>
 
 <p align="center">
-  <a href="#-1-second-ide-superpower-npx-vybe-sync"><b>1-Second Superpower</b></a> •
-  <a href="#-the-anti-slop-truth-engine--reproducibility-standard"><b>Truth Engine</b></a> •
-  <a href="#-3d-spatial-graph-explorer"><b>3D WebGL Map</b></a> •
-  <a href="#-zero-install-mcp-agent-integration"><b>Zero-Install MCP</b></a> •
-  <a href="#-unified-cli-tooling"><b>CLI Tools</b></a> •
-  <a href="#-production-blueprints--sprints"><b>Blueprints</b></a> •
-  <a href="#-the-manifesto"><b>Manifesto</b></a>
+  <a href="#instant-ide-superpower-npx-vybe-sync"><b>1-Second Superpower</b></a> |
+  <a href="#the-anti-slop-truth-engine--reproducibility-standard"><b>Truth Engine</b></a> |
+  <a href="#3d-spatial-graph-explorer-live-webgl"><b>3D WebGL Map</b></a> |
+  <a href="#zero-install-mcp-agent-integration"><b>Zero-Install MCP</b></a> |
+  <a href="#unified-cli-tooling"><b>CLI Tools</b></a> |
+  <a href="#production-blueprints--sprints"><b>Blueprints</b></a> |
+  <a href="#the-manifesto"><b>Manifesto</b></a>
 </p>
 
 ---
 
-### ⚡ 1-Second IDE Superpower: `npx vybe sync`
+### Instant IDE Superpower: `npx vybe sync`
 **Give Cursor, Claude Desktop, and Windsurf instant, zero-hallucination memory of verified 2025/2026 AI architectures:**
 
 ```bash
@@ -41,7 +41,7 @@ npx vybe sync
 
 </div>
 
-## ⚡ The Manifesto
+## The Manifesto
 
 > **Static "Awesome Lists" are dead.** They rot the day after they are curated, filled with abandoned forks, broken dependencies, and yesterday's hype.
 
@@ -53,11 +53,11 @@ No manual curation. No stale archives. Just clean, queryable, high-signal intell
 
 ---
 
-## 🛡️ The Anti-Slop Truth Engine & Reproducibility Standard
+## The Anti-Slop Truth Engine & Reproducibility Standard
 
 The open-source AI landscape is currently drowned in **benchmark fraud, synthetic star farming, and abandoned wrappers**. Repositories claim "revolutionary autonomous reasoning" but fail to run or contain mocked API calls.
 
-Vybe incorporates an automated watchdog pipeline—the **Vybe Reproducibility Standard (VRS v1.0)**:
+Vybe incorporates an automated watchdog pipeline - the **Vybe Reproducibility Standard (VRS v1.0)**:
 
 | Pillar | Verification Vector | Status |
 |---|---|:---:|
@@ -67,12 +67,12 @@ Vybe incorporates an automated watchdog pipeline—the **Vybe Reproducibility St
 | **4. Modern Dependency Locks** | Zero deprecated libraries, pinned environment lockfiles | Verified |
 | **5. Protocol Conformance** | Native Model Context Protocol (MCP) & OpenAI/vLLM standards | Verified |
 
-### 🔍 Audit Any Repository
+### Audit Any Repository
 ```bash
 npx vybe audit <owner/repo>
 ```
 
-### 🎖️ Embed Official Verification Badges
+### Embed Official Verification Badges
 Verified repositories can embed official Vybe verification shields:
 ```markdown
 [![Vybe Verified](https://img.shields.io/badge/VYBE%20AUDIT-REPRODUCIBLE-00f0ff?style=for-the-badge&logo=shield)](https://github.com/rxmna8502/vybe-intelligence-vault)
@@ -82,20 +82,20 @@ Read the full [Truth Engine Specification & Audit Matrix](truth-engine/README.md
 
 ---
 
-## 🌐 3D Spatial Graph Explorer (Live WebGL)
+## 3D Spatial Graph Explorer (Live WebGL)
 
 Experience knowledge exploration in retro 90s CRT Noir 3D. The vault compiles its master index into an interactive WebGL knowledge constellation built with **React 19**, **Three.js**, **React Three Fiber (R3F)**, **Drei**, and **GSAP**:
 
-👉 **[Launch Fullscreen Live 3D World](https://rxmna8502.github.io/vybe-intelligence-vault/)**
+[Launch Fullscreen Live 3D World](https://rxmna8502.github.io/vybe-intelligence-vault/)
 
 - **Real-Time Force Clustering**: Nodes group organically based on vector similarity and shared technologies.
-- **Interactive Command Palette**: Press <kbd>Cmd</kbd> + <kbd>K</kbd> to jump between 160,000+ nodes instantly.
+- **Interactive Command Palette**: Press `Cmd + K` or `Ctrl + K` to jump between 160,000+ nodes instantly.
 - **Level of Detail (LOD) Rendering**: Proximity-based dynamic LOD for high-performance navigation.
 - **Hologram Matrix Mode**: Launch terminal visualizer via `npx vybe matrix`.
 
 ---
 
-## 🤖 Zero-Install MCP Agent Integration
+## Zero-Install MCP Agent Integration
 
 Connect your AI assistants (Claude Desktop, Cursor, Windsurf) to 160,000+ intelligence nodes with **zero cloning and zero virtual environments**.
 
@@ -138,7 +138,7 @@ Detailed instructions in [mcp-server/README.md](mcp-server/README.md).
 
 ---
 
-## 🛠️ Unified CLI Tooling
+## Unified CLI Tooling
 
 The vault ships with an out-of-the-box CLI accessible via `npx vybe`:
 
@@ -161,7 +161,7 @@ npx vybe info
 
 ---
 
-## 🏛️ Core Architecture
+## Core Architecture
 
 The vault operates as an end-to-end autonomous intelligence lifecycle:
 
@@ -200,7 +200,7 @@ The vault operates as an end-to-end autonomous intelligence lifecycle:
                                   │                               │
                                   ▼                               ▼
                     ┌───────────────────────────┐   ┌───────────────────────────┐
-                    │    🌐 3D SPATIAL GRAPH    │   │    🤖 NATIVE MCP GATEWAY   │
+                    │      3D SPATIAL GRAPH     │   │     NATIVE MCP GATEWAY    │
                     │ React 19 • R3F • WebGL    │   │ Claude • Cursor • Windsurf│
                     │ Real-time cluster viewer  │   │ Direct context injection  │
                     └───────────────────────────┘   └───────────────────────────┘
@@ -208,7 +208,7 @@ The vault operates as an end-to-end autonomous intelligence lifecycle:
 
 ---
 
-## 🧠 Cognitive Taxonomy
+## Cognitive Taxonomy
 
 <table>
   <tr>
@@ -217,27 +217,27 @@ The vault operates as an end-to-end autonomous intelligence lifecycle:
     <th width="25%">Primary Directory</th>
   </tr>
   <tr>
-    <td><b>🤖 AI Agents</b></td>
+    <td><b>AI Agents</b></td>
     <td>Autonomous loops, tool calling, memory persistence, multi-agent swarms, ReAct architectures.</td>
     <td><code>ai/agents/</code></td>
   </tr>
   <tr>
-    <td><b>🔍 RAG Systems</b></td>
+    <td><b>RAG Systems</b></td>
     <td>GraphRAG, hybrid retrieval, vector indices, semantic caching, rerankers, contextual embeddings.</td>
     <td><code>ai/rag/</code></td>
   </tr>
   <tr>
-    <td><b>🔌 MCP Protocols</b></td>
+    <td><b>MCP Protocols</b></td>
     <td>Model Context Protocol servers, stdio bridges, agent tools, local context adapters.</td>
     <td><code>mcp-server/</code></td>
   </tr>
   <tr>
-    <td><b>⚡ Inference & Ops</b></td>
+    <td><b>Inference & Ops</b></td>
     <td>vLLM, TensorRT-LLM, Ollama, quantization (GGUF, EXL2), structured outputs, edge runtimes.</td>
     <td><code>ai/models/</code></td>
   </tr>
   <tr>
-    <td><b>🔬 Breakthroughs</b></td>
+    <td><b>Breakthroughs</b></td>
     <td>High-impact preprints, frontier model papers, evaluation benchmarks, architectural disclosures.</td>
     <td><code>ai/research/</code></td>
   </tr>
@@ -245,11 +245,11 @@ The vault operates as an end-to-end autonomous intelligence lifecycle:
 
 ---
 
-## 🎓 Production Blueprints & Sprints
+## Production Blueprints & Sprints
 
 Accelerate your engineering lifecycle with curated execution plans and system architectures:
 
-### 🚀 8 Accelerated 7-Day Sprints
+### 8 Accelerated 7-Day Sprints
 | Track | Focus | Blueprint |
 |---|---|:---:|
 | **Agent Engineering** | Multi-agent coordination, tool execution & self-correction | [7-Day Agent Builder](learning-paths/7-day-agent-builder.md) |
@@ -261,17 +261,17 @@ Accelerate your engineering lifecycle with curated execution plans and system ar
 | **MCP Tool Authoring** | Protocol server development, stdio clients & tools | [7-Day MCP Builder](learning-paths/7-day-mcp-builder.md) |
 | **Advanced RAG** | Hierarchical chunking, hybrid vector search & reranking | [7-Day RAG Builder](learning-paths/7-day-rag-builder.md) |
 
-### 🛠️ 6 Production Stacks
-- 🌐 [Essential 3D WebDev Blueprint](workspace-archive/best-of/essential-3d-webdev.md)
-- 🤖 [Essential Agent Building Blueprint](workspace-archive/best-of/essential-agent-building.md)
-- 🧠 [Essential AI Engineering Blueprint](workspace-archive/best-of/essential-ai-engineering.md)
-- ⚙️ [Essential Automation Blueprint](workspace-archive/best-of/essential-automation.md)
-- 💻 [Essential Frontend AI UI Blueprint](workspace-archive/best-of/essential-frontend-ai-ui.md)
-- 📚 [Essential RAG Stack Blueprint](workspace-archive/best-of/essential-rag-stack.md)
+### 6 Production Stacks
+- [Essential 3D WebDev Blueprint](workspace-archive/best-of/essential-3d-webdev.md)
+- [Essential Agent Building Blueprint](workspace-archive/best-of/essential-agent-building.md)
+- [Essential AI Engineering Blueprint](workspace-archive/best-of/essential-ai-engineering.md)
+- [Essential Automation Blueprint](workspace-archive/best-of/essential-automation.md)
+- [Essential Frontend AI UI Blueprint](workspace-archive/best-of/essential-frontend-ai-ui.md)
+- [Essential RAG Stack Blueprint](workspace-archive/best-of/essential-rag-stack.md)
 
 ---
 
-## 📁 Repository Map
+## Repository Map
 
 ```
 vybe-intelligence-vault/
@@ -296,7 +296,7 @@ vybe-intelligence-vault/
 
 ---
 
-## 🤝 Submitting Intelligence & Audits
+## Submitting Intelligence & Audits
 
 Have you built or discovered a breakthrough AI library, paper, tool, or MCP server?
 
@@ -307,7 +307,7 @@ Have you built or discovered a breakthrough AI library, paper, tool, or MCP serv
 
 <div align="center">
 
-**[Vybe Intelligence Vault](https://github.com/rxmna8502/vybe-intelligence-vault)** • Engineered by <a href="https://github.com/sairaman436">@sairaman436</a>
+**[Vybe Intelligence Vault](https://github.com/rxmna8502/vybe-intelligence-vault)** - Engineered by <a href="https://github.com/sairaman436">@sairaman436</a>
 
 *Autonomous Intelligence Infrastructure for the Agentic Era.*
 

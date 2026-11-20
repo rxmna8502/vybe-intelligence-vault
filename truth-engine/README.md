@@ -1,20 +1,20 @@
-# 🛡️ The Anti-Slop AI Truth Engine & Reproducibility Standard (VRS)
+# The Anti-Slop AI Truth Engine & Reproducibility Standard (VRS)
 
-> **"In the era of AI hype, code is only as real as its execution sandbox."**
+> "In the era of AI hype, code is only as real as its execution sandbox."
 
-The open-source AI ecosystem is currently plagued by **benchmark fraud, synthetic star farming, and abandoned wrappers**. Thousands of repositories claim to be "SOTA autonomous agents" or "Zero-shot revolutionary reasoning models", but:
+The open-source AI ecosystem is currently plagued by benchmark fraud, synthetic star farming, and abandoned wrappers. Thousands of repositories claim to be "SOTA autonomous agents" or "Zero-shot revolutionary reasoning models", but:
 - Fail to install due to unpinned or conflicting dependency hell.
 - Contain empty stubs or mocked API calls disguised as proprietary models.
 - Never release weights or valid endpoints despite claiming empirical superiority.
 - Rot into abandonware within 3 weeks of going viral on social media.
 
-**Vybe Intelligence Vault does not tolerate vaporware.**
+Vybe Intelligence Vault does not tolerate vaporware.
 
-The **Vybe Truth Engine** is our automated watchdog pipeline that stress-tests, reproduces, and verifies AI repositories before indexing them into the global knowledge graph.
+The Vybe Truth Engine is our automated watchdog pipeline that stress-tests, reproduces, and verifies AI repositories before indexing them into the global knowledge graph.
 
 ---
 
-## 🏛️ The 5 Pillars of the Vybe Reproducibility Standard (VRS v1.0)
+## The 5 Pillars of the Vybe Reproducibility Standard (VRS v1.0)
 
 Every AI candidate harvested or submitted to the vault is graded against five non-negotiable vectors (100-point composite index):
 
@@ -28,7 +28,7 @@ Every AI candidate harvested or submitted to the vault is graded against five no
 
 ---
 
-## 🎖️ Official Verification Badges
+## Official Verification Badges
 
 Projects verified by the Vybe Truth Engine earn official reproducible status.
 
@@ -48,7 +48,7 @@ For top 1% benchmarked architectural achievements:
 
 ---
 
-## 🔍 How to Run a Local Audit
+## How to Run a Local Audit
 
 You can audit any repository right from your terminal with one command:
 
