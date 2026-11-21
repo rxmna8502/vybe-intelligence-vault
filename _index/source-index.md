@@ -34723,7 +34723,6 @@ Resources organized by publisher feed and query sources.
   - [Student-Guided Teacher Distillation for Efficient LLM Task Routing: Positioning Against Jev-Style System-1 Classifiers](../ai/rag/arxiv-2610-02516.md)
   - [StudentBench: AI and human tutoring yield equivalent GRE learning gains](../ai/rag/arxiv-2609-28470.md)
   - [Studies on Sign Language Retrieval in Low-Resource Dictionary Settings](../ai/rag/arxiv-2611-16621.md)
-  - [Study and Improvement of Search Algorithms in Stochastic Perfect-Information](../ai/research/arxiv-2611-24486.md)
   - [Study-Strategy Clusters from EdNet Logs Track Engagement, Not Mastery](../ai/research/arxiv-2608-16963.md)
   - [StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?](../ai/agents/arxiv-2609-00787.md)
   - [Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga](../ai/rag/arxiv-2610-13840.md)
@@ -36267,7 +36266,6 @@ Resources organized by publisher feed and query sources.
   - [The Language of Bargaining: Linguistic Effects in LLM Negotiations](../ai/agents/arxiv-2601-04387.md)
   - [The Language-Energy Divide: Measuring Energy Costs of Multilingual LLM Inference](../ai/research/arxiv-2606-21869.md)
   - [The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](../ai/rag/arxiv-2607-06531.md)
-  - [The Largest Tractable Subclass of Multi-Scale Allen Temporal Reasoning](../ai/research/arxiv-2611-24498.md)
   - [The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](../ai/research/arxiv-2609-11873.md)
   - [The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents](../ai/agents/arxiv-2606-24470.md)
   - [The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](../ai/research/arxiv-2603-12261.md)
@@ -42166,12 +42164,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Frostbite: A new CPU architecture discovered, designed and verified by AI](../ai/community/frostbite-a-new-cpu-architecture-discovered-design.md)
-  - [If you can't explain something in simple terms, you don't understand it (2017)](../ai/community/if-you-can-t-explain-something-in-simple-terms-you.md)
+  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
+  - [Fewer slides, more dragons](../ai/community/fewer-slides-more-dragons.md)
   - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
+  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
   - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
-  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
-  - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](../ai/community/the-hungry-butler-effect-concealed-commercial-ince.md)
+  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
+  - [Surprisingly Adorable Insect Portraits](../ai/community/surprisingly-adorable-insect-portraits.md)
   - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
 
 ## Unknown Source (type: huggingface)
@@ -46099,4 +46098,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-21T07:24:18.469102+05:30*
+*Index generated on 2026-11-21T18:35:37.211382+05:30*

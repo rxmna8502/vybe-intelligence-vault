@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight
 hn_url: https://news.ycombinator.com/item?id=50495392
-score: 84
+score: 125
 author: edward
-comments_count: 57
+comments_count: 92
 published_at: '2026-11-14T14:43:24+05:30'
-collected_at: '2026-11-21T07:07:55.390873+05:30'
+collected_at: '2026-11-21T18:18:51.800392+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:why-the-airbus-a321xlr-often-gets-stuck-climbing-f
 first_seen: '2026-11-21T07:07:55.390873+05:30'
-last_seen: '2026-11-21T07:07:55.390873+05:30'
-last_checked: '2026-11-21T07:07:55.390873+05:30'
+last_seen: '2026-11-21T18:18:51.800392+05:30'
+last_checked: '2026-11-21T18:18:51.800392+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by edward. Score: 84, Comments: 57.
+Hacker News story by edward. Score: 125, Comments: 92.
 Original Link: https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: edward
-- Score: 84 Upvotes
-- Comments: 57 Discussions
+- Score: 125 Upvotes
+- Comments: 92 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50495392
 - Original Article: https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight
 

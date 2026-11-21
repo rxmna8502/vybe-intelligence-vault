@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: 3dcodeverse/3dcodeverse-2m (Likes: 68, Downloads: 1589735)
+Trending Hugging Face dataset: 3dcodeverse/3dcodeverse-2m (Likes: 68, Downloads: 1600692)
 
 ## Use Cases
 

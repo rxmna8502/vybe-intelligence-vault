@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-11-21T07:08:55.157887+05:30'
+collected_at: '2026-11-21T18:20:02.335173+05:30'
 published_at: '2026-11-20T02:21:16Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-11-21T07:08:55.157887+05:30'
-last_seen: '2026-11-21T07:08:55.157887+05:30'
-last_checked: '2026-11-21T07:08:55.157887+05:30'
+first_seen: '2026-11-21T18:20:02.335173+05:30'
+last_seen: '2026-11-21T18:20:02.335173+05:30'
+last_checked: '2026-11-21T18:20:02.335173+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a bare-metal RAG pipeline utilizing local LLMs via `node-llama-cpp` for transparent, black-box-free understanding.
-*   Details the construction of core RAG components: embedding generation, vector search, and context-augmented retrieval.
-*   Leverages JavaScript/Node.js
+*   Deconstructs RAG pipeline implementation from first principles, leveraging local LLMs via `node-llama-cpp` to expose underlying mechanics.
+*   Covers core RAG primitives: embedding generation, vector similarity search, document retrieval, and context-augmented generation.
+*   Provides a JavaScript/Node.js-based educational resource for hands-on RAG system development.
 
 ## Why It Matters
 

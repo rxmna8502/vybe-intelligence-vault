@@ -2122,6 +2122,7 @@ Resources organized by keyword tags.
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
   - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](../ai/agents/arxiv-2606-12344.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
+  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
   - [ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](../ai/agents/arxiv-2604-18543.md)
   - [ClawGym II: Exploring Black-Box RL on Agent Harness](../ai/agents/arxiv-2608-16798.md)
   - [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](../ai/agents/arxiv-2610-14118.md)
@@ -7555,7 +7556,6 @@ Resources organized by keyword tags.
   - [Responsibility Distribution Estimation in Ego-View Accident Videos with Multimodal Large Language Models](../ai/agents/arxiv-2607-03591.md)
   - [RestoreBench: Can AI Agents Restore Power Flow Convergence?](../ai/agents/arxiv-2609-00384.md)
   - [Restoring Gold Standard Science – The White House](../ai/rag/restoring-gold-standard-science-the-white-house.md)
-  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
   - [Restricting the Model, Missing the System: Measurement and Accountability in Offensive AI Governance](../ai/agents/arxiv-2605-09504.md)
   - [Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers](../ai/rag/arxiv-2608-03836.md)
   - [RetailAgent: Structured Adverse Timing in Self-Conditioned Multimodal LLM Trading Agents](../ai/agents/arxiv-2608-28399.md)
@@ -10638,11 +10638,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Frostbite: A new CPU architecture discovered, designed and verified by AI](../ai/community/frostbite-a-new-cpu-architecture-discovered-design.md)
-  - [If you can't explain something in simple terms, you don't understand it (2017)](../ai/community/if-you-can-t-explain-something-in-simple-terms-you.md)
+  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
   - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
+  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
   - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
-  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
+  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
+  - [Surprisingly Adorable Insect Portraits](../ai/community/surprisingly-adorable-insect-portraits.md)
   - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
 
 ## animation
@@ -11286,6 +11287,7 @@ Resources organized by keyword tags.
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
   - [NKI-Agent: Domain-Specific Fine-Tuning and Agentic Tool Use for Neuron Kernel Generation](../ai/agents/arxiv-2607-04395.md)
   - [NarrativeWorldBench: A Frontier-Saturated Benchmark and a Latent World Model for Long-Horizon Co-Creative Audio Drama](../ai/research/arxiv-2606-17391.md)
+  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
   - [Natural Code Transformation Confuses Agents in Vulnerability Analysis](../ai/agents/arxiv-2610-14350.md)
   - [Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](../ai/agents/arxiv-2609-05385.md)
   - [Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls](../ai/research/arxiv-2606-26185.md)
@@ -42568,6 +42570,7 @@ Resources organized by keyword tags.
   - [Classification Based on Association Rules Algorithm for Breast Cancer](../ai/research/arxiv-2610-00174.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
   - [Clearing the Underbrush: AI-Enhanced RF Interference Suppression](../ai/research/arxiv-2608-24974.md)
   - [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](../ai/agents/arxiv-2609-26779.md)
   - [Clinical Domain Classification from Medical Transcriptions](../ai/research/arxiv-2609-22734.md)
@@ -43304,6 +43307,7 @@ Resources organized by keyword tags.
   - [Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images](../ai/rag/arxiv-2608-12230.md)
   - [Few-class Fidelity: Evaluating Explanations of Real-conditions CNN classifiers with Optimized Perturbations](../ai/research/arxiv-2606-28391.md)
   - [Few-shot Deep Learning for Phase-Amplitude Aberration Correction in Transcranial Focused Ultrasound](../ai/research/arxiv-2607-29182.md)
+  - [Fewer slides, more dragons](../ai/community/fewer-slides-more-dragons.md)
   - [FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../ai/research/arxiv-2608-10857.md)
   - [FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion Model](../ai/research/arxiv-2410-13925.md)
   - [Fiber Fingerprints of Hidden Learning-State Dynamics](../ai/research/arxiv-2608-15976.md)
@@ -43427,7 +43431,6 @@ Resources organized by keyword tags.
   - [From Waste to Discovery: Recycling High-Scored Unexposed Candidates in Taobao Feed Recommendation](../ai/rag/arxiv-2611-05997.md)
   - [From a River in Gilead to the Inference Distributions of Large Language Models: Covert Dialect Bias and Linguistic Profiling at Scale](../ai/research/arxiv-2609-18068.md)
   - [Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change](../ai/agents/arxiv-2609-36739.md)
-  - [Frostbite: A new CPU architecture discovered, designed and verified by AI](../ai/community/frostbite-a-new-cpu-architecture-discovered-design.md)
   - [Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction](../ai/research/arxiv-2608-01202.md)
   - [Fruitful Code · GitHub](../ai/resources/fruitful-code-github.md)
   - [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md)
@@ -43840,7 +43843,6 @@ Resources organized by keyword tags.
   - [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](../ai/research/arxiv-2607-26062.md)
   - [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](../ai/agents/arxiv-2607-07775.md)
   - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](../ai/research/if-llm-is-the-wizard-then-code-is-the-wand-a-surve.md)
-  - [If you can't explain something in simple terms, you don't understand it (2017)](../ai/community/if-you-can-t-explain-something-in-simple-terms-you.md)
   - [Image Clustering with Vision-Language Model Embeddings](../ai/rag/arxiv-2610-33265.md)
   - [Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](../ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)
   - [Immigrants Belong Toolkit - Define American](../ai/rag/immigrants-belong-toolkit-define-american.md)
@@ -44403,6 +44405,7 @@ Resources organized by keyword tags.
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
+  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance](../ai/agents/arxiv-2611-23142.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -44519,6 +44522,7 @@ Resources organized by keyword tags.
   - [Nanorobot queue: Cooperative treatment of cancer based on team member communication and image processing](../ai/research/arxiv-2111-11236.md)
   - [Narrative Keyframing for Generative Creative Writing](../ai/research/arxiv-2608-10337.md)
   - [NarrativeSteward: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](../ai/agents/arxiv-2609-39333.md)
+  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
   - [Nation SkillUp](../ai/resources/nation-skillup.md)
   - [National Institute of Standards and Technology](../ai/agents/national-institute-of-standards-and-technology.md)
   - [National Vulnerability Database | NIST](../ai/rag/national-vulnerability-database-nist.md)
@@ -45189,7 +45193,6 @@ Resources organized by keyword tags.
   - [Responsible Institutional Analytics: Interpreting Bias with AI Support](../ai/research/arxiv-2610-07205.md)
   - [Restoring Gold Standard Science – The White House](../ai/rag/restoring-gold-standard-science-the-white-house.md)
   - [Restricted targeting in Personalized advertising - Advertising Policies Help](../ai/rag/restricted-targeting-in-personalized-advertising-a.md)
-  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
   - [Rethinking Anonymity Claims in Synthetic Data Generation: A Model-Centric Privacy Attack Perspective](../ai/research/arxiv-2601-22434.md)
   - [Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency](../ai/research/arxiv-2608-14065.md)
   - [Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../ai/research/arxiv-2607-03784.md)
@@ -45628,6 +45631,7 @@ Resources organized by keyword tags.
   - [Supporting Autonomous Process Execution within a Multi-Perspective Constraint Frame via Numeric Planning](../ai/rag/arxiv-2607-16738.md)
   - [Surface Hub admin guide - Surface Hub | Microsoft Learn](../ai/resources/surface-hub-admin-guide-surface-hub-microsoft-lear.md)
   - [Surprising Effectiveness of Self-Demonstrations in Enhancing Schema-Ontology Mapping with LLMs](../ai/research/arxiv-2609-13776.md)
+  - [Surprisingly Adorable Insect Portraits](../ai/community/surprisingly-adorable-insect-portraits.md)
   - [Surprisingly High Redundancy in Electronic Structure Data Across Materials Explained by Low Intrinsic Dimensionality](../ai/rag/arxiv-2507-09001.md)
   - [Surrogate Benchmarks for Model Merging Optimization](../ai/research/arxiv-2509-02555.md)
   - [Surrogate Modeling and Reduced-Order Methods in Gravitational-Wave Physics and Numerical Relativity: From Spectral Representations to Adaptive Compression](../ai/research/arxiv-2611-24727.md)
@@ -45789,7 +45793,6 @@ Resources organized by keyword tags.
   - [The Hidden Power of Scaling Factor in LoRA Optimization](../ai/rag/arxiv-2606-12883.md)
   - [The Hour of AI](../ai/resources/the-hour-of-ai.md)
   - [The Hugo CMS for visual page building | CloudCannon](../ai/rag/the-hugo-cms-for-visual-page-building-cloudcannon.md)
-  - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](../ai/community/the-hungry-butler-effect-concealed-commercial-ince.md)
   - [The Identifiability and Observability of Deep Normalized Attention](../ai/research/arxiv-2610-09620.md)
   - [The Imperishable Record, Forgiveness, and the Future of Criminal Justice](../ai/research/arxiv-2610-15499.md)
   - [The Implications of Linguistic Illegibility for LLM Security](../ai/research/arxiv-2609-02852.md)
@@ -46523,7 +46526,6 @@ Resources organized by keyword tags.
   - [rfc5378.txt](../ai/rag/rfc5378-txt.md)
   - [rfc6480.html](../ai/rag/rfc6480-html.md)
   - [rfc8209.html](../ai/agents/rfc8209-html.md)
-  - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
   - [run-llama/llama-hub](../ai/rag/run-llama-llama-hub.md)
   - [sHAIL-Causal: A Sequential Staircase Procedure for Invariant Causal Predictor Discovery](../ai/research/arxiv-2610-07057.md)
   - [saket/telephoto](../ai/rag/saket-telephoto.md)
@@ -46562,7 +46564,6 @@ Resources organized by keyword tags.
   - [vibecon](../ai/rag/vibecon.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
-  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
@@ -47280,10 +47281,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](../ai/community/the-hungry-butler-effect-concealed-commercial-ince.md)
 
 ## mdx
 
@@ -62894,6 +62891,7 @@ Resources organized by keyword tags.
   - [MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration](../ai/research/arxiv-2608-06183.md)
   - [Microsoft Academic Graph - Microsoft Research](../ai/rag/microsoft-academic-graph-microsoft-research.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
+  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
   - [Mimicry without understanding: the origins of decision bias in large language models](../ai/research/arxiv-2608-12339.md)
   - [MinShap: A Shapley-Based Framework for Feature Redundancy](../ai/rag/arxiv-2604-15107.md)
   - [Mind Your Boundaries: Boundary-Aware Model Obfuscation against Cross-node Attack](../ai/rag/arxiv-2610-27135.md)
@@ -64997,7 +64995,6 @@ Resources organized by keyword tags.
   - [The K-SCAN Clustering Algorithm](../ai/research/arxiv-2607-24537.md)
   - [The KV Cache Is the New Memory Wall](../ai/research/arxiv-2609-30854.md)
   - [The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas](../ai/research/arxiv-2603-11842.md)
-  - [The Largest Tractable Subclass of Multi-Scale Allen Temporal Reasoning](../ai/research/arxiv-2611-24498.md)
   - [The Latent Diagnostic Taxonomy: A Framework for Constructing Classifiers and Diagnosing Their Decisions, Applied to Prompt Injection Detection](../ai/research/arxiv-2608-26423.md)
   - [The Latent That Never Was: A Forensic Re-run of the CVAE Ablation in Action Chunking Transformers](../ai/rag/arxiv-2609-16745.md)
   - [The Linear Representation Hypothesis for Vision-Language-Action Models](../ai/research/arxiv-2609-30996.md)
@@ -71279,6 +71276,7 @@ Resources organized by keyword tags.
   - [Few-shot Class-variable Incremental Audio Classification via Prototype Adaptation and Pseudo Class-variable Training](../ai/rag/arxiv-2606-08898.md)
   - [Few-shot Classification as Multi-instance Verification: Effective Backbone-agnostic Transfer across Domains](../ai/rag/arxiv-2507-00401.md)
   - [Fewer Tokens, More Self-Teaching: On-Policy Self-Distillation for Extreme Visual Token Reduction](../ai/rag/arxiv-2609-32353.md)
+  - [Fewer slides, more dragons](../ai/community/fewer-slides-more-dragons.md)
   - [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](../ai/rag/arxiv-2609-08418.md)
   - [Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers](../ai/rag/arxiv-2609-39184.md)
   - [Fidelity Before Structure: Verbatim Chunks Beat Lossy Artifact Extraction in Long-Conversation LLM Memory](../ai/rag/arxiv-2601-00821.md)
@@ -86698,6 +86696,7 @@ Resources organized by keyword tags.
   - [$S^3$: Improving Agent Safety through Multi-Stage Defense](../ai/agents/arxiv-2608-02683.md)
   - [$\Delta\tau$-Bench: Pushing Agents Toward a Moving Capability](../ai/agents/arxiv-2610-34238.md)
   - [(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](../ai/agents/arxiv-2606-12848.md)
+  - [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md)
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
@@ -87034,6 +87033,7 @@ Resources organized by keyword tags.
   - [Automating the Expert Eye: A System-Agnostic Deep Learning Framework for Rare Event Discovery in Imbalanced Force Spectroscopy](../ai/research/arxiv-2606-09541.md)
   - [Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation](../ai/agents/arxiv-2609-11147.md)
   - [Autonomous Cyber Defense: Real-Time Attack Detection and Mitigation in Software-Defined Networks Using Machine Learning](../ai/rag/arxiv-2608-22075.md)
+  - [Azure/GenAIOps-project-template](../ai/rag/azure-genaiops-project-template.md)
   - [Azure/azure-search-vector-samples](../ai/rag/azure-azure-search-vector-samples.md)
   - [BC-Bench: Evaluating Agentic Engineering in a Domain-Specific Language for ERP](../ai/agents/arxiv-2608-20851.md)
   - [BCIJelly: An integrated ecosystem for brain-computer interface research](../ai/rag/arxiv-2608-13576.md)
@@ -89264,7 +89264,6 @@ Resources organized by keyword tags.
   - [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
-  - [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
   - [pnpm - Open Collective](../ai/rag/pnpm-open-collective.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
@@ -89308,7 +89307,6 @@ Resources organized by keyword tags.
   - [trycua/cua](../ai/agents/trycua-cua.md)
   - [typing/conformance at main · python/typing · GitHub](../ai/resources/python-typing.md)
   - [vercel-labs/agent-browser](../ai/rag/vercel-labs-agent-browser.md)
-  - [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md)
   - [vercel-labs/coding-agent-template](../ai/rag/vercel-labs-coding-agent-template.md)
   - [vercel-labs/eve-software-factory-template](../ai/rag/vercel-labs-eve-software-factory-template.md)
   - [vercel-labs/open-agents](../ai/rag/vercel-labs-open-agents.md)
@@ -93348,4 +93346,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-21T07:24:18.120967+05:30*
+*Index generated on 2026-11-21T18:35:36.724854+05:30*

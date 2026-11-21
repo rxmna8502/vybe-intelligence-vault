@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-11-20T22:37:17.438380+05:30'
+collected_at: '2026-11-21T18:20:02.324750+05:30'
 published_at: '2026-11-19T17:35:06Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 124
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-11-20T22:37:17.438380+05:30'
-last_seen: '2026-11-20T22:37:17.438380+05:30'
-last_checked: '2026-11-20T22:37:17.438380+05:30'
+first_seen: '2026-11-21T18:20:02.324750+05:30'
+last_seen: '2026-11-21T18:20:02.324750+05:30'
+last_checked: '2026-11-21T18:20:02.324750+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,7 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG curriculum covering foundational concepts to production deployment, structured across 4 modules and 20 chapters.
-*   Features 17 Jupyter Notebooks and 6 enterprise-level practical cases for hands-on mastery of RAG techniques.
-*   Leverages key technologies such as LLMs, LangChain, and vector databases for retrieval-augmented generation implementations.
+*   Systematically covers Retrieval Augmented Generation (RAG) from foundational concepts to production-
 
 ## Why It Matters
 

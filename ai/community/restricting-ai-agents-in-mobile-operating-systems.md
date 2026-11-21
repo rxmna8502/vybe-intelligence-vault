@@ -15,13 +15,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:restricting-ai-agents-in-mobile-operating-systems
 first_seen: '2026-11-21T07:07:54.953031+05:30'
 last_seen: '2026-11-21T07:07:54.953031+05:30'
 last_checked: '2026-11-21T07:07:54.953031+05:30'
 health_score: 100
 ---
+
 
 # Restricting AI agents in mobile operating systems platforms from capturing data
 
