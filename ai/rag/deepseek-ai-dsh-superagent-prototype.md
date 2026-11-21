@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepseek-ai/dsh-superagent-prototype
-collected_at: '2026-11-19T19:01:57.534403+05:30'
-published_at: '2026-11-19T13:30:46Z'
+collected_at: '2026-11-22T03:22:15.824324+05:30'
+published_at: '2026-11-21T21:17:34Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 23933
+stars: 24156
 language: TypeScript
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-10-31T09:32:46Z'
 pushed_at: '2026-11-03T09:29:14Z'
 resource_id: github:deepseek-ai/dsh-superagent-prototype
-first_seen: '2026-11-19T19:01:57.534403+05:30'
-last_seen: '2026-11-19T19:01:57.534403+05:30'
-last_checked: '2026-11-19T19:01:57.534403+05:30'
+first_seen: '2026-11-22T03:22:15.824324+05:30'
+last_seen: '2026-11-22T03:22:15.824324+05:30'
+last_checked: '2026-11-22T03:22:15.824324+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Prototype development for highly autonomous agent systems, leveraging a "superagent" architecture.
-*   Implemented in TypeScript, indicating a focus on type-safe and scalable agent system development.
-*   Aims to advance agent autonomy research through practical system prototyping.
+*   Prototype system for advancing autonomous agent capabilities.
+*   Developed primarily in TypeScript.
+*   Highly-starred and forked, indicating significant community interest in agent autonomy research.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepseek-ai
-- Stars: 23933
-- Forks: 2968
+- Stars: 24156
+- Forks: 3005
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-11-19T13:30:46Z
+- Last Updated: 2026-11-21T21:17:34Z
 - License: MIT
 - Archived: No
 - Created At: 2026-10-31T09:32:46Z

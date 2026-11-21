@@ -13,13 +13,14 @@ collected_at: '2026-11-21T18:18:51.800392+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-the-airbus-a321xlr-often-gets-stuck-climbing-f
 first_seen: '2026-11-21T07:07:55.390873+05:30'
 last_seen: '2026-11-21T18:18:51.800392+05:30'
 last_checked: '2026-11-21T18:18:51.800392+05:30'
 health_score: 100
 ---
+
 
 # Why the Airbus A321XLR often gets stuck climbing for first few hours of flight
 

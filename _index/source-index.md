@@ -42164,14 +42164,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
-  - [Fewer slides, more dragons](../ai/community/fewer-slides-more-dragons.md)
+  - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](../ai/community/context-generic-programming-v0-8-0-pluggable-trait.md)
+  - [LLMs can read and write executables byte by byte from a hex dump](../ai/community/llms-can-read-and-write-executables-byte-by-byte-f.md)
   - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
-  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
-  - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
-  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
-  - [Surprisingly Adorable Insect Portraits](../ai/community/surprisingly-adorable-insect-portraits.md)
-  - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
+  - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md)
+  - [Tropical Rainforests Species may be surprisingly young](../ai/community/tropical-rainforests-species-may-be-surprisingly-y.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -46098,4 +46095,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-21T18:35:37.211382+05:30*
+*Index generated on 2026-11-22T03:34:48.325497+05:30*

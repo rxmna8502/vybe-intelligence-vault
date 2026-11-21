@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - paper
-status: active
+status: inactive
 resource_id: hackernews:microsoft-s-sidewinder-strategic-commander-was-a-f
 first_seen: '2026-11-21T18:18:51.679512+05:30'
 last_seen: '2026-11-21T18:18:51.679512+05:30'
 last_checked: '2026-11-21T18:18:51.679512+05:30'
 health_score: 100
 ---
+
 
 # Microsoft's SideWinder Strategic Commander was a failed attempt
 

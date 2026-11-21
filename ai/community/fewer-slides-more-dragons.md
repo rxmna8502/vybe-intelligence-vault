@@ -13,13 +13,14 @@ collected_at: '2026-11-21T18:18:50.749023+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:fewer-slides-more-dragons
 first_seen: '2026-11-21T18:18:50.749023+05:30'
 last_seen: '2026-11-21T18:18:50.749023+05:30'
 last_checked: '2026-11-21T18:18:50.749023+05:30'
 health_score: 100
 ---
+
 
 # Fewer slides, more dragons
 

@@ -13,13 +13,14 @@ collected_at: '2026-11-21T18:18:50.172934+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:surprisingly-adorable-insect-portraits
 first_seen: '2026-11-21T18:18:50.172934+05:30'
 last_seen: '2026-11-21T18:18:50.172934+05:30'
 last_checked: '2026-11-21T18:18:50.172934+05:30'
 health_score: 100
 ---
+
 
 # Surprisingly Adorable Insect Portraits
 

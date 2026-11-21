@@ -2122,7 +2122,6 @@ Resources organized by keyword tags.
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
   - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](../ai/agents/arxiv-2606-12344.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
-  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
   - [ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](../ai/agents/arxiv-2604-18543.md)
   - [ClawGym II: Exploring Black-Box RL on Agent Harness](../ai/agents/arxiv-2608-16798.md)
   - [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](../ai/agents/arxiv-2610-14118.md)
@@ -10638,13 +10637,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
+  - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](../ai/community/context-generic-programming-v0-8-0-pluggable-trait.md)
   - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
-  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
-  - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
-  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
-  - [Surprisingly Adorable Insect Portraits](../ai/community/surprisingly-adorable-insect-portraits.md)
-  - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
+  - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md)
+  - [Tropical Rainforests Species may be surprisingly young](../ai/community/tropical-rainforests-species-may-be-surprisingly-y.md)
 
 ## animation
 
@@ -11287,7 +11283,6 @@ Resources organized by keyword tags.
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
   - [NKI-Agent: Domain-Specific Fine-Tuning and Agentic Tool Use for Neuron Kernel Generation](../ai/agents/arxiv-2607-04395.md)
   - [NarrativeWorldBench: A Frontier-Saturated Benchmark and a Latent World Model for Long-Horizon Co-Creative Audio Drama](../ai/research/arxiv-2606-17391.md)
-  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
   - [Natural Code Transformation Confuses Agents in Vulnerability Analysis](../ai/agents/arxiv-2610-14350.md)
   - [Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](../ai/agents/arxiv-2609-05385.md)
   - [Necessary, Not Sufficient, and No Longer Available: Grader Non-Determinism After the Withdrawal of Sampling Controls](../ai/research/arxiv-2606-26185.md)
@@ -23534,6 +23529,7 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection](../ai/rag/arxiv-2611-12976.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
@@ -42570,7 +42566,6 @@ Resources organized by keyword tags.
   - [Classification Based on Association Rules Algorithm for Breast Cancer](../ai/research/arxiv-2610-00174.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
-  - [ClawDOS – An AI coding agent for DOS](../ai/community/clawdos-an-ai-coding-agent-for-dos.md)
   - [Clearing the Underbrush: AI-Enhanced RF Interference Suppression](../ai/research/arxiv-2608-24974.md)
   - [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](../ai/agents/arxiv-2609-26779.md)
   - [Clinical Domain Classification from Medical Transcriptions](../ai/research/arxiv-2609-22734.md)
@@ -42702,6 +42697,7 @@ Resources organized by keyword tags.
   - [Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms](../ai/rag/arxiv-2607-02681.md)
   - [Context-Aware Error Mitigation Orchestration for Hybrid Quantum Reinforcement Learning on NISQ Systems](../ai/research/arxiv-2610-01253.md)
   - [Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech](../ai/research/arxiv-2609-24016.md)
+  - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](../ai/community/context-generic-programming-v0-8-0-pluggable-trait.md)
   - [ContextNest: Verifiable Context Governance for Autonomous AI Agent](../ai/rag/arxiv-2607-02116.md)
   - [Contextual Online Uncertainty-Aware Preference Learning for Human Feedback](../ai/research/arxiv-2504-19342.md)
   - [Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech](../ai/research/arxiv-2607-26236.md)
@@ -43307,7 +43303,6 @@ Resources organized by keyword tags.
   - [Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images](../ai/rag/arxiv-2608-12230.md)
   - [Few-class Fidelity: Evaluating Explanations of Real-conditions CNN classifiers with Optimized Perturbations](../ai/research/arxiv-2606-28391.md)
   - [Few-shot Deep Learning for Phase-Amplitude Aberration Correction in Transcranial Focused Ultrasound](../ai/research/arxiv-2607-29182.md)
-  - [Fewer slides, more dragons](../ai/community/fewer-slides-more-dragons.md)
   - [FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../ai/research/arxiv-2608-10857.md)
   - [FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion Model](../ai/research/arxiv-2410-13925.md)
   - [Fiber Fingerprints of Hidden Learning-State Dynamics](../ai/research/arxiv-2608-15976.md)
@@ -44071,6 +44066,7 @@ Resources organized by keyword tags.
   - [LLMs Can Annotate Attribution Graphs](../ai/research/arxiv-2608-02632.md)
   - [LLMs Can Better Capture Human Judgments--With the Right Prompts](../ai/research/arxiv-2606-12754.md)
   - [LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications](../ai/agents/arxiv-2607-18147.md)
+  - [LLMs can read and write executables byte by byte from a hex dump](../ai/community/llms-can-read-and-write-executables-byte-by-byte-f.md)
   - [LLaVA-CKD: Bottom-Up Cascaded Knowledge Distillation for Vision-Language Models](../ai/research/arxiv-2605-10641.md)
   - [LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction](../ai/rag/arxiv-2610-36433.md)
   - [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](../ai/research/arxiv-2606-00573.md)
@@ -44405,7 +44401,6 @@ Resources organized by keyword tags.
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
-  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance](../ai/agents/arxiv-2611-23142.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -44503,7 +44498,6 @@ Resources organized by keyword tags.
   - [NEEDLEWORK: Offline Rewriting of Robot Data with Verified Local Stitches](../ai/rag/arxiv-2610-02339.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
   - [NFL - YouTube](../ai/resources/nfl-youtube.md)
-  - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
   - [NIST Chemistry WebBook](../ai/resources/nist-chemistry-webbook.md)
   - [NIST Computer Security Resource Center | CSRC](../ai/rag/nist-computer-security-resource-center-csrc.md)
   - [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](../ai/rag/nist-finalizes-lightweight-cryptography-standard-t.md)
@@ -44522,7 +44516,6 @@ Resources organized by keyword tags.
   - [Nanorobot queue: Cooperative treatment of cancer based on team member communication and image processing](../ai/research/arxiv-2111-11236.md)
   - [Narrative Keyframing for Generative Creative Writing](../ai/research/arxiv-2608-10337.md)
   - [NarrativeSteward: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](../ai/agents/arxiv-2609-39333.md)
-  - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md)
   - [Nation SkillUp](../ai/resources/nation-skillup.md)
   - [National Institute of Standards and Technology](../ai/agents/national-institute-of-standards-and-technology.md)
   - [National Vulnerability Database | NIST](../ai/rag/national-vulnerability-database-nist.md)
@@ -44838,6 +44831,7 @@ Resources organized by keyword tags.
   - [Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation](../ai/research/arxiv-2610-35910.md)
   - [PiMRef: Deducing Ever-evolving Spear-phishing Emails with Knowledge Base Invariants](../ai/rag/arxiv-2507-15393.md)
   - [PierreGode/Ragnar](../ai/rag/pierregode-ragnar.md)
+  - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md)
   - [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](../ai/research/arxiv-2609-15919.md)
   - [Pinecone - YouTube](../ai/resources/pinecone-youtube.md)
   - [PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](../ai/rag/arxiv-2606-24081.md)
@@ -45631,7 +45625,6 @@ Resources organized by keyword tags.
   - [Supporting Autonomous Process Execution within a Multi-Perspective Constraint Frame via Numeric Planning](../ai/rag/arxiv-2607-16738.md)
   - [Surface Hub admin guide - Surface Hub | Microsoft Learn](../ai/resources/surface-hub-admin-guide-surface-hub-microsoft-lear.md)
   - [Surprising Effectiveness of Self-Demonstrations in Enhancing Schema-Ontology Mapping with LLMs](../ai/research/arxiv-2609-13776.md)
-  - [Surprisingly Adorable Insect Portraits](../ai/community/surprisingly-adorable-insect-portraits.md)
   - [Surprisingly High Redundancy in Electronic Structure Data Across Materials Explained by Low Intrinsic Dimensionality](../ai/rag/arxiv-2507-09001.md)
   - [Surrogate Benchmarks for Model Merging Optimization](../ai/research/arxiv-2509-02555.md)
   - [Surrogate Modeling and Reduced-Order Methods in Gravitational-Wave Physics and Numerical Relativity: From Spectral Representations to Adaptive Compression](../ai/research/arxiv-2611-24727.md)
@@ -45983,6 +45976,7 @@ Resources organized by keyword tags.
   - [Triplet Loss and Online Triplet Mining in TensorFlow | Olivier Moindrot blog](../ai/rag/triplet-loss-and-online-triplet-mining-in-tensorfl.md)
   - [Trivial Prompt Reframing Bypasses Safety Guardrails in Google\'s MedGemma-4B](../ai/research/arxiv-2607-09804.md)
   - [Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](../ai/rag/arxiv-2507-04673.md)
+  - [Tropical Rainforests Species may be surprisingly young](../ai/community/tropical-rainforests-species-may-be-surprisingly-y.md)
   - [TruLens: Evals and Tracing for AI Agents](../ai/rag/trulens-evals-and-tracing-for-agents.md)
   - [TrussTutor-Bench: Benchmarking large language models on solution accuracy, sycophancy, and error detection in statics](../ai/research/arxiv-2610-38917.md)
   - [Trust Legal Provisions (TLP) – IETF Trust](../ai/resources/trust-legal-provisions-tlp-ietf-trust.md)
@@ -46273,7 +46267,6 @@ Resources organized by keyword tags.
   - [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](../ai/research/arxiv-2608-26182.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
   - [Why not to use the Gaussian kernel](../ai/research/arxiv-2608-26974.md)
-  - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
   - [Wikifunctions](../ai/resources/wikifunctions.md)
@@ -47281,6 +47274,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [LLMs can read and write executables byte by byte from a hex dump](../ai/community/llms-can-read-and-write-executables-byte-by-byte-f.md)
 
 ## mdx
 
@@ -62891,7 +62888,6 @@ Resources organized by keyword tags.
   - [MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration](../ai/research/arxiv-2608-06183.md)
   - [Microsoft Academic Graph - Microsoft Research](../ai/rag/microsoft-academic-graph-microsoft-research.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
-  - [Microsoft's SideWinder Strategic Commander was a failed attempt](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md)
   - [Mimicry without understanding: the origins of decision bias in large language models](../ai/research/arxiv-2608-12339.md)
   - [MinShap: A Shapley-Based Framework for Feature Redundancy](../ai/rag/arxiv-2604-15107.md)
   - [Mind Your Boundaries: Boundary-Aware Model Obfuscation against Cross-node Attack](../ai/rag/arxiv-2610-27135.md)
@@ -71276,7 +71272,6 @@ Resources organized by keyword tags.
   - [Few-shot Class-variable Incremental Audio Classification via Prototype Adaptation and Pseudo Class-variable Training](../ai/rag/arxiv-2606-08898.md)
   - [Few-shot Classification as Multi-instance Verification: Effective Backbone-agnostic Transfer across Domains](../ai/rag/arxiv-2507-00401.md)
   - [Fewer Tokens, More Self-Teaching: On-Policy Self-Distillation for Extreme Visual Token Reduction](../ai/rag/arxiv-2609-32353.md)
-  - [Fewer slides, more dragons](../ai/community/fewer-slides-more-dragons.md)
   - [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](../ai/rag/arxiv-2609-08418.md)
   - [Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers](../ai/rag/arxiv-2609-39184.md)
   - [Fidelity Before Structure: Verbatim Chunks Beat Lossy Artifact Extraction in Long-Conversation LLM Memory](../ai/rag/arxiv-2601-00821.md)
@@ -93346,4 +93341,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-21T18:35:36.724854+05:30*
+*Index generated on 2026-11-22T03:34:47.744074+05:30*

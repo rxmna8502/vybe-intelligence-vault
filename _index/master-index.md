@@ -5,7 +5,7 @@ Welcome to your private local Intelligence Vault.
 ## AI
 
 - **ai/agents**: 7390 files
-- **ai/community**: 11 files
+- **ai/community**: 8 files
 - **ai/companies**: 10 files
 - **ai/companies/anthropic**: 10 files
 - **ai/companies/deepmind**: 5 files
@@ -57,4 +57,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-11-21T18:35:35.939096+05:30*
+*Index generated on 2026-11-22T03:34:46.758096+05:30*

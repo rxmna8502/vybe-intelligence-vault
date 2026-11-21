@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen
 first_seen: '2026-11-21T18:18:50.862819+05:30'
 last_seen: '2026-11-21T18:18:50.862819+05:30'
 last_checked: '2026-11-21T18:18:50.862819+05:30'
 health_score: 100
 ---
+
 
 # Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day
 

@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:clawdos-an-ai-coding-agent-for-dos
 first_seen: '2026-11-21T18:18:49.289643+05:30'
 last_seen: '2026-11-21T18:18:49.289643+05:30'
 last_checked: '2026-11-21T18:18:49.289643+05:30'
 health_score: 100
 ---
+
 
 # ClawDOS – An AI coding agent for DOS
 

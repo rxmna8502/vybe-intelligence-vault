@@ -13,13 +13,14 @@ collected_at: '2026-11-21T18:18:49.680316+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ninlive-the-nine-inch-nails-live-archive
 first_seen: '2026-11-21T07:07:53.167933+05:30'
 last_seen: '2026-11-21T18:18:49.680316+05:30'
 last_checked: '2026-11-21T18:18:49.680316+05:30'
 health_score: 100
 ---
+
 
 # NINLIVE: The Nine Inch Nails live archive
 

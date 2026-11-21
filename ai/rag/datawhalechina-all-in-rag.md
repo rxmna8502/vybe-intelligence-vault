@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-11-21T18:19:42.285185+05:30'
-published_at: '2026-11-21T11:43:11Z'
+collected_at: '2026-11-22T03:18:40.609234+05:30'
+published_at: '2026-11-21T16:17:20Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - python
 - rag
-stars: 13273
+stars: 13276
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-11-16T11:47:34Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-11-21T18:19:42.285185+05:30'
-last_seen: '2026-11-21T18:19:42.285185+05:30'
-last_checked: '2026-11-21T18:19:42.285185+05:30'
+first_seen: '2026-11-22T03:18:40.609234+05:30'
+last_seen: '2026-11-22T03:18:40.609234+05:30'
+last_checked: '2026-11-22T03:18:40.609234+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG implementation guide leveraging `langchain` and `llama-index` frameworks for LLM application development.
-*   Integrates `Milvus` for vector retrieval and `Neo4j` for knowledge graph-based retrieval, enhancing RAG capabilities.
-*   Supports diverse `embedding` models (e.g., `DeepSeek`, `Kimi-K2`) and extends to `multimodal` RAG architectures.
+*   Comprehensive RAG full-stack guide implemented in Python, covering practical application development.
+*   Utilizes key frameworks (LangChain, LlamaIndex) for orchestration, integrating vector databases (Milvus) and graph databases (Neo4j).
+*   Explores advanced RAG concepts including multimodal embeddings and integration with LLMs like DeepSeek and Kimi-K2.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13273
-- Forks: 6826
+- Stars: 13276
+- Forks: 6828
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-11-21T11:43:11Z
+- Last Updated: 2026-11-21T16:17:20Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-11-16T11:47:34Z
