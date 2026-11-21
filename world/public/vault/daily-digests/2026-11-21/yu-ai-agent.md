@@ -1,30 +1,19 @@
 ---
-title: hfgwygey/yu-ai-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-11-21
-tech_stack:
-- Java 21
-- Spring Boot 3
-- Spring AI
-- Maven
-- Vector Databases
-- ReAct Framework
+title: "hfgwygey/yu-ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java 21", "Spring Boot 3", "Spring AI", "Maven", "Vector Databases", "ReAct Framework"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agent Development
-- Spring AI
-- RAG
-- Vector Databases
-- Prompt Engineering
-source: https://github.com/hfgwygey/yu-ai-agent
+deployment_complexity: "Medium"
+tags: ["AI Agent Development", "Spring AI", "RAG", "Vector Databases", "Prompt Engineering"]
+source: "https://github.com/hfgwygey/yu-ai-agent"
 stars: 93
-language: Java
-last_updated: '2026-08-09T11:26:09Z'
-discovered_at: '2026-08-09T11:32:42Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-09T11:26:09Z"
+discovered_at: "2026-08-09T11:32:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

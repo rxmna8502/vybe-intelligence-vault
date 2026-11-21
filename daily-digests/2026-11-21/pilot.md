@@ -1,29 +1,19 @@
 ---
-title: sujeito-operator/pilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-21
-tech_stack:
-- AI Agents
-- Autonomous Engineering
-- Testing Frameworks
-- API Integrations
-- Data Pipelines
+title: "sujeito-operator/pilot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["AI Agents", "Autonomous Engineering", "Testing Frameworks", "API Integrations", "Data Pipelines"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- autonomous agents
-- scoped development
-- pay-on-merge
-- 48-hour delivery
-- verifiable work
-source: https://github.com/sujeito-operator/pilot
+deployment_complexity: "Low"
+tags: ["autonomous agents", "scoped development", "pay-on-merge", "48-hour delivery", "verifiable work"]
+source: "https://github.com/sujeito-operator/pilot"
 stars: 0
-language: None
-last_updated: '2026-08-09T16:36:47Z'
-discovered_at: '2026-08-09T16:38:26Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-09T16:36:47Z"
+discovered_at: "2026-08-09T16:38:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
