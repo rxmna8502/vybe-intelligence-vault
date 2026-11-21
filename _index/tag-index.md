@@ -7555,6 +7555,7 @@ Resources organized by keyword tags.
   - [Responsibility Distribution Estimation in Ego-View Accident Videos with Multimodal Large Language Models](../ai/agents/arxiv-2607-03591.md)
   - [RestoreBench: Can AI Agents Restore Power Flow Convergence?](../ai/agents/arxiv-2609-00384.md)
   - [Restoring Gold Standard Science – The White House](../ai/rag/restoring-gold-standard-science-the-white-house.md)
+  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
   - [Restricting the Model, Missing the System: Measurement and Accountability in Offensive AI Governance](../ai/agents/arxiv-2605-09504.md)
   - [Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers](../ai/rag/arxiv-2608-03836.md)
   - [RetailAgent: Structured Adverse Timing in Self-Conditioned Multimodal LLM Trading Agents](../ai/agents/arxiv-2608-28399.md)
@@ -10637,11 +10638,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
   - [Frostbite: A new CPU architecture discovered, designed and verified by AI](../ai/community/frostbite-a-new-cpu-architecture-discovered-design.md)
-  - [I'll never buy Framework hardware again](../ai/community/i-ll-never-buy-framework-hardware-again.md)
   - [If you can't explain something in simple terms, you don't understand it (2017)](../ai/community/if-you-can-t-explain-something-in-simple-terms-you.md)
-  - [What people are building, discovered through new domains](../ai/community/what-people-are-building-discovered-through-new-do.md)
+  - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
+  - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
+  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
+  - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
 
 ## animation
 
@@ -10762,7 +10764,6 @@ Resources organized by keyword tags.
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
-  - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
   - [Anthropic launches roadshow for proposed initial public offering](../ai/companies/anthropic/anthropic-launches-roadshow-for-proposed-initial-p.md)
   - [Anthropic prices initial public offering](../ai/companies/anthropic/anthropic-prices-initial-public-offering.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
@@ -30044,6 +30045,7 @@ Resources organized by keyword tags.
 
 ## blog-post
 
+  - [AI Adoption](../ai/companies/openai/ai-adoption.md)
   - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -30051,6 +30053,7 @@ Resources organized by keyword tags.
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Anthropic launches roadshow for proposed initial public offering](../ai/companies/anthropic/anthropic-launches-roadshow-for-proposed-initial-p.md)
   - [Anthropic prices initial public offering](../ai/companies/anthropic/anthropic-prices-initial-public-offering.md)
+  - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
@@ -30060,11 +30063,14 @@ Resources organized by keyword tags.
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Donating Agent Skills to the Agentic AI Foundation](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md)
+  - [Engineering](../ai/companies/openai/engineering.md)
   - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Expanding our partnership with GSA to bring Claude to all levels of government](../ai/companies/anthropic/expanding-our-partnership-with-gsa-to-bring-claude.md)
+  - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Open call for guest investigators in the life sciences](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md)
@@ -42123,7 +42129,6 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
   - [Anticipating or Speculating? Making Futures Pay in AI Ethics](../ai/research/arxiv-2611-22268.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
@@ -43811,7 +43816,6 @@ Resources organized by keyword tags.
   - [Hyperbolic Inverse Reinforcement Learning](../ai/research/arxiv-2610-42104.md)
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
   - [Hypothesis-guided discovery of cognitive algorithms via program refinement](../ai/agents/arxiv-2610-02523.md)
-  - [I'll never buy Framework hardware again](../ai/community/i-ll-never-buy-framework-hardware-again.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
   - [I2I Backdoor: Backdoor Attacks against Image-to-Image Tasks](../ai/research/arxiv-2407-10445.md)
@@ -44073,7 +44077,6 @@ Resources organized by keyword tags.
   - [Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets](../ai/rag/arxiv-2512-14237.md)
   - [LangChain - YouTube](../ai/resources/langchain-youtube.md)
   - [LangChain Forum](../ai/agents/langchain-forum.md)
-  - [LangChain-OpenTutorial/LangChain-OpenTutorial](../ai/agents/langchain-opentutorial-langchain-opentutorial.md)
   - [LangSmith Evaluation - Docs by LangChain](../ai/agents/langsmith-evaluation-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
   - [Language Model Circuits Are Sparse in the Neuron Basis](../ai/research/arxiv-2601-22594.md)
@@ -44192,6 +44195,7 @@ Resources organized by keyword tags.
   - [Let’s get Digital! Updated Digital Identity Guidelines are Here! | NIST](../ai/resources/lets-get-digital-updated-digital-identity-guidelin.md)
   - [Lev-3B: A Data Recipe for Compact Probabilistic Log Decision Models](../ai/research/arxiv-2610-38915.md)
   - [LevelSyn: Physical-Aware Logic Synthesis via Level-Asynchronous Graph Neural Networks](../ai/rag/arxiv-2609-03594.md)
+  - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
   - [Leveraging ECRAM for Edge Continual Learning](../ai/rag/arxiv-2607-19661.md)
   - [Leveraging Extragradient for Effective Sharpness-Aware Minimization in Deep Learning](../ai/rag/arxiv-2607-06151.md)
   - [Leveraging Few-Shot Learning and Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature](../ai/rag/arxiv-2402-01826.md)
@@ -44496,6 +44500,7 @@ Resources organized by keyword tags.
   - [NEEDLEWORK: Offline Rewriting of Robot Data with Verified Local Stitches](../ai/rag/arxiv-2610-02339.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
   - [NFL - YouTube](../ai/resources/nfl-youtube.md)
+  - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
   - [NIST Chemistry WebBook](../ai/resources/nist-chemistry-webbook.md)
   - [NIST Computer Security Resource Center | CSRC](../ai/rag/nist-computer-security-resource-center-csrc.md)
   - [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](../ai/rag/nist-finalizes-lightweight-cryptography-standard-t.md)
@@ -45184,6 +45189,7 @@ Resources organized by keyword tags.
   - [Responsible Institutional Analytics: Interpreting Bias with AI Support](../ai/research/arxiv-2610-07205.md)
   - [Restoring Gold Standard Science – The White House](../ai/rag/restoring-gold-standard-science-the-white-house.md)
   - [Restricted targeting in Personalized advertising - Advertising Policies Help](../ai/rag/restricted-targeting-in-personalized-advertising-a.md)
+  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
   - [Rethinking Anonymity Claims in Synthetic Data Generation: A Model-Centric Privacy Attack Perspective](../ai/research/arxiv-2601-22434.md)
   - [Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency](../ai/research/arxiv-2608-14065.md)
   - [Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../ai/research/arxiv-2607-03784.md)
@@ -45783,6 +45789,7 @@ Resources organized by keyword tags.
   - [The Hidden Power of Scaling Factor in LoRA Optimization](../ai/rag/arxiv-2606-12883.md)
   - [The Hour of AI](../ai/resources/the-hour-of-ai.md)
   - [The Hugo CMS for visual page building | CloudCannon](../ai/rag/the-hugo-cms-for-visual-page-building-cloudcannon.md)
+  - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](../ai/community/the-hungry-butler-effect-concealed-commercial-ince.md)
   - [The Identifiability and Observability of Deep Normalized Attention](../ai/research/arxiv-2610-09620.md)
   - [The Imperishable Record, Forgiveness, and the Future of Criminal Justice](../ai/research/arxiv-2610-15499.md)
   - [The Implications of Linguistic Illegibility for LLM Security](../ai/research/arxiv-2609-02852.md)
@@ -46213,7 +46220,6 @@ Resources organized by keyword tags.
   - [What is Smoothness?](../ai/research/arxiv-2609-03246.md)
   - [What is a Container? | Docker](../ai/rag/what-is-a-container-docker.md)
   - [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md)
-  - [What people are building, discovered through new domains](../ai/community/what-people-are-building-discovered-through-new-do.md)
   - [What resources are needed for optimal learning of bosonic Gaussian states?](../ai/research/arxiv-2603-18136.md)
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
@@ -46264,6 +46270,7 @@ Resources organized by keyword tags.
   - [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](../ai/research/arxiv-2608-26182.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
   - [Why not to use the Gaussian kernel](../ai/research/arxiv-2608-26974.md)
+  - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
   - [Wikifunctions](../ai/resources/wikifunctions.md)
@@ -46384,8 +46391,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -47275,6 +47280,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](../ai/community/the-hungry-butler-effect-concealed-commercial-ince.md)
 
 ## mdx
 
@@ -57956,6 +57965,7 @@ Resources organized by keyword tags.
   - [A robust association between LLM use and scientific productivity: Assessing stopping-time selection](../ai/research/arxiv-2607-28968.md)
   - [ADAPT: Agentic Diff-Aware Patch Testing for Pull Requests](../ai/rag/arxiv-2611-16114.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
+  - [AI Adoption](../ai/companies/openai/ai-adoption.md)
   - [AI Discovery in Combinatorics: From Problems to Solutions and Back to Bigger Problems](../ai/agents/arxiv-2610-16555.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models](../ai/rag/arxiv-2611-14333.md)
@@ -58006,6 +58016,7 @@ Resources organized by keyword tags.
   - [An Explicit World Model Based on Data-First Ontology: DaoQL Multimodal Storage Validation and Counterfactual Reasoning Evaluation](../ai/rag/arxiv-2607-17269.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Answer-Conditioned Chain-of-Thought Distillation for Few-Shot Industrial Vision with Small VLMs](../ai/research/arxiv-2607-10666.md)
+  - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning](../ai/research/arxiv-2609-09553.md)
   - [ArchitectureIQ: On the Measure of Training Intuition](../ai/research/arxiv-2609-39714.md)
   - [Are Attributions of Consciousness to AI Chatbots Epistemically Innocent?](../ai/research/arxiv-2607-20001.md)
@@ -58202,6 +58213,7 @@ Resources organized by keyword tags.
   - [Empirical evidence of Large Language Model's influence on human spoken communication](../ai/research/arxiv-2409-01754.md)
   - [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](../ai/research/encouraging-divergent-thinking-in-large-language-m.md)
   - [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](../ai/rag/arxiv-2606-11257.md)
+  - [Engineering](../ai/companies/openai/engineering.md)
   - [Enhancement of E-commerce Sponsored Search Relevancy with LLM](../ai/research/arxiv-2607-03886.md)
   - [Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents](../ai/rag/arxiv-2604-27143.md)
   - [Enhancing diagnostic capability with multi-agents conversational large language models](../ai/research/enhancing-diagnostic-capability-with-multi-agents.md)
@@ -58281,6 +58293,7 @@ Resources organized by keyword tags.
   - [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md)
   - [GitHub Secret Protection · GitHub](../ai/rag/security-advanced-security.md)
   - [GitHub Status](../ai/rag/github-status.md)
+  - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Global Automation Atlas](../ai/research/arxiv-2605-17086.md)
   - [GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](../ai/rag/arxiv-2601-05353.md)
   - [Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery](../ai/research/arxiv-2611-23244.md)
@@ -58339,6 +58352,7 @@ Resources organized by keyword tags.
   - [Injection-Execution Dissociation: A Mechanistic Evaluation of Persistent Memory Attacks and Defenses in Stateful LLM Agents](../ai/rag/arxiv-2605-08442.md)
   - [Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs](../ai/research/arxiv-2607-14888.md)
   - [Integrations - Pinecone Docs](../ai/rag/integrations-pinecone-docs.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Interaction Protocol Shapes Moral Judgment in Multi-Agent Debate](../ai/agents/arxiv-2510-10002.md)
   - [Interpretable experiential learning based on state history and global feedback](../ai/research/arxiv-2605-00940.md)
   - [Interpreting Reasoning of Large Language Models via Partial Information Decomposition](../ai/rag/arxiv-2610-00571.md)
@@ -58920,6 +58934,14 @@ Resources organized by keyword tags.
   - [딥오토 채용](../ai/agents/diboto-caeyong.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
+
+## openai-news
+
+  - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [Applied AI](../ai/companies/openai/applied-ai.md)
+  - [Engineering](../ai/companies/openai/engineering.md)
+  - [Global Affairs](../ai/companies/openai/global-affairs.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
 
 ## paper
 
@@ -88002,7 +88024,6 @@ Resources organized by keyword tags.
   - [Landmark-free Assessment of Lower-limb Alignment with Implicit Neural Shape Functions from Knee Radiographs](../ai/research/arxiv-2606-15250.md)
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangChain · GitHub](../ai/rag/langchain-github.md)
-  - [LangChain-OpenTutorial/LangChain-OpenTutorial](../ai/agents/langchain-opentutorial-langchain-opentutorial.md)
   - [LangGraph Skill Pack — SuperML.org](../ai/agents/langgraph-skill-pack-superml-org.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [LangSmith Evaluation - Docs by LangChain](../ai/agents/langsmith-evaluation-docs-by-langchain.md)
@@ -93327,4 +93348,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-20T22:53:02.909830+05:30*
+*Index generated on 2026-11-21T07:24:18.120967+05:30*

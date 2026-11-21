@@ -13,13 +13,14 @@ collected_at: '2026-11-20T22:36:09.720301+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-people-are-building-discovered-through-new-do
 first_seen: '2026-11-20T22:36:09.720301+05:30'
 last_seen: '2026-11-20T22:36:09.720301+05:30'
 last_checked: '2026-11-20T22:36:09.720301+05:30'
 health_score: 100
 ---
+
 
 # What people are building, discovered through new domains
 

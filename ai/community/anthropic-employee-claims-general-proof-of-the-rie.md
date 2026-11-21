@@ -1,32 +1,31 @@
 ---
-title: Anthropic employee claims general proof of the Riemann Hypothesis [pdf]
+title: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://alpo.ge/remark.pdf
 hn_url: https://news.ycombinator.com/item?id=50574968
-score: 1220
+score: 2353
 author: iamronaldo
-comments_count: 800
+comments_count: 1591
 published_at: '2026-11-20T19:46:21+05:30'
-collected_at: '2026-11-20T22:36:08.369672+05:30'
+collected_at: '2026-11-21T07:07:53.054925+05:30'
 tags:
 - ai
-- anthropic
 - hackernews
 status: active
 resource_id: hackernews:anthropic-employee-claims-general-proof-of-the-rie
 first_seen: '2026-11-20T22:36:08.369672+05:30'
-last_seen: '2026-11-20T22:36:08.369672+05:30'
-last_checked: '2026-11-20T22:36:08.369672+05:30'
+last_seen: '2026-11-21T07:07:53.054925+05:30'
+last_checked: '2026-11-21T07:07:53.054925+05:30'
 health_score: 100
 ---
 
-# Anthropic employee claims general proof of the Riemann Hypothesis [pdf]
+# Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
 
 ## Summary
 
-Hacker News story by iamronaldo. Score: 1220, Comments: 800.
+Hacker News story by iamronaldo. Score: 2353, Comments: 1591.
 Original Link: https://alpo.ge/remark.pdf
 
 ## Why It Matters
@@ -36,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: iamronaldo
-- Score: 1220 Upvotes
-- Comments: 800 Discussions
+- Score: 2353 Upvotes
+- Comments: 1591 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50574968
 - Original Article: https://alpo.ge/remark.pdf
 
@@ -48,5 +47,4 @@ Review community comments to extract technical caveats, alternative recommendati
 ## Related Tags
 
 - ai
-- anthropic
 - hackernews

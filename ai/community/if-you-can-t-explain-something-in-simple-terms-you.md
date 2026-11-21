@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
 hn_url: https://news.ycombinator.com/item?id=50572355
-score: 411
+score: 622
 author: sammatilda
-comments_count: 218
+comments_count: 292
 published_at: '2026-11-20T15:13:19+05:30'
-collected_at: '2026-11-20T22:36:08.643573+05:30'
+collected_at: '2026-11-21T07:07:54.153650+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:if-you-can-t-explain-something-in-simple-terms-you
 first_seen: '2026-11-20T22:36:08.643573+05:30'
-last_seen: '2026-11-20T22:36:08.643573+05:30'
-last_checked: '2026-11-20T22:36:08.643573+05:30'
+last_seen: '2026-11-21T07:07:54.153650+05:30'
+last_checked: '2026-11-21T07:07:54.153650+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sammatilda. Score: 411, Comments: 218.
+Hacker News story by sammatilda. Score: 622, Comments: 292.
 Original Link: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sammatilda
-- Score: 411 Upvotes
-- Comments: 218 Discussions
+- Score: 622 Upvotes
+- Comments: 292 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50572355
 - Original Article: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
 

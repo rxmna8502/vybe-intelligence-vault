@@ -41224,6 +41224,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: company_blog)
 
+  - [AI Adoption](../ai/companies/openai/ai-adoption.md)
   - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -41231,6 +41232,7 @@ Resources organized by publisher feed and query sources.
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Anthropic launches roadshow for proposed initial public offering](../ai/companies/anthropic/anthropic-launches-roadshow-for-proposed-initial-p.md)
   - [Anthropic prices initial public offering](../ai/companies/anthropic/anthropic-prices-initial-public-offering.md)
+  - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
@@ -41240,11 +41242,14 @@ Resources organized by publisher feed and query sources.
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Donating Agent Skills to the Agentic AI Foundation](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md)
+  - [Engineering](../ai/companies/openai/engineering.md)
   - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Expanding our partnership with GSA to bring Claude to all levels of government](../ai/companies/anthropic/expanding-our-partnership-with-gsa-to-bring-claude.md)
+  - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Open call for guest investigators in the life sciences](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md)
@@ -42161,11 +42166,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
   - [Frostbite: A new CPU architecture discovered, designed and verified by AI](../ai/community/frostbite-a-new-cpu-architecture-discovered-design.md)
-  - [I'll never buy Framework hardware again](../ai/community/i-ll-never-buy-framework-hardware-again.md)
   - [If you can't explain something in simple terms, you don't understand it (2017)](../ai/community/if-you-can-t-explain-something-in-simple-terms-you.md)
-  - [What people are building, discovered through new domains](../ai/community/what-people-are-building-discovered-through-new-do.md)
+  - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
+  - [NINLIVE: The Nine Inch Nails live archive](../ai/community/ninlive-the-nine-inch-nails-live-archive.md)
+  - [Restricting AI agents in mobile operating systems platforms from capturing data](../ai/community/restricting-ai-agents-in-mobile-operating-systems.md)
+  - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](../ai/community/the-hungry-butler-effect-concealed-commercial-ince.md)
+  - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -43022,6 +43029,7 @@ Resources organized by publisher feed and query sources.
   - [Welcome Gemma 2 - Google’s new open LLM](../ai/models/huggingface-blog-gemma2.md)
   - [Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM](../ai/models/huggingface-blog-gemma3.md)
   - [Welcome Gemma 4: Frontier multimodal intelligence on device](../ai/models/huggingface-blog-gemma4.md)
+  - [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](../ai/models/huggingface-blog-inkling2mini.md)
   - [Welcome Inkling by Thinking Machines](../ai/models/huggingface-blog-thinkingmachines-inkling.md)
   - [Welcome Le Chonk: Mistral Large 4 on Hugging Face](../ai/models/huggingface-blog-mistral-large4.md)
   - [Welcome Llama 3 - Meta's new open LLM](../ai/models/huggingface-blog-llama3.md)
@@ -46091,4 +46099,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-20T22:53:03.484892+05:30*
+*Index generated on 2026-11-21T07:24:18.469102+05:30*
