@@ -5,7 +5,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 41269 |
+<<<<<<< Updated upstream
 | github | 1026 |
+=======
+| github | 1027 |
+| huggingface | 967 |
+| nextjs.org | 87 |
+>>>>>>> Stashed changes
 | semanticscholar.org | 71 |
 | youtube | 66 |
 | support.google.com | 59 |
@@ -163,7 +169,11 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+<<<<<<< Updated upstream
 | nextjs.org | 3 |
+=======
+| simonwillison.net | 2 |
+>>>>>>> Stashed changes
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -303,11 +313,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | theguardian.com | 1 |
+| betterdatacenterproject.com | 1 |
 | sgiannopoulos.github.io | 1 |
 | pandex.io | 1 |
 | noemamag.com | 1 |
-| together.ai | 1 |
-| dragos.com | 1 |
 | noworneverev.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
@@ -472,7 +481,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | research.microsoft.com | 1 |
 | docs.kernel.org | 1 |
 | julienrenaux.fr | 1 |
-| simonwillison.net | 1 |
 | blog.chromium.org | 1 |
 | wacv.thecvf.com | 1 |
 | thecvf-art.com | 1 |

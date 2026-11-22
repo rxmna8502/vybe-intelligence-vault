@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://pandex.io
 hn_url: https://news.ycombinator.com/item?id=50593481
-score: 65
+score: 124
 author: vasie
-comments_count: 13
+comments_count: 29
 published_at: '2026-11-22T02:17:41+05:30'
-collected_at: '2026-11-22T12:34:01.531660+05:30'
+collected_at: '2026-11-22T21:55:05.441977+05:30'
 tags:
 - agents
 - ai
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:pandex-official-european-law-for-ai-agents-over-mc
 first_seen: '2026-11-22T12:34:01.531660+05:30'
-last_seen: '2026-11-22T12:34:01.531660+05:30'
-last_checked: '2026-11-22T12:34:01.531660+05:30'
+last_seen: '2026-11-22T21:55:05.441977+05:30'
+last_checked: '2026-11-22T21:55:05.441977+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by vasie. Score: 65, Comments: 13.
+Hacker News story by vasie. Score: 124, Comments: 29.
 Original Link: https://www.pandex.io
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: vasie
-- Score: 65 Upvotes
-- Comments: 13 Discussions
+- Score: 124 Upvotes
+- Comments: 29 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50593481
 - Original Article: https://pandex.io
 

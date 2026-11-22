@@ -42164,12 +42164,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
+  - [87% of the Anthropic power will come from gas and 11% from coal in 2028](../ai/community/87-of-the-anthropic-power-will-come-from-gas-and-1.md)
   - [LLMs can read and write executables byte by byte from a hex dump](../ai/community/llms-can-read-and-write-executables-byte-by-byte-f.md)
+  - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](../ai/community/muru-ai-assisted-rust-server-for-python-apps-by-mo.md)
   - [Pandex – Official European Law for AI Agents, over MCP](../ai/community/pandex-official-european-law-for-ai-agents-over-mc.md)
   - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md)
+  - [Show HN: I built a game where you are an LLM's subagent](../ai/community/gulivan-worker755.md)
   - [The Mythology of Conscious AI](../ai/community/the-mythology-of-conscious-ai.md)
-  - [Together.ai: Prompt Leakage for Requests](../ai/community/together-ai-prompt-leakage-for-requests.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -43089,8 +43090,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: huggingface_dataset)
 
-  - [3dcodeverse/3dcodeverse-2m](../ai/models/huggingface-datasets-3dcodeverse.md)
   - [IaLoverSpaghetti/LocaIAinHTML](../ai/models/huggingface-datasets-ialoverspaghetti.md)
+  - [OPR-Project/OxfordRobotCar_OpenPlaceRecognition](../ai/models/huggingface-datasets-opr-project.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [agibot-world/AgiBotWorld2026](../ai/models/huggingface-datasets-agibot-world.md)
   - [allenai/objaverse](../ai/models/huggingface-datasets-allenai.md)
@@ -46096,4 +46097,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-22T12:50:54.475726+05:30*
+*Index generated on 2026-11-22T22:11:39.880465+05:30*

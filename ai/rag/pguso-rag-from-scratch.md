@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-11-21T18:20:02.335173+05:30'
-published_at: '2026-11-20T02:21:16Z'
+collected_at: '2026-11-22T21:56:05.323995+05:30'
+published_at: '2026-11-21T17:55:08Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1655
+stars: 1656
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-11-21T18:20:02.335173+05:30'
-last_seen: '2026-11-21T18:20:02.335173+05:30'
-last_checked: '2026-11-21T18:20:02.335173+05:30'
+first_seen: '2026-11-22T21:56:05.323995+05:30'
+last_seen: '2026-11-22T21:56:05.323995+05:30'
+last_checked: '2026-11-22T21:56:05.323995+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Deconstructs RAG pipeline implementation from first principles, leveraging local LLMs via `node-llama-cpp` to expose underlying mechanics.
-*   Covers core RAG primitives: embedding generation, vector similarity search, document retrieval, and context-augmented generation.
-*   Provides a JavaScript/Node.js-based educational resource for hands-on RAG system development.
+*   Implements a Retrieval-Augmented Generation (RAG) pipeline from scratch, focusing on demystifying core components.
+*   Leverages local LLMs via `node-llama-cpp` within a JavaScript/Node.js development environment.
+*   Explores fundamental RAG concepts including embedding generation, vector search, document retrieval, and context-augmented text generation.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1655
+- Stars: 1656
 - Forks: 197
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-11-20T02:21:16Z
+- Last Updated: 2026-11-21T17:55:08Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

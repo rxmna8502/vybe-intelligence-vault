@@ -8243,6 +8243,7 @@ Resources organized by keyword tags.
   - [Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](../ai/agents/arxiv-2611-12865.md)
   - [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](../ai/agents/arxiv-2610-14209.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: I built a game where you are an LLM's subagent](../ai/community/gulivan-worker755.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -10638,11 +10639,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
+  - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](../ai/community/muru-ai-assisted-rust-server-for-python-apps-by-mo.md)
   - [Pandex – Official European Law for AI Agents, over MCP](../ai/community/pandex-official-european-law-for-ai-agents-over-mc.md)
   - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md)
   - [The Mythology of Conscious AI](../ai/community/the-mythology-of-conscious-ai.md)
-  - [Together.ai: Prompt Leakage for Requests](../ai/community/together-ai-prompt-leakage-for-requests.md)
 
 ## animation
 
@@ -10683,6 +10683,7 @@ Resources organized by keyword tags.
   - [6 ways to grow your network](../ai/agents/6-ways-to-grow-your-network.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
+  - [87% of the Anthropic power will come from gas and 11% from coal in 2028](../ai/community/87-of-the-anthropic-power-will-come-from-gas-and-1.md)
   - [A Contradiction Judge Counted Reported Teammate Errors as Hallucinations: An Assertion-Aware Re-Score of One Multi-Agent LLM Harness](../ai/agents/arxiv-2606-21666.md)
   - [A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution](../ai/agents/arxiv-2610-15765.md)
   - [A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior](../ai/research/arxiv-2602-02639.md)
@@ -30411,7 +30412,6 @@ Resources organized by keyword tags.
   - [3D Motion Perception of Binocular Vision Target with PID-CNN](../ai/research/arxiv-2511-20332.md)
   - [3DCodeVerse: Exploring 3D Worlds as Code](../ai/agents/arxiv-2610-22341.md)
   - [3DTCR: Vortex-following generative reconstruction improves tropical cyclone intensity prediction from global AI weather forecasts](../ai/research/arxiv-2603-13049.md)
-  - [3dcodeverse/3dcodeverse-2m](../ai/models/huggingface-datasets-3dcodeverse.md)
   - [4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](../ai/research/arxiv-2610-08782.md)
   - [4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception](../ai/agents/arxiv-2607-09629.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
@@ -36158,6 +36158,7 @@ Resources organized by keyword tags.
   - [OPERA: Online Data Pruning for Efficient Retrieval Model Adaptation](../ai/rag/arxiv-2603-17205.md)
   - [OPFL: Optimistic Verification of Federated Learning via Empirical Boundary](../ai/research/arxiv-2609-37011.md)
   - [OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](../ai/rag/arxiv-2609-35052.md)
+  - [OPR-Project/OxfordRobotCar_OpenPlaceRecognition](../ai/models/huggingface-datasets-opr-project.md)
   - [ORAN-DEFEND: Subspace Detection and Sanitization of Backdoor DRL xApps in Open RAN](../ai/research/arxiv-2607-06647.md)
   - [ORB-SVM : An Innovative Hybrid Framework for Efficient Brain Tumor Detection from MRI Scans](../ai/research/arxiv-2609-02333.md)
   - [ORCA-bench: How Ready Are Language Model Agents for Oncall?](../ai/community/arxiv-2607-28545.md)
@@ -41659,6 +41660,7 @@ Resources organized by keyword tags.
   - [6G Native AI and Channel Foundation Models](../ai/rag/arxiv-2608-14591.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
+  - [87% of the Anthropic power will come from gas and 11% from coal in 2028](../ai/community/87-of-the-anthropic-power-will-come-from-gas-and-1.md)
   - [<mark> HTML mark text element - HTML | MDN](../ai/resources/mark-html-mark-text-element-html-mdn.md)
   - [A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis](../ai/research/arxiv-2609-26923.md)
   - [A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks](../ai/research/arxiv-2609-39058.md)
@@ -41883,7 +41885,6 @@ Resources organized by keyword tags.
   - [AI Security Priorities: A Field-Wide Agenda](../ai/agents/arxiv-2607-26069.md)
   - [AI Singapore – Medium](../ai/resources/ai-singapore-medium.md)
   - [AI Snitches Get Glitches: Towards Evading Agentic Surveillance](../ai/agents/arxiv-2606-25836.md)
-  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
   - [AI Text Humanizer - Free Without Login](../ai/rag/ai-text-humanizer-free-without-login.md)
   - [AI Tokenomics: The Economics of Tokens, Computation, and Pricing in Foundation Models](../ai/research/arxiv-2606-24616.md)
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
@@ -44488,6 +44489,7 @@ Resources organized by keyword tags.
   - [Multiply Robust Causal Mediation Analysis with Continuous Treatments](../ai/research/arxiv-2105-09254.md)
   - [Multistage Defer Trees for Hybrid Interpretability: If at First You Can't Succeed, Tree Again](../ai/research/arxiv-2606-30995.md)
   - [Multivariate quantile regression via Kolmogorov-Arnold Networks](../ai/research/arxiv-2609-23906.md)
+  - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](../ai/community/muru-ai-assisted-rust-server-for-python-apps-by-mo.md)
   - [Music-Source-Separation-Training (MSST): A Unified Framework for Training and Evaluating Music Demixing Models](../ai/research/arxiv-2607-23395.md)
   - [Muting Tokens: Exploring Token Sparsification for Efficient Audio Transformers](../ai/rag/arxiv-2610-31235.md)
   - [Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study](../ai/research/arxiv-2608-20447.md)
@@ -44788,7 +44790,6 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Past, Future, All at Once: Mitigating Stability-Plasticity Dilemma via Post-hoc JANUS Rectification](../ai/research/arxiv-2609-19985.md)
   - [Patch Rebirth: Fast and Transferable Model Inversion of Vision Transformers](../ai/rag/arxiv-2509-23235.md)
@@ -45433,6 +45434,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: I built a game where you are an LLM's subagent](../ai/community/gulivan-worker755.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -45870,7 +45872,6 @@ Resources organized by keyword tags.
   - [To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion](../ai/research/arxiv-2607-23492.md)
   - [To Nuke or Not to Nuke: LLMs' (Missing) Ethical Reasoning and Actions in a High-Stakes Decision-Making Simulation](../ai/agents/arxiv-2606-08310.md)
   - [ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](../ai/research/arxiv-2610-22883.md)
-  - [Together.ai: Prompt Leakage for Requests](../ai/community/together-ai-prompt-leakage-for-requests.md)
   - [TokAN: Accent Normalization Using Self-Supervised Speech Tokens](../ai/research/arxiv-2607-03928.md)
   - [Tongyi-MAI/MAI-UI](../ai/rag/tongyi-mai-mai-ui.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
@@ -46515,6 +46516,7 @@ Resources organized by keyword tags.
   - [pydata/pydata-sphinx-theme](../ai/rag/pydata-pydata-sphinx-theme.md)
   - [quantization — Sentence Transformers documentation](../ai/rag/quantization-sentence-transformers-documentation.md)
   - [rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference](../ai/research/arxiv-2609-19104.md)
+  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../ai/research/arxiv-2602-07832.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -46603,8 +46605,8 @@ Resources organized by keyword tags.
 
 ## hf-dataset
 
-  - [3dcodeverse/3dcodeverse-2m](../ai/models/huggingface-datasets-3dcodeverse.md)
   - [IaLoverSpaghetti/LocaIAinHTML](../ai/models/huggingface-datasets-ialoverspaghetti.md)
+  - [OPR-Project/OxfordRobotCar_OpenPlaceRecognition](../ai/models/huggingface-datasets-opr-project.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [agibot-world/AgiBotWorld2026](../ai/models/huggingface-datasets-agibot-world.md)
   - [allenai/objaverse](../ai/models/huggingface-datasets-allenai.md)
@@ -46663,13 +46665,13 @@ Resources organized by keyword tags.
 
 ## huggingface
 
-  - [3dcodeverse/3dcodeverse-2m](../ai/models/huggingface-datasets-3dcodeverse.md)
   - [AP123/IllusionDiffusion](../ai/models/huggingface-spaces-ap123.md)
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [IaLoverSpaghetti/LocaIAinHTML](../ai/models/huggingface-datasets-ialoverspaghetti.md)
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
+  - [OPR-Project/OxfordRobotCar_OpenPlaceRecognition](../ai/models/huggingface-datasets-opr-project.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [agibot-world/AgiBotWorld2026](../ai/models/huggingface-datasets-agibot-world.md)
   - [allenai/objaverse](../ai/models/huggingface-datasets-allenai.md)
@@ -47281,6 +47283,7 @@ Resources organized by keyword tags.
 ## llm
 
   - [LLMs can read and write executables byte by byte from a hex dump](../ai/community/llms-can-read-and-write-executables-byte-by-byte-f.md)
+  - [Show HN: I built a game where you are an LLM's subagent](../ai/community/gulivan-worker755.md)
 
 ## mdx
 
@@ -67213,7 +67216,6 @@ Resources organized by keyword tags.
   - [AI Simulations Grounded in Rich Self-Reports Increase Accuracy and Reduce Distortion](../ai/rag/arxiv-2411-10109.md)
   - [AI Snitches Get Glitches: Towards Evading Agentic Surveillance](../ai/agents/arxiv-2606-25836.md)
   - [AI Strategy: How to Choose What AI Product to Implement](../ai/rag/arxiv-2607-23733.md)
-  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
   - [AI Text Humanizer - Free Without Login](../ai/rag/ai-text-humanizer-free-without-login.md)
   - [AI Tool Discovery at Scale: All You Need is DNS](../ai/rag/arxiv-2607-18242.md)
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
@@ -80538,6 +80540,7 @@ Resources organized by keyword tags.
   - [6 ways to grow your network](../ai/agents/6-ways-to-grow-your-network.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
+  - [87% of the Anthropic power will come from gas and 11% from coal in 2028](../ai/community/87-of-the-anthropic-power-will-come-from-gas-and-1.md)
   - [<hex-color> CSS type - CSS | MDN](../ai/resources/hex-color-css-type-css-mdn.md)
   - [A Bi-directional Multi-solution Scalable Grover Search Algorithm](../ai/rag/arxiv-2404-15616.md)
   - [A Comprehensive Kotlin Learning Guide for All Levels - The JetBrains Blog](../ai/resources/a-comprehensive-kotlin-learning-guide-for-all-leve.md)
@@ -83465,7 +83468,6 @@ Resources organized by keyword tags.
   - [$\mu_0$: A Scalable 3D Interaction-Trace World Model](../ai/research/arxiv-2606-13769.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [2026 | CVPR Art](../ai/rag/2026-cvpr-art.md)
-  - [3dcodeverse/3dcodeverse-2m](../ai/models/huggingface-datasets-3dcodeverse.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [A Comparative Analysis of MLP and Kolmogorov-Arnold Networks (KAN) for Faster-than-Nyquist (FTN) Signaling Detection](../ai/research/arxiv-2608-02062.md)
   - [A Jointly Efficient and Near-Optimal Algorithm for Heteroskedastic Generalized Linear Bandits with Adversarial Corruptions](../ai/rag/arxiv-2602-10971.md)
@@ -93345,4 +93347,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-22T12:50:53.917392+05:30*
+*Index generated on 2026-11-22T22:11:39.432634+05:30*
