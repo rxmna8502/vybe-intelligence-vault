@@ -1,10 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-<<<<<<< Updated upstream
-Generated at: `2026-11-22T04:07:42.650532+05:30`
-=======
-Generated at: `2026-11-22T03:40:32.172696+05:30`
->>>>>>> Stashed changes
+Generated at: `2026-11-22T10:56:45.864219+05:30`
 
 ## Executive Summary
 
@@ -12,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'** - Score: `219` in category `ai/community` ([Link](https://theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)) ([File](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md))
-- **LLMs can read and write executables byte by byte from a hex dump** - Score: `151` in category `ai/community` ([Link](https://sgiannopoulos.github.io/blog/machine-code-programming)) ([File](../ai/community/llms-can-read-and-write-executables-byte-by-byte-f.md))
-- **Tropical Rainforests Species may be surprisingly young** - Score: `25` in category `ai/community` ([Link](https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html)) ([File](../ai/community/tropical-rainforests-species-may-be-surprisingly-y.md))
-- **Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust** - Score: `5` in category `ai/community` ([Link](https://contextgeneric.dev/blog/v0.8.0-release)) ([File](../ai/community/context-generic-programming-v0-8-0-pluggable-trait.md))
+- **api-evangelist/weaviate** - Score: `0` in category `world/public/vault/daily-digests/2026-11-21` ([File](../world/public/vault/daily-digests/2026-11-21/weaviate.md))
 
 ## Top Trending Resources
 
-- **Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]** - Score: `2852` (+145), Rank Change: `0` ([File](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md))
-- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+1438` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **deepseek-ai/dsh-superagent-prototype** - Score: `0` (0), Rank Change: `+1439` ([File](../ai/rag/deepseek-ai-dsh-superagent-prototype.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+20` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+20` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+20` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+20` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+22` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/search-information-retrieval.md))
+- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
+- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
+- **vercel-labs/ai-sdk-preview-rag** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **Azure/GenAIOps-project-template** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/rag/azure-genaiops-project-template.md))
+- **ritik-prog/n8n-automation-templates-5000** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1069` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **deepseek-ai/dsh-superagent-prototype** - (Rank Change: `+1439`) ([File](../ai/rag/deepseek-ai-dsh-superagent-prototype.md))
-- **The-Pocket/PocketFlow-Template-Python** - (Rank Change: `+1438`) ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **An update on independent evaluators** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/an-update-on-independent-evaluators.md))
-- **Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md))
-- **Open call for guest investigators in the life sciences** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md))
-- **Donating Agent Skills to the Agentic AI Foundation** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md))
-- **Partnerships** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/partnerships.md))
-- **Expanding our partnership with GSA to bring Claude to all levels of government** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/expanding-our-partnership-with-gsa-to-bring-claude.md))
-- **AI for Science expands to foundations and research institutions** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md))
-- **Anthropic launches roadshow for proposed initial public offering** - (Rank Change: `+115`) ([File](../ai/companies/anthropic/anthropic-launches-roadshow-for-proposed-initial-p.md))
+- **stanford-oval/storm** - (Rank Change: `+1072`) ([File](../ai/rag/stanford-oval-storm-2.md))
+- **infiniflow/ragflow** - (Rank Change: `+1072`) ([File](../ai/rag/infiniflow-ragflow.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1071`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1071`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1071`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1071`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1071`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1071`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1071`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1071`) ([File](../ai/research/arxiv-2606-06379.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -52,10 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day** (Category: `ai/community`) ([File](../ai/community/nasdaq-erases-all-2026-gains-as-ai-sell-off-dampen.md))
-- **NINLIVE: The Nine Inch Nails live archive** (Category: `ai/community`) ([File](../ai/community/ninlive-the-nine-inch-nails-live-archive.md))
-- **Why the Airbus A321XLR often gets stuck climbing for first few hours of flight** (Category: `ai/community`) ([File](../ai/community/why-the-airbus-a321xlr-often-gets-stuck-climbing-f.md))
-- **ClawDOS – An AI coding agent for DOS** (Category: `ai/community`) ([File](../ai/community/clawdos-an-ai-coding-agent-for-dos.md))
-- **Surprisingly Adorable Insect Portraits** (Category: `ai/community`) ([File](../ai/community/surprisingly-adorable-insect-portraits.md))
-- **Fewer slides, more dragons** (Category: `ai/community`) ([File](../ai/community/fewer-slides-more-dragons.md))
-- **Microsoft's SideWinder Strategic Commander was a failed attempt** (Category: `ai/community`) ([File](../ai/community/microsoft-s-sidewinder-strategic-commander-was-a-f.md))
+No recently active resources transitioned to inactive.
+
