@@ -1,19 +1,9 @@
 {
-<<<<<<< Updated upstream
-  "invalid_files_count": 2470,
-  "broken_links_count": 2456,
+  "invalid_files_count": 2471,
+  "broken_links_count": 2457,
   "duplicate_resources_count": 0,
   "duplicate_filenames_count": 0,
   "yaml_errors_count": 0,
   "validation_status": "degraded",
-  "last_successful_validation": "2026-11-22T22:35:01.012980+05:30"
-=======
-  "invalid_files_count": 186008,
-  "broken_links_count": 2154,
-  "duplicate_resources_count": 368464,
-  "duplicate_filenames_count": 0,
-  "yaml_errors_count": 0,
-  "validation_status": "degraded",
-  "last_successful_validation": "2026-11-22T22:16:24.982531+05:30"
->>>>>>> Stashed changes
+  "last_successful_validation": "2026-11-23T04:12:18.805099+05:30"
 }
