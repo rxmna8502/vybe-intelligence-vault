@@ -1,79 +1,49 @@
 ---
-title: aditya8975/ai-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-22
-tech_stack:
-- Next.js
-- FastAPI
-- LangGraph
-- Groq API
-- Supabase
-- Python
-- TypeScript
-- Tailwind CSS
-- Render
-- Vercel
+title: "ry4ever/ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "x402 Payment Protocol", "USDC (Base L2)", "Node.js"]
 quality_score: 8
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-tool agents
-- task automation
-- LangGraph
-- RAG integration
-- deployment-ready
-source: https://github.com/aditya8975/ai-agent
+rag_relevance: 9
+deployment_complexity: "Low"
+tags: ["MCP server", "pay-per-call", "AI agent tools", "micropayments", "USDC on Base"]
+source: "https://github.com/ry4ever/ai-agent"
 stars: 0
-language: Python
-last_updated: '2026-07-15T08:03:39Z'
-discovered_at: '2026-07-15T08:05:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T17:30:51Z"
+discovered_at: "2026-08-08T17:33:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A full-stack AI agent system for task automation, combining a Next.js frontend with a FastAPI backend powered by LangGraph. It enables multi-tool agent workflows with persistent chat history via Supabase and leverages Groq's free LLM API for inference.
+This repository provides an MCP server that exposes AiScale Agent Services as tools for AI agents, enabling real-world tasks like research, contract analysis, and code review with pay-per-request micropayments via x402 in USDC on Base L2. It integrates seamlessly with MCP-compatible clients like Claude, Cursor, and VS Code.
 
 ## Key Features
-- Modular agent architecture with LangGraph for ReAct loops
-- Multi-tool support (web search, file I/O, report generation)
-- Persistent chat history via Supabase PostgreSQL
-- Free-tier deployment on Render (backend) and Vercel (frontend)
-- Scalable tool integration with hot-reload on backend updates
+- Exposes AiScale Agent Services as MCP tools for AI agents
+- Pay-per-request pricing via x402 micropayments in USDC on Base L2
+- Supports deep research, contract analysis, code review, and data enrichment
+- No API keys or subscriptions required; uses wallet-based authentication
+- Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients
 
 ## Why It Matters for RAG Builders
-Provides a production-ready template for building and deploying multi-tool AI agents with minimal cost, ideal for RAG systems requiring persistent memory and external tool integration.
+It enables AI agents to perform real-world tasks with transparent, pay-per-use pricing, reducing reliance on centralized APIs and subscriptions.
 
 ## Tech Stack Deep Dive
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### LangGraph
-Automated review identified **LangGraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Groq API
-Automated review identified **Groq API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Supabase
-Automated review identified **Supabase** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tailwind CSS
-Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Render
-Automated review identified **Render** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### x402 Payment Protocol
+Automated review identified **x402 Payment Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vercel
-Automated review identified **Vercel** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### USDC (Base L2)
+Automated review identified **USDC (Base L2)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

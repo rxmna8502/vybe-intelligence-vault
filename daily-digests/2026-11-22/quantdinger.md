@@ -1,49 +1,33 @@
 ---
-title: OpenByteInc/QuantDinger
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-22
-tech_stack:
-- Python
-- PostgreSQL
-- Redis
-- Docker
-- Flask
-- Gunicorn
-- Celery
-- Prometheus
-- Grafana
-- Mermaid.js
-- OpenAPI
+title: "brokermr810/QuantDinger"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "PostgreSQL", "Redis", "Docker", "Flask", "Gunicorn", "Celery", "Prometheus", "Grafana", "OpenAPI", "Mermaid.js", "AI Agents", "MCP (Model Context Protocol)"]
 quality_score: 9
-rag_relevance: 7
-deployment_complexity: High
-tags:
-- trading automation
-- AI-driven strategies
-- self-hosted platform
-- multi-market execution
-- quantitative finance
-source: https://github.com/OpenByteInc/QuantDinger
-stars: 9755
-language: Python
-last_updated: '2026-07-19T10:22:18Z'
-discovered_at: '2026-07-19T10:26:51Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "High"
+tags: ["AI Trading", "Quantitative Finance", "Self-Hosted", "Backtesting", "Multi-Agent Systems"]
+source: "https://github.com/brokermr810/QuantDinger"
+stars: 9747
+language: "Python"
+last_updated: "2026-07-19T02:24:11Z"
+discovered_at: "2026-07-19T02:30:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-QuantDinger is an open-source AI Trading OS that enables users to develop, backtest, and execute trading strategies across crypto, stocks, and forex markets. It provides a self-hosted, local-first platform for AI-driven market research, strategy coding, and live trading with robust monitoring and observability tools.
+QuantDinger is an open-source AI Trading OS that enables users to develop, backtest, and execute trading strategies across crypto, stocks, and forex markets. It provides a self-hosted, local-first stack for AI-driven market research, strategy coding, paper/live trading, and monitoring with full control over data and execution.
 
 ## Key Features
-- End-to-end trading workflow from AI research to live execution
-- Supports paper trading and live execution with broker integrations
+- End-to-end trading workflow from AI research to live execution with paper trading support
+- Multi-broker and multi-asset strategy execution with secure credential management
 - Modular architecture with separate workers for trading, scheduling, and Celery jobs
-- Built-in observability with Prometheus, Grafana, and Alertmanager
-- Hardened production deployment with resource limits and security best practices
+- Built-in observability stack (Prometheus, Grafana, Alertmanager) for monitoring and alerts
+- Hardened production deployment with non-root containers, resource limits, and TLS support
 
 ## Why It Matters for RAG Builders
-QuantDinger provides a comprehensive, self-hosted platform for AI-driven trading workflows, enabling RAG builders to integrate strategy development, execution, and monitoring into a single stack.
+QuantDinger provides a critical orchestration layer for RAG builders to integrate AI-driven trading strategies with real-time market data and execution workflows, enabling automated decision-making and monitoring in financial applications.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -73,11 +57,17 @@ Automated review identified **Prometheus** as a key module contributing to infra
 ### Grafana
 Automated review identified **Grafana** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### OpenAPI
+Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Mermaid.js
 Automated review identified **Mermaid.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAPI
-Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### AI Agents
+Automated review identified **AI Agents** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

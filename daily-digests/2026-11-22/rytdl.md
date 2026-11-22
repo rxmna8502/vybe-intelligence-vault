@@ -1,35 +1,19 @@
 ---
-title: dinglebear-ai/rytdl
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-22
-tech_stack:
-- Rust
-- yt-dlp
-- ffmpeg
-- MCP (Model Context Protocol)
-- rclone
-- SSH
-- Plex
-- AcoustID
-- MusicBrainz
-- JSONL
-- npm
+title: "dinglebear-ai/rytdl"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "yt-dlp", "ffmpeg", "MCP (Model Context Protocol)", "rclone", "SSH", "Plex", "AcoustID", "MusicBrainz", "JSONL", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- media-download
-- MCP-server
-- metadata-tagging
-- Plex-integration
-- Rust
-source: https://github.com/dinglebear-ai/rytdl
+deployment_complexity: "Medium"
+tags: ["media-download", "MCP-server", "metadata-tagging", "Plex-integration", "Rust"]
+source: "https://github.com/dinglebear-ai/rytdl"
 stars: 1
-language: Rust
-last_updated: '2026-08-01T03:36:47Z'
-discovered_at: '2026-08-01T03:44:08Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T03:36:47Z"
+discovered_at: "2026-08-01T03:44:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
