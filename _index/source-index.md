@@ -42164,11 +42164,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](../ai/community/context-generic-programming-v0-8-0-pluggable-trait.md)
+  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
   - [LLMs can read and write executables byte by byte from a hex dump](../ai/community/llms-can-read-and-write-executables-byte-by-byte-f.md)
-  - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
+  - [Pandex – Official European Law for AI Agents, over MCP](../ai/community/pandex-official-european-law-for-ai-agents-over-mc.md)
   - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md)
-  - [Tropical Rainforests Species may be surprisingly young](../ai/community/tropical-rainforests-species-may-be-surprisingly-y.md)
+  - [The Mythology of Conscious AI](../ai/community/the-mythology-of-conscious-ai.md)
+  - [Together.ai: Prompt Leakage for Requests](../ai/community/together-ai-prompt-leakage-for-requests.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -46095,4 +46096,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-22T03:34:48.325497+05:30*
+*Index generated on 2026-11-22T12:50:54.475726+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-11-22T03:17:58.259770+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:levent-alpoge-claims-proof-of-the-generalized-riem
 first_seen: '2026-11-20T22:36:08.369672+05:30'
 last_seen: '2026-11-22T03:17:58.259770+05:30'
 last_checked: '2026-11-22T03:17:58.259770+05:30'
 health_score: 100
 ---
+
 
 # Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
 

@@ -6697,6 +6697,7 @@ Resources organized by keyword tags.
   - [Pairit: A Platform for Live Experiments on Human-AI Collaboration](../ai/agents/arxiv-2609-09789.md)
   - [PalmClaw: A Native On-Device Agent Framework for Mobile Phones](../ai/agents/arxiv-2607-13027.md)
   - [Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning](../ai/agents/arxiv-2608-16620.md)
+  - [Pandex – Official European Law for AI Agents, over MCP](../ai/community/pandex-official-european-law-for-ai-agents-over-mc.md)
   - [Pandoc - Pandoc Userâs Guide](../ai/rag/pandoc-pandoc-useras-guide.md)
   - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences](../ai/rag/arxiv-2608-28596.md)
@@ -10637,10 +10638,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](../ai/community/context-generic-programming-v0-8-0-pluggable-trait.md)
-  - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
+  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
+  - [Pandex – Official European Law for AI Agents, over MCP](../ai/community/pandex-official-european-law-for-ai-agents-over-mc.md)
   - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](../ai/community/pill-to-treat-pancreatic-cancer-hailed-as-biggest.md)
-  - [Tropical Rainforests Species may be surprisingly young](../ai/community/tropical-rainforests-species-may-be-surprisingly-y.md)
+  - [The Mythology of Conscious AI](../ai/community/the-mythology-of-conscious-ai.md)
+  - [Together.ai: Prompt Leakage for Requests](../ai/community/together-ai-prompt-leakage-for-requests.md)
 
 ## animation
 
@@ -23529,7 +23531,6 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection](../ai/rag/arxiv-2611-12976.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
@@ -41882,6 +41883,7 @@ Resources organized by keyword tags.
   - [AI Security Priorities: A Field-Wide Agenda](../ai/agents/arxiv-2607-26069.md)
   - [AI Singapore – Medium](../ai/resources/ai-singapore-medium.md)
   - [AI Snitches Get Glitches: Towards Evading Agentic Surveillance](../ai/agents/arxiv-2606-25836.md)
+  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
   - [AI Text Humanizer - Free Without Login](../ai/rag/ai-text-humanizer-free-without-login.md)
   - [AI Tokenomics: The Economics of Tokens, Computation, and Pricing in Foundation Models](../ai/research/arxiv-2606-24616.md)
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
@@ -42697,7 +42699,6 @@ Resources organized by keyword tags.
   - [Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms](../ai/rag/arxiv-2607-02681.md)
   - [Context-Aware Error Mitigation Orchestration for Hybrid Quantum Reinforcement Learning on NISQ Systems](../ai/research/arxiv-2610-01253.md)
   - [Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech](../ai/research/arxiv-2609-24016.md)
-  - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](../ai/community/context-generic-programming-v0-8-0-pluggable-trait.md)
   - [ContextNest: Verifiable Context Governance for Autonomous AI Agent](../ai/rag/arxiv-2607-02116.md)
   - [Contextual Online Uncertainty-Aware Preference Learning for Human Feedback](../ai/research/arxiv-2504-19342.md)
   - [Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech](../ai/research/arxiv-2607-26236.md)
@@ -44193,7 +44194,6 @@ Resources organized by keyword tags.
   - [Let’s get Digital! Updated Digital Identity Guidelines are Here! | NIST](../ai/resources/lets-get-digital-updated-digital-identity-guidelin.md)
   - [Lev-3B: A Data Recipe for Compact Probabilistic Log Decision Models](../ai/research/arxiv-2610-38915.md)
   - [LevelSyn: Physical-Aware Logic Synthesis via Level-Asynchronous Graph Neural Networks](../ai/rag/arxiv-2609-03594.md)
-  - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](../ai/community/anthropic-employee-claims-general-proof-of-the-rie.md)
   - [Leveraging ECRAM for Edge Continual Learning](../ai/rag/arxiv-2607-19661.md)
   - [Leveraging Extragradient for Effective Sharpness-Aware Minimization in Deep Learning](../ai/rag/arxiv-2607-06151.md)
   - [Leveraging Few-Shot Learning and Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature](../ai/rag/arxiv-2402-01826.md)
@@ -44771,6 +44771,7 @@ Resources organized by keyword tags.
   - [Pain in 3D: Generating Controllable Synthetic Faces for Automated Pain Assessment](../ai/rag/arxiv-2509-16727.md)
   - [Pairwise Difference Learning for Classification](../ai/rag/arxiv-2406-20031.md)
   - [Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning](../ai/agents/arxiv-2608-16620.md)
+  - [Pandex – Official European Law for AI Agents, over MCP](../ai/community/pandex-official-european-law-for-ai-agents-over-mc.md)
   - [Pandoc - Pandoc Userâs Guide](../ai/rag/pandoc-pandoc-useras-guide.md)
   - [Pandoc - index](../ai/rag/pandoc-index.md)
   - [Panorama: Fast-Track Nearest Neighbors](../ai/rag/arxiv-2510-00566.md)
@@ -44787,6 +44788,7 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Past, Future, All at Once: Mitigating Stability-Plasticity Dilemma via Post-hoc JANUS Rectification](../ai/research/arxiv-2609-19985.md)
   - [Patch Rebirth: Fast and Transferable Model Inversion of Vision Transformers](../ai/rag/arxiv-2509-23235.md)
@@ -45805,6 +45807,7 @@ Resources organized by keyword tags.
   - [The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms](../ai/research/arxiv-2411-12030.md)
   - [The Metric Slingshot: Navigational Reuse as Width-Optimal Structural Decoupling in Continual Learning](../ai/research/arxiv-2603-15412.md)
   - [The Moral Check: Strategic AI Governance for the Pacing Problem](../ai/research/arxiv-2609-22869.md)
+  - [The Mythology of Conscious AI](../ai/community/the-mythology-of-conscious-ai.md)
   - [The Normalization of Deviance in AI Development](../ai/agents/arxiv-2609-05749.md)
   - [The PUR-1 Cyber-Physical Digital Twin](../ai/research/arxiv-2608-30186.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
@@ -45867,6 +45870,7 @@ Resources organized by keyword tags.
   - [To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion](../ai/research/arxiv-2607-23492.md)
   - [To Nuke or Not to Nuke: LLMs' (Missing) Ethical Reasoning and Actions in a High-Stakes Decision-Making Simulation](../ai/agents/arxiv-2606-08310.md)
   - [ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](../ai/research/arxiv-2610-22883.md)
+  - [Together.ai: Prompt Leakage for Requests](../ai/community/together-ai-prompt-leakage-for-requests.md)
   - [TokAN: Accent Normalization Using Self-Supervised Speech Tokens](../ai/research/arxiv-2607-03928.md)
   - [Tongyi-MAI/MAI-UI](../ai/rag/tongyi-mai-mai-ui.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
@@ -45976,7 +45980,6 @@ Resources organized by keyword tags.
   - [Triplet Loss and Online Triplet Mining in TensorFlow | Olivier Moindrot blog](../ai/rag/triplet-loss-and-online-triplet-mining-in-tensorfl.md)
   - [Trivial Prompt Reframing Bypasses Safety Guardrails in Google\'s MedGemma-4B](../ai/research/arxiv-2607-09804.md)
   - [Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](../ai/rag/arxiv-2507-04673.md)
-  - [Tropical Rainforests Species may be surprisingly young](../ai/community/tropical-rainforests-species-may-be-surprisingly-y.md)
   - [TruLens: Evals and Tracing for AI Agents](../ai/rag/trulens-evals-and-tracing-for-agents.md)
   - [TrussTutor-Bench: Benchmarking large language models on solution accuracy, sycophancy, and error detection in statics](../ai/research/arxiv-2610-38917.md)
   - [Trust Legal Provisions (TLP) – IETF Trust](../ai/resources/trust-legal-provisions-tlp-ietf-trust.md)
@@ -67210,6 +67213,7 @@ Resources organized by keyword tags.
   - [AI Simulations Grounded in Rich Self-Reports Increase Accuracy and Reduce Distortion](../ai/rag/arxiv-2411-10109.md)
   - [AI Snitches Get Glitches: Towards Evading Agentic Surveillance](../ai/agents/arxiv-2606-25836.md)
   - [AI Strategy: How to Choose What AI Product to Implement](../ai/rag/arxiv-2607-23733.md)
+  - [AI Supply Chain Security: What Canary Tokens Found](../ai/community/ai-supply-chain-security-what-canary-tokens-found.md)
   - [AI Text Humanizer - Free Without Login](../ai/rag/ai-text-humanizer-free-without-login.md)
   - [AI Tool Discovery at Scale: All You Need is DNS](../ai/rag/arxiv-2607-18242.md)
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
@@ -93341,4 +93345,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-22T03:34:47.744074+05:30*
+*Index generated on 2026-11-22T12:50:53.917392+05:30*
