@@ -10,11 +10,11 @@ ReAct loops, human-in-the-loop, multi-agent coordination, agent memory persisten
 LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
-*   [deepset, makers of Haystack - YouTube](https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw)
-*   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
-*   [deepset-ai/haystack-integrations](https://github.com/deepset-ai/haystack-integrations)
-*   [On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management](https://arxiv.org/abs/2610.23673)
-*   [KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059)
+*   [Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](https://semanticscholar.org/paper/47525c80b47569add94a07573428685103e2a961)
+*   [SlimKV: Joint Token-Feature KV Cache Compression with Reconstruction-Free Beacon Attention](https://arxiv.org/abs/2610.02953)
+*   [Semantic Needles in Document Haystacks: Sensitivity Testing of LLM-as-a-Judge Similarity Scoring](https://arxiv.org/abs/2604.18835)
+*   [Kathleen Remembers: Length-Invariant One-Shot Recall Without Attention](https://arxiv.org/abs/2608.30376)
+*   [Enhancing diagnostic capability with multi-agents conversational large language models](https://semanticscholar.org/paper/f53f31b8ecc6d0eeba19cf21a40c0f205ff532ca)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

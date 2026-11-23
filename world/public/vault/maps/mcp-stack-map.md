@@ -10,11 +10,11 @@ MCP client-server architecture, JSON-RPC, tools, resources, prompts.
 Claude Desktop, MCP Python SDK, MCP TypeScript SDK.
 
 ## Recommended Resources from the Vault
-*   [Jpisnice/shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server)
-*   [udecode/plate](https://github.com/udecode/plate)
-*   [Prompts - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/prompts)
-*   [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub)
-*   [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
+*   [Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions](https://arxiv.org/abs/2610.14334)
+*   [CASCADE: A Component Ablation and Corpus Audit of a Layered Local Defense for MCP-Based Systems](https://arxiv.org/abs/2604.17125)
+*   [MCPGen: Benchmarking LLMs on Executable MCPWorkflow Development](https://arxiv.org/abs/2609.23925)
+*   [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733)
+*   [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](https://arxiv.org/abs/2609.10854)
 
 ## Project Ideas
 *   Create an MCP server that retrieves database schemas and writes SQL queries.

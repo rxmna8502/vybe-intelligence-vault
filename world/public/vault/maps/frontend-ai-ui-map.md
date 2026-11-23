@@ -10,11 +10,11 @@ Streaming JSON rendering, message bubble styles, typing animations, layout state
 React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
-*   [GitHub - tailwindlabs/tailwindcss-typography: Beautiful typographic defaults for HTML you don't control. · GitHub](https://tailwindcss.com/docs/typography-plugin)
-*   [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui)
-*   [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
-*   [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
-*   [Chrome Extensions | Chrome for Developers](https://developer.chrome.com/docs/extensions)
+*   [Home | Cornell Research Services](https://researchservices.cornell.edu/)
+*   [GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe · GitHub](https://github.com/algolia/firestore-algolia-search/tree/36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe)
+*   [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app)
+*   [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024)
+*   [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.
