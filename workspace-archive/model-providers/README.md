@@ -10,23 +10,23 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
-- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
+- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
+- [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-- [OpenAI · GitHub](https://github.com/openai)
-- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
+- [Mintlify · GitHub](https://github.com/mintlify)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-11-22 22:13 IST*
+*Last updated: 2026-11-23 06:48 IST*

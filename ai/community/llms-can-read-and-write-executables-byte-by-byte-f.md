@@ -13,13 +13,14 @@ collected_at: '2026-11-22T21:55:05.556659+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llms-can-read-and-write-executables-byte-by-byte-f
 first_seen: '2026-11-22T03:17:57.763946+05:30'
 last_seen: '2026-11-22T21:55:05.556659+05:30'
 last_checked: '2026-11-22T21:55:05.556659+05:30'
 health_score: 100
 ---
+
 
 # LLMs can read and write executables byte by byte from a hex dump
 

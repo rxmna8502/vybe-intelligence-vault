@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power
 hn_url: https://news.ycombinator.com/item?id=50597612
-score: 438
+score: 874
 author: happosai
-comments_count: 527
+comments_count: 883
 published_at: '2026-11-22T14:27:34+05:30'
-collected_at: '2026-11-22T21:55:03.928991+05:30'
+collected_at: '2026-11-23T06:30:34.211322+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:87-of-the-anthropic-power-will-come-from-gas-and-1
 first_seen: '2026-11-22T21:55:03.928991+05:30'
-last_seen: '2026-11-22T21:55:03.928991+05:30'
-last_checked: '2026-11-22T21:55:03.928991+05:30'
+last_seen: '2026-11-23T06:30:34.211322+05:30'
+last_checked: '2026-11-23T06:30:34.211322+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by happosai. Score: 438, Comments: 527.
+Hacker News story by happosai. Score: 874, Comments: 883.
 Original Link: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: happosai
-- Score: 438 Upvotes
-- Comments: 527 Discussions
+- Score: 874 Upvotes
+- Comments: 883 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50597612
 - Original Article: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power
 

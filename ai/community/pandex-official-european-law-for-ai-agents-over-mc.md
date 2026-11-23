@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pandex-official-european-law-for-ai-agents-over-mc
 first_seen: '2026-11-22T12:34:01.531660+05:30'
 last_seen: '2026-11-22T21:55:05.441977+05:30'
 last_checked: '2026-11-22T21:55:05.441977+05:30'
 health_score: 100
 ---
+
 
 # Pandex – Official European Law for AI Agents, over MCP
 
