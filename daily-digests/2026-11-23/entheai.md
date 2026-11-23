@@ -1,34 +1,19 @@
 ---
-title: entropy-om/entheai
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-23
-tech_stack:
-- Rust
-- SQLite
-- NATS
-- JetStream
-- Osaurus
-- ratatui
-- Ghostty
-- MCP (Model Context Protocol)
-- Git
-- Apple Silicon
+title: "entropy-om/entheai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "SQLite", "NATS", "JetStream", "Osaurus", "ratatui", "Ghostty", "MCP (Model Context Protocol)", "Git", "Apple Silicon"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- coding agent
-- hybrid AI
-- parallel execution
-- memory engine
-- federation
-source: https://github.com/entropy-om/entheai
+deployment_complexity: "High"
+tags: ["coding agent", "hybrid AI", "parallel execution", "memory engine", "federation"]
+source: "https://github.com/entropy-om/entheai"
 stars: 1
-language: Rust
-last_updated: '2026-07-21T10:22:32Z'
-discovered_at: '2026-07-21T10:24:26Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-21T10:22:32Z"
+discovered_at: "2026-07-21T10:24:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
