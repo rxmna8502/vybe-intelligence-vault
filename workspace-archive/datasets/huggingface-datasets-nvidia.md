@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: nvidia/simready-assets (Likes: 1742, Downloads: 1751763)
+Trending Hugging Face dataset: nvidia/simready-assets (Likes: 1746, Downloads: 1827869)
 
 ## Use Cases
 

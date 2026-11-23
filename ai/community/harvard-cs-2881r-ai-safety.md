@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:harvard-cs-2881r-ai-safety
 first_seen: '2026-11-23T06:30:33.812614+05:30'
 last_seen: '2026-11-23T06:30:33.812614+05:30'
 last_checked: '2026-11-23T06:30:33.812614+05:30'
 health_score: 100
 ---
+
 
 # Harvard CS 2881R AI Safety
 

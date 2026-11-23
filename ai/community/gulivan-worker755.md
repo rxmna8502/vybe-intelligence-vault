@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:gulivan/worker755
 first_seen: '2026-11-22T21:55:02.059625+05:30'
 last_seen: '2026-11-23T06:30:32.938756+05:30'
 last_checked: '2026-11-23T06:30:32.938756+05:30'
 health_score: 100
 ---
+
 
 # Show HN: I built a game where you are an LLM's subagent
 

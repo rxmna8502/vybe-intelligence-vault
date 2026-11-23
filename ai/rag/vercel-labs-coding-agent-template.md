@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-09-03T01:00:56.439254+05:30'
-published_at: '2026-09-02T03:45:46Z'
+collected_at: '2026-11-23T20:29:00.672226+05:30'
+published_at: '2026-11-21T08:51:06Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 1774
+stars: 1801
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-08-25T14:46:27Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-09-03T01:00:56.439254+05:30'
-last_seen: '2026-09-03T01:00:56.439254+05:30'
-last_checked: '2026-09-03T01:00:56.439254+05:30'
+first_seen: '2026-11-23T20:29:00.672226+05:30'
+last_seen: '2026-11-23T20:29:00.672226+05:30'
+last_checked: '2026-11-23T20:29:00.672226+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution environments and AI Gateway for optimized AI model interactions.
-- **Tech Stack**: Built in TypeScript, integrating Vercel’s serverless and edge computing infrastructure for scalable agent-based workflows.
-- **Key Features**: Enables autonomous code generation, debugging, and collaboration across distributed AI agents with real-time sandboxed execution.
+*   Multi-agent AI coding platform.
+*   Leverages Vercel Sandbox for isolated code execution.
+*   Utilizes Vercel AI Gateway for AI model orchestration, implemented in TypeScript.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1774
-- Forks: 296
+- Stars: 1801
+- Forks: 301
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-09-02T03:45:46Z
+- Last Updated: 2026-11-21T08:51:06Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

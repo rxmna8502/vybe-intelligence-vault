@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/earendil-works/pi
-collected_at: '2026-09-25T01:39:06.905802+05:30'
-published_at: '2026-09-24T20:05:23Z'
+collected_at: '2026-11-23T20:30:05.754194+05:30'
+published_at: '2026-11-23T14:57:17Z'
 tags:
 - agents
 - github-repo
 - typescript
-stars: 109162
+stars: 123482
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2025-08-09T14:03:50Z'
-pushed_at: '2026-09-24T18:51:13Z'
+pushed_at: '2026-11-23T14:28:28Z'
 resource_id: github:earendil-works/pi
-first_seen: '2026-09-25T01:39:06.905802+05:30'
-last_seen: '2026-09-25T01:39:06.905802+05:30'
-last_checked: '2026-09-25T01:39:06.905802+05:30'
+first_seen: '2026-11-23T20:30:05.754194+05:30'
+last_seen: '2026-11-23T20:30:05.754194+05:30'
+last_checked: '2026-11-23T20:30:05.754194+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Offers a unified API for abstracting and interacting with Large Language Models (LLMs).
-*   Implements a core agent loop for iterative AI agent execution and control flow.
-*   Provides a Terminal User Interface (TUI) and a dedicated Command Line Interface (CLI) for coding agent development and interaction.
+*   Offers an AI agent toolkit featuring a unified LLM API and an integrated agent loop.
+*   Provides a Terminal User Interface (TUI) and a dedicated coding agent CLI for agent interaction and development.
+*   Implemented in TypeScript, designed for building and deploying intelligent agents.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: earendil-works
-- Stars: 109162
-- Forks: 13876
+- Stars: 123482
+- Forks: 15947
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-09-24T20:05:23Z
+- Last Updated: 2026-11-23T14:57:17Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-09T14:03:50Z
-- Pushed At: 2026-09-24T18:51:13Z
+- Pushed At: 2026-11-23T14:28:28Z
 
 ## Possible Use Cases
 

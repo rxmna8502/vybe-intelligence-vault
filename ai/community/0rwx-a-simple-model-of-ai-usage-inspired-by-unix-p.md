@@ -13,13 +13,14 @@ collected_at: '2026-11-23T06:30:32.583236+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:0rwx-a-simple-model-of-ai-usage-inspired-by-unix-p
 first_seen: '2026-11-23T06:30:32.583236+05:30'
 last_seen: '2026-11-23T06:30:32.583236+05:30'
 last_checked: '2026-11-23T06:30:32.583236+05:30'
 health_score: 100
 ---
+
 
 # 0rwx – A simple model of AI usage, inspired by Unix permissions
 

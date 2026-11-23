@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-09-03T00:59:51.340971+05:30'
-published_at: '2026-08-31T22:16:05Z'
+collected_at: '2026-11-23T20:27:55.611285+05:30'
+published_at: '2026-11-19T23:24:58Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- python
+- html
 - rag
-stars: 866
-language: Python
+stars: 899
+language: HTML
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-11-23T12:40:05Z'
-pushed_at: '2026-08-24T11:50:23Z'
+pushed_at: '2026-11-18T09:28:30Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-09-03T00:59:51.340971+05:30'
-last_seen: '2026-09-03T00:59:51.340971+05:30'
-last_checked: '2026-09-03T00:59:51.340971+05:30'
+first_seen: '2026-11-23T20:27:55.611285+05:30'
+last_seen: '2026-11-23T20:27:55.611285+05:30'
+last_checked: '2026-11-23T20:27:55.611285+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates cutting-edge AI memory projects, frameworks, and tools, focusing on memory management, retrieval-augmented generation (RAG), and agentic systems.
-- **Technical Scope**: Primarily Python-based, covering topics like AI agents, memory architectures, and ML-driven memory optimization techniques.
-- **Active Maintenance**: Last updated in 2026, ensuring relevance with recent advancements in AI memory systems and long-term context retention.
+*   Catalogs diverse AI memory projects, emphasizing techniques for persistent and contextual information management in AI systems.
+*   Covers key technical areas including AI agent architectures, memory management strategies, and Retrieval Augmented Generation (RAG) implementations.
+*   Functions as a curated resource aggregation for AI memory engineering and research.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 866
-- Forks: 120
-- Language: Python
+- Stars: 899
+- Forks: 174
+- Language: HTML
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-08-31T22:16:05Z
+- Last Updated: 2026-11-19T23:24:58Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z
-- Pushed At: 2026-08-24T11:50:23Z
+- Pushed At: 2026-11-18T09:28:30Z
 
 ## Possible Use Cases
 

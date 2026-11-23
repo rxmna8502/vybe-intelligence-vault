@@ -14,13 +14,14 @@ tags:
 - anthropic
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:87-of-the-anthropic-power-will-come-from-gas-and-1
 first_seen: '2026-11-22T21:55:03.928991+05:30'
 last_seen: '2026-11-23T06:30:34.211322+05:30'
 last_checked: '2026-11-23T06:30:34.211322+05:30'
 health_score: 100
 ---
+
 
 # 87% of the Anthropic power will come from gas and 11% from coal in 2028
 
