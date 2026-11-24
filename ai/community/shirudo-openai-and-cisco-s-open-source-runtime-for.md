@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:shirudo-openai-and-cisco-s-open-source-runtime-for
 first_seen: '2026-11-24T08:32:19.969235+05:30'
 last_seen: '2026-11-24T08:32:19.969235+05:30'
 last_checked: '2026-11-24T08:32:19.969235+05:30'
 health_score: 100
 ---
+
 
 # Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux
 

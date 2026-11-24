@@ -5183,6 +5183,7 @@ Resources organized by keyword tags.
   - [LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents](../ai/agents/arxiv-2609-30662.md)
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
   - [LLM Value Functions for Credit Assignment in Agentic RL](../ai/agents/arxiv-2610-15840.md)
+  - [LLM agents work for their parent companies, not for you](../ai/community/llm-agents-work-for-their-parent-companies-not-for.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Aided Joint Secrecy Precoding and Trajectory for RSMA-Based Heterogeneous UAV Networks](../ai/agents/arxiv-2507-17188.md)
   - [LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles](../ai/agents/arxiv-2608-13450.md)
@@ -10751,10 +10752,7 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [C++26 is done (again): ISO C++ meeting trip report](../ai/community/c-26-is-done-again-iso-c-meeting-trip-report.md)
-  - [Developing the perception to separate the form of a place from what it contains](../ai/community/developing-the-perception-to-separate-the-form-of.md)
-  - [Kagi Mail (public beta)](../ai/community/kagi-mail-public-beta.md)
-  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
+  - [Declare is a UI language for you and your AI](../ai/community/declare-is-a-ui-language-for-you-and-your-ai.md)
 
 ## animation
 
@@ -29842,7 +29840,6 @@ Resources organized by keyword tags.
   - [When does a scaling result justify a different allocation? A critical review of resource-allocation evidence for AI systems](../ai/agents/arxiv-2609-14500.md)
   - [When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions](../ai/research/arxiv-2609-11166.md)
   - [When does distribution shift break graph neural networks calibration?](../ai/research/arxiv-2607-10804.md)
-  - [When evaluation becomes intervention in clinical AI](../ai/research/arxiv-2611-18297.md)
   - [When is Your LLM Steerable?](../ai/rag/arxiv-2606-11599.md)
   - [When is a System Discoverable from Data? Discovery Requires Chaos](../ai/research/arxiv-2511-08860.md)
   - [When is a better LLM worth paying for? Stochastic Optimization with Switching Mixed-Fidelity Oracles](../ai/research/arxiv-2610-21139.md)
@@ -36909,7 +36906,6 @@ Resources organized by keyword tags.
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Partially Interpretable Decision Trees](../ai/research/arxiv-2611-06428.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -42860,7 +42856,6 @@ Resources organized by keyword tags.
   - [Business Data Responsibility](../ai/rag/business-data-responsibility.md)
   - [Bénéficier d'un soutien à l'édition | Université de Strasbourg](../ai/rag/beneficier-d-un-soutien-a-l-edition-universite-de.md)
   - [C++ Programming Language - GeeksforGeeks](../ai/resources/c-programming-language-geeksforgeeks.md)
-  - [C++26 is done (again): ISO C++ meeting trip report](../ai/community/c-26-is-done-again-iso-c-meeting-trip-report.md)
   - [C-Score: Beyond Accuracy for Robustness Assessment in Semi-Supervised Learning under Open-World Unlabeled Contamination](../ai/research/arxiv-2608-20667.md)
   - [C/C++ - Visual Studio Marketplace](../ai/resources/c-c-visual-studio-marketplace.md)
   - [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md)
@@ -43291,6 +43286,7 @@ Resources organized by keyword tags.
   - [Decision-Focused Learning for Mean-Variance Portfolio Optimization via KKT-Based Reformulation](../ai/research/arxiv-2609-21427.md)
   - [Decision-oriented joint optimization of evidence fusion based on event-conditioned credibility](../ai/research/arxiv-2504-04128.md)
   - [Declarations & Communiques – Global Privacy Assembly](../ai/resources/declarations-communiques-global-privacy-assembly.md)
+  - [Declare is a UI language for you and your AI](../ai/community/declare-is-a-ui-language-for-you-and-your-ai.md)
   - [DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting](../ai/research/arxiv-2608-20052.md)
   - [Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection](../ai/research/arxiv-2609-24801.md)
   - [Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System](../ai/rag/arxiv-2602-18640.md)
@@ -43366,7 +43362,6 @@ Resources organized by keyword tags.
   - [DevOps Tutorial - GeeksforGeeks](../ai/resources/devops-tutorial-geeksforgeeks.md)
   - [Developing an Offshore Machine Learning Surface Layer Scheme](../ai/research/arxiv-2608-14935.md)
   - [Developing an Operational Model for an Internet of Data Based Trusted Data Space for Vocational Education](../ai/research/arxiv-2611-13520.md)
-  - [Developing the perception to separate the form of a place from what it contains](../ai/community/developing-the-perception-to-separate-the-form-of.md)
   - [Developing your AI BS detector (v2) - Adam Drake](../ai/rag/developing-your-ai-bs-detector-v2-adam-drake.md)
   - [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](../ai/rag/arxiv-2607-29657.md)
   - [Device Invariance using Domain Adaptation on Acoustic Scene Classification](../ai/research/arxiv-2607-25887.md)
@@ -44458,7 +44453,6 @@ Resources organized by keyword tags.
   - [KTO: Model Alignment as Prospect Theoretic Optimization](../ai/research/arxiv-2402-01306.md)
   - [KV Cache Offloading for Context-Intensive Tasks](../ai/research/arxiv-2604-08426.md)
   - [KadiAssistant: A conversational AI Agent for information retrieval in Kadi4Mat](../ai/rag/arxiv-2605-18850.md)
-  - [Kagi Mail (public beta)](../ai/community/kagi-mail-public-beta.md)
   - [Kangsan Kim - Homepage](../ai/rag/kangsan-kim-homepage.md)
   - [KangsanKim07/VideoICL](../ai/rag/kangsankim07-videoicl.md)
   - [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md)
@@ -44500,6 +44494,7 @@ Resources organized by keyword tags.
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
   - [LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs](../ai/research/arxiv-2608-03036.md)
   - [LLM University (LLMU)](../ai/resources/llm-university-llmu.md)
+  - [LLM agents work for their parent companies, not for you](../ai/community/llm-agents-work-for-their-parent-companies-not-for.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review](../ai/research/arxiv-2607-05031.md)
   - [LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark](../ai/agents/arxiv-2609-00192.md)
@@ -44542,7 +44537,6 @@ Resources organized by keyword tags.
   - [Large language models can effectively convince people to believe conspiracies](../ai/rag/arxiv-2601-05050.md)
   - [Large-scale factor analysis shows machine intelligence is only partially interpretable](../ai/research/arxiv-2609-36515.md)
   - [Latency optimization | OpenAI API](../ai/rag/latency-optimization-openai-api.md)
-  - [Latent Introspection: LLMs Can Detect Prior Concept Injections](../ai/community/arxiv-2602-20031.md)
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
@@ -45812,6 +45806,7 @@ Resources organized by keyword tags.
   - [ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening](../ai/research/arxiv-2608-12219.md)
   - [Screening Autism Spectrum Disorder in children using Deep Learning Approach : Evaluating the classification model of YOLOv26s by comparing with other models](../ai/research/arxiv-2306-14300.md)
   - [SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation](../ai/rag/arxiv-2608-03298.md)
+  - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](../ai/community/seastore-redesigning-ceph-s-storage-back-end-for-c.md)
   - [Search Cases | U.S. Copyright Office](../ai/agents/search-cases-u-s-copyright-office.md)
   - [Search Results | Atlassian Marketplace](../ai/rag/search-results-atlassian-marketplace.md)
   - [Search Results – Stanford University](../ai/resources/search-results-stanford-university.md)
@@ -45883,7 +45878,6 @@ Resources organized by keyword tags.
   - [She Works, He Works: A Curious Exploration of Gender Bias in AI-Generated Imagery](../ai/research/arxiv-2407-18524.md)
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
-  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
@@ -46844,7 +46838,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -46956,6 +46949,7 @@ Resources organized by keyword tags.
   - [paul-hammant/tbd](../ai/resources/paul-hammant-tbd.md)
   - [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md)
   - [pgf-tikz Info Page](../ai/rag/pgf-tikz-info-page.md)
+  - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
   - [pinecone-io/pinecone-claude-code-plugin](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
@@ -46997,7 +46991,6 @@ Resources organized by keyword tags.
   - [stripe/stripe-react-native](../ai/rag/stripe-stripe-react-native.md)
   - [supermldev/genvoice-ai](../ai/resources/supermldev-genvoice-ai.md)
   - [tavily-ai/tavily-search-evals](../ai/resources/tavily-ai-tavily-search-evals.md)
-  - [techwithtim/ProductionGradeRAGPythonApp](../ai/rag/techwithtim-productiongraderagpythonapp.md)
   - [temporal.io · GitHub](../ai/resources/temporal-io-github.md)
   - [tensor - YouTube](../ai/resources/tensor-youtube.md)
   - [tetaneutral.net](../ai/resources/tetaneutral-net.md)
@@ -47741,7 +47734,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Latent Introspection: LLMs Can Detect Prior Concept Injections](../ai/community/arxiv-2602-20031.md)
+  - [LLM agents work for their parent companies, not for you](../ai/community/llm-agents-work-for-their-parent-companies-not-for.md)
 
 ## mdx
 
@@ -59222,7 +59215,6 @@ Resources organized by keyword tags.
   - [Send a SCOUT First: Pre-hoc Reasoning for Adaptive Detector Allocation in Prompt-Injection Defense](../ai/agents/arxiv-2605-30837.md)
   - [Serve Gemma open models using GPUs on GKE with vLLM | GKE AI/ML | Google Cloud Documentation](../ai/rag/serve-gemma-open-models-using-gpus-on-gke-with-vll.md)
   - [Sharp First-Order Lower Bounds for Higher-Order Smooth Nonconvex Optimization](../ai/research/arxiv-2606-05438.md)
-  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
   - [Should There be a Teacher In-the-Loop? A Study of Generative AI-Personalized Tasks Middle School](../ai/research/arxiv-2602-15876.md)
   - [Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning](../ai/research/arxiv-2611-16104.md)
   - [SimGuide: Typed Multi-Context User Representations for Preference-Conditioned Agent Planning](../ai/agents/arxiv-2608-24888.md)
@@ -78157,6 +78149,7 @@ Resources organized by keyword tags.
   - [SePArate: Segmenting Patterns from Defects in Wafer Manufacturing Using Weak Supervision](../ai/rag/arxiv-2608-30410.md)
   - [SeaCausal-FL: Federated Fuzzy Causal Learning for Maritime IoT Fault Diagnosis and Counterfactual Reasoning](../ai/rag/arxiv-2609-06257.md)
   - [SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation](../ai/rag/arxiv-2608-03298.md)
+  - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](../ai/community/seastore-redesigning-ceph-s-storage-back-end-for-c.md)
   - [Search Results | Atlassian Marketplace](../ai/rag/search-results-atlassian-marketplace.md)
   - [Search Shapes Conclusions: Auditing Evidence Selection Bias in Deep Research Agents](../ai/rag/arxiv-2609-39026.md)
   - [Search | CSRC](../ai/rag/search-csrc.md)
@@ -90124,6 +90117,7 @@ Resources organized by keyword tags.
   - [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md)
   - [stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](../ai/resources/stripe-stripe-firebase-extensions.md)
   - [supabase/supabase](../ai/rag/supabase-supabase.md)
+  - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [temporalio/temporal](../ai/resources/temporalio-temporal.md)
   - [titiler/CONTRIBUTING.md at main · developmentseed/titiler · GitHub](../ai/rag/developmentseed-titiler.md)
   - [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md)
@@ -94223,4 +94217,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-24T08:49:17.659826+05:30*
+*Index generated on 2026-11-24T20:49:11.298039+05:30*

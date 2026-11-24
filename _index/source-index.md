@@ -17363,7 +17363,6 @@ Resources organized by publisher feed and query sources.
   - [Hallucinations on the Board: Tool-Augmented Evaluation of LLM Chess Commentary](../ai/rag/arxiv-2608-04240.md)
   - [Halo: Improving forecast accuracy through heteroscedastic estimation](../ai/rag/arxiv-2609-10589.md)
   - [HaloBlock: Faster and Better Decoding for Diffusion Large Language Models](../ai/rag/arxiv-2610-17948.md)
-  - [Halpern Iteration Accelerates Solving High-Order Monotone Variational Inequalities](../ai/research/arxiv-2608-08463.md)
   - [Halve-Then-Greedy: Adaptive Sampling for Posterior Success with Near-Optimal Instance Dependence](../ai/research/arxiv-2610-20997.md)
   - [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../ai/research/arxiv-2608-11911.md)
   - [Hamiltonian locality testing and certification do not achieve the Heisenberg limit](../ai/research/arxiv-2610-03205.md)
@@ -38514,7 +38513,6 @@ Resources organized by publisher feed and query sources.
   - [TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing](../ai/rag/arxiv-2605-18859.md)
   - [Twist Flow for Inverse Problems](../ai/rag/arxiv-2610-09281.md)
   - [Twisted Schr\"odinger Bridge Matching](../ai/research/arxiv-2607-16987.md)
-  - [Two $\operatorname{ReLU}$ Layers is All You Need](../ai/research/arxiv-2610-28587.md)
   - [Two Axes of LLM Abstention: Answer Correctness and Question Answerability](../ai/rag/arxiv-2607-08456.md)
   - [Two Black Boxes, One Solver: Encoder Probing and Decoder Attribution for Neural Multi-Attribute VRP under Hard-Mask and Recourse Decoders](../ai/research/arxiv-2607-04487.md)
   - [Two Calls Beat Five Agents: Evaluating Multi-Agent Pipelines Against Self-Refinement for Local Language Models](../ai/agents/arxiv-2607-26922.md)
@@ -40822,7 +40820,6 @@ Resources organized by publisher feed and query sources.
   - [When does deep reinforcement learning pay off in HVAC supervisory control? Four small Modelica case studies trained directly on FMUs](../ai/rag/arxiv-2611-22144.md)
   - [When does distribution shift break graph neural networks calibration?](../ai/research/arxiv-2607-10804.md)
   - [When does training on downscaled images yield the same gradients?](../ai/research/arxiv-2608-04448.md)
-  - [When evaluation becomes intervention in clinical AI](../ai/research/arxiv-2611-18297.md)
   - [When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning](../ai/research/arxiv-2606-16995.md)
   - [When is Warmstarting Effective for Scaling Language Models?](../ai/research/arxiv-2605-13405.md)
   - [When is Your LLM Steerable?](../ai/rag/arxiv-2606-11599.md)
@@ -42626,11 +42623,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [C++26 is done (again): ISO C++ meeting trip report](../ai/community/c-26-is-done-again-iso-c-meeting-trip-report.md)
-  - [Developing the perception to separate the form of a place from what it contains](../ai/community/developing-the-perception-to-separate-the-form-of.md)
-  - [Kagi Mail (public beta)](../ai/community/kagi-mail-public-beta.md)
-  - [Latent Introspection: LLMs Can Detect Prior Concept Injections](../ai/community/arxiv-2602-20031.md)
-  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
+  - [Declare is a UI language for you and your AI](../ai/community/declare-is-a-ui-language-for-you-and-your-ai.md)
+  - [LLM agents work for their parent companies, not for you](../ai/community/llm-agents-work-for-their-parent-companies-not-for.md)
+  - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](../ai/community/seastore-redesigning-ceph-s-storage-back-end-for-c.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -46558,4 +46553,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-24T08:49:18.243777+05:30*
+*Index generated on 2026-11-24T20:49:11.918128+05:30*

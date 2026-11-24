@@ -13,13 +13,14 @@ collected_at: '2026-11-24T08:32:19.043952+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:developing-the-perception-to-separate-the-form-of
 first_seen: '2026-11-24T08:32:19.043952+05:30'
 last_seen: '2026-11-24T08:32:19.043952+05:30'
 last_checked: '2026-11-24T08:32:19.043952+05:30'
 health_score: 100
 ---
+
 
 # Developing the perception to separate the form of a place from what it contains
 

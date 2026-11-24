@@ -13,13 +13,14 @@ collected_at: '2026-11-24T08:32:19.794302+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:c-26-is-done-again-iso-c-meeting-trip-report
 first_seen: '2026-11-24T08:32:19.794302+05:30'
 last_seen: '2026-11-24T08:32:19.794302+05:30'
 last_checked: '2026-11-24T08:32:19.794302+05:30'
 health_score: 100
 ---
+
 
 # C++26 is done (again): ISO C++ meeting trip report
 

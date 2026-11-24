@@ -25,8 +25,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [github/awesome-copilot](https://github.com/github/awesome-copilot)
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform)
 - [mlflow/mlflow](https://github.com/mlflow/mlflow)
-- [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-11-24 08:53 IST*
+*Last updated: 2026-11-24 20:53 IST*

@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: agibot-world/AgiBotWorld2026 (Likes: 115, Downloads: 2000782)
+Trending Hugging Face dataset: agibot-world/AgiBotWorld2026 (Likes: 116, Downloads: 2000168)
 
 ## Use Cases
 
