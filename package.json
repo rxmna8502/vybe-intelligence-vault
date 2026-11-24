@@ -18,6 +18,7 @@
     "build:index": "node scripts/build-index.js",
     "build:web": "npm run build --prefix world",
     "lint:web": "npm run lint --prefix world",
+    "test": "node scripts/test-mcp.js",
     "test:smoke": "node scripts/test-smoke.js"
   },
   "keywords": [
