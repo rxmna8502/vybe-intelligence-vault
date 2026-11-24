@@ -1,27 +1,19 @@
 ---
-title: xboxgameservice/mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-24
-tech_stack:
-- Model Context Protocol (MCP)
-- Windows OS
-- Public Corporate Databases
+title: "xboxgameservice/mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "Windows OS", "Public Corporate Databases"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- corporate ownership
-- AI agents
-- data enrichment
-- MCP server
-- sales intelligence
-source: https://github.com/xboxgameservice/mcp
+deployment_complexity: "Low"
+tags: ["corporate ownership", "AI agents", "data enrichment", "MCP server", "sales intelligence"]
+source: "https://github.com/xboxgameservice/mcp"
 stars: 1
-language: None
-last_updated: '2026-08-07T02:39:26Z'
-discovered_at: '2026-08-07T02:41:31Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T02:39:26Z"
+discovered_at: "2026-08-07T02:41:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

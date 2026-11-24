@@ -1,30 +1,19 @@
 ---
-title: sait-turanalp/quarry
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-24
-tech_stack:
-- Rust
-- Tree-sitter
-- Tantivy
-- Model2Vec
-- MCP (Model Context Protocol)
-- Int8 static embedding engine
+title: "sait-turanalp/quarry"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Tree-sitter", "Tantivy", "Model2Vec", "MCP (Model Context Protocol)", "Int8 static embedding engine"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- semantic search
-- code intelligence
-- local processing
-- AI agents
-- MCP server
-source: https://github.com/sait-turanalp/quarry
+deployment_complexity: "Medium"
+tags: ["semantic search", "code intelligence", "local processing", "AI agents", "MCP server"]
+source: "https://github.com/sait-turanalp/quarry"
 stars: 0
-language: Rust
-last_updated: '2026-08-05T22:13:06Z'
-discovered_at: '2026-08-05T22:15:05Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-05T22:13:06Z"
+discovered_at: "2026-08-05T22:15:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
