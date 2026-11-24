@@ -1,7 +1,7 @@
 import { useState, useMemo, useEffect } from 'react';
 import { Search, Database, Activity, Cpu, Layers, ListFilter, HelpCircle, Zap, Flame, ShieldAlert, Sparkles, Terminal } from 'lucide-react';
 import DetailPanel from './components/DetailPanel';
-import WebGLGraph from './components/WebGLGraph';
+import ArchitectureRadar from './components/ArchitectureRadar';
 import { useVaultIndex, useEventStream, useMCPBridge } from './data/vaultHooks';
 import { normalizeQuality, formatQualityScore } from './utils';
 
@@ -163,7 +163,7 @@ export default function App() {
       <div className="min-h-screen bg-[#FFE600] flex flex-col items-center justify-center p-6 border-8 border-black font-mono">
         <div className="w-16 h-16 border-8 border-black border-t-[#FF2A85] animate-spin mb-6 shadow-[6px_6px_0px_#000]" />
         <div className="bg-black text-[#00FF66] px-6 py-3 border-4 border-black font-black text-xl tracking-wider uppercase neo-shadow-lg">
-          INITIALIZING VYBE VAULT // 160K+ NODES
+          INITIALIZING VYBE VAULT // 5,200+ NODES
         </div>
         <p className="mt-4 font-bold text-black text-sm tracking-widest uppercase">
           Autonomous Synapse Mesh Ingestion In Progress...
@@ -299,7 +299,7 @@ export default function App() {
                     : 'bg-white text-black hover:bg-[#F4EFE6]'
                 }`}
               >
-                <span>🌐 ALL INTELLIGENCE</span>
+                <span>[ALL] ALL INTELLIGENCE</span>
                 <span className="bg-[#FF2A85] text-white px-2 py-0.5 text-[10px] border border-black">
                   {indexData.nodes?.length || 0}
                 </span>
@@ -320,7 +320,7 @@ export default function App() {
                         : `${meta.cardBg} hover:opacity-90`
                     }`}
                   >
-                    <span className="truncate pr-2">📂 {meta.label}</span>
+                    <span className="truncate pr-2">[DIR] {meta.label}</span>
                     <span className="bg-white text-black px-1.5 py-0.5 text-[10px] border border-black shrink-0">
                       {count}
                     </span>
@@ -368,7 +368,7 @@ export default function App() {
                 onChange={(e) => setTechFilter(e.target.value)}
                 className="w-full bg-white text-black border-3 border-black p-2 text-xs font-mono font-bold neo-shadow focus:outline-none focus:bg-[#00F0FF]"
               >
-                <option value="all">⚡ ALL TECHNOLOGIES ({availableTechs.length})</option>
+                <option value="all">ALL TECHNOLOGIES ({availableTechs.length})</option>
                 {availableTechs.map(tech => (
                   <option key={tech} value={tech}>{tech.toUpperCase()}</option>
                 ))}
@@ -477,19 +477,19 @@ export default function App() {
                   <div className="flex items-center gap-1 border-2 border-black p-0.5 bg-black">
                     <button
                       onClick={() => setViewMode('grid')}
-                      className={`px-3 py-1 font-mono font-black text-xs transition-colors ${
+                      className={`px-3 py-1 font-mono font-black text-xs transition-colors cursor-pointer ${
                         viewMode === 'grid' ? 'bg-[#FFE600] text-black' : 'bg-transparent text-white hover:text-[#FFE600]'
                       }`}
                     >
                       GRID VIEW
                     </button>
                     <button
-                      onClick={() => setViewMode('3d')}
-                      className={`px-3 py-1 font-mono font-black text-xs transition-colors ${
-                        viewMode === '3d' ? 'bg-[#00F0FF] text-black' : 'bg-transparent text-white hover:text-[#00F0FF]'
+                      onClick={() => setViewMode('radar')}
+                      className={`px-3 py-1 font-mono font-black text-xs transition-colors cursor-pointer ${
+                        viewMode === 'radar' ? 'bg-[#00F0FF] text-black' : 'bg-transparent text-white hover:text-[#00F0FF]'
                       }`}
                     >
-                      3D GRAPH (WEBGL)
+                      RADAR &amp; MCP SANDBOX
                     </button>
                   </div>
                 </div>
@@ -499,13 +499,13 @@ export default function App() {
                     onClick={() => setSearchQuery('')}
                     className="bg-[#FF2A85] text-white px-3 py-1 font-mono font-bold text-xs border-2 border-black neo-btn"
                   >
-                    CLEAR SEARCH ✕
+                    CLEAR SEARCH [X]
                   </button>
                 )}
               </div>
 
-              {viewMode === '3d' ? (
-                <WebGLGraph nodes={filteredNodes} onSelectNode={handleSelectNode} />
+              {viewMode === 'radar' ? (
+                <ArchitectureRadar nodes={filteredNodes} onSelectNode={handleSelectNode} />
               ) : (
                 <div className="flex-1 overflow-y-auto pr-1">
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 pb-8">
@@ -557,7 +557,7 @@ export default function App() {
                           </div>
 
                           <div className="bg-[#FFE600] group-hover:bg-[#FF2A85] group-hover:text-white text-black px-2.5 py-1 text-[10px] font-mono font-black border-2 border-black neo-shadow transition-colors shrink-0">
-                            INSPECT ➔
+                            INSPECT -&gt;
                           </div>
                         </div>
 
@@ -572,7 +572,7 @@ export default function App() {
                       onClick={() => setVisibleCount(prev => prev + 48)}
                       className="px-8 py-3.5 bg-[#FFE600] hover:bg-[#00F0FF] text-black text-sm font-black uppercase font-mono border-4 border-black neo-btn neo-shadow-xl"
                     >
-                      ⚡ LOAD MORE INTELLIGENCE NODES (+48)
+                      LOAD MORE INTELLIGENCE NODES (+48)
                     </button>
                   </div>
                 )}
@@ -608,7 +608,7 @@ export default function App() {
       <footer className="border-t-4 border-black bg-black text-white p-4 flex flex-col sm:flex-row items-center justify-between gap-4 font-mono text-xs font-black">
         <div className="flex items-center gap-3">
           <span className="px-2 py-0.5 bg-[#00FF66] text-black border border-white">
-            ● SYNCHRONIZED
+            [OK] SYNCHRONIZED
           </span>
           <span className="text-[#FFE600] uppercase">
             AUTONOMOUS HARVESTING CADENCE: 4H
@@ -616,7 +616,7 @@ export default function App() {
         </div>
 
         <div className="text-neutral-400 text-[11px]">
-          ENGINEERED BY <a href="https://github.com/sairaman436" target="_blank" rel="noopener noreferrer" className="text-[#00F0FF] hover:underline">@sairaman436</a> • VYBE INTELLIGENCE MATRIX
+          ENGINEERED BY <a href="https://github.com/sairaman436" target="_blank" rel="noopener noreferrer" className="text-[#00F0FF] hover:underline">@sairaman436</a> | VYBE INTELLIGENCE MATRIX
         </div>
       </footer>
 
