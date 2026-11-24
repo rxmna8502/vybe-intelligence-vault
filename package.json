@@ -1,6 +1,6 @@
 {
   "name": "vybe-vault",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Autonomous AI Engineering Knowledge Graph, Anti-Slop Truth Engine & Live IDE Agent Memory",
   "main": "bin/vybe.js",
   "files": [

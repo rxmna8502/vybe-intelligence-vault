@@ -251,6 +251,14 @@ async function handleRequest(request) {
 }
 
 function start() {
+  if (process.stdin.isTTY) {
+    console.error('\n[VYBE VAULT MCP STDIO SERVER]');
+    console.error('Status: ONLINE & LISTENING for JSON-RPC 2.0 messages.');
+    console.error('Ready for Claude Desktop, Cursor, Continue.dev, and Antigravity.');
+    console.error('Note: This process runs automatically in the background when configured in your IDE.');
+    console.error('Press Ctrl+C to exit.\n');
+  }
+
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
