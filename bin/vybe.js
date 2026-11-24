@@ -5,19 +5,19 @@
  * The Autonomous AI Engineering Toolkit & Live Agent Memory
  * 
  * Commands:
- *   npx vybe sync              Inject live verified rules into .cursorrules & AGENT.md
- *   npx vybe search <query>    Lightning search across 160k+ AI nodes & papers
- *   npx vybe mcp               Launch native zero-install stdio MCP server
- *   npx vybe matrix            Launch retro CRT Matrix terminal visualization
- *   npx vybe audit <repo>      Audit an AI repo for reproducibility & anti-slop
- *   npx vybe info              Show vault telemetry, stats, and live 3D map
+ *   npx vybe-vault sync              Inject live verified rules into .cursorrules & AGENT.md
+ *   npx vybe-vault search <query>    Lightning search across 160k+ AI nodes & papers
+ *   npx vybe-vault mcp               Launch native zero-install stdio MCP server
+ *   npx vybe-vault matrix            Launch retro CRT Matrix terminal visualization
+ *   npx vybe-vault audit <repo>      Audit an AI repo for reproducibility & anti-slop
+ *   npx vybe-vault info              Show vault telemetry, stats, and live 3D map
  */
 
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-const VERSION = '2.1.0';
+const VERSION = '2.1.1';
 const VAULT_ROOT = path.resolve(__dirname, '..');
 const LOCAL_INDEX_PATH = path.join(VAULT_ROOT, 'vault-index.json');
 const RAW_INDEX_URL = 'https://raw.githubusercontent.com/rxmna8502/vybe-intelligence-vault/main/vault-index.json';
@@ -153,7 +153,7 @@ async function cmdSync() {
   // Generate .cursorrules
   let cursorRules = `# =====================================================================
 # VYBE INTELLIGENCE VAULT: AGENT OPERATING DIRECTIVE
-# Generated automatically via \`npx vybe sync\`
+# Generated automatically via \`npx vybe-vault sync\`
 # Timestamp: ${new Date().toISOString()}
 # Knowledge Graph: https://github.com/rxmna8502/vybe-intelligence-vault
 # =====================================================================
@@ -213,7 +213,7 @@ now operates with zero hallucination risk backed by the Vybe Vault.
 
 async function cmdSearch(query) {
   if (!query) {
-    console.log(`${C.red}Please provide a search term:${C.reset} npx vybe search <query>`);
+    console.log(`${C.red}Please provide a search term:${C.reset} npx vybe-vault search <query>`);
     process.exit(1);
   }
 
@@ -313,11 +313,11 @@ ${C.bold}VAULT TELEMETRY & SYSTEM STATE${C.reset}
 - Status:          160,000+ Indexed Nodes Live & Evolving
 
 ${C.bold}QUICK COMMANDS:${C.reset}
-  ${C.yellow}npx vybe sync${C.reset}            Inject verified context into .cursorrules / AGENT.md
-  ${C.yellow}npx vybe search <term>${C.reset}   Query the 160k+ node knowledge graph
-  ${C.yellow}npx vybe mcp${C.reset}             Start zero-install MCP stdio server
-  ${C.yellow}npx vybe matrix${C.reset}          Launch retro cyberpunk terminal visualizer
-  ${C.yellow}npx vybe audit <repo>${C.reset}    Verify an AI repo against the anti-slop standard
+  ${C.yellow}npx vybe-vault sync${C.reset}            Inject verified context into .cursorrules / AGENT.md
+  ${C.yellow}npx vybe-vault search <term>${C.reset}   Query the 160k+ node knowledge graph
+  ${C.yellow}npx vybe-vault mcp${C.reset}             Start zero-install MCP stdio server
+  ${C.yellow}npx vybe-vault matrix${C.reset}          Launch retro cyberpunk terminal visualizer
+  ${C.yellow}npx vybe-vault audit <repo>${C.reset}    Verify an AI repo against the anti-slop standard
 `);
 }
 
