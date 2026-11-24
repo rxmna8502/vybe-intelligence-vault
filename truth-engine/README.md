@@ -53,7 +53,7 @@ For top 1% benchmarked architectural achievements:
 You can audit any repository right from your terminal with one command:
 
 ```bash
-npx vybe audit <owner/repo>
+npx vybe-vault audit <owner/repo>
 ```
 
 To submit your project for autonomous verification and indexing in the 3D graph, open an issue using the [Resource Suggestion Template](https://github.com/rxmna8502/vybe-intelligence-vault/issues).

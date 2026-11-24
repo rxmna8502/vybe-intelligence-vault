@@ -28,14 +28,14 @@
 
 ---
 
-### Instant IDE Superpower: `npx vybe sync`
-**Give Cursor, Claude Desktop, and Windsurf instant, zero-hallucination memory of verified 2025/2026 AI architectures:**
+### Instant IDE Superpower: `npx vybe-vault sync`
+**Give Cursor, Claude Desktop, Windsurf, or VS Code instant, zero-hallucination memory of verified AI architectures:**
 
 ```bash
 # Run this inside ANY repository:
-npx vybe sync
+npx vybe-vault sync
 ```
-*Automatically detects your stack (Next.js 15, LangGraph, vLLM, FastMCP, etc.), matches it against 160,000+ verified vault nodes, and injects clean, production-tested constraints directly into `.cursorrules`, `AGENT.md`, and `.windsurfrules`.*
+*Automatically detects your stack (Next.js 15, LangGraph, vLLM, FastMCP, etc.), matches it against verified vault nodes, and injects clean, production-tested constraints directly into `.cursorrules`, `AGENT.md`, and `.windsurfrules`.*
 
 ---
 
@@ -69,7 +69,7 @@ Vybe incorporates an automated watchdog pipeline - the **Vybe Reproducibility St
 
 ### Audit Any Repository
 ```bash
-npx vybe audit <owner/repo>
+npx vybe-vault audit <owner/repo>
 ```
 
 ### Embed Official Verification Badges
@@ -91,7 +91,7 @@ Experience knowledge exploration in retro 90s CRT Noir 3D. The vault compiles it
 - **Real-Time Force Clustering**: Nodes group organically based on vector similarity and shared technologies.
 - **Interactive Command Palette**: Press `Cmd + K` or `Ctrl + K` to jump between 160,000+ nodes instantly.
 - **Level of Detail (LOD) Rendering**: Proximity-based dynamic LOD for high-performance navigation.
-- **Hologram Matrix Mode**: Launch terminal visualizer via `npx vybe matrix`.
+- **Hologram Matrix Mode**: Launch terminal visualizer via `npx vybe-vault matrix`.
 
 ---
 
@@ -140,23 +140,23 @@ Detailed instructions in [mcp-server/README.md](mcp-server/README.md).
 
 ## Unified CLI Tooling
 
-The vault ships with an out-of-the-box CLI accessible via `npx vybe`:
+The vault ships with an out-of-the-box CLI accessible via `npx vybe-vault`:
 
 ```bash
 # Inject verified stack constraints into .cursorrules & AGENT.md
-npx vybe sync
+npx vybe-vault sync
 
-# Search across 160,000+ papers, repos, and architectural patterns
-npx vybe search "graphrag"
+# Search across papers, repos, and architectural patterns
+npx vybe-vault search "graphrag"
 
 # Audit a repository against the Anti-Slop Reproducibility Standard
-npx vybe audit vllm-project/vllm
+npx vybe-vault audit vllm-project/vllm
 
-# Launch retro CRT matrix terminal animation & view node telemetry
-npx vybe matrix
+# Launch retro terminal visualizer & view node telemetry
+npx vybe-vault matrix
 
 # View vault status, version, and active endpoints
-npx vybe info
+npx vybe-vault info
 ```
 
 ---

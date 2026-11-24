@@ -19,8 +19,8 @@ If you don't have Claude Pro, OpenAI ChatGPT Plus, or Cursor subscriptions, you 
                     v                                             v
      +------------------------------+             +------------------------------+
      |   LOCAL INFERENCE (OLLAMA)   |             |   VYBE INTELLIGENCE VAULT    |
-     | DeepSeek-R1 • Qwen 2.5 Coder |             |   npx vybe mcp (Stdio Server)|
-     | Zero Cloud Cost • Private    |             |   160k+ Architecture Nodes   |
+     | DeepSeek-R1 • Qwen 2.5 Coder |             |   npx vybe-vault mcp (Stdio) |
+     | Zero Cloud Cost • Private    |             |   Verified Architecture Nodes|
      +------------------------------+             +------------------------------+
 ```
 
@@ -100,12 +100,12 @@ Now, your local agent running DeepSeek-R1 can search cutting-edge papers, verifi
 
 ---
 
-## 4. One-Line Project Optimization: `npx vybe sync`
+## 4. One-Line Project Optimization: `npx vybe-vault sync`
 
 Before you write code in any new project, run:
 
 ```bash
-npx vybe sync
+npx vybe-vault sync
 ```
 
 It scans your local dependencies and auto-generates `.cursorrules` and `AGENT.md` customized for your stack. Continue.dev and Cline automatically read these files as system instructions.
