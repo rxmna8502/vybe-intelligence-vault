@@ -3,6 +3,13 @@
   "version": "2.1.0",
   "description": "Autonomous AI Engineering Knowledge Graph, Anti-Slop Truth Engine & Live IDE Agent Memory",
   "main": "bin/vybe.js",
+  "files": [
+    "bin",
+    "learning-paths",
+    "truth-engine",
+    "README.md",
+    "LICENSE"
+  ],
   "bin": {
     "vybe": "./bin/vybe.js",
     "vybe-vault": "./bin/vybe.js"

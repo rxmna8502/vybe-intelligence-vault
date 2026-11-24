@@ -1,0 +1,11 @@
+daily-digests/
+archives/
+workspace-archive/
+world/
+scripts/
+maps/
+ai/
+skills/
+.github/
+vault-index.json
+*.log
