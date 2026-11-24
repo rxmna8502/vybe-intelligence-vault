@@ -178,16 +178,16 @@ export default function App() {
       {/* High-Voltage Chaos Marquee Ticker */}
       <div className="bg-black text-[#FFE600] border-b-4 border-black overflow-hidden py-1.5 font-mono text-xs font-black tracking-widest uppercase">
         <div className="animate-marquee whitespace-nowrap flex gap-8">
-          <span>⚡ LIVE HARVESTER ACTIVATED</span>
-          <span>💥 160,000+ INDEXED NODES</span>
-          <span>🔥 FAST-MCP AGENT GATEWAY ONLINE</span>
-          <span>🛑 ZERO MANUAL CURATION</span>
-          <span>☣️ AUTONOMOUS REASONING SWARMS</span>
-          <span>⚡ LIVE HARVESTER ACTIVATED</span>
-          <span>💥 160,000+ INDEXED NODES</span>
-          <span>🔥 FAST-MCP AGENT GATEWAY ONLINE</span>
-          <span>🛑 ZERO MANUAL CURATION</span>
-          <span>☣️ AUTONOMOUS REASONING SWARMS</span>
+          <span>LIVE HARVESTER ACTIVE (4H CADENCE)</span>
+          <span>5,200+ VERIFIED AI REPOSITORIES</span>
+          <span>STDIO MCP GATEWAY ONLINE</span>
+          <span>ZERO API KEYS REQUIRED</span>
+          <span>DOCKER & AST REPRODUCIBILITY SCORING</span>
+          <span>LIVE HARVESTER ACTIVE (4H CADENCE)</span>
+          <span>5,200+ VERIFIED AI REPOSITORIES</span>
+          <span>STDIO MCP GATEWAY ONLINE</span>
+          <span>ZERO API KEYS REQUIRED</span>
+          <span>DOCKER & AST REPRODUCIBILITY SCORING</span>
         </div>
       </div>
 
@@ -205,7 +205,7 @@ export default function App() {
                 VYBE VAULT
               </h1>
               <span className="bg-[#FF2A85] text-white px-2 py-0.5 text-[11px] font-mono font-black border-2 border-black neo-shadow rotate-[2deg]">
-                v2.1 // PRODUCTION
+                v{typeof __APP_VERSION__ !== 'undefined' ? __APP_VERSION__ : '2.1.2'} // PRODUCTION
               </span>
             </div>
             <p className="text-[11px] font-mono font-bold text-black uppercase tracking-wider mt-0.5">
@@ -243,7 +243,7 @@ export default function App() {
             <Cpu size={14} className="text-[#00FF66]" />
             <span>MCP SERVER:</span>
             <span className="bg-[#00FF66] text-black px-1.5 py-0.2 border border-black font-mono font-bold">
-              {copiedMcp ? 'COPIED!' : 'v2.1.0 READY'}
+              {copiedMcp ? 'COPIED!' : 'v' + (typeof __APP_VERSION__ !== 'undefined' ? __APP_VERSION__ : '2.1.2') + ' READY'}
             </span>
           </button>
 
