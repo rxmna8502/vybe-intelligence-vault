@@ -10,10 +10,18 @@ const QUADRANTS = [
 ];
 
 const RINGS = [
-  { label: 'TIER 1 // SOTA VERIFIED (9.5 - 10)', minScore: 9.5, radiusRatio: 0.35, color: '#00FF66' },
-  { label: 'TIER 2 // STABLE PATTERNS (8.5 - 9.4)', minScore: 8.5, radiusRatio: 0.65, color: '#00F0FF' },
-  { label: 'TIER 3 // FRONTIER LABS (7.0 - 8.4)', minScore: 7.0, radiusRatio: 0.92, color: '#FFE600' }
+  { label: 'TIER 1 // SOTA (9.5 - 10)', minScore: 9.5, radiusRatio: 0.35, color: '#00FF66' },
+  { label: 'TIER 2 // STABLE (8.5 - 9.4)', minScore: 8.5, radiusRatio: 0.65, color: '#00F0FF' },
+  { label: 'TIER 3 // LABS (7.0 - 8.4)', minScore: 7.0, radiusRatio: 0.92, color: '#FFE600' }
 ];
+
+function getNodeQuadrant(node) {
+  const cat = (node.category || '').toLowerCase();
+  if (cat === 'ai') return QUADRANTS[0];
+  if (['maps', 'workspace-archive', 'learning-paths', 'build-ideas', 'examples', 'system-maps'].includes(cat)) return QUADRANTS[1];
+  if (['skills', 'prompts', 'mcp-server', 'web-development', 'docs', 'protocol'].includes(cat)) return QUADRANTS[2];
+  return QUADRANTS[3];
+}
 
 export default function ArchitectureRadar({ nodes, onSelectNode }) {
   const canvasRef = useRef(null);
@@ -32,33 +40,71 @@ export default function ArchitectureRadar({ nodes, onSelectNode }) {
   const [copiedMcp, setCopiedMcp] = useState(false);
   const historyEndRef = useRef(null);
 
-  // Filter nodes for the radar
+  // Filter and evenly sample nodes across all 4 quadrants for uniform radar coverage
   const radarNodes = useMemo(() => {
-    return (nodes || []).slice(0, 160).map((node, i) => {
+    if (!nodes || nodes.length === 0) return [];
+
+    const qBuckets = {
+      'ai': [],
+      'maps': [],
+      'skills': [],
+      'daily-digests': []
+    };
+
+    nodes.forEach(n => {
+      const quad = getNodeQuadrant(n);
+      qBuckets[quad.id].push({ node: n, quad });
+    });
+
+    // Sample up to 50 nodes per quadrant evenly across the entire dataset
+    const sampled = [];
+    QUADRANTS.forEach(quad => {
+      const bucket = qBuckets[quad.id] || [];
+      if (bucket.length === 0) return;
+      const count = Math.min(bucket.length, 50);
+      const step = Math.max(1, Math.floor(bucket.length / count));
+      for (let i = 0; i < count; i++) {
+        sampled.push(bucket[(i * step) % bucket.length]);
+      }
+    });
+
+    return sampled.map((item, idx) => {
+      const { node, quad } = item;
       const q = normalizeQuality(node.quality_score);
-      
-      // Determine quadrant
-      let quad = QUADRANTS[0];
-      if (node.category === 'maps' || node.category === 'workspace-archive') quad = QUADRANTS[1];
-      else if (node.category === 'skills' || node.category === 'prompts') quad = QUADRANTS[2];
-      else if (node.category === 'daily-digests') quad = QUADRANTS[3];
 
-      // Determine ring position by score
-      let rRatio = 0.85;
-      if (q >= 9.5) rRatio = 0.15 + (10 - q) * 0.35;
-      else if (q >= 8.5) rRatio = 0.40 + (9.5 - q) * 0.25;
-      else rRatio = 0.70 + (8.5 - Math.max(q, 7)) * 0.18;
+      // Deterministic hash based on title and index for consistent spatial scattering
+      let hash = 0;
+      const key = (node.title || '') + (node.path || '') + idx;
+      for (let j = 0; j < key.length; j++) {
+        hash = ((hash << 5) - hash) + key.charCodeAt(j);
+        hash |= 0;
+      }
+      hash = Math.abs(hash);
 
-      // Pseudo-random angle within quadrant bounds
-      const span = quad.angleMax - quad.angleMin - 0.2;
-      const seed = ((i * 37) % 100) / 100;
-      const angle = quad.angleMin + 0.1 + (seed * span);
+      const hAngle = (hash % 1000) / 1000;
+      const hRadius = ((hash >> 4) % 1000) / 1000;
+
+      // Radial distribution by Quality Tier
+      let minR = 0.68, maxR = 0.90;
+      if (q >= 9.5) {
+        minR = 0.16;
+        maxR = 0.35;
+      } else if (q >= 8.5) {
+        minR = 0.38;
+        maxR = 0.65;
+      }
+      const rRatio = minR + hRadius * (maxR - minR);
+
+      // Angular distribution within quadrant with padding to avoid crosshair collision
+      const anglePad = 0.14;
+      const angleSpan = (quad.angleMax - quad.angleMin) - (anglePad * 2);
+      const angle = quad.angleMin + anglePad + hAngle * angleSpan;
 
       return {
         node,
         quad,
         quality: q,
-        rRatio: Math.min(Math.max(rRatio, 0.12), 0.94),
+        rRatio: Math.min(Math.max(rRatio, 0.14), 0.92),
         angle,
         screenX: 0,
         screenY: 0
@@ -113,7 +159,7 @@ export default function ArchitectureRadar({ nodes, onSelectNode }) {
       ctx.font = '8px monospace';
       ctx.fillStyle = ring.color + 'aa';
       ctx.textAlign = 'left';
-      ctx.fillText(ring.label, cx + 8, cy - r + 12);
+      ctx.fillText(ring.label, cx + 8, cy - r - 4);
     });
 
     // Draw Quadrant Labels
@@ -130,7 +176,7 @@ export default function ArchitectureRadar({ nodes, onSelectNode }) {
 
     // Project and draw radar blips
     radarNodes.forEach((item) => {
-      const isFilteredOut = activeSector !== 'all' && item.node.category !== activeSector;
+      const isFilteredOut = activeSector !== 'all' && item.quad.id !== activeSector;
       if (isFilteredOut) return;
 
       const r = maxRadius * item.rRatio;
@@ -177,7 +223,7 @@ export default function ArchitectureRadar({ nodes, onSelectNode }) {
       let found = null;
       for (let i = radarNodes.length - 1; i >= 0; i--) {
         const item = radarNodes[i];
-        if (activeSector !== 'all' && item.node.category !== activeSector) continue;
+        if (activeSector !== 'all' && item.quad.id !== activeSector) continue;
         const dist = Math.hypot(item.screenX - mx, item.screenY - my);
         if (dist < 12) {
           found = item.node;
@@ -195,7 +241,7 @@ export default function ArchitectureRadar({ nodes, onSelectNode }) {
 
       for (let i = radarNodes.length - 1; i >= 0; i--) {
         const item = radarNodes[i];
-        if (activeSector !== 'all' && item.node.category !== activeSector) continue;
+        if (activeSector !== 'all' && item.quad.id !== activeSector) continue;
         const dist = Math.hypot(item.screenX - mx, item.screenY - my);
         if (dist < 14) {
           onSelectNode(item.node);
@@ -348,7 +394,7 @@ export default function ArchitectureRadar({ nodes, onSelectNode }) {
               FRONTIER ARCHITECTURE RADAR
             </span>
             <span className="text-neutral-400 font-mono text-[11px]">
-              Active: {radarNodes.length} Verified Nodes
+              Active: {radarNodes.length} Nodes (360 Scatter across 4 Quadrants)
             </span>
           </div>
 
