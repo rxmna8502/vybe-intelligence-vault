@@ -14,6 +14,7 @@
   <a href="#"><img src="https://img.shields.io/badge/INDEXED%20NODES-160%2C000%2B-8b5cf6?style=for-the-badge" alt="Indexed Nodes" /></a>
   <a href="https://github.com/rxmna8502/vybe-intelligence-vault/actions"><img src="https://img.shields.io/github/actions/workflow/status/rxmna8502/vybe-intelligence-vault/harvester.yml?style=for-the-badge&label=INTELLIGENCE%20PIPELINE&color=10b981&logo=githubactions&logoColor=white" alt="Pipeline Status" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-22c55e?style=for-the-badge" alt="License" /></a>
+  <a href="https://glama.ai/mcp/servers/rxmna8502/vybe-intelligence-vault"><img src="https://glama.ai/mcp/servers/rxmna8502/vybe-intelligence-vault/badges/score.svg" alt="Glama MCP Server" /></a>
 </p>
 
 <p align="center">
