@@ -3,7 +3,7 @@ title: Learn more
 archive_category: datasets
 source_category: ai/companies/deepmind
 source_url: https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models
-resource_id: blog:learn-more
+resource_id: blog:learn-more-4c0a2cea
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
 archive_score: 84

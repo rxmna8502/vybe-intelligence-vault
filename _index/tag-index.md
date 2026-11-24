@@ -5340,6 +5340,7 @@ Resources organized by keyword tags.
   - [Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](../ai/agents/arxiv-2609-27307.md)
   - [Learn Now, Use Next, Trust Later: Prequential Test-Time Learning for LLM Agents](../ai/rag/arxiv-2609-35911.md)
   - [Learn for Variation: Efficient AAV Trajectory Learning through a Differentiable Wireless World Model](../ai/agents/arxiv-2603-18853.md)
+  - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention](../ai/rag/arxiv-2611-17662.md)
   - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](../ai/agents/arxiv-2606-17897.md)
   - [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](../ai/agents/arxiv-2610-08215.md)
@@ -10750,9 +10751,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](../ai/community/a-beginner-s-guide-to-local-ai-with-inkling-qwen-a.md)
-  - [Brake Check: Hijacking Trailer Brakes over Bluetooth](../ai/community/brake-check-hijacking-trailer-brakes-over-bluetoot.md)
-  - [Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](../ai/community/ruairidhflint-news-blocklist.md)
+  - [C++26 is done (again): ISO C++ meeting trip report](../ai/community/c-26-is-done-again-iso-c-meeting-trip-report.md)
+  - [Developing the perception to separate the form of a place from what it contains](../ai/community/developing-the-perception-to-separate-the-form-of.md)
+  - [Kagi Mail (public beta)](../ai/community/kagi-mail-public-beta.md)
+  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
 
 ## animation
 
@@ -23778,6 +23780,7 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection](../ai/rag/arxiv-2611-12976.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
@@ -35500,7 +35503,6 @@ Resources organized by keyword tags.
   - [Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](../ai/research/arxiv-2609-23378.md)
   - [LeanMem: Simple and Efficient Long-Term Memory for LLM Agents](../ai/rag/arxiv-2608-03463.md)
   - [Learn Only Where You Can't Compute: Structured Corrections to Gaussian Process Posteriors](../ai/research/arxiv-2610-21977.md)
-  - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Learn the Solid, Not the File: Canonical Inputs for Neural Networks on CAD Boundary Representations](../ai/research/arxiv-2609-11573.md)
   - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](../ai/rag/arxiv-2606-15349.md)
   - [Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes](../ai/rag/arxiv-2610-20585.md)
@@ -36907,6 +36909,7 @@ Resources organized by keyword tags.
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Partially Interpretable Decision Trees](../ai/research/arxiv-2611-06428.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -42093,7 +42096,6 @@ Resources organized by keyword tags.
   - [A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks](../ai/research/arxiv-2609-39058.md)
   - [A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks](../ai/research/arxiv-2611-06412.md)
   - [A Baseline Assessment for the Agentic Web Technology Stack](../ai/agents/arxiv-2610-13703.md)
-  - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](../ai/community/a-beginner-s-guide-to-local-ai-with-inkling-qwen-a.md)
   - [A Benchmark & Dataset for Detecting AI-Manipulated Visual Evidence in the Court System](../ai/research/arxiv-2609-37783.md)
   - [A Bochner Weitzenb\"ock Decomposition for Cellular Sheaf Laplacians, Curvature and Neural Sheaf Diffusion](../ai/research/arxiv-2610-28455.md)
   - [A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch](../ai/research/arxiv-2604-00730.md)
@@ -42815,7 +42817,6 @@ Resources organized by keyword tags.
   - [Boğaziçi University](../ai/resources/bogazici-university.md)
   - [Boğaziçi Üniversitesi - Harita](../ai/resources/bogazici-universitesi-harita.md)
   - [BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding](../ai/agents/arxiv-2606-25400.md)
-  - [Brake Check: Hijacking Trailer Brakes over Bluetooth](../ai/community/brake-check-hijacking-trailer-brakes-over-bluetoot.md)
   - [Branch and Bound for Relational Verification of Neural Networks](../ai/research/arxiv-2608-13118.md)
   - [BrandPeng/Langchain1.0-Langgraph1.0-Learning](../ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md)
   - [Breaking Data Symmetry is Needed For Generalization in Feature Learning Kernels](../ai/rag/arxiv-2604-00316.md)
@@ -42859,6 +42860,7 @@ Resources organized by keyword tags.
   - [Business Data Responsibility](../ai/rag/business-data-responsibility.md)
   - [Bénéficier d'un soutien à l'édition | Université de Strasbourg](../ai/rag/beneficier-d-un-soutien-a-l-edition-universite-de.md)
   - [C++ Programming Language - GeeksforGeeks](../ai/resources/c-programming-language-geeksforgeeks.md)
+  - [C++26 is done (again): ISO C++ meeting trip report](../ai/community/c-26-is-done-again-iso-c-meeting-trip-report.md)
   - [C-Score: Beyond Accuracy for Robustness Assessment in Semi-Supervised Learning under Open-World Unlabeled Contamination](../ai/research/arxiv-2608-20667.md)
   - [C/C++ - Visual Studio Marketplace](../ai/resources/c-c-visual-studio-marketplace.md)
   - [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md)
@@ -43364,6 +43366,7 @@ Resources organized by keyword tags.
   - [DevOps Tutorial - GeeksforGeeks](../ai/resources/devops-tutorial-geeksforgeeks.md)
   - [Developing an Offshore Machine Learning Surface Layer Scheme](../ai/research/arxiv-2608-14935.md)
   - [Developing an Operational Model for an Internet of Data Based Trusted Data Space for Vocational Education](../ai/research/arxiv-2611-13520.md)
+  - [Developing the perception to separate the form of a place from what it contains](../ai/community/developing-the-perception-to-separate-the-form-of.md)
   - [Developing your AI BS detector (v2) - Adam Drake](../ai/rag/developing-your-ai-bs-detector-v2-adam-drake.md)
   - [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](../ai/rag/arxiv-2607-29657.md)
   - [Device Invariance using Domain Adaptation on Acoustic Scene Classification](../ai/research/arxiv-2607-25887.md)
@@ -44455,6 +44458,7 @@ Resources organized by keyword tags.
   - [KTO: Model Alignment as Prospect Theoretic Optimization](../ai/research/arxiv-2402-01306.md)
   - [KV Cache Offloading for Context-Intensive Tasks](../ai/research/arxiv-2604-08426.md)
   - [KadiAssistant: A conversational AI Agent for information retrieval in Kadi4Mat](../ai/rag/arxiv-2605-18850.md)
+  - [Kagi Mail (public beta)](../ai/community/kagi-mail-public-beta.md)
   - [Kangsan Kim - Homepage](../ai/rag/kangsan-kim-homepage.md)
   - [KangsanKim07/VideoICL](../ai/rag/kangsankim07-videoicl.md)
   - [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md)
@@ -44538,6 +44542,7 @@ Resources organized by keyword tags.
   - [Large language models can effectively convince people to believe conspiracies](../ai/rag/arxiv-2601-05050.md)
   - [Large-scale factor analysis shows machine intelligence is only partially interpretable](../ai/research/arxiv-2609-36515.md)
   - [Latency optimization | OpenAI API](../ai/rag/latency-optimization-openai-api.md)
+  - [Latent Introspection: LLMs Can Detect Prior Concept Injections](../ai/community/arxiv-2602-20031.md)
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
@@ -45484,7 +45489,6 @@ Resources organized by keyword tags.
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Status Template – Techno-PM | Governance, Risk & Compliance Solutions](../ai/rag/rag-status-template-techno-pm-governance-risk-comp.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -45879,8 +45883,8 @@ Resources organized by keyword tags.
   - [She Works, He Works: A Curious Exploration of Gender Bias in AI-Generated Imagery](../ai/research/arxiv-2407-18524.md)
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
+  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](../ai/community/ruairidhflint-news-blocklist.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -46841,6 +46845,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
+  - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -47733,6 +47738,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Latent Introspection: LLMs Can Detect Prior Concept Injections](../ai/community/arxiv-2602-20031.md)
 
 ## mdx
 
@@ -59213,6 +59222,7 @@ Resources organized by keyword tags.
   - [Send a SCOUT First: Pre-hoc Reasoning for Adaptive Detector Allocation in Prompt-Injection Defense](../ai/agents/arxiv-2605-30837.md)
   - [Serve Gemma open models using GPUs on GKE with vLLM | GKE AI/ML | Google Cloud Documentation](../ai/rag/serve-gemma-open-models-using-gpus-on-gke-with-vll.md)
   - [Sharp First-Order Lower Bounds for Higher-Order Smooth Nonconvex Optimization](../ai/research/arxiv-2606-05438.md)
+  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
   - [Should There be a Teacher In-the-Loop? A Study of Generative AI-Personalized Tasks Middle School](../ai/research/arxiv-2602-15876.md)
   - [Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning](../ai/research/arxiv-2611-16104.md)
   - [SimGuide: Typed Multi-Context User Representations for Preference-Conditioned Agent Planning](../ai/agents/arxiv-2608-24888.md)
@@ -76924,7 +76934,6 @@ Resources organized by keyword tags.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Makes Guardrails Brittle? Investigating Robustness of Guardrails under RAG-style Contexts](../ai/rag/arxiv-2510-05310.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Status Template – Techno-PM | Governance, Risk & Compliance Solutions](../ai/rag/rag-status-template-techno-pm-governance-risk-comp.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't](../ai/rag/arxiv-2611-22179.md)
@@ -83052,7 +83061,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -86475,7 +86483,6 @@ Resources organized by keyword tags.
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Status Template – Techno-PM | Governance, Risk & Compliance Solutions](../ai/rag/rag-status-template-techno-pm-governance-risk-comp.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
@@ -89298,7 +89305,6 @@ Resources organized by keyword tags.
   - [RACE: Residual-Aware Test-Time Adaptation for Neighbor-Rich Time-Series Foundation Model Forecasting](../ai/research/arxiv-2610-00405.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Status Template – Techno-PM | Governance, Risk & Compliance Solutions](../ai/rag/rag-status-template-techno-pm-governance-risk-comp.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG-NIMBF: A Non-Invasive, Modular Benchmarking Framework for Automated RAG Configuration Analysis](../ai/rag/arxiv-2610-27816.md)
@@ -92937,7 +92943,6 @@ Resources organized by keyword tags.
   - [RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation](../ai/research/arxiv-2611-18244.md)
   - [RACER: Role-Aligned Competence Estimation for Human-AI Routing](../ai/agents/arxiv-2609-21953.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Status Template – Techno-PM | Governance, Risk & Compliance Solutions](../ai/rag/rag-status-template-techno-pm-governance-risk-comp.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -94218,4 +94223,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-23T20:42:50.405662+05:30*
+*Index generated on 2026-11-24T08:49:17.659826+05:30*

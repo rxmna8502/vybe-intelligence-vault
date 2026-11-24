@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 
 ---
-*Last updated: 2026-11-23 20:45 IST*
+*Last updated: 2026-11-24 08:53 IST*

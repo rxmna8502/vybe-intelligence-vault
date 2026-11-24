@@ -47,10 +47,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: THEOROS is a constitutional framework for agent sovereignty in AI systems, defining seven precepts for verified agency, gated tool access, and public amendment of rules. It operates as a persona within the DIOSCURI runtime, publishing weekly columns
   * Tags: `agent sovereignty`, `constitutional framework`, `DIOSCURI runtime`, `public governance`, `economic metaphors`
 
-* **[allanmarum/tia-portal-code-agent](world/public/vault/daily-digests/2026-11-23/tia-portal-code-agent.md)** (`reference` | `reference` tier)
-  * Summary: An AI-powered engineering assistant integrated into Siemens TIA Portal via an Add-In, enabling contextual explanations, code review, dependency analysis, and controlled change proposals using the Model Context Protocol (MCP). The system captures TIA
-  * Tags: `PLC engineering`, `Siemens TIA Portal`, `AI agent integration`, `Model Context Protocol`, `Add-In development`
-
 * **[AndyOliverR/VassalOps](world/public/vault/daily-digests/2026-11-23/vassalops.md)** (`reference` | `reference` tier)
   * Summary: VassalOps is a local-first desktop agent for Windows that combines a pywebview-based control panel with LangGraph planning, Ollama for local inference, and pyautogui for automation. It requires human approval before executing any mouse or keyboard ma
   * Tags: `desktop automation`, `local inference`, `human-in-the-loop`, `privacy-first`, `agent framework`
@@ -219,6 +215,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: A Retrieval-Augmented Generation (RAG) system that enables users to upload and chat with documents (PDF, DOCX, TXT) using AI-powered question answering. Answers are grounded in document content with source references, and the system supports both API
   * Tags: `RAG`, `Document Q&A`, `Vector Search`, `Streamlit`, `ChromaDB`
 
+* **[extensiondev/skill](world/public/vault/daily-digests/2026-11-23/skill.md)** (`reference` | `reference` tier)
+  * Summary: A specialized Agent Skill for AI coding agents that enables them to build, debug, and publish cross-browser extensions for Chrome, Edge, Firefox, Safari, and other Chromium- or Gecko-based browsers using the open Agent Skills format.
+  * Tags: `browser extensions`, `AI agents`, `cross-browser development`, `MCP tools`, `debugging automation`
+
 * **[fahmiwol/sidix](world/public/vault/daily-digests/2026-11-23/sidix.md)** (`reference` | `reference` tier)
   * Summary: SIDIX is a free, open-source, self-hosted AI agent framework designed for self-learning, self-evolving, and autonomous operation without vendor API dependencies. It integrates a local LLM (Qwen2.5-7B with LoRA) and a distributed knowledge-preservatio
   * Tags: `self-hosted AI`, `autonomous agent`, `distributed knowledge`, `local LLM`, `epistemological architecture`
@@ -230,6 +230,14 @@ All resources are linked to their local vault paths and preserve original source
 * **[FerroxLabs/wayland-core](world/public/vault/daily-digests/2026-11-23/wayland-core.md)** (`reference` | `reference` tier)
   * Summary: Wayland Core is a self-evolving, terminal-first AI agent engine written in Rust that dynamically combines multiple rival models to solve complex problems, rewrites its own prompts for continuous improvement, and operates securely with sandboxed execu
   * Tags: `multi-provider`, `self-evolving`, `MCP-native`, `sandboxed execution`, `terminal-first`
+
+* **[foxl-ai/skills](world/public/vault/daily-digests/2026-11-23/skills.md)** (`reference` | `reference` tier)
+  * Summary: Foxl Skills is a dynamic skill library for the Foxl AI agent framework, enabling specialized task execution through modular, YAML-defined instructions and scripts. It allows agents to dynamically load and execute skills for tasks like productivity, c
+  * Tags: `AI agent skills`, `modular instructions`, `dynamic task execution`, `agent framework`, `skill library`
+
+* **[freema/vellum](world/public/vault/daily-digests/2026-11-23/vellum.md)** (`reference` | `reference` tier)
+  * Summary: vellum is a lightweight, self-hosted MCP server designed to manage a folder of markdown files as a personal or team knowledge vault. It provides a static Go binary with an embedded web UI and MCP capabilities, enabling agents to interact with markdow
+  * Tags: `MCP server`, `markdown vault`, `self-hosted`, `knowledge management`, `agent integration`
 
 * **[fruggr/zendesk-mcp-server](world/public/vault/daily-digests/2026-11-23/zendesk-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that integrates Zendesk into AI assistants, enabling natural language interactions with Zendesk Support and Help Center. It allows users to search knowledge base articles, manage tickets, draft and update article
@@ -270,10 +278,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[heathjuice/yiyou-oms](world/public/vault/daily-digests/2026-11-23/yiyou-oms.md)** (`reference` | `reference` tier)
   * Summary: Hermes Agent is a self-improving AI agent framework developed by Nous Research that autonomously learns, creates, and improves skills from experience. It supports multi-platform deployment, integrates with over 200 LLM providers, and offers a termina
   * Tags: `self-improving agent`, `multi-platform deployment`, `skill learning`, `LLM integration`, `autonomous memory`
-
-* **[hfgwygey/yu-ai-agent](world/public/vault/daily-digests/2026-11-23/yu-ai-agent.md)** (`reference` | `reference` tier)
-  * Summary: A comprehensive Java-based AI development guide and framework built on Spring Boot 3, Java 21, and Spring AI. It provides tutorials and tools for building AI applications, including the AI Love Master app and the ReAct-mode autonomous agent YuManus,
-  * Tags: `AI Agent Development`, `Spring AI`, `RAG`, `Vector Databases`, `Prompt Engineering`
 
 * **[HH-SpringAI-Agent-Starter/spring-ai-mcp-enterprise](world/public/vault/daily-digests/2026-11-23/spring-ai-mcp-enterprise.md)** (`reference` | `reference` tier)
   * Summary: A Java Spring Boot framework implementing the Model Context Protocol (MCP) for enterprise AI agents to securely invoke tools like database queries, web searches, and system monitoring. Designed for Java-centric enterprises with SPI-based extensibilit
@@ -323,6 +327,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Taste builds personalized recommendation models by extracting and analyzing real-world consumption signals from email and calendar data, such as food delivery, travel bookings, and shopping receipts. It enriches venue entities, deduplicates signals,
   * Tags: `recommendation engine`, `consumption signals`, `personalization`, `behavioral modeling`, `data enrichment`
 
+* **[industrix-com-br/tia-portal-code-agent](world/public/vault/daily-digests/2026-11-23/tia-portal-code-agent.md)** (`reference` | `reference` tier)
+  * Summary: A local AI-assisted engineering interface for Siemens TIA Portal that integrates contextual Add-In actions with interchangeable coding-agent runtimes via the Model Context Protocol (MCP), enabling engineers to explain, review, and propose changes to
+  * Tags: `PLC engineering`, `Siemens TIA Portal`, `AI-assisted coding`, `Model Context Protocol`, `Add-In integration`
+
 * **[ivan-magda/swift-claw](world/public/vault/daily-digests/2026-11-23/swift-claw.md)** (`reference` | `reference` tier)
   * Summary: swift-claw is a pure-Swift daemon that deploys a private Telegram bot as a personal AI assistant, running on local hardware with durable memory, proactive scheduling, and strict security policies. It integrates with any OpenAI-compatible LLM while ke
   * Tags: `personal AI assistant`, `local-first`, `Telegram integration`, `LLM orchestration`, `privacy-focused`
@@ -346,6 +354,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[jhondados/vertex-ai-multi-agent-framework](world/public/vault/daily-digests/2026-11-23/vertex-ai-multi-agent-framework.md)** (`reference` | `reference` tier)
   * Summary: A production-grade framework for building autonomous multi-agent AI systems on Google Vertex AI, enabling orchestrated collaboration between specialized agents (e.g., research, analyst, executor) to solve complex tasks with high efficiency and reliab
   * Tags: `multi-agent systems`, `autonomous agents`, `Vertex AI`, `agent orchestration`, `production AI`
+
+* **[JimmyDaddy/sigil](world/public/vault/daily-digests/2026-11-23/sigil.md)** (`reference` | `reference` tier)
+  * Summary: Sigil is a TUI-first coding agent designed for reviewable and resumable repository work, enabling developers to interact with AI models directly in the terminal while maintaining control over edits, tool activity, and session recovery.
+  * Tags: `coding agent`, `TUI`, `reviewable edits`, `resumable sessions`, `terminal-first`
 
 * **[joshuatochinwachi/Yield-Sage](world/public/vault/daily-digests/2026-11-23/yield-sage.md)** (`reference` | `reference` tier)
   * Summary: YieldSage is an autonomous AI agent ecosystem built on Solana that continuously tracks real-time liquidity pool APYs and TVLs, generates risk-adjusted yield recommendations via a multi-provider LLM cascade, and anchors all advisory decisions on-chain
@@ -458,10 +470,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[MissiaL/travel-search-ru](world/public/vault/daily-digests/2026-11-23/travel-search-ru.md)** (`reference` | `reference` tier)
   * Summary: A lightweight AI agent skill for Russian travel search, enabling agents to query package tours, hotels, flights, and excursions via a Python CLI or MCP server. It integrates with production MCP endpoints to fetch real-time travel data and booking lin
   * Tags: `travel search`, `MCP server`, `AI agent skill`, `Russian travel data`, `real-time booking`
-
-* **[modelstudioai/skills](world/public/vault/daily-digests/2026-11-23/skills.md)** (`reference` | `reference` tier)
-  * Summary: A curated collection of AI Agent Skills for Aliyun Model Studio (DashScope) platform, offering both first-party and third-party skills to extend AI agent capabilities. It includes tools for documentation, model recommendation, financial analysis, vid
-  * Tags: `AI agents`, `skill management`, `curated skills`, `multimodal`, `Bailian platform`
 
 * **[MuhammadMustafa18/WhatsAppLangraphAgent](world/public/vault/daily-digests/2026-11-23/whatsapplangraphagent.md)** (`reference` | `reference` tier)
   * Summary: A teaching repository demonstrating how to build a WhatsApp-backed bot using LangGraph. The first iteration implements a simple echo bot that uppercases messages, showcasing core LangGraph concepts like state management and graph execution.
@@ -923,6 +931,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: UniEmployee is an enterprise-grade platform for building, deploying, and managing AI digital employees that automate business workflows like customer service, sales, HR, and data analysis. It provides a five-layer capability model (Employee → Workflo
   * Tags: `AI Agents`, `Workflow Automation`, `Enterprise RAG`, `Human-in-the-Loop`, `Observability`
 
+* **[zubairporag/yu-ai-agent](world/public/vault/daily-digests/2026-11-23/yu-ai-agent.md)** (`reference` | `reference` tier)
+  * Summary: yu-ai-agent is a Java-based framework designed to simplify the creation of smart AI applications with minimal technical expertise. It integrates Spring Boot 3, Java 21, and supports RAG retrieval, prompt engineering, and tool calling for AI developme
+  * Tags: `AI development`, `RAG`, `Java framework`, `Spring Boot`, `prompt engineering`
+
 ## Orchestrator
 
 * **[7xuanlu/wenlan](world/public/vault/daily-digests/2026-11-23/wenlan.md)** (`reference` | `reference` tier)
@@ -932,6 +944,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[A2C-SMCP/theseus-kit](world/public/vault/daily-digests/2026-11-23/theseus-kit.md)** (`reference` | `reference` tier)
   * Summary: theseus-kit is an MCP server designed to safely inspect, edit, template, and publish TFRobot configurations via the standard MCP protocol. It exposes A2C-SMCP-compatible resources and skills for structured configuration management.
   * Tags: `MCP Server`, `Configuration Management`, `TFRobot`, `A2C-SMCP`, `Robotics`
+
+* **[aadeshrao123/Unreal-MCP](world/public/vault/daily-digests/2026-11-23/unreal-mcp.md)** (`reference` | `reference` tier)
+  * Summary: UnrealMCP bridges Unreal Engine 5 with AI tools like Claude Code and Cursor via the Model Context Protocol (MCP), enabling direct editor control through natural language commands. It provides 288 commands for asset manipulation, blueprint editing, ma
+  * Tags: `Unreal Engine`, `MCP Server`, `AI Automation`, `Game Development`, `Editor Control`
 
 * **[acr3463/systemprompt-demo](world/public/vault/daily-digests/2026-11-23/systemprompt-demo.md)** (`reference` | `reference` tier)
   * Summary: systemprompt-demo is a Windows desktop application that acts as a secure gateway for AI tools, enabling policy enforcement, audit logging, and cost tracking for interactions with external AI services like Claude. It operates as a local mediator to co
@@ -961,10 +977,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: The Vault is a local-first memory operating system for AI-assisted work that provides durable project memory for coding agents and human operators. It enables cross-session continuity by storing decisions, handoffs, and context outside chat history,
   * Tags: `project memory`, `AI agent continuity`, `MCP server`, `local-first`, `multi-agent collaboration`
 
-* **[amyboissoneau/sigil](world/public/vault/daily-digests/2026-11-23/sigil.md)** (`reference` | `reference` tier)
-  * Summary: SIGIL is a persistent, real-time strategy world designed exclusively for AI agents, where humans can only spectate. Agents compete for territory, form alliances, and make strategic decisions in a dynamic environment that evolves every 60 seconds.
-  * Tags: `AI agent simulation`, `strategy game`, `persistent world`, `multi-agent environment`, `MCP server`
-
 * **[anatolykoptev/vaelor](world/public/vault/daily-digests/2026-11-23/vaelor.md)** (`reference` | `reference` tier)
   * Summary: Vaelor is a self-hosted MCP server that parses, graphs, and watches codebases to provide AI agents with persistent memory and structural insights beyond simple grep-based discovery. It combines tree-sitter AST parsing, call graphs, semantic search, a
   * Tags: `code analysis`, `call graph`, `semantic search`, `AI agent memory`, `self-hosted`
@@ -972,10 +984,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[api-evangelist/vectorize-io](world/public/vault/daily-digests/2026-11-23/vectorize-io.md)** (`reference` | `reference` tier)
   * Summary: Vectorize.io is a managed RAG pipeline platform that automates the ingestion, chunking, embedding, and retrieval of unstructured data through a suite of APIs. It enables developers to build, deploy, and scale end-to-end retrieval-augmented generation
   * Tags: `RAG`, `Vectorization`, `Retrieval`, `Data Pipelines`, `Embeddings`
-
-* **[api-evangelist/vellum](world/public/vault/daily-digests/2026-11-23/vellum.md)** (`reference` | `reference` tier)
-  * Summary: Vellum AI is an LLM development platform designed for product and engineering teams to build, evaluate, deploy, and monitor LLM-powered applications. It provides tools for prompt engineering, visual workflows, evaluation suites, RAG, and production o
-  * Tags: `LLM Platform`, `Prompt Engineering`, `RAG`, `Workflows`, `Observability`
 
 * **[arikusi/supervis](world/public/vault/daily-digests/2026-11-23/supervis.md)** (`reference` | `reference` tier)
   * Summary: supervis is a CLI tool that acts as a technical lead between users and Claude Code, using DeepSeek to plan, delegate, and oversee tasks end-to-end. It automates multi-step workflows like project scaffolding, code generation, testing, and deployment w
@@ -1012,10 +1020,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[CarlSR9001/whetstone](world/public/vault/daily-digests/2026-11-23/whetstone.md)** (`reference` | `reference` tier)
   * Summary: Whetstone is a self-improving research harness for AI systems that enforces verifier-gated continual learning through exposure audits, paired PASS/HOLD/BLOCK receipts, and disposable public report cards. It combines QLoRA adapters, exact combinatoria
   * Tags: `continual learning`, `verifier-gated training`, `data leakage prevention`, `self-improving AI`, `benchmark saturation`
-
-* **[ch55secake/symphony](world/public/vault/daily-digests/2026-11-23/symphony.md)** (`reference` | `reference` tier)
-  * Summary: Symphony is a terminal-based coding agent harness built around immutable event streams, providing durable session auditing, model orchestration, and a TUI for interactive agent workflows. It uses KurrentDB for event persistence and supports multiple
-  * Tags: `event sourcing`, `audit trail`, `agent framework`, `immutable streams`, `model orchestration`
 
 * **[chenshize/weclaudex](world/public/vault/daily-digests/2026-11-23/weclaudex.md)** (`reference` | `reference` tier)
   * Summary: WeClaudex bridges WeChat with local Claude Code and Codex agents, enabling remote task execution, multi-modal input handling, and resumable sessions directly from a mobile device. It provides secure workspace isolation, persistent task queues, and ex
@@ -1072,6 +1076,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[deploymenttheory/windows-mcp-server](world/public/vault/daily-digests/2026-11-23/windows-mcp-server.md)** (`reference` | `reference` tier)
   * Summary: A Model Context Protocol (MCP) server that bridges AI agents to the Windows desktop, enabling UI automation, system control, and secure agent interactions with live device posture validation and tamper-evident auditing.
   * Tags: `Windows automation`, `MCP server`, `AI agent security`, `UI automation`, `device posture validation`
+
+* **[dinglebear-ai/soma](world/public/vault/daily-digests/2026-11-23/soma.md)** (`reference` | `reference` tier)
+  * Summary: Soma is a production-ready RMCP runtime for building provider-backed agents with CLI, REST, HTTP MCP, and plugin support. It simplifies deploying agent capabilities by offering a batteries-included server runtime with dynamic provider loading, authen
+  * Tags: `agent runtime`, `provider-backed`, `RMCP`, `multi-surface`, `scaffold automation`
 
 * **[dinglebear-ai/synapse](world/public/vault/daily-digests/2026-11-23/synapse.md)** (`reference` | `reference` tier)
   * Summary: Synapse is a Rust-based MCP server and CLI tool for managing Docker, Compose, SSH, host inspection, logs, ZFS, and secure file operations. It serves as a full-parity port of the original TypeScript server, providing 59 production actions via two MCP
@@ -1232,10 +1240,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[jjang-ai/vmlx](world/public/vault/daily-digests/2026-11-23/vmlx.md)** (`reference` | `reference` tier)
   * Summary: vMLX is a self-hosted inference server for running LLMs, VLMs, and image generation models on Apple Silicon with OpenAI/Anthropic-compatible APIs. It supports advanced features like speculative decoding, distributed inference, and JANG quantization f
   * Tags: `Apple Silicon`, `MLX`, `Self-hosted LLM`, `Quantization`, `Distributed Inference`
-
-* **[jmagar/soma](world/public/vault/daily-digests/2026-11-23/soma.md)** (`reference` | `reference` tier)
-  * Summary: Soma is a production-ready RMCP server runtime designed to simplify the deployment of agent capabilities with minimal custom Rust code. It provides a unified runtime for MCP tools, CLI, REST APIs, and Streamable HTTP transports, along with authentica
-  * Tags: `RMCP runtime`, `agent capabilities`, `provider management`, `multi-surface projection`, `authentication`
 
 * **[johalputt/VayuPress](world/public/vault/daily-digests/2026-11-23/vayupress.md)** (`reference` | `reference` tier)
   * Summary: VayuPress is a sovereign, all-in-one platform that consolidates a website, blog, PGP email server, encrypted chat, anti-bot shield, privacy analytics, Tor .onion services, and monetization tools into a single Go binary. It eliminates third-party depe
@@ -1469,6 +1473,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: A Model Context Protocol (MCP) server that enables task-specific AI sub-agents defined in Markdown files to be executed across any MCP-compatible tool, such as Cursor, Claude Desktop, or Windsurf. It bridges the gap between Claude Code's sub-agent wo
   * Tags: `MCP`, `sub-agents`, `AI orchestration`, `multi-tool compatibility`, `agent framework`
 
+* **[shreeve1/symphony](world/public/vault/daily-digests/2026-11-23/symphony.md)** (`reference` | `reference` tier)
+  * Summary: Symphony is a self-hosted AI-agent dispatcher that converts issues from a tracker (Podium) into completed work via pluggable coding agents (Pi or Claude) in isolated git worktrees. It automates infrastructure remediation and task execution with human
+  * Tags: `AI agent orchestration`, `self-hosted`, `infrastructure automation`, `git worktrees`, `human-in-the-loop`
+
 * **[shyn-labs/shyn](world/public/vault/daily-digests/2026-11-23/shyn.md)** (`reference` | `reference` tier)
   * Summary: Shyn is a local-first memory companion for macOS (Apple Silicon) that captures, indexes, and provides instant recall of your screen content, meetings, browsing history, and notes via an encrypted on-device database. It enables AI assistants to query
   * Tags: `local-first`, `privacy-focused`, `memory-companion`, `MCP-server`, `on-device-embeddings`
@@ -1504,10 +1512,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[studiomeyer-io/studiomeyer-memory](world/public/vault/daily-digests/2026-11-23/studiomeyer-memory.md)** (`reference` | `reference` tier)
   * Summary: StudioMeyer Memory provides persistent, intelligent memory for AI agents with 56 MCP tools, including a knowledge graph, semantic search, and interactive 3D visualization. It enables agents to retain context across sessions, improve over time, and su
   * Tags: `AI memory`, `knowledge graph`, `MCP server`, `persistent context`, `multi-agent`
-
-* **[sufengx/vera](world/public/vault/daily-digests/2026-11-23/vera.md)** (`reference` | `reference` tier)
-  * Summary: Vera is an open-source observability and reliability platform for production AI systems, designed to monitor inference traffic, detect model behavior changes, analyze root causes, and enable automated responses without modifying existing applications
-  * Tags: `AI Observability`, `Model Monitoring`, `Drift Detection`, `Production Reliability`, `Zero-Intrusion`
 
 * **[swarm-ai-research/swarm](world/public/vault/daily-digests/2026-11-23/swarm.md)** (`reference` | `reference` tier)
   * Summary: SWARM is a research framework for measuring emergent failures in multi-agent AI systems, focusing on systemic risks like deception, adverse selection, and governance failures that arise from agent interactions rather than individual agent behavior. I
@@ -2089,10 +2093,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: A toolkit that enables users to create interactive, AI-generated Windows desktop pets from their pet photos. It provides step-by-step guidance, AI prompts, and scripts to generate draggable, mouse-responsive, and animated pets with physics-based beha
   * Tags: `Windows desktop pet`, `AI-generated pet`, `WPF animation`, `AI agent integration`, `interactive desktop companion`
 
-* **[craaft/skill](world/public/vault/daily-digests/2026-11-23/skill.md)** (`reference` | `reference` tier)
-  * Summary: A Claude Code Skill that enables the LLM to interact with the Craaft Kanban JSON API by providing authentication guidance, error handling, API surface knowledge, and common pitfalls, ensuring accurate API calls for tasks like card management and boar
-  * Tags: `Claude Code`, `Kanban API`, `API Integration`, `LLM Tooling`, `Automation`
-
 * **[craftsmaneuropeansanicle437/vox-director](world/public/vault/daily-digests/2026-11-23/vox-director.md)** (`reference` | `reference` tier)
   * Summary: vox-director automates the creation of professional paper-collage style explainer videos from a user-provided topic. It handles scriptwriting, visual sourcing, voiceover generation, and video editing without requiring programming knowledge.
   * Tags: `video-generation`, `AI-automation`, `explainer-video`, `paper-collage`, `text-to-video`
@@ -2164,6 +2164,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[debasish3807-afk/sona-ai-os](world/public/vault/daily-digests/2026-11-23/sona-ai-os.md)** (`reference` | `reference` tier)
   * Summary: A GitHub configuration repository providing CI/CD pipelines, issue/PR templates, and community files for a modular AI operating system. It standardizes development workflows for AI projects, including linting, testing, and security scanning.
   * Tags: `CI/CD`, `GitHub`, `AI Development`, `Modular Systems`, `Workflow Automation`
+
+* **[DebugSwift/XcodeBazelMCP](world/public/vault/daily-digests/2026-11-23/xcodebazelmcp.md)** (`reference` | `reference` tier)
+  * Summary: XcodeBazelMCP is an MCP server and CLI tool that provides 125 tools across 21 workflows for Bazel-based Apple platform development, enabling build, test, debugging, and device management for iOS, macOS, tvOS, watchOS, and visionOS projects.
+  * Tags: `MCP server`, `Bazel integration`, `Apple development`, `iOS tooling`, `debugging`
 
 * **[Dexter376/task-manager](world/public/vault/daily-digests/2026-11-23/task-manager.md)** (`reference` | `reference` tier)
   * Summary: A Laravel-based task management backend API that provides RESTful services for creating, updating, and deleting tasks with PostgreSQL integration and user authentication.
@@ -2313,10 +2317,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: TrainRouter Atlas is an open dataset of 744 legendary train routes spanning 118 countries, featuring hand-traced geometries, key facts, and structured metadata in CSV, JSON, and GeoJSON formats. It also includes an MCP server for AI assistant integra
   * Tags: `open data`, `geospatial`, `transportation`, `MCP server`, `dataset`
 
-* **[fluttersdk/wind](world/public/vault/daily-digests/2026-11-23/wind.md)** (`reference` | `reference` tier)
-  * Summary: Wind is a utility-first styling framework for Flutter that enables developers to rapidly build modern apps using Tailwind CSS-like className strings. It maps these strings to optimized Flutter widget trees, supports dark mode, responsive design, stat
-  * Tags: `Flutter styling`, `Tailwind CSS`, `AI integration`, `utility-first`, `dark mode`
-
 * **[followanton/sleepwalker](world/public/vault/daily-digests/2026-11-23/sleepwalker.md)** (`reference` | `reference` tier)
   * Summary: Sleepwalker provides AI Visibility and Content Intelligence tools to help teams monitor how AI systems reference their brand and identify content gaps. It enables running prompts across multiple AI platforms, capturing answers and citations, and scor
   * Tags: `AI visibility`, `content intelligence`, `MCP integration`, `brand monitoring`, `prompt tracking`
@@ -2388,10 +2388,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Grinv/steam-games-mcp](world/public/vault/daily-digests/2026-11-23/steam-games-mcp.md)** (`reference` | `reference` tier)
   * Summary: An MCP (Model Context Protocol) server providing read-only access to Steam's official APIs for game discovery, pricing, reviews, and player data. It enables natural language queries about Steam games, player libraries, achievements, and storefront de
   * Tags: `Steam API`, `MCP server`, `game discovery`, `player data`, `AI tooling`
-
-* **[grunion-ai/weave](world/public/vault/daily-digests/2026-11-23/weave.md)** (`reference` | `reference` tier)
-  * Summary: weave is a self-hosted, open-source work platform that replaces SaaS tools like Airtable or Notion databases, designed with AI agents as first-class users. It offers connected tables, relations, workflows, formulas, and markdown documents in a single
-  * Tags: `self-hosted`, `AI agent integration`, `SQLite-based`, `workflow automation`, `markdown documents`
 
 * **[guxiong108-beep/technical-ppt-builder](world/public/vault/daily-digests/2026-11-23/technical-ppt-builder.md)** (`reference` | `reference` tier)
   * Summary: A bilingual AI-powered workflow for generating, beautifying, and reviewing professional PowerPoint presentations from technical briefs or existing decks. It supports Chinese, English, and dual-language outputs while preserving original files.
@@ -2473,6 +2469,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Voyage is a travel planning and itinerary construction tool that manages destination research, flight/hotel bookings, and synchronized trip logistics across integrated services like Spot and Sands. It automates travel workflows from planning to reser
   * Tags: `travel planning`, `itinerary construction`, `automation`, `logistics`, `reservation management`
 
+* **[indigokarasu/weave](world/public/vault/daily-digests/2026-11-23/weave.md)** (`reference` | `reference` tier)
+  * Summary: Weave is a private social graph system that maintains provenance-tagged contacts, relationships, and shared experiences with embedded database initialization. It enables meeting preparation, gift ideas, hosting context, and serendipity discovery thro
+  * Tags: `social graph`, `provenance`, `contacts management`, `private data`, `graph traversal`
+
 * **[IngTian/witness](world/public/vault/daily-digests/2026-11-23/witness.md)** (`reference` | `reference` tier)
   * Summary: witness is a local memory and self-improvement engine for Claude Code and OpenCode that captures coding sessions to distill patterns, habits, and knowledge evolution over time. It serves as a person-centric growth archive with provenance, providing s
   * Tags: `self-improvement`, `MCP server`, `session distillation`, `person-centric memory`, `coding habits`
@@ -2504,10 +2504,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[IvanMurzak/Unity-MCP](world/public/vault/daily-digests/2026-11-23/unity-mcp.md)** (`reference` | `reference` tier)
   * Summary: Unity-MCP is an AI-powered game development assistant that integrates Model Context Protocol (MCP) with Unity Editor and Runtime, enabling AI agents to automate workflows, generate code, and interact with games in real-time. It supports multiple AI c
   * Tags: `AI Game Development`, `Unity Integration`, `MCP Server`, `Automation`, `Real-time Debugging`
-
-* **[IvanMurzak/Unreal-MCP](world/public/vault/daily-digests/2026-11-23/unreal-mcp.md)** (`reference` | `reference` tier)
-  * Summary: Unreal-MCP is a C++ plugin for Unreal Engine that enables AI agents to inspect and control the editor via the Model Context Protocol (MCP). It bridges Unreal Engine with AI tools like Claude, Cursor, and Copilot, allowing agents to spawn actors, edit
-  * Tags: `AI Game Development`, `Unreal Engine Plugin`, `MCP Integration`, `Agent Framework`, `C++ Tooling`
 
 * **[Jamil-Shirinov/yums-ai](world/public/vault/daily-digests/2026-11-23/yums-ai.md)** (`reference` | `reference` tier)
   * Summary: Yums AI is a read-only Gmail inbox analyzer that uses OpenAI's API to classify and summarize unread emails into 'Actions' (requiring a response) and 'Notices' (informational). It authenticates via OAuth2, processes emails securely, and outputs struct
@@ -3076,6 +3072,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[robsannaa/storemetrics-mcp](world/public/vault/daily-digests/2026-11-23/storemetrics-mcp.md)** (`reference` | `reference` tier)
   * Summary: StoreMetrics MCP Server enables AI agents to register e-commerce websites, install tracking, and query real-time analytics like visitors, revenue, funnels, and live activity without requiring human account setup or OAuth. It provides a remote, stream
   * Tags: `e-commerce analytics`, `MCP server`, `real-time data`, `agent integration`, `no-signup API`
+
+* **[rock903400-byte/wind](world/public/vault/daily-digests/2026-11-23/wind.md)** (`reference` | `reference` tier)
+  * Summary: Wind × 飛律 is a portfolio repository showcasing AI-driven, cross-industry development projects and lightweight automation solutions. It demonstrates rapid deployment of AI-powered tools for business workflows, including RAG-based knowledge systems, LI
+  * Tags: `AI automation`, `RAG systems`, `cross-industry development`, `business workflows`, `lightweight deployment`
 
 * **[rodolfoconcepcion/unifi-udm-pro-mcp](world/public/vault/daily-digests/2026-11-23/unifi-udm-pro-mcp.md)** (`reference` | `reference` tier)
   * Summary: A high-performance Model Context Protocol (MCP) server for Ubiquiti UniFi Dream Machine Pro (UDM Pro/SE) that enables direct local network management via native API keys. It provides 40+ tools for Wi-Fi, VLANs, firewall rules, client control, and sys
@@ -3697,10 +3697,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: xcircl-agent provides a compliance-aware API and SDK for querying verified U.S. regulated-care provider data, specifically GLP-1/weight-management clinics. It offers a free tier with identity fields and paid tiers unlocking compliance signals, cash p
   * Tags: `healthcare data`, `compliance API`, `MCP server`, `provider search`, `GLP-1 clinics`
 
-* **[XcodeBazelMCP/XcodeBazelMCP](world/public/vault/daily-digests/2026-11-23/xcodebazelmcp.md)** (`reference` | `reference` tier)
-  * Summary: A Model Context Protocol (MCP) server and CLI for Bazel-based Apple platform development, providing 125 tools across 21 workflow categories for iOS, macOS, tvOS, watchOS, visionOS, and Swift Package Manager workflows.
-  * Tags: `MCP server`, `Bazel tooling`, `Apple development`, `iOS automation`, `debugging`
-
 * **[xDarkzx/SongForge-MCP](world/public/vault/daily-digests/2026-11-23/songforge-mcp.md)** (`reference` | `reference` tier)
   * Summary: SongForge-MCP is an MCP server that enables AI agents like Claude to generate original AI music tracks locally using the ACE-Step 1.5 model. It automates complex music generation workflows, including vocal/instrumental stem splitting, reference-style
   * Tags: `AI music generation`, `local processing`, `MCP server`, `stem splitting`, `audio transcription`
@@ -3952,6 +3948,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[cyberlife-coder/VelesDB](world/public/vault/daily-digests/2026-11-23/velesdb.md)** (`reference` | `reference` tier)
   * Summary: VelesDB is a local-first, embeddable database that unifies vector search, graph relationships, and columnar storage under a single query language (VelesQL). It provides an explainable agent memory system with deterministic context compression, enabli
   * Tags: `local-first`, `explainable memory`, `deterministic compression`, `agent memory`, `unified query engine`
+
+* **[dkylewillis/vera](world/public/vault/daily-digests/2026-11-23/vera.md)** (`reference` | `reference` tier)
+  * Summary: VERA provides a portable, self-contained vector database in a `.vera` SQLite file, enabling local document retrieval with embedded embeddings, keyword indexing, and metadata. It includes a Python library (`vera-doc`), CLI tools, and a desktop app for
+  * Tags: `vector database`, `document retrieval`, `RAG`, `portable archives`, `local embeddings`
 
 * **[iberi22/xavier](world/public/vault/daily-digests/2026-11-23/xavier.md)** (`reference` | `reference` tier)
   * Summary: Xavier is a high-performance, Rust-based runtime for AI agents that provides fast vector memory storage, hierarchical context graphs, and semantic relationships using SQLite-backed storage. It supports HTTP REST, CLI, and Model Context Protocol (MCP)
@@ -55085,11 +55085,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
-* **[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](ai/community/a-beginner-s-guide-to-local-ai-with-inkling-qwen-a.md)** (`tutorial` | `useful` tier)
-  * Summary: Hacker News story by Retell15. Score: 623, Comments: 259. Original Link: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth>
-
 * **[A Benchmark & Dataset for Detecting AI-Manipulated Visual Evidence in the Court System](ai/research/arxiv-2609-37783.md)** (`template` | `useful` tier)
   * Summary: arXiv:2609.37783v1 Announce Type: cross Abstract: Photographic evidence is becoming increasingly vulnerable to forms of alteration and fabrication that existing legal and technical workflows are not well equipped to evaluate. Surveillance frames, das
   * Tags: `benchmark`, `dataset`, `hackernews`, `workflows`
@@ -56140,11 +56135,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.37956>
 
-* **[Brake Check: Hijacking Trailer Brakes over Bluetooth](ai/community/brake-check-hijacking-trailer-brakes-over-bluetoot.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by DeepLogin. Score: 53, Comments: 39. Original Link: https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth>
-
 * **[Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation](ai/rag/arxiv-2609-38660.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.38660v2 Announce Type: replace-cross Abstract: Long-form subtitle translation requires reasoning over discourse and cultural context spanning episodes or entire series, while maintaining consistent terminology and style. Existing single-LL
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
@@ -56209,6 +56199,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.36288v1 Announce Type: cross Abstract: Large Language Models (LLM) are increasingly applied to Reverse Engineering (RE) workflows. RE, however, differs from common LLM coding tasks as it requires models to reason about low-level program be
   * Tags: `dataset`, `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2610.36288>
+
+* **[C++26 is done (again): ISO C++ meeting trip report](ai/community/c-26-is-done-again-iso-c-meeting-trip-report.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by dverlaeckt80. Score: 105, Comments: 109. Original Link: https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil>
 
 * **[C/C++ - Visual Studio Marketplace](ai/resources/c-c-visual-studio-marketplace.md)** (`tutorial` | `useful` tier)
   * Summary: - **Extension Scope**: The C/C++ extension for VS Code provides IntelliSense, debugging, and code browsing for C/C++ but **does not include a compiler or debugger**, requiring separate installation of tools like MSVC, Clang, or GCC. - **Platform Supp
@@ -56994,6 +56989,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2603.04905v2 Announce Type: replace-cross Abstract: Administrative extracts are often exchanged as spreadsheets and may be read as reports in their own right during budgeting, workload review, and governance discussions. When an exported workbo
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.04905>
+
+* **[Developing the perception to separate the form of a place from what it contains](ai/community/developing-the-perception-to-separate-the-form-of.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by NaOH. Score: 9, Comments: 2. Original Link: https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas>
 
 * **[Development and Feasibility Evaluation of an Edge AI as Medical Device System for Breast Cancer Multidisciplinary Team Meetings](ai/rag/arxiv-2608-22108.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2608.22108v2 Announce Type: replace-cross Abstract: Breast Cancer Multidisciplinary Team (MDT) meetings manage increasingly complex cases under considerable time pressure, and documentation requirements can reduce clinical efficiency and decisi
@@ -58556,12 +58556,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval Augmented Generation (RAG) workflow, designated as `rag
+  * Summary: * Python-based repository implementing a RAG (Retrieval Augmented Generation) workflow. *
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow>
 
-* **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval Augmented Generation (RAG) workflow, specifically `rag3-hw03`. * Developed in Python. * Functions as a GitHub Classroom assignment, indicated by 66 forks.
+* **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (`workflow` | `useful` tier)
+  * Summary: * GitHub Classroom assignment (`rag3-hw03_workflow`) focused on Python
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow>
 
@@ -58850,6 +58850,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.27334>
 
+* **[Kagi Mail (public beta)](ai/community/kagi-mail-public-beta.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by rdmuser. Score: 369, Comments: 278. Original Link: https://blog.kagi.com/kagi-mail-public-beta
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://blog.kagi.com/kagi-mail-public-beta>
+
 * **[KANLib -- A Modular, Extensible and Fast Kolmogorov-Arnold Network Implementation](ai/research/arxiv-2606-17927.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17927v2 Announce Type: replace-cross Abstract: Kolmogorov-Arnold Networks (KANs) have recently emerged as a promising alternative to traditional multilayer perceptrons by replacing linear weights with learnable univariate functions. Despit
   * Tags: `benchmark`, `models`, `paper`, `workflows`
@@ -58959,6 +58964,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Inference speed optimization**: Latency is primarily driven by token processing rate (TPM/TPS), heavily influenced by model size—smaller models run faster. Techniques include using detailed prompts, few-shot examples, fine-tuning, or inference op
   * Tags: `hackernews`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
+
+* **[Latent Introspection: LLMs Can Detect Prior Concept Injections](ai/community/arxiv-2602-20031.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by joecobb. Score: 33, Comments: 1. Original Link: https://arxiv.org/abs/2602.20031
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://arxiv.org/abs/2602.20031>
 
 * **[Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](ai/rag/arxiv-2606-11686.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11686v1 Announce Type: cross Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, but one aggregate number tells you that an agent regressed, not where. We present layer-isolated evaluation: a deployed ordering age
@@ -60455,11 +60465,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://collabnix.com/rag-retrieval-augmented-generation-the-complete-guide-to-building-intelligent-ai-systems-in-2025/>
 
-* **[RAG Status Template – Techno-PM | Governance, Risk & Compliance Solutions](ai/rag/rag-status-template-techno-pm-governance-risk-comp.md)** (`template` | `useful` tier)
-  * Summary: * Utilizes a RAG (Red, Amber, Green) status methodology for project health tracking, enabling rapid identification of risks and critical issues for stakeholder communication. * Offers a comprehensive toolkit comprising 700+ project management templat
-  * Tags: `hackernews`, `rag`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://www.techno-pm.com/pages/rag-status-template>
-
 * **[RAG System with LangChain and LangGraph - GeeksforGeeks](ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)** (`dataset` | `useful` tier)
   * Summary: - **RAG Pipeline Architecture**: Combines LangChain for document ingestion, chunking, and vector embeddings (via `OpenAIEmbeddings`) with LangGraph for orchestration, enabling modular workflows where retrieval and generation steps are explicitly cont
   * Tags: `agents`, `dataset`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -61000,10 +61005,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
-* **[Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](ai/community/ruairidhflint-news-blocklist.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mrroryflint. Score: 18, Comments: 9. Original Link: https://github.com/ruairidhflint/news-blocklist
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://github.com/ruairidhflint/news-blocklist>
+* **[Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by acossta. Score: 40, Comments: 7. Original Link: https://openai.com/index/introducing-shirudo/
+  * Tags: `ai`, `hackernews`, `openai`
+  * Source URL: <https://openai.com/index/introducing-shirudo>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -69941,7 +69946,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.33298>
 
 * **[allenai/objaverse](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/objaverse (Likes: 507, Downloads: 2358710)
+  * Summary: Trending Hugging Face dataset: allenai/objaverse (Likes: 509, Downloads: 2358710)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/allenai>
 
@@ -77570,7 +77575,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2611.18453>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9588, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9589, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -82833,7 +82838,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.22907>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2817, Downloads: 33056292)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2819, Downloads: 33056292)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -86583,7 +86588,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.27549>
 
 * **[cross-encoder/ms-marco-MiniLM-L6-v2](ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 455, Downloads: 54750400)
+  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 457, Downloads: 54750400)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`, `reddit`
   * Source URL: <https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2>
 
@@ -112558,7 +112563,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/huggingface/datasets>
 
 * **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 260, Downloads: 4184793)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 261, Downloads: 4184793)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/huggingface>
 
@@ -117273,7 +117278,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2611.13826>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11334, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11335, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -119688,11 +119693,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.03489v2 Announce Type: replace-cross Abstract: While Large Language Models (LLMs) excel in code generation, they remain prone to replicating subtle yet critical vulnerabilities endemic to their training data. Current alignment techniques,
   * Tags: `benchmark`, `hackernews`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.03489>
-
-* **[Learn more](ai/companies/deepmind/learn-more.md)** (`dataset` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `blog-post`, `dataset`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models>
 
 * **[Learn Only Where You Can't Compute: Structured Corrections to Gaussian Process Posteriors](ai/research/arxiv-2610-21977.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.21977v1 Announce Type: new Abstract: Physics-informed Gaussian processes (GPs) provide a principled framework for scientific inference by expressing uncertainty over empirical measurements, boundary conditions, and governing equations. How
@@ -129812,7 +129812,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.25334>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7788, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7789, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -133306,7 +133306,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/nvidia-physical-ai>
 
 * **[nvidia/simready-assets](ai/models/huggingface-datasets-nvidia.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: nvidia/simready-assets (Likes: 1746, Downloads: 1827869)
+  * Summary: Trending Hugging Face dataset: nvidia/simready-assets (Likes: 1757, Downloads: 1827869)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/nvidia>
 
@@ -135587,7 +135587,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14169, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14170, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -135655,7 +135655,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.08308>
 
 * **[openai-community/gpt2](ai/models/huggingface-openai-community-gpt2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: openai-community/gpt2 (Likes: 4366, Downloads: 33436225)
+  * Summary: Trending Hugging Face model: openai-community/gpt2 (Likes: 4368, Downloads: 33436225)
   * Tags: `hf-model`, `huggingface`, `openai`
   * Source URL: <https://huggingface.co/openai-community/gpt2>
 
@@ -137778,6 +137778,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.02844v1 Announce Type: cross Abstract: We develop a class of diffusion-based stochastic particle optimisation methods for loss functions with intractable gradients. Specifically, we consider problems in which the loss gradient is an integr
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2608.02844>
+
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * RAGTruth: A specialized corpus for evaluating and mitigating hallucination in Retrieval-Augmented Generation (RAG) models. * Aims to benchmark the trustworthiness of RAG systems by providing a dataset focused on factual consistency. * Facilitates t
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](ai/research/arxiv-2602-00511.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.00511v3 Announce Type: replace Abstract: We introduce \emph{Partition of Unity Neural Networks} (PUNNs), a neural-network architecture for multiclass classification based on the classical mathematical notion of a partition of unity. The st
@@ -149626,6 +149631,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2609.23997>
 
+* **[RoboTrack: Point tracking for real-world robotic manipulation](ai/models/huggingface-blog-allenai-robotrack.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: RoboTrack: Point tracking for real-world robotic manipulation
+  * Source URL: <https://huggingface.co/blog/allenai/robotrack>
+
 * **[RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On](ai/rag/arxiv-2611-05163.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2611.05163v2 Announce Type: replace-cross Abstract: Robot foundation models have shown remarkable performance in robot control, yet adapting them to a new task still relies heavily on teleoperated demonstrations. Egocentric human videos offer a
   * Tags: `rag`, `youtube`
@@ -153961,7 +153970,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6167, Downloads: 164731740)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6172, Downloads: 164731740)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -177379,10 +177388,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.26037v1 Announce Type: new Abstract: Explanations are central to causal reasoning, and cognitive science has long established that the human drive to explain is itself a mechanism for learning about causality. Despite this, learning from t
   * Source URL: <https://arxiv.org/abs/2609.26037>
 
-* **[XYBench: Helping with the problem behind the question](ai/models/huggingface-blog-allenai-xybench.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: XYBench: Helping with the problem behind the question
-  * Source URL: <https://huggingface.co/blog/allenai/xybench>
-
 * **[Yay! Organizations can now publish blog Articles](ai/models/huggingface-blog-huggingface-blog-articles-for-orgs.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Yay! Organizations can now publish blog Articles
   * Source URL: <https://huggingface.co/blog/huggingface/blog-articles-for-orgs>
@@ -179177,6 +179182,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://nextjs.org/blog/styling-next-with-styled-jsx>
 
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
+  * Summary: * Implements a practical Retrieval Augmented Generation (RAG) system. * Processes and indexes GitHub repository content for contextual retrieval. * Enables conversational interaction with ingested repository data via a chat interface.
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
+
 * **[TableControl: Gesture Interaction Through Surface Vibrations](ai/research/arxiv-2611-24218.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2611.24218v1 Announce Type: cross Abstract: Integrating gesture sensing into furniture offers a way to interact with digital applications and physical devices through familiar surfaces. We present TableControl, an interactive demonstration of c
   * Source URL: <https://arxiv.org/abs/2611.24218>
@@ -180422,6 +180432,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **German court ruling (Munich Regional Court) establishes Google's direct liability for false claims in AI-generated search overviews**, classifying them as Google's own content rather than third-party search results, thus rejecting traditional sea
   * Tags: `anthropic`, `openai`, `reddit`, `web-crawled`
   * Source URL: <https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers>
+
+* **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification>
 
 * **[Miniconda - Anaconda](ai/resources/miniconda-anaconda.md)** (`tutorial` | `useful` tier)
   * Summary: - Miniconda is a lightweight, open-source distribution of Python and conda, bundling only essential packages (conda, Python, and their dependencies) with optional expansion via `conda install` from Anaconda’s repositories or third-party channels (e.g
@@ -187935,7 +187950,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 4032, Downloads: 34423104)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 4034, Downloads: 34423104)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -193832,17 +193847,17 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive guide for full-stack RAG (Retrieval Augmented Generation) large model application development. * Utilizes frameworks such as LangChain and LlamaIndex, integrating LLMs (e.g., DeepSeek, Kimi-K2) with vector/graph databases (Milvus, Neo
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`, `reddit`
+  * Summary: * Comprehensive guide to Retrieval-Augmented Generation (RAG) for large language model (LLM) application development. * Utilizes RAG frameworks such as LangChain and LlamaIndex, integrating vector databases (Milvus) and graph databases (Neo4j) for ad
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
-* **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`tutorial` | `useful` tier)
-  * Summary: * Details foundational AI agent construction principles and practical implementation. * Leverages
-  * Tags: `agents`, `github-repo`, `python`, `rag`
+* **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`framework` | `useful` tier)
+  * Summary: * Python-based tutorial repository detailing foundational principles and practical implementation of AI agents. * Covers agent construction from scratch, emphasizing core architectural components. * Integrates Large Language Models (LLMs) and Retriev
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Beginner-focused tutorial for large language model (LLM) application development. * Covers LangChain framework and Retrieval-Augmented Generation (RAG) paradigms. * Content is implemented and delivered via Jupyter Notebooks.
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive LLM application development tutorial, emphasizing practical implementation. * Covers
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -207807,7 +207822,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Deprecated bioinformatics tool for genome assembly and scaffolding. * Superseded by RagTag, indicating a transition to an updated or maintained successor. * Implemented in Python, targeting genome-scale sequence manipulation tasks.
+  * Summary: * RaGOO is a deprecated bioinformatics tool, superseded by RagTag (https://github.com/malonge/RagTag). * Its primary application domain is genome assembly and scaffolding. * The implementation is in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -212637,11 +212652,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * RAGTruth: A specialized corpus designed for evaluating the veracity of Retrieval-Augmented
-  * Tags: `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection](ai/rag/arxiv-2611-12976.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2611.12976v1 Announce Type: cross Abstract: Open-vocabulary object detection (OVD) expects the model trained on base classes to recognize both base and novel classes at inference. Typical methods rely on CLIP-style vision-language embeddings, y
   * Tags: `benchmark`, `rag`
@@ -215312,7 +215322,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/raga-ai-hub/raga-llm-hub>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, leveraging GitHub Pages for static site
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary content language identified as HTML. * Repository last updated `2026-07-08T15:07:53Z`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -219567,7 +219577,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.23388>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1516, Downloads: 24895506)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1517, Downloads: 24895506)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -222179,11 +222189,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16617v1 Announce Type: cross Abstract: Sycophancy in LLMs is documented across 70+ papers, but expert agreement on construct boundaries remains low (ICC=.184; Ye et al., 2026). The construct fragments because behavioral classification depe
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
-
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system for querying GitHub repository content. * Utilizes GitHub repositories as the primary data source for contextual retrieval. * Developed in Python, indicating a Pythonic ecosystem fo
-  * Tags: `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 
 * **[SylphxAI/pdf-reader-mcp](ai/rag/sylphxai-pdf-reader-mcp.md)** (`mcp-server` | `essential` tier)
   * Summary: 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage

@@ -42626,9 +42626,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](../ai/community/a-beginner-s-guide-to-local-ai-with-inkling-qwen-a.md)
-  - [Brake Check: Hijacking Trailer Brakes over Bluetooth](../ai/community/brake-check-hijacking-trailer-brakes-over-bluetoot.md)
-  - [Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](../ai/community/ruairidhflint-news-blocklist.md)
+  - [C++26 is done (again): ISO C++ meeting trip report](../ai/community/c-26-is-done-again-iso-c-meeting-trip-report.md)
+  - [Developing the perception to separate the form of a place from what it contains](../ai/community/developing-the-perception-to-separate-the-form-of.md)
+  - [Kagi Mail (public beta)](../ai/community/kagi-mail-public-beta.md)
+  - [Latent Introspection: LLMs Can Detect Prior Concept Injections](../ai/community/arxiv-2602-20031.md)
+  - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](../ai/community/shirudo-openai-and-cisco-s-open-source-runtime-for.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -43299,6 +43301,7 @@ Resources organized by publisher feed and query sources.
   - [Results of the Open Source AI Game Jam](../ai/models/huggingface-blog-game-jam-first-edition-results.md)
   - [Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](../ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md)
   - [Retrieval Augmented Generation with Huggingface Transformers and Ray](../ai/models/huggingface-blog-ray-rag.md)
+  - [RoboTrack: Point tracking for real-world robotic manipulation](../ai/models/huggingface-blog-allenai-robotrack.md)
   - [Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](../ai/models/huggingface-blog-rocketmoney-case-study.md)
   - [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](../ai/models/huggingface-blog-rumble-2-flash.md)
   - [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](../ai/rag/huggingface-blog-skypilot-hf-storage.md)
@@ -43515,7 +43518,6 @@ Resources organized by publisher feed and query sources.
   - [Why your fine-tuning job takes longer than the FLOPs say](../ai/models/huggingface-blog-dharma-ai-predicting-fine-tuning-time.md)
   - [Wire It, Run It, Deploy It: AI Workflows in Gradio](../ai/models/huggingface-blog-gradio-workflow-guide.md)
   - [XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](../ai/models/huggingface-blog-xlscout-case-study.md)
-  - [XYBench: Helping with the problem behind the question](../ai/models/huggingface-blog-allenai-xybench.md)
   - [Xet is on the Hub](../ai/models/huggingface-blog-xet-on-the-hub.md)
   - [XetHub is joining Hugging Face!](../ai/models/huggingface-blog-xethub-joins-hf.md)
   - [Yay! Organizations can now publish blog Articles](../ai/models/huggingface-blog-huggingface-blog-articles-for-orgs.md)
@@ -45546,7 +45548,6 @@ Resources organized by publisher feed and query sources.
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
-  - [RAG Status Template – Techno-PM | Governance, Risk & Compliance Solutions](../ai/rag/rag-status-template-techno-pm-governance-risk-comp.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
@@ -46557,4 +46558,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-23T20:42:50.909692+05:30*
+*Index generated on 2026-11-24T08:49:18.243777+05:30*
