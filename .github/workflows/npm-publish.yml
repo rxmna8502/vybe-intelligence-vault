@@ -1,0 +1,47 @@
+name: Publish Package to NPM
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "package.json"
+      - "bin/**"
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Check version against NPM registry
+        id: check_version
+        run: |
+          CURRENT_VERSION=$(node -p "require('./package.json').version")
+          NPM_VERSION=$(npm view vybe-vault version 2>/dev/null || echo "0.0.0")
+          echo "Repository version: $CURRENT_VERSION"
+          echo "NPM latest version: $NPM_VERSION"
+          if [ "$CURRENT_VERSION" = "$NPM_VERSION" ]; then
+            echo "already_published=true" >> "$GITHUB_OUTPUT"
+            echo "Version $CURRENT_VERSION is already live on npm. Skipping publish."
+          else
+            echo "already_published=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publish to NPM
+        if: steps.check_version.outputs.already_published == 'false'
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
