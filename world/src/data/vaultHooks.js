@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
-const VAULT_REPO_URL = 'https://raw.githubusercontent.com/sairaman436/vybe-intelligence-vault/main';
+const VAULT_REPO_URL = 'https://raw.githubusercontent.com/rxmna8502/vybe-intelligence-vault/main';
 const BASE_PATH = IS_PROD ? '/vybe-intelligence-vault/' : '/';
 
 // 1. Hook to fetch vault-index.json (no localStorage caching — index is too large)

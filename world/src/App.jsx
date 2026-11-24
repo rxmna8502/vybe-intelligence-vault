@@ -3,6 +3,7 @@ import { Search, Database, Activity, Cpu, Layers, ListFilter, HelpCircle, Zap, F
 import DetailPanel from './components/DetailPanel';
 import WebGLGraph from './components/WebGLGraph';
 import { useVaultIndex, useEventStream, useMCPBridge } from './data/vaultHooks';
+import { normalizeQuality, formatQualityScore } from './utils';
 
 const CATEGORY_STYLES = {
   'maps': {
@@ -68,6 +69,13 @@ export default function App() {
   const [techFilter, setTechFilter] = useState('all');
   const [visibleCount, setVisibleCount] = useState(48);
   const [viewMode, setViewMode] = useState('grid');
+  const [copiedMcp, setCopiedMcp] = useState(false);
+
+  const avgQualityScore = useMemo(() => {
+    if (!indexData?.nodes || indexData.nodes.length === 0) return '8.6';
+    const sum = indexData.nodes.reduce((acc, n) => acc + normalizeQuality(n.quality_score), 0);
+    return (sum / indexData.nodes.length).toFixed(1);
+  }, [indexData]);
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
@@ -110,8 +118,8 @@ export default function App() {
       const matchesScore = scoreFilter === 'all' 
         ? true 
         : scoreFilter === '9' 
-          ? (node.quality_score >= 9) 
-          : (node.quality_score >= 7);
+          ? (normalizeQuality(node.quality_score) >= 9) 
+          : (normalizeQuality(node.quality_score) >= 7);
 
       const matchesTech = techFilter === 'all' || (node.tech_stack && node.tech_stack.includes(techFilter));
 
@@ -197,7 +205,7 @@ export default function App() {
                 VYBE VAULT
               </h1>
               <span className="bg-[#FF2A85] text-white px-2 py-0.5 text-[11px] font-mono font-black border-2 border-black neo-shadow rotate-[2deg]">
-                v2.0 // BRUTAL
+                v2.1 // PRODUCTION
               </span>
             </div>
             <p className="text-[11px] font-mono font-bold text-black uppercase tracking-wider mt-0.5">
@@ -215,21 +223,29 @@ export default function App() {
             <span className="bg-[#FFE600] px-1.5 py-0.2 border border-black">{indexData.nodes?.length || 0}</span>
           </div>
 
-          <div className="flex items-center gap-1.5 px-3 py-1.5 bg-white border-3 border-black neo-shadow">
+          <div className="flex items-center gap-1.5 px-3 py-1.5 bg-white border-3 border-black neo-shadow" title="Average Vybe Reproducibility Score (VRS) evaluated autonomously across all repositories">
             <Flame size={14} className="text-[#FF2A85]" />
-            <span>QUALITY:</span>
+            <span>AVG QUALITY:</span>
             <span className="bg-[#00FF66] px-1.5 py-0.2 border border-black">
-              {indexData.system_health?.avg_quality_score || '9.2'}/10
+              {avgQualityScore}/10
             </span>
           </div>
 
-          <div className="flex items-center gap-1.5 px-3 py-1.5 bg-white border-3 border-black neo-shadow">
-            <Cpu size={14} className={bridgeStatus === 'online' ? 'text-[#00FF66]' : 'text-[#FF5500]'} />
-            <span>MCP BRIDGE:</span>
-            <span className={`px-1.5 py-0.2 border border-black ${bridgeStatus === 'online' ? 'bg-[#00FF66] text-black' : 'bg-black text-[#FFE600]'}`}>
-              {bridgeStatus.toUpperCase()}
+          <button 
+            onClick={() => {
+              navigator.clipboard?.writeText('npx -y vybe-vault mcp');
+              setCopiedMcp(true);
+              setTimeout(() => setCopiedMcp(false), 2000);
+            }}
+            title="Click to copy: npx -y vybe-vault mcp (for Claude Desktop, Cursor, and Continue.dev)"
+            className="flex items-center gap-1.5 px-3 py-1.5 bg-white hover:bg-[#FFE600] border-3 border-black neo-shadow cursor-pointer transition-colors"
+          >
+            <Cpu size={14} className="text-[#00FF66]" />
+            <span>MCP SERVER:</span>
+            <span className="bg-[#00FF66] text-black px-1.5 py-0.2 border border-black font-mono font-bold">
+              {copiedMcp ? 'COPIED!' : 'v2.1.0 READY'}
             </span>
-          </div>
+          </button>
 
         </div>
       </header>
@@ -426,7 +442,7 @@ export default function App() {
                           </span>
                           {node.quality_score > 0 && (
                             <span className="bg-[#00FF66] text-black px-1.5 py-0.5 border border-black">
-                              Q:{node.quality_score}
+                              Q: {formatQualityScore(node.quality_score)}/10
                             </span>
                           )}
                         </div>
@@ -513,7 +529,7 @@ export default function App() {
 
                             {node.quality_score > 0 && (
                               <div className="bg-[#00FF66] text-black px-2 py-0.5 border-2 border-black neo-shadow font-extrabold">
-                                Q: {node.quality_score}/10
+                                Q: {formatQualityScore(node.quality_score)}/10
                               </div>
                             )}
                           </div>

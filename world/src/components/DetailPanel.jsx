@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 import { X, Copy, Cpu, BookOpen, Clock, ExternalLink, Zap, Check, AlertTriangle } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
+import { formatQualityScore } from '../utils';
 
 const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
-const VAULT_REPO_URL = 'https://raw.githubusercontent.com/sairaman436/vybe-intelligence-vault/main';
+const VAULT_REPO_URL = 'https://raw.githubusercontent.com/rxmna8502/vybe-intelligence-vault/main';
 
 export default function DetailPanel({ node, indexData, onSelectNode, onClose }) {
   const [content, setContent] = useState('');
@@ -145,7 +146,7 @@ export default function DetailPanel({ node, indexData, onSelectNode, onClose }) 
 
         {node.quality_score > 0 && (
           <div className="bg-[#00FF66] text-black px-2.5 py-1 border-2 border-black neo-shadow">
-            QUALITY: {node.quality_score}/10
+            QUALITY: {formatQualityScore(node.quality_score)}/10
           </div>
         )}
 

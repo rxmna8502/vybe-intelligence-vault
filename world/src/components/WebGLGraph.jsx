@@ -1,4 +1,5 @@
 import { useRef, useEffect, useState } from 'react';
+import { formatQualityScore } from '../utils';
 
 const CATEGORY_COLORS = {
   'maps': '#FFE600',
@@ -296,7 +297,7 @@ export default function WebGLGraph({ nodes, onSelectNode }) {
           <div className="text-[#FFE600] font-black truncate">{hoveredNode.title.toUpperCase()}</div>
           <div className="flex gap-2 text-[10px] mt-1 text-[#00FF66]">
             <span>CATEGORY: {hoveredNode.category}</span>
-            {hoveredNode.quality_score > 0 && <span>QUALITY: {hoveredNode.quality_score}/10</span>}
+            {hoveredNode.quality_score > 0 && <span>QUALITY: {formatQualityScore(hoveredNode.quality_score)}/10</span>}
           </div>
           <div className="text-neutral-400 text-[10px] mt-1 line-clamp-2">
             {hoveredNode.summary || 'Verified intelligence node.'}
