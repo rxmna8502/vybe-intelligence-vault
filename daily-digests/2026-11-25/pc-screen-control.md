@@ -1,33 +1,33 @@
 ---
-title: "nathandevelopment/pc-screen-control"
+title: "Noncellular-dumpiness647/pc-screen-control"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Python", "Windows Accessibility API", "MCP (Model Context Protocol)", "UI Automation", "PyWin32", "JSON-RPC"]
-quality_score: 9
-rag_relevance: 9
+tech_stack: ["Python", "Windows Accessibility API", "Model Context Protocol (MCP)", "Claude Desktop"]
+quality_score: 7
+rag_relevance: 8
 deployment_complexity: "Low"
-tags: ["Windows automation", "UI interaction", "accessibility tree", "MCP server", "AI control interface"]
-source: "https://github.com/nathandevelopment/pc-screen-control"
-stars: 2
+tags: ["Windows automation", "AI agent control", "UI accessibility", "MCP server", "desktop interaction"]
+source: "https://github.com/Noncellular-dumpiness647/pc-screen-control"
+stars: 0
 language: "Python"
-last_updated: "2026-08-01T13:16:21Z"
-discovered_at: "2026-08-01T13:16:56Z"
+last_updated: "2026-08-06T06:28:01Z"
+discovered_at: "2026-08-06T06:34:03Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-PC Screen Control is an MCP server for Windows that exposes the Windows accessibility tree to AI agents, enabling precise UI interactions by name rather than pixel coordinates. It provides structured data about on-screen elements, allowing AI to press the correct button, read tables, and verify actions without relying on screenshots.
+A Windows application that enables AI agents to control a computer by reading the accessibility tree and interacting with UI elements programmatically via the Model Context Protocol (MCP).
 
 ## Key Features
-- Exposes 34 tools for precise UI interactions (e.g., `invoke`, `read_table`, `find_elements`, `set_value`)
-- Returns structured data about UI elements (names, states, automation IDs) for reliable AI operations
-- Supports both local and remote MCP clients with one-click installation for Claude Desktop
-- Implements safety mechanisms like input guards, burst actions, and visual warnings to prevent unintended disruptions
-- Provides self-testing and error reporting to ensure system compatibility and reliability
+- Reads Windows accessibility tree to provide structured UI element data to AI agents
+- Enables AI to click buttons, navigate menus, and interact with desktop apps by name
+- Operates locally without screen recording, ensuring privacy
+- Integrates with MCP-compatible clients like Claude Desktop
+- Supports common desktop tasks such as opening apps and managing system settings
 
 ## Why It Matters for RAG Builders
-It transforms raw screen data into structured, actionable UI elements, enabling AI agents to interact with applications precisely and reliably without relying on error-prone pixel-based methods.
+It bridges the gap between AI agents and desktop applications by providing structured UI context, enabling precise and automated interactions without manual intervention.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -36,17 +36,11 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### Windows Accessibility API
 Automated review identified **Windows Accessibility API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### UI Automation
-Automated review identified **UI Automation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PyWin32
-Automated review identified **PyWin32** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON-RPC
-Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude Desktop
+Automated review identified **Claude Desktop** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:01:13.302682+05:30",
+  "generated_at": "2026-11-25T19:27:45.091647+05:30",
   "trending_resources": [
     {
       "id": "github:sierra-research/tau2-bench",
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/promptfoo-promptfoo-action.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/rag/alucek-graphrag-breakdown.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/rag/arxiv-2606-29031.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/research/arxiv-2606-26428.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/research/arxiv-2606-21887.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/rag/arxiv-2606-09677.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/research/arxiv-2606-06379.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/agents/arxiv-2606-05050.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,19 +259,19 @@
       "file_path": "ai/research/arxiv-2605-24602.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1094,
+      "rank_change": 1092,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-      "id": "blog:api-evangelist-weaviate",
-      "title": "api-evangelist/weaviate",
-      "category": "world/public/vault/daily-digests/2026-11-24",
+      "id": "blog:category",
+      "title": "[CATEGORY] - ",
+      "category": "",
       "source_type": "",
       "url": "",
-      "file_path": "world/public/vault/daily-digests/2026-11-24/weaviate.md",
+      "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

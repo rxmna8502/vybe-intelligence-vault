@@ -1,49 +1,52 @@
 ---
-title: "zubairporag/yu-ai-agent"
+title: "hfgwygey/yu-ai-agent"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["Java", "Spring Boot 3", "Java 21", "RAG Retrieval", "Vector Databases"]
-quality_score: 5
-rag_relevance: 7
+tech_stack: ["Java 21", "Spring Boot 3", "Spring AI", "Maven", "Vector Databases", "ReAct Framework"]
+quality_score: 7
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["AI development", "RAG", "Java framework", "Spring Boot", "prompt engineering"]
-source: "https://github.com/zubairporag/yu-ai-agent"
-stars: 0
+tags: ["AI Agent Development", "Spring AI", "RAG", "Vector Databases", "Prompt Engineering"]
+source: "https://github.com/hfgwygey/yu-ai-agent"
+stars: 93
 language: "Java"
-last_updated: "2026-08-07T11:01:06Z"
-discovered_at: "2026-08-07T11:05:17Z"
+last_updated: "2026-08-09T11:26:09Z"
+discovered_at: "2026-08-09T11:32:42Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-yu-ai-agent is a Java-based framework designed to simplify the creation of smart AI applications with minimal technical expertise. It integrates Spring Boot 3, Java 21, and supports RAG retrieval, prompt engineering, and tool calling for AI development.
+A comprehensive Java-based AI development guide and framework built on Spring Boot 3, Java 21, and Spring AI. It provides tutorials and tools for building AI applications, including the AI Love Master app and the ReAct-mode autonomous agent YuManus, covering RAG, vector databases, tool calling, and MCP.
 
 ## Key Features
-- Spring Boot 3 integration for robust application development
-- Java 21 compatibility for leveraging modern language features
-- Built-in RAG retrieval for enhanced information handling
-- Prompt engineering tools for optimizing AI model interactions
-- Tool calling capabilities for seamless external tool integration
+- Comprehensive AI development tutorials covering model integration, prompt engineering, and RAG
+- Built-in ReAct-mode autonomous agent (YuManus) for planning and execution
+- Integration with vector databases for efficient data retrieval
+- Tool calling and MCP support for enhanced AI interaction
+- Spring Boot 3 and Java 21-based framework for scalable AI applications
 
 ## Why It Matters for RAG Builders
-yu-ai-agent streamlines the development of AI applications with RAG capabilities, reducing technical barriers for builders.
+It provides a structured, hands-on approach to learning and implementing core AI technologies like RAG and agent frameworks, essential for building advanced AI systems.
 
 ## Tech Stack Deep Dive
-### Java
-Automated review identified **Java** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Java 21
+Automated review identified **Java 21** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Spring Boot 3
 Automated review identified **Spring Boot 3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Java 21
-Automated review identified **Java 21** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Spring AI
+Automated review identified **Spring AI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### RAG Retrieval
-Automated review identified **RAG Retrieval** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Maven
+Automated review identified **Maven** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Vector Databases
 Automated review identified **Vector Databases** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### ReAct Framework
+Automated review identified **ReAct Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

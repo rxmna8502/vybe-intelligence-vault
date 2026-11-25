@@ -1,64 +1,58 @@
 ---
-title: "luoziyan100/lumen"
+title: "1tsRajOwO/lumen"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Tauri", "SQLite", "WebSocket", "DeepSeek", "Claude", "OpenAI API"]
-quality_score: 8
-rag_relevance: 9
+tech_stack: ["Python", "FastAPI", "React", "Electron", "Ollama", "SQLite", "Playwright", "TypeScript"]
+quality_score: 9
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["AI research assistant", "local-first", "document analysis", "agent framework", "PDF processing"]
-source: "https://github.com/luoziyan100/lumen"
+tags: ["local AI", "on-device agent", "privacy-focused", "computer control", "Ollama integration"]
+source: "https://github.com/1tsRajOwO/lumen"
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-14T05:21:32Z"
-discovered_at: "2026-07-14T05:28:51Z"
+language: "Python"
+last_updated: "2026-07-18T22:45:49Z"
+discovered_at: "2026-07-18T22:46:46Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Lumen is a local-first AI research workbench designed for independent researchers to upload academic papers, extract insights, and generate structured reports directly in a workspace. It facilitates literature review and knowledge synthesis through an interactive conversational interface.
+Lumen is an open-source, on-device AI desk agent that enables users to chat, control their computer, and ship code entirely locally using Ollama for model inference. It prioritizes privacy by keeping all data and operations on the user's machine while offering optional cloud API integrations.
 
 ## Key Features
-- PDF document ingestion and analysis with structured report generation
-- Interactive conversational interface for literature discussion and insights extraction
-- Three-panel workspace (conversations, workspace, reader) for seamless workflow
-- Pluggable model support (DeepSeek, Claude, OpenAI-compatible endpoints)
-- Local-first architecture with SQLite storage and self-contained desktop app (Tauri)
+- Full local AI agent with chat, computer control, and code execution capabilities
+- Privacy-first design with all operations running on-device via Ollama
+- Cross-platform support (macOS, Windows, Linux) with pre-built installers
+- Deep research mode with multi-model team collaboration (Fast, Deep, Ensemble)
+- Managed Chromium browser for secure, automated web interactions with safety gates
 
 ## Why It Matters for RAG Builders
-Lumen streamlines AI-powered research workflows by automating literature review and report generation, making it essential for RAG builders who need structured, local-first document processing and agent-driven insights.
+Lumen provides a privacy-preserving, local-first alternative to cloud-based AI agents, making it essential for developers building secure, on-device AI applications.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### React
 Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vite
-Automated review identified **Vite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Electron
+Automated review identified **Electron** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tauri
-Automated review identified **Tauri** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Playwright
+Automated review identified **Playwright** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### DeepSeek
-Automated review identified **DeepSeek** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Claude
-Automated review identified **Claude** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

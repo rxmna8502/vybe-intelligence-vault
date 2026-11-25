@@ -4,6 +4,7 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
+| `/` | 1 |
 | `ai/agents/` | 7394 |
 | `ai/community/` | 10 |
 | `ai/rag/` | 13819 |
@@ -21,7 +22,6 @@ Below is the file distribution across the vault categories.
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
-| `world/public/vault/daily-digests/2026-11-24/` | 1 |
 
 ## Categories Needing More Coverage
 

@@ -1,55 +1,82 @@
 ---
-title: "guangxiangdebizi/email-mcp"
+title: "sandraschi/email-mcp"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "IMAP", "SMTP", "Gmail API", "Streamable HTTP"]
+tech_stack: ["Python", "FastMCP", "React", "SMTP/IMAP", "SendGrid", "Mailgun", "Resend", "MailHog", "Slack", "Discord", "Tauri", "Rust", "Node.js", "uv", "Ruff", "Biome"]
 quality_score: 9
-rag_relevance: 8
+rag_relevance: 7
 deployment_complexity: "Medium"
-tags: ["email", "MCP", "IMAP/SMTP", "multi-account", "Gmail API"]
-source: "https://github.com/guangxiangdebizi/email-mcp"
-stars: 13
-language: "TypeScript"
-last_updated: "2026-08-10T03:53:27Z"
-discovered_at: "2026-08-10T03:58:45Z"
+tags: ["email", "MCP", "AI integration", "transactional APIs", "web dashboard"]
+source: "https://github.com/sandraschi/email-mcp"
+stars: 1
+language: "Python"
+last_updated: "2026-07-14T23:44:38Z"
+discovered_at: "2026-07-14T23:53:41Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A universal email service MCP server that provides 5 standardized tools for email operations (send, read, search, delete, reply) via IMAP/SMTP or Gmail API. Supports multi-account switching and dynamic configuration via headers or environment variables.
+A comprehensive email server and MCP (Model Context Protocol) server designed to integrate with AI clients for sending, receiving, and managing emails across multiple providers. It includes a web dashboard, AI-assisted features, and support for SMTP, IMAP, transactional APIs, and webhooks.
 
 ## Key Features
-- Standardized 5-tool interface (send, read, search, delete, reply) compatible with IMAP/SMTP and Gmail API
-- Multi-account support with named configurations and dynamic switching via headers or parameters
-- Dynamic per-request configuration via HTTP headers (X-Email-*) or environment variables
-- Preset configurations for major email providers (QQ, 163, Gmail, Outlook, etc.)
-- Health check endpoint and optional MCP API key authentication
+- 32+ MCP tools for email operations (send, receive, search, delete, etc.)
+- AI-assisted email composition and improvement with natural language commands
+- Multi-provider support (SMTP, IMAP, transactional APIs, webhooks, local testing)
+- Web dashboard with real-time notifications, folder management, and contact import
+- Prompt injection defense with two-layer sanitization and safety mechanisms
 
 ## Why It Matters for RAG Builders
-It enables AI agents to interact with diverse email systems seamlessly, expanding RAG capabilities to include real-time email data processing and actions.
+It provides a unified, AI-ready interface for email operations, enabling seamless integration with RAG systems and AI agents for automated email workflows.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FastMCP
+Automated review identified **FastMCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SMTP/IMAP
+Automated review identified **SMTP/IMAP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SendGrid
+Automated review identified **SendGrid** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Mailgun
+Automated review identified **Mailgun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Resend
+Automated review identified **Resend** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MailHog
+Automated review identified **MailHog** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Slack
+Automated review identified **Slack** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Discord
+Automated review identified **Discord** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Tauri
+Automated review identified **Tauri** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### uv
+Automated review identified **uv** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### IMAP
-Automated review identified **IMAP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ruff
+Automated review identified **Ruff** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SMTP
-Automated review identified **SMTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Gmail API
-Automated review identified **Gmail API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Streamable HTTP
-Automated review identified **Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Biome
+Automated review identified **Biome** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

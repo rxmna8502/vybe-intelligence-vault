@@ -1,58 +1,55 @@
 ---
-title: "teran/mcp-searxng"
+title: "ihor-sokoliuk/mcp-searxng"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "SearXNG", "Streamable HTTP", "Prometheus", "Docker", "CI/CD (GitHub Actions)", "GolangCI-Lint"]
+tech_stack: ["TypeScript", "Node.js", "Docker", "NPM", "Model Context Protocol (MCP)", "SearXNG API", "HTTP/JSON"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "web search", "SearXNG", "remote execution", "AI tooling"]
-source: "https://github.com/teran/mcp-searxng"
-stars: 0
-language: "Go"
-last_updated: "2026-07-18T09:12:47Z"
-discovered_at: "2026-07-18T09:24:12Z"
+rag_relevance: 10
+deployment_complexity: "Low"
+tags: ["web search", "privacy-focused", "self-hosted", "MCP server", "SearXNG integration"]
+source: "https://github.com/ihor-sokoliuk/mcp-searxng"
+stars: 1038
+language: "TypeScript"
+last_updated: "2026-07-13T21:49:06Z"
+discovered_at: "2026-07-13T21:55:12Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-mcp-searxng is a remote Model Context Protocol (MCP) server that bridges AI assistants to the SearXNG meta search engine via Streamable HTTP, enabling secure and scalable web search capabilities without local installation or daemon management.
+mcp-searxng is an MCP server that integrates SearXNG instances to provide AI assistants with private, self-hosted web search capabilities. It enables secure, customizable, and privacy-focused web searches for models like Claude and Cursor.
 
 ## Key Features
-- Remote MCP server over Streamable HTTP, eliminating local installation requirements
-- Multi-arch static binary with distroless base image for security and minimal footprint
-- Built-in rate limiting (global and per-client) and Prometheus metrics for monitoring
-- Full support for SearXNG search parameters (categories, language, time range, pagination)
-- Pre-configured convenience tools for news and image searches
+- Private web search for AI assistants via SearXNG instances
+- Support for pagination, filters, and relevance scoring in searches
+- Instance failover and fan-out for high availability
+- Content-aware URL reading with Markdown conversion and SSRF protection
+- In-memory caching for search results and URL content with configurable TTL
 
 ## Why It Matters for RAG Builders
-It enables AI assistants to securely and scalably integrate web search capabilities via a standardized MCP interface, reducing deployment friction and enhancing security posture.
+It enables AI assistants to perform private, self-hosted web searches without relying on third-party APIs, ensuring data privacy and customization for RAG pipelines.
 
 ## Tech Stack Deep Dive
-### Go
-Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SearXNG
-Automated review identified **SearXNG** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Streamable HTTP
-Automated review identified **Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Prometheus
-Automated review identified **Prometheus** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CI/CD (GitHub Actions)
-Automated review identified **CI/CD (GitHub Actions)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### NPM
+Automated review identified **NPM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GolangCI-Lint
-Automated review identified **GolangCI-Lint** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SearXNG API
+Automated review identified **SearXNG API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HTTP/JSON
+Automated review identified **HTTP/JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

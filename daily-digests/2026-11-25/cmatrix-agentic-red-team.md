@@ -1,33 +1,33 @@
 ---
-title: "nishan-paul-2022/cmatrix-agentic-red-team"
+title: "nishan-paul-hello/cmatrix-agentic-red-team"
 content_type: "repo"
 engine: "v2"
 category: "Orchestrator"
-tech_stack: ["LangGraph", "LangChain", "FastAPI", "Next.js", "Qdrant", "PostgreSQL", "Redis", "Celery", "Docker", "Python", "Node.js"]
+tech_stack: ["LangGraph", "LangChain", "FastAPI", "Next.js", "Qdrant", "PostgreSQL", "Redis", "Celery", "Docker", "Python", "TypeScript"]
 quality_score: 9
 rag_relevance: 7
 deployment_complexity: "Medium"
-tags: ["Security Automation", "Multi-Agent Systems", "Vulnerability Assessment", "Penetration Testing", "AI Orchestration"]
-source: "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+tags: ["security automation", "multi-agent systems", "vulnerability assessment", "penetration testing", "AI orchestration"]
+source: "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
 stars: 0
 language: "Python"
-last_updated: "2026-08-07T22:34:50Z"
-discovered_at: "2026-08-07T22:37:15Z"
+last_updated: "2026-08-07T22:34:53Z"
+discovered_at: "2026-08-07T22:37:14Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-CMatrix is an AI-powered multi-agent security orchestration platform designed for autonomous vulnerability assessment, penetration testing, and threat intelligence. It combines LangGraph for agent orchestration with FastAPI for backend services and Next.js for a modern frontend, enabling stateful, human-in-the-loop security workflows.
+CMatrix is an AI-powered multi-agent security orchestration platform designed for automated vulnerability assessment, penetration testing, and threat intelligence. It combines LangGraph for agentic workflows with FastAPI and Next.js to create a human-in-the-loop security operations center.
 
 ## Key Features
-- Agentic AI architecture powered by LangGraph for sophisticated tool orchestration and reasoning
-- Stateful workflows with checkpoint-based resumption and Celery background task processing
+- Agentic AI architecture with LangGraph for sophisticated tool orchestration and reasoning
+- Network and web scanning with port scanning, topology discovery, and vulnerability analysis
 - Qdrant-powered vector memory for long-term contextual memory across scanning sessions
-- Human-in-the-loop approval gates for safe execution of high-risk operations
-- LLM-agnostic integration supporting Gemini, OpenAI, Claude, or local Ollama models
+- Human-in-the-loop approval gates for safe execution of dangerous operations
+- Stateful workflows with checkpoint-based resumption and Celery background task processing
 
 ## Why It Matters for RAG Builders
-CMatrix provides a robust framework for building secure, auditable, and scalable AI-driven security operations that can be integrated into RAG pipelines for threat intelligence and vulnerability analysis.
+CMatrix provides a robust framework for AI-driven security testing, enabling safe, repeatable, and scalable vulnerability assessments with multi-agent orchestration and human oversight.
 
 ## Tech Stack Deep Dive
 ### LangGraph
@@ -60,8 +60,8 @@ Automated review identified **Docker** as a key module contributing to infrastru
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

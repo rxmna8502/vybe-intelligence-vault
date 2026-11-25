@@ -1,61 +1,52 @@
 ---
-title: "punt-labs/quarry"
+title: "sait-turanalp/quarry"
 content_type: "repo"
 engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "ONNX Runtime", "LanceDB", "Claude Code", "MCP (Model Context Protocol)", "WebSocket", "CUDA (for GPU acceleration)", "OCR (for scanned PDFs)", "Git (for capture shadow repos)"]
+category: "Tooling"
+tech_stack: ["Rust", "Tree-sitter", "Tantivy", "Model2Vec", "MCP (Model Context Protocol)", "Int8 static embedding engine"]
 quality_score: 9
 rag_relevance: 10
 deployment_complexity: "Medium"
-tags: ["local semantic search", "privacy-focused", "AI agent integration", "document indexing", "embedding"]
-source: "https://github.com/punt-labs/quarry"
-stars: 2
-language: "Python"
-last_updated: "2026-07-14T05:10:25Z"
-discovered_at: "2026-07-14T05:29:16Z"
+tags: ["semantic search", "code intelligence", "local processing", "AI agents", "MCP server"]
+source: "https://github.com/sait-turanalp/quarry"
+stars: 0
+language: "Rust"
+last_updated: "2026-08-05T22:13:06Z"
+discovered_at: "2026-08-05T22:15:05Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Quarry is a local semantic search tool designed for AI agents and humans, enabling document indexing, embedding, and retrieval without cloud dependencies. It supports 20+ document formats, uses ONNX for local embeddings, and stores vectors in LanceDB for fast, privacy-focused semantic search.
+Quarry is a local, privacy-preserving code intelligence engine designed for AI coding agents. It provides semantic search and structural analysis of codebases in 14 languages, enabling agents to retrieve relevant code snippets with high accuracy without relying on external APIs or uploading source code.
 
 ## Key Features
-- Indexes 20+ document formats (PDFs, code, spreadsheets, etc.) with OCR support for scanned pages
-- Local ONNX embedding model (snowflake-arctic-embed-m-v1.5) for offline, no-API-key operation
-- Daemon architecture with MCP proxy for seamless AI agent integration (Claude Code/Desktop)
-- Passive knowledge capture via session hooks, web fetches, and auto-ingestion of project directories
-- Hybrid search (vector + BM25) with true cosine similarity scoring and privacy-preserving redaction
+- Semantic search over 14 languages with 83% accuracy in top 20 results
+- Local, private, and offline operation with no API calls or data uploads
+- Sub-20ms query latency using int8 static embeddings and fused lexical/vector scoring
+- Structural analysis tools (call graphs, impact analysis, type fields, module exports)
+- MCP server integration for seamless agent interaction
 
 ## Why It Matters for RAG Builders
-Quarry provides a privacy-preserving, locally hosted alternative to cloud-based semantic search, essential for RAG builders who need offline-capable, agent-integrated retrieval with minimal infrastructure overhead.
+Quarry drastically reduces retrieval misses for AI agents, cutting the error rate from 1 in 3 to 1 in 6, which directly improves context quality and reduces token waste in RAG pipelines.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ONNX Runtime
-Automated review identified **ONNX Runtime** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tree-sitter
+Automated review identified **Tree-sitter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LanceDB
-Automated review identified **LanceDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tantivy
+Automated review identified **Tantivy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model2Vec
+Automated review identified **Model2Vec** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### CUDA (for GPU acceleration)
-Automated review identified **CUDA (for GPU acceleration)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OCR (for scanned PDFs)
-Automated review identified **OCR (for scanned PDFs)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Git (for capture shadow repos)
-Automated review identified **Git (for capture shadow repos)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Int8 static embedding engine
+Automated review identified **Int8 static embedding engine** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

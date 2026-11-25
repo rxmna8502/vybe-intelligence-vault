@@ -1,55 +1,85 @@
 ---
-title: "yaozoo/orbit"
+title: "schmitech/orbit"
 content_type: "repo"
 engine: "v2"
 category: "Orchestrator"
-tech_stack: ["OpenSpec", "Superpowers", "YAML", "Agent Skills", "Git", "TDD", "State Machines"]
+tech_stack: ["Python", "Docker", "FastAPI", "Ollama", "vLLM", "llama.cpp", "OpenAI API", "Anthropic API", "Gemini API", "PostgreSQL", "SQLite", "MongoDB", "Elasticsearch", "MCP (Model Context Protocol)", "YAML", "React", "TypeScript"]
 quality_score: 9
-rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["workflow automation", "AI coding pipeline", "specification-driven development", "agent orchestration", "breakpoint recovery"]
-source: "https://github.com/yaozoo/orbit"
-stars: 1
-language: "None"
-last_updated: "2026-07-21T07:27:10Z"
-discovered_at: "2026-07-21T07:32:10Z"
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["RAG", "AI Gateway", "Multi-Model", "Tool Integration", "Self-Hosted"]
+source: "https://github.com/schmitech/orbit"
+stars: 333
+language: "Python"
+last_updated: "2026-08-07T12:23:08Z"
+discovered_at: "2026-08-07T13:03:49Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Orbit is an end-to-end workflow orchestrator that unifies OpenSpec and Superpowers to transform AI-driven coding from ad-hoc improvisation into a structured engineering pipeline. It acts as a bridge between requirement specification and implementation, enforcing process constraints and enabling breakpoint recovery.
+ORBIT is an open-source retrieval-based inference toolkit that unifies access to local and cloud LLMs, databases, vector stores, APIs, and MCP tools through a single OpenAI-compatible endpoint. It provides built-in authentication, observability, governance, and production-ready features for private AI applications.
 
 ## Key Features
-- Zero-dependency installation via SKILL.md file for seamless integration with AI assistants like Codex, Claude Code, Cursor, and Windsurf
-- State persistence with YAML-based checkpointing for breakpoint recovery and atomic rollbacks
-- Mandatory human review gate at Stage 2 to prevent 'garbage in, garbage out' outcomes
-- Automated change classification and multi-stage workflow (feature/bugfix/docs) with tailored paths
-- Cross-tool compatibility with fallback mechanisms for missing sub-skills
+- Unified OpenAI-compatible API endpoint for local and cloud LLMs
+- Built-in authentication, RBAC, SSO, quotas, and audit logging
+- Supports structured retrieval for SQL, NoSQL, and vector databases
+- Integrates MCP tools for agent-based workflows
+- Production-ready observability, moderation, and fallback mechanisms
 
 ## Why It Matters for RAG Builders
-Orbit provides the critical orchestration layer that turns fragmented AI coding tasks into a reliable, auditable, and resumable engineering pipeline for RAG and AI stack builders.
+ORBIT simplifies the integration of retrieval, tool execution, and governance into a single backend, eliminating the need to assemble disparate components for private RAG and agent systems.
 
 ## Tech Stack Deep Dive
-### OpenSpec
-Automated review identified **OpenSpec** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Superpowers
-Automated review identified **Superpowers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### vLLM
+Automated review identified **vLLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### llama.cpp
+Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI API
+Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Anthropic API
+Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Gemini API
+Automated review identified **Gemini API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MongoDB
+Automated review identified **MongoDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Elasticsearch
+Automated review identified **Elasticsearch** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### YAML
 Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Agent Skills
-Automated review identified **Agent Skills** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### TDD
-Automated review identified **TDD** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### State Machines
-Automated review identified **State Machines** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

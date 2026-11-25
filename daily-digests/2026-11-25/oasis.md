@@ -1,79 +1,49 @@
 ---
-title: "Hereon-InstituteMS/OASiS"
+title: "knowledgetrailsai/OASIS"
 content_type: "repo"
 engine: "v2"
 category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LangGraph", "FEniCSx", "deal.II", "NGSolve", "scikit-fem", "Kratos Multiphysics", "DUNE-fem", "FEBio", "4C Multiphysics", "SPARTA DSMC", "preCICE", "Gmsh", "PyVista"]
-quality_score: 9
-rag_relevance: 10
-deployment_complexity: "High"
-tags: ["multi-physics simulation", "AI agent framework", "finite element methods", "MCP server", "verified execution"]
-source: "https://github.com/Hereon-InstituteMS/OASiS"
-stars: 17
-language: "Python"
-last_updated: "2026-08-07T14:16:34Z"
-discovered_at: "2026-08-07T14:19:10Z"
+tech_stack: ["Markdown", "GitHub", "Documentation", "Methodology", "Enterprise Architecture"]
+quality_score: 8
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["AI transformation", "enterprise methodology", "governance", "workflow engineering", "AI lifecycle"]
+source: "https://github.com/knowledgetrailsai/OASIS"
+stars: 1
+language: "None"
+last_updated: "2026-09-01T07:52:48Z"
+discovered_at: "2026-09-01T19:05:47Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-OASiS is an open-source agentic framework that enables AI language models to operate multiple finite-element and multiphysics simulation codes (e.g., FEniCSx, deal.II, NGSolve) through a unified interface. It automates solver selection, input generation, execution, validation, and cross-code coupling for verified computer simulations.
+OASIS is a master methodology handbook for enterprise AI transformation, providing a structured framework for AI system development, deployment, and governance. It serves as a guide for executives, engineers, and compliance teams to align AI initiatives with business outcomes and regulatory requirements.
 
 ## Key Features
-- Unified interface for 8+ FEM/multiphysics solvers with curated knowledge and pitfall avoidance
-- Automated solver selection, input generation, and execution via AI language models
-- Cross-code coupling and domain decomposition with Aitken relaxation for multi-physics problems
-- MCP-compliant server for integration with AI coding assistants (Claude, Cursor, etc.) or custom LangGraph agents
-- Built-in validation, visualization, and convergence studies with analytical benchmarking
+- Comprehensive six-phase AI transformation lifecycle (Engage, Discover, Engineer, Activate, Operate, Optimize)
+- Detailed companion repositories for specialized engineering disciplines (e.g., Agent Engineering, Data Engineering, Security)
+- Structured templates, checklists, and tools for AI project delivery and compliance
+- Cross-cutting focus on security, governance, and regulatory alignment (ISO 42001, NIST AI RMF, EU AI Act)
+- Measurement framework for tracking AI system outcomes and performance
 
 ## Why It Matters for RAG Builders
-OASiS bridges the gap between AI language models and professional simulation tools, enabling automated, verified, and multi-physics problem-solving for RAG/AI stack builders.
+OASIS provides the foundational methodology and governance framework essential for building scalable, compliant, and outcome-driven AI systems in enterprise environments.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GitHub
+Automated review identified **GitHub** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LangGraph
-Automated review identified **LangGraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Documentation
+Automated review identified **Documentation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FEniCSx
-Automated review identified **FEniCSx** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Methodology
+Automated review identified **Methodology** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### deal.II
-Automated review identified **deal.II** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### NGSolve
-Automated review identified **NGSolve** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### scikit-fem
-Automated review identified **scikit-fem** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Kratos Multiphysics
-Automated review identified **Kratos Multiphysics** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### DUNE-fem
-Automated review identified **DUNE-fem** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FEBio
-Automated review identified **FEBio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### 4C Multiphysics
-Automated review identified **4C Multiphysics** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SPARTA DSMC
-Automated review identified **SPARTA DSMC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### preCICE
-Automated review identified **preCICE** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Gmsh
-Automated review identified **Gmsh** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PyVista
-Automated review identified **PyVista** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Enterprise Architecture
+Automated review identified **Enterprise Architecture** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

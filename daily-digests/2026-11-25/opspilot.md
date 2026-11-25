@@ -1,49 +1,58 @@
 ---
-title: "manojmallick/opspilot"
+title: "Ciaran11221/opspilot"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Qwen Cloud (Qwen-VL-Max, Qwen-Max)", "Node.js", "JSON Structured Output", "Benchmarking & Coverage Tools"]
-quality_score: 8
+tech_stack: ["Python", "FastAPI", "Claude API", "React", "Tailwind CSS", "PyInstaller", "Pytest", "Ruff"]
+quality_score: 9
 rag_relevance: 7
 deployment_complexity: "Medium"
-tags: ["Business Automation", "Qwen Cloud Integration", "Human-in-the-Loop", "VAT Declaration", "Invoice Processing"]
-source: "https://github.com/manojmallick/opspilot"
+tags: ["IT operations", "agentic workflow", "tool-use tracing", "CSV data processing", "SLA risk assessment"]
+source: "https://github.com/Ciaran11221/opspilot"
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-20T19:49:51Z"
-discovered_at: "2026-07-20T19:53:33Z"
+language: "Python"
+last_updated: "2026-07-18T17:55:35Z"
+discovered_at: "2026-07-18T17:56:16Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-OpsPilot is an end-to-end business operations automation tool designed for Dutch SMEs, automating invoice processing, customer inquiries, VAT declarations, and growth reviews using Qwen Cloud models. It features a human-in-the-loop governance layer called the Human Ledger for confidence-gated decision-making.
+OpsPilot is an agentic IT-operations assistant that interacts with synthetic or user-uploaded CSV data to audit account hygiene and ticket SLA risk. It demonstrates real-time tool-use tracing, live agent trace panels, and automated CSV normalization for IT operations tasks.
 
 ## Key Features
-- Automates four core business workflows: invoice processing, customer inquiries, VAT declarations, and growth reviews
-- Human Ledger governance layer enforces confidence thresholds and manual review for critical decisions
-- Real-world benchmarking against actual invoice data with measured accuracy metrics
-- Auto-counted tool coverage and usage tracking for transparency
-- Multilingual support (Dutch/English) with structured JSON outputs for reliability
+- Real-time agent trace panel with live streaming of tool calls, results, and reasoning steps
+- Automated CSV upload and normalization with transparent confidence-based parsing
+- Zero-install frontend using plain HTML and React/Tailwind via CDN
+- Standalone Windows executable for easy demo deployment
+- Comprehensive test suite (60+ tests) and behavioral evals for model tool-selection accuracy
 
 ## Why It Matters for RAG Builders
-OpsPilot provides a robust, confidence-gated automation framework for SMEs that can be adapted for RAG pipelines requiring human oversight and real-world data validation.
+OpsPilot provides a practical demonstration of agentic workflows for IT operations, showcasing real-time tool-use tracing and CSV data integration, which are critical for building robust RAG systems handling dynamic, multi-step tasks.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Qwen Cloud (Qwen-VL-Max, Qwen-Max)
-Automated review identified **Qwen Cloud (Qwen-VL-Max, Qwen-Max)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude API
+Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON Structured Output
-Automated review identified **JSON Structured Output** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Benchmarking & Coverage Tools
-Automated review identified **Benchmarking & Coverage Tools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tailwind CSS
+Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PyInstaller
+Automated review identified **PyInstaller** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Pytest
+Automated review identified **Pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Ruff
+Automated review identified **Ruff** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

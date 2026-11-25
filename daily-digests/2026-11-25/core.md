@@ -1,70 +1,61 @@
 ---
-title: "RedPlanetHQ/core"
+title: "Plantcore-AI/core"
 content_type: "repo"
 engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Docker", "Node.js", "React", "PostgreSQL", "Redis", "Claude Code", "Claude API", "OpenAI API", "MCP (Model Context Protocol)", "WebSockets", "Natural Language Processing"]
+category: "Agent Framework"
+tech_stack: ["Rust", "Terminal User Interface (TUI)", "Sandboxing", "Git", "LLM Providers (Anthropic, OpenAI, GLM, etc.)", "Bubblewrap", "Seatbelt (macOS)", "JSON/Stream-JSON", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["AI OS", "Task Automation", "Self-hosted", "Multi-interface", "Context-aware"]
-source: "https://github.com/RedPlanetHQ/core"
-stars: 1918
-language: "TypeScript"
-last_updated: "2026-07-19T17:52:05Z"
-discovered_at: "2026-07-19T17:59:03Z"
+tags: ["coding agent", "terminal", "Rust runtime", "sandboxing", "LLM integration"]
+source: "https://github.com/Plantcore-AI/core"
+stars: 2
+language: "Rust"
+last_updated: "2026-07-21T04:09:43Z"
+discovered_at: "2026-07-21T04:14:35Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-CORE is a self-hosted, open-source AI operating system designed to act as a persistent, context-aware assistant that monitors and automates tasks across multiple applications and interfaces. It integrates with over 50 apps, supports custom personalities, and delegates to coding agents like Claude Code or Codex.
+Core Code is an open-source terminal-native coding agent built on a modular Rust runtime, designed for bounded execution, durable evidence, and deny-by-default authority. It provides a full-screen TUI and one-shot automation for coding tasks with explicit resource ceilings and security boundaries.
 
 ## Key Features
-- Persistent memory and knowledge graph for contextual task execution across sessions
-- Multi-interface support (voice, scratchpad, chat, messaging) for seamless interaction
-- 50+ app connectors (GitHub, Linear, Slack, Gmail, etc.) via MCP and webhooks
-- Customizable personalities, rules, and autonomy levels for task delegation
-- Gateway for delegating to coding agents (Claude Code, Codex) and browser automation
+- Bounded execution with explicit resource ceilings (turns, time, cost, retries)
+- Deny-by-default authority and deny-by-default permissions for security
+- Durable evidence and hash-chained session records for reproducibility
+- Modular Rust crates for protocol, authority, tools, and observability
+- Interactive TUI and one-shot CLI interfaces with provider-agnostic model support
 
 ## Why It Matters for RAG Builders
-CORE provides a unified, persistent AI assistant that automates workflows across tools while maintaining deep contextual awareness, making it essential for building scalable, human-in-the-loop RAG systems.
+Core Code provides a secure, bounded, and observable foundation for building and deploying AI-powered coding agents, ensuring safety and reliability in production environments.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Terminal User Interface (TUI)
+Automated review identified **Terminal User Interface (TUI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Sandboxing
+Automated review identified **Sandboxing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM Providers (Anthropic, OpenAI, GLM, etc.)
+Automated review identified **LLM Providers (Anthropic, OpenAI, GLM, etc.)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Bubblewrap
+Automated review identified **Bubblewrap** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Seatbelt (macOS)
+Automated review identified **Seatbelt (macOS)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude API
-Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON/Stream-JSON
+Automated review identified **JSON/Stream-JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### WebSockets
-Automated review identified **WebSockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Natural Language Processing
-Automated review identified **Natural Language Processing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

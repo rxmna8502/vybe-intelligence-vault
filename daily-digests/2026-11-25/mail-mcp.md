@@ -1,52 +1,55 @@
 ---
-title: "securemessage/mail-mcp"
+title: "davidvornholt/mail-mcp"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["PHP 8.4", "IMAP/SMTP protocols", "Model Context Protocol (MCP)", "Enchilada Framework", "XOAUTH2", "PHAR packaging"]
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["email automation", "MCP server", "AI agent integration", "IMAP client", "SMTP client"]
-source: "https://github.com/securemessage/mail-mcp"
+tech_stack: ["TypeScript", "Bun", "Effect", "IMAP", "MCP (Model Context Protocol)", "CLI", "OS Keyring (Secret Service API)"]
+quality_score: 8
+rag_relevance: 6
+deployment_complexity: "Medium"
+tags: ["IMAP", "MCP server", "draft management", "Thunderbird integration", "CLI tool"]
+source: "https://github.com/davidvornholt/mail-mcp"
 stars: 1
-language: "PHP"
-last_updated: "2026-08-02T02:23:09Z"
-discovered_at: "2026-08-02T02:35:00Z"
+language: "TypeScript"
+last_updated: "2026-07-13T18:34:45Z"
+discovered_at: "2026-07-13T18:43:21Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A PHP-based Model Context Protocol (MCP) server for IMAP/SMTP email operations, enabling AI agents to interact with email accounts via a standardized interface. It provides tools for reading, sending, searching, and organizing emails without external dependencies beyond PHP 8.4.
+A draft-only IMAP helper for Thunderbird workflows, exposed as an MCP server and CLI tool. It enables searching, reading, and managing drafts with HTML and attachments, but does not send emails—drafts sync into Thunderbird for review and sending.
 
 ## Key Features
-- 22+ tools for comprehensive email operations (search, read, send, reply, drafts, attachments, threads, move, flags)
-- Multi-account support with runtime switching
-- Unified search with 12+ filter parameters across mailboxes
-- OAuth/XOAUTH2 support for major providers (Gmail, Microsoft 365, Yahoo)
-- Zero-dependency deployment via PHAR file for easy integration with AI agents
+- MCP server for AI clients (Codex, Claude) to interact with mail via standardized tools
+- CLI for manual mail operations (login, search, draft creation)
+- Supports HTML drafts with attachments
+- Secure secret handling via OS keyring (no plaintext storage)
+- Shared Effect core for both MCP server and CLI functionality
 
 ## Why It Matters for RAG Builders
-It enables AI agents to directly interact with email systems for tasks like automated email processing, retrieval, and organization, bridging the gap between AI workflows and real-world communication tools.
+It bridges AI workflows with Thunderbird's draft system, enabling secure, review-first email interactions for AI agents without sending emails directly.
 
 ## Tech Stack Deep Dive
-### PHP 8.4
-Automated review identified **PHP 8.4** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### IMAP/SMTP protocols
-Automated review identified **IMAP/SMTP protocols** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Bun
+Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Effect
+Automated review identified **Effect** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Enchilada Framework
-Automated review identified **Enchilada Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### IMAP
+Automated review identified **IMAP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### XOAUTH2
-Automated review identified **XOAUTH2** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PHAR packaging
-Automated review identified **PHAR packaging** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OS Keyring (Secret Service API)
+Automated review identified **OS Keyring (Secret Service API)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

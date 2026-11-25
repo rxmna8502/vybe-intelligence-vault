@@ -1,49 +1,52 @@
 ---
-title: "vibhorxpandey/Aurelius"
+title: "Blysspeak/aurelius"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Tavily API", "FastAPI (implicit via MCP)", "CLI tools"]
+category: "Orchestrator"
+tech_stack: ["Rust", "SQLite", "MCP (Model Context Protocol)", "Brave Search API", "WebAssembly (for UI)", "Git hooks"]
 quality_score: 9
-rag_relevance: 8
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["MCP server", "fact-checking", "research automation", "citation verification", "AI tooling"]
-source: "https://github.com/vibhorxpandey/Aurelius"
+tags: ["knowledge graph", "MCP server", "self-hosted", "task management", "AI memory"]
+source: "https://github.com/Blysspeak/aurelius"
 stars: 0
-language: "Python"
-last_updated: "2026-07-10T21:56:38Z"
-discovered_at: "2026-07-10T22:00:27Z"
+language: "Rust"
+last_updated: "2026-08-01T22:50:16Z"
+discovered_at: "2026-08-01T22:55:00Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Aurelius is an MCP (Model Context Protocol) server that provides fact-checked research tools for AI applications like Claude, Gemini CLI, and Cursor. It enables users to draft, fact-check, and verify claims against live web sources, reducing hallucinations in research outputs.
+Aurelius is a self-hosted knowledge graph memory system designed for developers and AI agents, enabling persistent project context, task management, and decision tracking via an MCP server and interactive graph UI.
 
 ## Key Features
-- Screen topics against restricted-domain policies to ensure relevance
-- Draft structured research outlines for any topic
-- Web search and citation verification using Tavily API
-- Host-driven mode to avoid additional LLM API costs
-- Autonomous research mode for end-to-end topic exploration
+- Persistent project context via knowledge graph with 25+ MCP tools for memory, recall, and updates
+- Task management with structured workflows, acceptance criteria, and analytics
+- Self-hosted sync server for collaborative project memory across instances
+- Interactive graph UI with Obsidian-style physics for visualizing relationships
+- Automatic indexing of project structure and reusable procedural skills
 
 ## Why It Matters for RAG Builders
-Aurelius ensures AI-generated research is accurate and verifiable by cross-checking claims against live sources, reducing hallucinations and improving trust in AI outputs.
+Aurelius provides a persistent, queryable memory layer for AI agents and developers, eliminating context loss between sessions and enabling long-term project tracking and collaboration.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tavily API
-Automated review identified **Tavily API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI (implicit via MCP)
-Automated review identified **FastAPI (implicit via MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Brave Search API
+Automated review identified **Brave Search API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI tools
-Automated review identified **CLI tools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebAssembly (for UI)
+Automated review identified **WebAssembly (for UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Git hooks
+Automated review identified **Git hooks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

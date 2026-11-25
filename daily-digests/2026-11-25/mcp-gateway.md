@@ -1,61 +1,58 @@
 ---
-title: "benwold-lgtm/MCP-Gateway"
+title: "openziti/mcp-gateway"
 content_type: "repo"
 engine: "v2"
 category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Redis", "Model Context Protocol (MCP)", "OpenAPI", "Docker", "SQLite", "HTTP/SSE", "Streamable HTTP"]
+tech_stack: ["Go", "OpenZiti", "zrok", "Agora", "Model Context Protocol (MCP)", "YAML", "HTTP/SSE", "mTLS"]
 quality_score: 9
-rag_relevance: 10
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["MCP gateway", "fleet management", "REST to MCP translation", "federated tools", "AI orchestration"]
-source: "https://github.com/benwold-lgtm/MCP-Gateway"
-stars: 0
-language: "Python"
-last_updated: "2026-08-08T19:29:26Z"
-discovered_at: "2026-08-08T19:33:13Z"
+tags: ["zero trust", "secure access", "MCP tools", "overlay network", "AI agent integration"]
+source: "https://github.com/openziti/mcp-gateway"
+stars: 43
+language: "Go"
+last_updated: "2026-07-21T17:14:51Z"
+discovered_at: "2026-07-21T17:16:45Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-MCP-Gateway is a governed MCP endpoint that unifies a fleet of devices by translating REST/OpenAPI services into MCP tools or federating existing MCP servers, providing a single interface for LLM clients with authentication, RBAC, rate limiting, and audit trails.
+MCP Gateway provides zero-trust, cryptographically secure access to Model Context Protocol (MCP) tools over OpenZiti, zrok, and Agora networks. It aggregates multiple MCP servers into a single secure endpoint without exposing public interfaces, enabling AI assistants to securely interact with internal tools.
 
 ## Key Features
-- Unified MCP endpoint for mixed fleets (REST and MCP upstreams)
-- Automatic OpenAPI spec discovery and tool translation for REST services
-- Federation of existing MCP servers with governance and RBAC
-- Authentication, rate limiting, health checks, and circuit breaking
-- Tamper-evident audit trails and tool-change governance
+- Zero-trust connectivity for MCP tools using OpenZiti's overlay network, eliminating public endpoints and attack surfaces.
+- Aggregates multiple MCP servers (stdio, HTTP, zrok, Agora) into a single secure endpoint with per-client isolation.
+- Supports tool-level permission control via allow/deny lists for fine-grained access management.
+- Enables persistent shares for seamless reconnection without changing share tokens.
+- Integrates with Agora for service discovery and Layer 1 tunnels alongside zrok for flexible deployment.
 
 ## Why It Matters for RAG Builders
-It simplifies the integration of heterogeneous device fleets into AI workflows by providing a single governed MCP endpoint, reducing complexity for RAG and agent builders.
+MCP Gateway enables secure, zero-trust access to internal MCP tools for AI assistants without exposing endpoints, reducing security risks while simplifying deployment and management.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenZiti
+Automated review identified **OpenZiti** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### zrok
+Automated review identified **zrok** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Agora
+Automated review identified **Agora** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAPI
-Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### HTTP/SSE
 Automated review identified **HTTP/SSE** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Streamable HTTP
-Automated review identified **Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### mTLS
+Automated review identified **mTLS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
