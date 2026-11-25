@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-11-24T20:33:20.674792+05:30'
+collected_at: '2026-11-25T20:07:20.837230+05:30'
 published_at: '2026-11-18T18:48:50Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-11-24T20:33:20.674792+05:30'
-last_seen: '2026-11-24T20:33:20.674792+05:30'
-last_checked: '2026-11-24T20:33:20.674792+05:30'
+first_seen: '2026-11-25T20:07:20.837230+05:30'
+last_seen: '2026-11-25T20:07:20.837230+05:30'
+last_checked: '2026-11-25T20:07:20.837230+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Langchain-based Retrieval-Augmented Generation (RAG) architecture.
-*   Leverages local Large Language Models (LLMs) for inference.
-*   Integrates database update mechanisms and testing protocols.
+*   Implements an updated Langchain Retrieval Augmented Generation (RAG) pipeline (v2).
+*   Utilizes local Large Language Models (LLMs) for self-hosted inference within the RAG architecture.
+*   Incorporates database update mechanisms for RAG data management and includes testing methodologies.
 
 ## Why It Matters
 

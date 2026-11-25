@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-25T19:27:45.091647+05:30`
+Generated at: `2026-11-25T20:29:06.609412+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,44 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
+- **Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?** - Score: `374` in category `ai/community` ([Link](https://news.ycombinator.com/item?id=50630809)) ([File](../ai/community/ask-hn-anthropic-is-accusing-my-company-of-distill.md))
+- **Show HN: Old Nvidia and ATI tech demos, running again in the browser** - Score: `225` in category `ai/community` ([Link](https://gpu-demo-gallery.pages.dev)) ([File](../ai/community/show-hn-old-nvidia-and-ati-tech-demos-running-agai.md))
+- **Marginalia Search, Money, C++, Rust, AI, Stuff** - Score: `172` in category `ai/community` ([Link](https://marginalia.nu/log/a_141_marginalia_update)) ([File](../ai/community/marginalia-search-money-c-rust-ai-stuff.md))
+- **Taking over US Treasury subdomains for $3 each** - Score: `149` in category `ai/community` ([Link](https://intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)) ([File](../ai/community/taking-over-us-treasury-subdomains-for-3-each.md))
+- **The short age of dragon riders** - Score: `121` in category `ai/community` ([Link](https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders)) ([File](../ai/community/the-short-age-of-dragon-riders.md))
+- **Getting old Java phones online again** - Score: `103` in category `ai/community` ([Link](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)) ([File](../ai/community/getting-old-java-phones-online-again.md))
+- **Top open problems in mathematics ranked by LLM-assessed importance** - Score: `76` in category `ai/community` ([Link](https://proofatlas.ai/open-problems)) ([File](../ai/community/top-open-problems-in-mathematics-ranked-by-llm-ass.md))
+- **When in Doubt, Flail About** - Score: `74` in category `ai/community` ([Link](https://seangoedecke.com/when-in-doubt-flail-about)) ([File](../ai/community/when-in-doubt-flail-about.md))
+- **amitshekhariitbhu/ai-agents-tutorial** - Score: `0` in category `ai/agents` ([Link](https://github.com/amitshekhariitbhu/ai-agents-tutorial)) ([File](../ai/agents/amitshekhariitbhu-ai-agents-tutorial.md))
+- **An Indic Voice Agent with CUGA** - Score: `0` in category `ai/agents` ([Link](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)) ([File](../ai/agents/huggingface-blog-ibm-research-an-indic-voice-agent-with-cuga.md))
+- **DAGroup-PKU/Open-HumanWAM-50K** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/dagroup-pku)) ([File](../ai/models/huggingface-datasets-dagroup-pku.md))
+- **[SUGGEST] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/resource-suggestion.md))
 
 ## Top Trending Resources
 
-- **sierra-research/tau2-bench** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/agents/sierra-research-tau2-bench.md))
-- **Code-and-Sorts/awesome-copilot-agents** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/agents/code-and-sorts-awesome-copilot-agents.md))
-- **idosal/git-mcp** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/agents/idosal-git-mcp.md))
-- **KnowledgeXLab/LeanRAG** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/rag/knowledgexlab-leanrag.md))
-- **techwithtim/ProductionGradeRAGPythonApp** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/rag/techwithtim-productiongraderagpythonapp.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1090` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **Ternary Bonsai 2.5 27B** - Score: `496` (+187), Rank Change: `+2` ([File](../ai/community/ternary-bonsai-2-5-27b.md))
+- **Active intrusion campaign against Check Point security management servers** - Score: `291` (+33), Rank Change: `+1` ([File](../ai/community/active-intrusion-campaign-against-check-point-secu.md))
+- **snyk/agent-scan** - Score: `0` (0), Rank Change: `+4754` ([File](../ai/agents/snyk-agent-scan.md))
+- **sierra-research/tau2-bench** - Score: `0` (0), Rank Change: `+1096` ([File](../ai/agents/sierra-research-tau2-bench.md))
+- **Cinnamon/kotaemon** - Score: `0` (0), Rank Change: `+22166` ([File](../ai/rag/cinnamon-kotaemon.md))
+- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - Score: `0` (0), Rank Change: `+2328` ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
+- **stackitcloud/rag-template** - Score: `0` (0), Rank Change: `+21750` ([File](../ai/rag/stackitcloud-rag-template.md))
+- **Shubhamsaboo/awesome-llm-apps** - Score: `0` (0), Rank Change: `+4197` ([File](../ai/rag/shubhamsaboo-awesome-llm-apps.md))
+- **vercel-labs/ai-sdk-preview-rag** - Score: `0` (0), Rank Change: `+1581` ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+2327` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1092`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+1092`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1092`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1092`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1092`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1092`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1092`) ([File](../ai/rag/arxiv-2606-09677.md))
-- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1092`) ([File](../ai/research/arxiv-2606-06379.md))
-- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1092`) ([File](../ai/agents/arxiv-2606-05050.md))
-- **Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory** - (Rank Change: `+1092`) ([File](../ai/research/arxiv-2605-24602.md))
+- **Cinnamon/kotaemon** - (Rank Change: `+22166`) ([File](../ai/rag/cinnamon-kotaemon.md))
+- **stackitcloud/rag-template** - (Rank Change: `+21750`) ([File](../ai/rag/stackitcloud-rag-template.md))
+- **snyk/agent-scan** - (Rank Change: `+4754`) ([File](../ai/agents/snyk-agent-scan.md))
+- **Shubhamsaboo/awesome-llm-apps** - (Rank Change: `+4197`) ([File](../ai/rag/shubhamsaboo-awesome-llm-apps.md))
+- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - (Rank Change: `+2328`) ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
+- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+2327`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **langchain-ai/rag-research-agent-template** - (Rank Change: `+2325`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
+- **vercel-labs/ai-sdk-preview-rag** - (Rank Change: `+1581`) ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **ritik-prog/n8n-automation-templates-5000** - (Rank Change: `+1580`) ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- **enescingoz/awesome-n8n-templates** - (Rank Change: `+1580`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +56,8 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **LLM agents work for their parent companies, not for you** (Category: `ai/community`) ([File](../ai/community/llm-agents-work-for-their-parent-companies-not-for.md))
+- **Anthropic breaks below $83 IPO price** (Category: `ai/community`) ([File](../ai/community/anthropic-breaks-below-83-ipo-price.md))
+- **A training engine for your local model, using your idle compute** (Category: `ai/community`) ([File](../ai/community/sous-labs-songe.md))
+- **Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage** (Category: `ai/community`) ([File](../ai/community/show-hn-mason-a-lightweight-postgres-read-replica.md))
+- **Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available** (Category: `ai/community`) ([File](../ai/community/fable-5-2-tries-less-on-some-hard-tasks-when-a-sho.md))

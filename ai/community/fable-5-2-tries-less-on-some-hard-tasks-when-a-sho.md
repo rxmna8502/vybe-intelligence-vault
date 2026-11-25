@@ -13,13 +13,14 @@ collected_at: '2026-11-25T06:23:58.151225+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fable-5-2-tries-less-on-some-hard-tasks-when-a-sho
 first_seen: '2026-11-25T06:23:58.151225+05:30'
 last_seen: '2026-11-25T06:23:58.151225+05:30'
 last_checked: '2026-11-25T06:23:58.151225+05:30'
 health_score: 100
 ---
+
 
 # Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available
 

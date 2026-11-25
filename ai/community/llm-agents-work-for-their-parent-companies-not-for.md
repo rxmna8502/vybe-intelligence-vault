@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llm-agents-work-for-their-parent-companies-not-for
 first_seen: '2026-11-24T20:32:06.896373+05:30'
 last_seen: '2026-11-25T06:23:59.430946+05:30'
 last_checked: '2026-11-25T06:23:59.430946+05:30'
 health_score: 100
 ---
+
 
 # LLM agents work for their parent companies, not for you
 

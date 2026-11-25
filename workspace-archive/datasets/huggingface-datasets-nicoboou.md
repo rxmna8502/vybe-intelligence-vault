@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: nicoboou/IDRCell100k (Likes: 18, Downloads: 1681913)
+Trending Hugging Face dataset: nicoboou/IDRCell100k (Likes: 18, Downloads: 1668240)
 
 ## Use Cases
 

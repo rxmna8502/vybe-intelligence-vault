@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: IaLoverSpaghetti/LocaIAinHTML (Likes: 1, Downloads: 2889402)
+Trending Hugging Face dataset: IaLoverSpaghetti/LocaIAinHTML (Likes: 1, Downloads: 3059982)
 
 ## Use Cases
 

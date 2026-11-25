@@ -1,19 +1,41 @@
 ---
-title: "schmitech/orbit"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "FastAPI", "Ollama", "vLLM", "llama.cpp", "OpenAI API", "Anthropic API", "Gemini API", "PostgreSQL", "SQLite", "MongoDB", "Elasticsearch", "MCP (Model Context Protocol)", "YAML", "React", "TypeScript"]
+title: schmitech/orbit
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-25
+tech_stack:
+- Python
+- Docker
+- FastAPI
+- Ollama
+- vLLM
+- llama.cpp
+- OpenAI API
+- Anthropic API
+- Gemini API
+- PostgreSQL
+- SQLite
+- MongoDB
+- Elasticsearch
+- MCP (Model Context Protocol)
+- YAML
+- React
+- TypeScript
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "AI Gateway", "Multi-Model", "Tool Integration", "Self-Hosted"]
-source: "https://github.com/schmitech/orbit"
+deployment_complexity: Medium
+tags:
+- RAG
+- AI Gateway
+- Multi-Model
+- Tool Integration
+- Self-Hosted
+source: https://github.com/schmitech/orbit
 stars: 333
-language: "Python"
-last_updated: "2026-08-07T12:23:08Z"
-discovered_at: "2026-08-07T13:03:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T12:23:08Z'
+discovered_at: '2026-08-07T13:03:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

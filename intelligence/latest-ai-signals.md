@@ -19,6 +19,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-07-06 | [crazyaiml/attribute-knowledge-rag](https://github.com/crazyaiml/attribute-knowledge-rag) | `rag-systems/` | 70 |
 | 2026-07-03 | [Speechify-AI/tts-shims](https://github.com/Speechify-AI/tts-shims) | `ai-coding-agents/` | 70 |
 | 2026-07-02 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | `agent-frameworks/` | 70 |
+| 2026-07-02 | [amitshekhariitbhu/ai-agents-tutorial](https://github.com/amitshekhariitbhu/ai-agents-tutorial) | `ai-coding-agents/` | 70 |
 | 2026-07-01 | [mistralai/LeanstralSafeVerify](https://github.com/mistralai/LeanstralSafeVerify) | `ai-coding-agents/` | 70 |
 | 2026-06-26 | [crazyaiml/VAR](https://github.com/crazyaiml/VAR) | `ai-coding-agents/` | 70 |
 | 2026-06-25 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | `ai-coding-agents/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` | 70 |
 | 2026-05-08 | [CALLE-AI/awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) | `ai-coding-agents/` | 70 |
-| 2026-05-08 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

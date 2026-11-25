@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-09-03T04:15:56.023189+05:30'
-published_at: '2026-09-02T22:35:25Z'
+collected_at: '2026-11-25T20:07:40.963553+05:30'
+published_at: '2026-11-25T02:21:54Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 25725
+stars: 25928
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-09-03T04:15:56.023189+05:30'
-last_seen: '2026-09-03T04:15:56.023189+05:30'
-last_checked: '2026-09-03T04:15:56.023189+05:30'
+first_seen: '2026-11-25T20:07:40.963553+05:30'
+last_seen: '2026-11-25T20:07:40.963553+05:30'
+last_checked: '2026-11-25T20:07:40.963553+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual responses.
-
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, retrieval, and LLM integration, supporting custom pipelines.
-
-- **Open-Source Deployment**: Provides a self-hostable, open-source solution with active community contributions (25.7k+ stars, 2.1k+ forks) and recent updates (as of 2026-09-02).
+*   Implements a Retrieval-Augmented Generation (RAG) pipeline for document-based conversational AI.
+*   Developed in Python, integrating Large Language Models (LLMs) to facilitate document querying.
+*   Provides an open-source chatbot framework for interactive data retrieval and synthesis.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25725
-- Forks: 2154
+- Stars: 25928
+- Forks: 2167
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-09-02T22:35:25Z
+- Last Updated: 2026-11-25T02:21:54Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

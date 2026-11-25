@@ -4,25 +4,25 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 
 | Product | Focus Area | Score |
 | :--- | :--- | :--- |
-| [Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions](https://arxiv.org/abs/2610.14334) | `mcp-registry/` | 70 |
-| [CASCADE: A Component Ablation and Corpus Audit of a Layered Local Defense for MCP-Based Systems](https://arxiv.org/abs/2604.17125) | `mcp-registry/` | 70 |
-| [MCPGen: Benchmarking LLMs on Executable MCPWorkflow Development](https://arxiv.org/abs/2609.23925) | `mcp-registry/` | 70 |
-| [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) | `mcp-registry/` | 70 |
-| [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](https://arxiv.org/abs/2609.10854) | `mcp-registry/` | 70 |
-| [Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators](https://arxiv.org/abs/2609.06796) | `mcp-registry/` | 70 |
-| [Redakto - The Incognito Tab for LLMs](https://arxiv.org/abs/2608.18260) | `mcp-registry/` | 70 |
-| [What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962) | `mcp-registry/` | 70 |
-| [Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization](https://arxiv.org/abs/2607.10618) | `mcp-registry/` | 70 |
-| [Program Learning with Verifiable Rewards: Distilling Expert Traces into Programs](https://arxiv.org/abs/2610.19148) | `mcp-registry/` | 70 |
-| [Grid-Orch: An LLM-Powered Orchestrator for Distribution Grid Simulation and Analytics](https://arxiv.org/abs/2605.12728) | `mcp-registry/` | 70 |
-| [MCPO: Modality-Contrastive Preference Optimization for Multimodal Chain-of-Thought Compression](https://arxiv.org/abs/2609.04947) | `mcp-registry/` | 70 |
-| [From Answers to Policies: Efficient In-Context Learning System through Emulating Expert Investigation](https://arxiv.org/abs/2608.16831) | `mcp-registry/` | 70 |
-| [Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation](https://arxiv.org/abs/2611.06734) | `mcp-registry/` | 70 |
-| [Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data](https://arxiv.org/abs/2609.11286) | `mcp-registry/` | 70 |
-| [Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise](https://arxiv.org/abs/2610.28810) | `mcp-registry/` | 70 |
-| [SafeOrchestrate: Runtime Checked Intent-Driven Orchestration for Cyber-Physical Systems](https://arxiv.org/abs/2611.09364) | `mcp-registry/` | 70 |
-| [Gaussian Mixture Copula Processes for Irregular Time Series](https://arxiv.org/abs/2605.23632) | `mcp-registry/` | 70 |
-| [LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses](https://arxiv.org/abs/2608.01734) | `mcp-registry/` | 70 |
-| [A Large-Scale Dataset of MCP Implementations on GitHub](https://arxiv.org/abs/2607.10123) | `mcp-registry/` | 70 |
+| [Jpisnice/shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server) | `mcp-registry/` | 70 |
+| [udecode/plate](https://github.com/udecode/plate) | `mcp-registry/` | 70 |
+| [Prompts - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/prompts) | `mcp-registry/` | 70 |
+| [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
+| [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
+| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | `mcp-registry/` | 70 |
+| [Welcome to the Planetary Data System](https://pds.nasa.gov) | `mcp-registry/` | 70 |
+| [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
+| [cloudflare/mcp](https://github.com/cloudflare/mcp) | `mcp-registry/` | 70 |
+| [semgrep/mcp](https://github.com/semgrep/mcp) | `mcp-registry/` | 70 |
+| [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
+| [Black Forest Labs · GitHub](https://github.com/black-forest-labs) | `mcp-registry/` | 70 |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | `mcp-registry/` | 70 |
+| [acuvity/minibridge](https://github.com/acuvity/minibridge) | `mcp-registry/` | 70 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | `mcp-registry/` | 70 |
+| [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
+| [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
+| [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | `mcp-registry/` | 70 |
+| [Tools - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/tools) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

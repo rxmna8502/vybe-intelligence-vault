@@ -13,13 +13,14 @@ collected_at: '2026-11-25T06:23:59.642486+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:show-hn-mason-a-lightweight-postgres-read-replica
 first_seen: '2026-11-25T06:23:59.642486+05:30'
 last_seen: '2026-11-25T06:23:59.642486+05:30'
 last_checked: '2026-11-25T06:23:59.642486+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage
 

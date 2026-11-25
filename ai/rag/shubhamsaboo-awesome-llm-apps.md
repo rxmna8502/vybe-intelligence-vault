@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Shubhamsaboo/awesome-llm-apps
-collected_at: '2026-11-10T00:26:35.334410+05:30'
-published_at: '2026-11-09T18:37:28Z'
+collected_at: '2026-11-25T20:07:35.873663+05:30'
+published_at: '2026-11-25T14:19:13Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 144286
+stars: 145662
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-04-29T05:30:25Z'
-pushed_at: '2026-11-08T17:14:10Z'
+pushed_at: '2026-11-18T05:25:32Z'
 resource_id: github:shubhamsaboo/awesome-llm-apps
-first_seen: '2026-11-10T00:26:35.334410+05:30'
-last_seen: '2026-11-10T00:26:35.334410+05:30'
-last_checked: '2026-11-10T00:26:35.334410+05:30'
+first_seen: '2026-11-25T20:07:35.873663+05:30'
+last_seen: '2026-11-25T20:07:35.873663+05:30'
+last_checked: '2026-11-25T20:07:35.873663+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated repository featuring 100+ open-source AI Agents, Agent Skills, and RAG applications.
-*   Predominantly implemented in Python, reflecting the primary language for LLM application development.
-*   High community adoption (144k+ stars, 21k+ forks) signifies its utility as a resource for practical LLM integration patterns.
+*   Curated repository featuring 100+ open-source implementations of AI agents, agent skills, and Retrieval Augmented Generation (RAG) applications.
+*   Primarily developed in Python, focusing on practical application architectures for Large Language Models (LLMs).
+*   Serves as a technical resource for advanced LLM paradigms, including autonomous agents and knowledge-grounded generation.
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Shubhamsaboo
-- Stars: 144286
-- Forks: 21232
+- Stars: 145662
+- Forks: 21433
 - Language: Python
 - Topics: agents, llms, python, rag
-- Last Updated: 2026-11-09T18:37:28Z
+- Last Updated: 2026-11-25T14:19:13Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-29T05:30:25Z
-- Pushed At: 2026-11-08T17:14:10Z
+- Pushed At: 2026-11-18T05:25:32Z
 
 ## Possible Use Cases
 
