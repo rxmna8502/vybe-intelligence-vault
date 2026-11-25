@@ -13,13 +13,14 @@ collected_at: '2026-11-24T20:32:08.984659+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:declare-is-a-ui-language-for-you-and-your-ai
 first_seen: '2026-11-24T20:32:08.984659+05:30'
 last_seen: '2026-11-24T20:32:08.984659+05:30'
 last_checked: '2026-11-24T20:32:08.984659+05:30'
 health_score: 100
 ---
+
 
 # Declare is a UI language for you and your AI
 

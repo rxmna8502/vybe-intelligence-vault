@@ -13,13 +13,14 @@ collected_at: '2026-11-24T20:32:08.384583+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:seastore-redesigning-ceph-s-storage-back-end-for-c
 first_seen: '2026-11-24T20:32:08.384583+05:30'
 last_seen: '2026-11-24T20:32:08.384583+05:30'
 last_checked: '2026-11-24T20:32:08.384583+05:30'
 health_score: 100
 ---
+
 
 # SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance
 
