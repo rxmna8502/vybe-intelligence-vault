@@ -13,13 +13,14 @@ collected_at: '2026-11-25T20:06:18.652915+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:active-intrusion-campaign-against-check-point-secu
 first_seen: '2026-11-25T06:23:58.081383+05:30'
 last_seen: '2026-11-25T20:06:18.652915+05:30'
 last_checked: '2026-11-25T20:06:18.652915+05:30'
 health_score: 100
 ---
+
 
 # Active intrusion campaign against Check Point security management servers
 

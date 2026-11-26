@@ -13,13 +13,14 @@ collected_at: '2026-11-25T20:06:16.969613+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:when-in-doubt-flail-about
 first_seen: '2026-11-25T20:06:16.969613+05:30'
 last_seen: '2026-11-25T20:06:16.969613+05:30'
 last_checked: '2026-11-25T20:06:16.969613+05:30'
 health_score: 100
 ---
+
 
 # When in Doubt, Flail About
 

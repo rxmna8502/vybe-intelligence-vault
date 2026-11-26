@@ -13,13 +13,14 @@ collected_at: '2026-11-25T20:06:17.182259+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:top-open-problems-in-mathematics-ranked-by-llm-ass
 first_seen: '2026-11-25T20:06:17.182259+05:30'
 last_seen: '2026-11-25T20:06:17.182259+05:30'
 last_checked: '2026-11-25T20:06:17.182259+05:30'
 health_score: 100
 ---
+
 
 # Top open problems in mathematics ranked by LLM-assessed importance
 

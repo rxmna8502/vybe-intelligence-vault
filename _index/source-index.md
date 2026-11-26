@@ -42624,16 +42624,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Active intrusion campaign against Check Point security management servers](../ai/community/active-intrusion-campaign-against-check-point-secu.md)
-  - [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](../ai/community/ask-hn-anthropic-is-accusing-my-company-of-distill.md)
-  - [Getting old Java phones online again](../ai/community/getting-old-java-phones-online-again.md)
-  - [Marginalia Search, Money, C++, Rust, AI, Stuff](../ai/community/marginalia-search-money-c-rust-ai-stuff.md)
+  - [Britain's ghost stations](../ai/community/britain-s-ghost-stations.md)
+  - [Much shorter version of GRH Lean verification from Anthropic](../ai/community/lsernau-grh-lean.md)
+  - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](../ai/community/porting-rockbox-to-an-undocumented-9-aliexpress-yp.md)
   - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](../ai/community/show-hn-old-nvidia-and-ati-tech-demos-running-agai.md)
-  - [Taking over US Treasury subdomains for $3 each](../ai/community/taking-over-us-treasury-subdomains-for-3-each.md)
-  - [Ternary Bonsai 2.5 27B](../ai/community/ternary-bonsai-2-5-27b.md)
-  - [The short age of dragon riders](../ai/community/the-short-age-of-dragon-riders.md)
-  - [Top open problems in mathematics ranked by LLM-assessed importance](../ai/community/top-open-problems-in-mathematics-ranked-by-llm-ass.md)
-  - [When in Doubt, Flail About](../ai/community/when-in-doubt-flail-about.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42968,6 +42962,7 @@ Resources organized by publisher feed and query sources.
   - [Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training](../ai/models/huggingface-blog-habana.md)
   - [Happy 1st anniversary 🤗 Diffusers!](../ai/models/huggingface-blog-diffusers-turns-1.md)
   - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../ai/agents/huggingface-blog-agent-glossary.md)
+  - [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](../ai/models/huggingface-blog-inkling-2-mini-inference-hillclimb.md)
   - [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../ai/agents/huggingface-blog-hcompany-holo1.md)
   - [Holo3.1: Fast & Local Computer Use Agents](../ai/agents/huggingface-blog-hcompany-holo31.md)
   - [Holo4: powering generalist computer-use agents](../ai/agents/huggingface-blog-hcompany-holo4.md)
@@ -43305,7 +43300,6 @@ Resources organized by publisher feed and query sources.
   - [Results of the Open Source AI Game Jam](../ai/models/huggingface-blog-game-jam-first-edition-results.md)
   - [Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](../ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md)
   - [Retrieval Augmented Generation with Huggingface Transformers and Ray](../ai/models/huggingface-blog-ray-rag.md)
-  - [RoboTrack: Point tracking for real-world robotic manipulation](../ai/models/huggingface-blog-allenai-robotrack.md)
   - [Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](../ai/models/huggingface-blog-rocketmoney-case-study.md)
   - [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](../ai/models/huggingface-blog-rumble-2-flash.md)
   - [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](../ai/rag/huggingface-blog-skypilot-hf-storage.md)
@@ -43516,6 +43510,7 @@ Resources organized by publisher feed and query sources.
   - [What We Learned by Reproducing 2,200 papers from ICML](../ai/models/huggingface-blog-icml-2026-open-reproductions.md)
   - [What's going on with the Open LLM Leaderboard?](../ai/models/huggingface-blog-open-llm-leaderboard-mmlu.md)
   - [What's new in Diffusers? 🎨](../ai/models/huggingface-blog-diffusers-2nd-month.md)
+  - [Where scientists draw the line on AI agents](../ai/agents/huggingface-blog-allenai-where-scientists-draw-the-line-on-ai-agents.md)
   - [Why Specialization Is Inevitable](../ai/models/huggingface-blog-dharma-ai-why-specialization-is-inevitable.md)
   - [Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too](../ai/models/huggingface-blog-mantis-case-study.md)
   - [Why your fine-tuning job takes longer than the FLOPs say](../ai/models/huggingface-blog-dharma-ai-predicting-fine-tuning-time.md)
@@ -46561,4 +46556,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-25T20:23:15.122549+05:30*
+*Index generated on 2026-11-26T06:19:42.598870+05:30*

@@ -5341,7 +5341,6 @@ Resources organized by keyword tags.
   - [Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](../ai/agents/arxiv-2609-27307.md)
   - [Learn Now, Use Next, Trust Later: Prequential Test-Time Learning for LLM Agents](../ai/rag/arxiv-2609-35911.md)
   - [Learn for Variation: Efficient AAV Trajectory Learning through a Differentiable Wireless World Model](../ai/agents/arxiv-2603-18853.md)
-  - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention](../ai/rag/arxiv-2611-17662.md)
   - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](../ai/agents/arxiv-2606-17897.md)
   - [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](../ai/agents/arxiv-2610-08215.md)
@@ -10229,6 +10228,7 @@ Resources organized by keyword tags.
   - [Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?](../ai/agents/arxiv-2610-37276.md)
   - [Where Structure Enters a World Model: From Predictive Fit to Physical Rollout](../ai/agents/arxiv-2611-27149.md)
   - [Where You Inject Matters: The Trust Region Effect in LLM Agents](../ai/rag/arxiv-2610-38867.md)
+  - [Where scientists draw the line on AI agents](../ai/agents/huggingface-blog-allenai-where-scientists-draw-the-line-on-ai-agents.md)
   - [Where the Evidence Lives: Auditing AI Companions' Self-Descriptions](../ai/agents/arxiv-2609-38753.md)
   - [Where the Model Changes Its Mind: Hindsight-Divergence Localization for Efficient Reinforcement Learning with Verifiable Rewards](../ai/agents/arxiv-2609-36864.md)
   - [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](../ai/agents/arxiv-2611-23375.md)
@@ -10753,13 +10753,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Active intrusion campaign against Check Point security management servers](../ai/community/active-intrusion-campaign-against-check-point-secu.md)
-  - [Getting old Java phones online again](../ai/community/getting-old-java-phones-online-again.md)
-  - [Marginalia Search, Money, C++, Rust, AI, Stuff](../ai/community/marginalia-search-money-c-rust-ai-stuff.md)
+  - [Britain's ghost stations](../ai/community/britain-s-ghost-stations.md)
   - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](../ai/community/show-hn-old-nvidia-and-ati-tech-demos-running-agai.md)
-  - [Taking over US Treasury subdomains for $3 each](../ai/community/taking-over-us-treasury-subdomains-for-3-each.md)
-  - [Ternary Bonsai 2.5 27B](../ai/community/ternary-bonsai-2-5-27b.md)
-  - [When in Doubt, Flail About](../ai/community/when-in-doubt-flail-about.md)
 
 ## animation
 
@@ -10891,7 +10886,6 @@ Resources organized by keyword tags.
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
   - [Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models](../ai/research/arxiv-2610-37680.md)
-  - [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](../ai/community/ask-hn-anthropic-is-accusing-my-company-of-distill.md)
   - [AssemblyAI | AI models to transcribe and understand speech](../ai/agents/assemblyai-ai-models-to-transcribe-and-understand.md)
   - [Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG](../ai/agents/arxiv-2607-02802.md)
   - [Athanor: An Agent-Native System for Autonomous Post-Training Research](../ai/rag/arxiv-2610-21055.md)
@@ -11403,6 +11397,7 @@ Resources organized by keyword tags.
   - [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)
   - [Monitor agent usage with OpenTelemetry](../ai/agents/monitor-agent-usage-with-opentelemetry.md)
   - [Moral Hazard in Multi-Agent Language Models](../ai/agents/arxiv-2607-23982.md)
+  - [Much shorter version of GRH Lean verification from Anthropic](../ai/community/lsernau-grh-lean.md)
   - [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md)
   - [Multi-Task Self-Evolving Harnesses with the Agent as Its Own Optimizer](../ai/rag/arxiv-2609-38372.md)
   - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](../ai/agents/arxiv-2606-16748.md)
@@ -42419,7 +42414,6 @@ Resources organized by keyword tags.
   - [Activation Quantization of Vision Encoders Needs Prefixing Registers](../ai/research/arxiv-2510-04547.md)
   - [Activation Steering Induces Emergent Misalignment: Steering Vector Construction and Comprehensive Evaluation](../ai/research/arxiv-2606-08682.md)
   - [Active Regression via Linear-Sample Sparsification](../ai/rag/arxiv-1711-10051.md)
-  - [Active intrusion campaign against Check Point security management servers](../ai/community/active-intrusion-campaign-against-check-point-secu.md)
   - [ActivityPub](../ai/rag/activitypub.md)
   - [AdaDim: Dimensionality Adaptation for SSL Representational Dynamics](../ai/rag/arxiv-2505-12576.md)
   - [AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models](../ai/rag/arxiv-2608-29208.md)
@@ -42622,7 +42616,6 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
-  - [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](../ai/community/ask-hn-anthropic-is-accusing-my-company-of-distill.md)
   - [Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG](../ai/agents/arxiv-2607-02802.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessing the impact of dimensionality reduction on clustering performance - a systematic study](../ai/research/arxiv-2604-22099.md)
@@ -42840,6 +42833,7 @@ Resources organized by keyword tags.
   - [Bridging the Gap Between Hyperdimensional Computing and Kernel Methods via the Nystr\"om Method](../ai/rag/arxiv-2608-06860.md)
   - [Bringing AI Assistance to the Beznau Nuclear Power Plant: A Hierarchical System of LLM Agents for Reactor Monitoring](../ai/agents/arxiv-2611-27556.md)
   - [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](../ai/agents/arxiv-2609-30291.md)
+  - [Britain's ghost stations](../ai/community/britain-s-ghost-stations.md)
   - [Brownian Kernel Ladders](../ai/research/arxiv-2606-15812.md)
   - [Browse Azure Architectures - Azure Architecture Center | Microsoft Learn](../ai/resources/browse-azure-architectures-azure-architecture-cent.md)
   - [Browse privately in Safari on Mac - Apple Support](../ai/resources/browse-privately-in-safari-on-mac-apple-support.md)
@@ -44002,7 +43996,6 @@ Resources organized by keyword tags.
   - [Get an app for Mastodon - Mastodon](../ai/resources/get-an-app-for-mastodon-mastodon.md)
   - [Get our developer newsletter · GitHub](../ai/rag/get-our-developer-newsletter-github.md)
   - [Getting Started with Roboflow](../ai/rag/getting-started-with-roboflow.md)
-  - [Getting old Java phones online again](../ai/community/getting-old-java-phones-online-again.md)
   - [Getting started | CHI@Edge](../ai/resources/getting-started-chi-edge.md)
   - [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](../ai/research/ghost-in-the-minecraft-generally-capable-agents-fo.md)
   - [Ghost: The best open source blog & newsletter platform](../ai/rag/ghost-the-best-open-source-blog-newsletter-platfor.md)
@@ -44785,7 +44778,6 @@ Resources organized by keyword tags.
   - [Manifold constrained steepest descent for smooth and closed-set optimization](../ai/research/arxiv-2601-21487.md)
   - [Manifold-Informed Neural Networks for Low-Label ECG Electrolyte Inference](../ai/research/arxiv-2610-28322.md)
   - [Mapping Seven Decades of Philosophy in Colombia: Dynamic Topic Modelling of Ideas y Valores](../ai/research/arxiv-2412-04236.md)
-  - [Marginalia Search, Money, C++, Rust, AI, Stuff](../ai/community/marginalia-search-money-c-rust-ai-stuff.md)
   - [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](../ai/research/arxiv-2609-08084.md)
   - [Marine Engine Fault Dataset: Open-Access Data under Controlled Reference and Fault Scenario Conditions](../ai/research/arxiv-2607-19444.md)
   - [MarkNull: Model-Agnostic Watermark Removal in AI-Generated Images via On-Manifold Latent Manipulation](../ai/rag/arxiv-2608-10166.md)
@@ -44910,6 +44902,7 @@ Resources organized by keyword tags.
   - [MotionCoach: Constructing Multimodal Guidance for Video Professional Motion Editing](../ai/agents/arxiv-2610-12963.md)
   - [Mozilla Hacks - YouTube](../ai/rag/mozilla-hacks-youtube.md)
   - [Mozilla Privacy](../ai/resources/mozilla-privacy.md)
+  - [Much shorter version of GRH Lean verification from Anthropic](../ai/community/lsernau-grh-lean.md)
   - [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md)
   - [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](../ai/rag/arxiv-2607-07368.md)
   - [Multi-Agent Closed-Loop Reasoning for Organic Structure Elucidation from Multimodal Spectra](../ai/agents/arxiv-2608-14720.md)
@@ -45307,6 +45300,7 @@ Resources organized by keyword tags.
   - [Polynomial Residual Networks are Generically Identifiable](../ai/research/arxiv-2610-33738.md)
   - [Polynomial-Augmented Neural Networks (PANNs) with Weak Orthogonality Constraints for Enhanced Function and PDE Approximation](../ai/research/arxiv-2406-02336.md)
   - [Polynomial-Time Mistake-Bounded Language Generation](../ai/research/arxiv-2606-16077.md)
+  - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](../ai/community/porting-rockbox-to-an-undocumented-9-aliexpress-yp.md)
   - [Posit Community](../ai/resources/posit-community.md)
   - [Posit Open Source](../ai/rag/posit-open-source.md)
   - [Posit Support](../ai/rag/posit-support.md)
@@ -46138,7 +46132,6 @@ Resources organized by keyword tags.
   - [Tabular Deep Learning for Algorithmic Trading: Cross-Regime Bayesian Optimisation for Equity Signal Generation](../ai/research/arxiv-2608-27076.md)
   - [Tabular Foundation Models in Financial Predictions](../ai/research/arxiv-2611-13550.md)
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
-  - [Taking over US Treasury subdomains for $3 each](../ai/community/taking-over-us-treasury-subdomains-for-3-each.md)
   - [Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse](../ai/research/arxiv-2608-30956.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
@@ -46191,7 +46184,6 @@ Resources organized by keyword tags.
   - [Terms of Service | Resemble AI](../ai/agents/terms-of-service-resemble-ai.md)
   - [Terms of Use | Cohere](../ai/rag/terms-of-use-cohere.md)
   - [Terms of Use | OpenAI](../ai/agents/terms-of-use-openai.md)
-  - [Ternary Bonsai 2.5 27B](../ai/community/ternary-bonsai-2-5-27b.md)
   - [Test Case Prioritization for DNNs via Neural Collapse Instability](../ai/rag/arxiv-2607-20046.md)
   - [Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts](../ai/research/arxiv-2604-16926.md)
   - [Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts](../ai/rag/arxiv-2608-03557.md)
@@ -46311,7 +46303,6 @@ Resources organized by keyword tags.
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The shape of quark flavors](../ai/research/arxiv-2609-22812.md)
-  - [The short age of dragon riders](../ai/community/the-short-age-of-dragon-riders.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
@@ -46341,7 +46332,6 @@ Resources organized by keyword tags.
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
-  - [Top open problems in mathematics ranked by LLM-assessed importance](../ai/community/top-open-problems-in-mathematics-ranked-by-llm-ass.md)
   - [Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding](../ai/research/arxiv-2502-08363.md)
   - [TopoEmbedX: A General Framework for Representation Learning on Topological Domains](../ai/rag/arxiv-2609-37884.md)
   - [TopoMap: A Feature-based Discriminator of the Topographical Regions in the Test Input Space](../ai/rag/arxiv-2509-03242.md)
@@ -46712,7 +46702,6 @@ Resources organized by keyword tags.
   - [When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\ell_1$-norm Lower Bounds](../ai/rag/arxiv-2605-06615.md)
   - [When do cheap embeddings beat protein language models? A theoretically-grounded hashing sketch for biological sequence classification](../ai/rag/arxiv-2512-10147.md)
   - [When do machine-learned exchange-correlation improvements inherit into density-functional tight binding?](../ai/research/arxiv-2608-14875.md)
-  - [When in Doubt, Flail About](../ai/community/when-in-doubt-flail-about.md)
   - [When the Algorithm Becomes the Brand Crisis: A Sociotechnical Theory of Distributed Responsibility and Accountable Transparency](../ai/research/arxiv-2609-00510.md)
   - [When the noncommutative AM-GM inequality holds](../ai/research/arxiv-2610-04874.md)
   - [Where Global Context and Weight Sharing Work in Compact Vision Backbones](../ai/rag/arxiv-2611-23446.md)
@@ -47750,7 +47739,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Top open problems in mathematics ranked by LLM-assessed importance](../ai/community/top-open-problems-in-mathematics-ranked-by-llm-ass.md)
+  - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](../ai/community/porting-rockbox-to-an-undocumented-9-aliexpress-yp.md)
 
 ## mdx
 
@@ -79487,7 +79476,6 @@ Resources organized by keyword tags.
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
   - [The persuasive power of large language models does not depend on their perceived national origin](../ai/rag/arxiv-2607-29334.md)
   - [The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer](../ai/rag/arxiv-2502-15631.md)
-  - [The short age of dragon riders](../ai/community/the-short-age-of-dragon-riders.md)
   - [The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment](../ai/rag/arxiv-2607-05552.md)
   - [The zbMATH Open Knowledge Graph: Tracing Centuries of Mathematical Research](../ai/rag/arxiv-2609-00969.md)
   - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
@@ -94239,4 +94227,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-25T20:23:14.532595+05:30*
+*Index generated on 2026-11-26T06:19:42.104886+05:30*

@@ -14,13 +14,14 @@ collected_at: '2026-11-25T20:06:18.535099+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-anthropic-is-accusing-my-company-of-distill
 first_seen: '2026-11-25T20:06:18.535099+05:30'
 last_seen: '2026-11-25T20:06:18.535099+05:30'
 last_checked: '2026-11-25T20:06:18.535099+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?
 

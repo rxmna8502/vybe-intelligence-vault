@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://gpu-demo-gallery.pages.dev
 hn_url: https://news.ycombinator.com/item?id=50638503
-score: 225
+score: 331
 author: arkits
-comments_count: 49
+comments_count: 73
 published_at: '2026-11-25T10:01:48+05:30'
-collected_at: '2026-11-25T20:06:15.615703+05:30'
+collected_at: '2026-11-26T06:03:02.932386+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:show-hn-old-nvidia-and-ati-tech-demos-running-agai
 first_seen: '2026-11-25T20:06:15.615703+05:30'
-last_seen: '2026-11-25T20:06:15.615703+05:30'
-last_checked: '2026-11-25T20:06:15.615703+05:30'
+last_seen: '2026-11-26T06:03:02.932386+05:30'
+last_checked: '2026-11-26T06:03:02.932386+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by arkits. Score: 225, Comments: 49.
+Hacker News story by arkits. Score: 331, Comments: 73.
 Original Link: https://gpu-demo-gallery.pages.dev/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: arkits
-- Score: 225 Upvotes
-- Comments: 49 Discussions
+- Score: 331 Upvotes
+- Comments: 73 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50638503
 - Original Article: https://gpu-demo-gallery.pages.dev
 
