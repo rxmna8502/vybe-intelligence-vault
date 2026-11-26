@@ -1,33 +1,19 @@
 ---
-title: Plantcore-AI/core
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-26
-tech_stack:
-- Rust
-- Terminal User Interface (TUI)
-- Sandboxing
-- Git
-- LLM Providers (Anthropic, OpenAI, GLM, etc.)
-- Bubblewrap
-- Seatbelt (macOS)
-- JSON/Stream-JSON
-- MCP (Model Context Protocol)
+title: "Plantcore-AI/core"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Terminal User Interface (TUI)", "Sandboxing", "Git", "LLM Providers (Anthropic, OpenAI, GLM, etc.)", "Bubblewrap", "Seatbelt (macOS)", "JSON/Stream-JSON", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- terminal
-- Rust runtime
-- sandboxing
-- LLM integration
-source: https://github.com/Plantcore-AI/core
+deployment_complexity: "Medium"
+tags: ["coding agent", "terminal", "Rust runtime", "sandboxing", "LLM integration"]
+source: "https://github.com/Plantcore-AI/core"
 stars: 2
-language: Rust
-last_updated: '2026-07-21T04:09:43Z'
-discovered_at: '2026-07-21T04:14:35Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-21T04:09:43Z"
+discovered_at: "2026-07-21T04:14:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
