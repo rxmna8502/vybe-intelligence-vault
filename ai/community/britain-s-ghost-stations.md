@@ -13,13 +13,14 @@ collected_at: '2026-11-26T06:03:01.294941+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:britain-s-ghost-stations
 first_seen: '2026-11-26T06:03:01.294941+05:30'
 last_seen: '2026-11-26T06:03:01.294941+05:30'
 last_checked: '2026-11-26T06:03:01.294941+05:30'
 health_score: 100
 ---
+
 
 # Britain's ghost stations
 

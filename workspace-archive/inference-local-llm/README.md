@@ -25,7 +25,7 @@ https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio)
-- [docker/compose-for-agents](https://github.com/docker/compose-for-agents)
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-11-26 06:22 IST*
+*Last updated: 2026-11-26 19:59 IST*

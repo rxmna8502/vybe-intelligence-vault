@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/lsernau/grh-lean
 hn_url: https://news.ycombinator.com/item?id=50648050
-score: 218
+score: 491
 author: nb-t
-comments_count: 98
+comments_count: 287
 published_at: '2026-11-26T03:18:10+05:30'
-collected_at: '2026-11-26T06:02:59.542711+05:30'
+collected_at: '2026-11-26T19:34:05.974708+05:30'
 tags:
 - anthropic
 - hackernews
 status: active
 resource_id: github:lsernau/grh-lean
 first_seen: '2026-11-26T06:02:59.542711+05:30'
-last_seen: '2026-11-26T06:02:59.542711+05:30'
-last_checked: '2026-11-26T06:02:59.542711+05:30'
+last_seen: '2026-11-26T19:34:05.974708+05:30'
+last_checked: '2026-11-26T19:34:05.974708+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by nb-t. Score: 218, Comments: 98.
+Hacker News story by nb-t. Score: 491, Comments: 287.
 Original Link: https://github.com/lsernau/grh-lean
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: nb-t
-- Score: 218 Upvotes
-- Comments: 98 Discussions
+- Score: 491 Upvotes
+- Comments: 287 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50648050
 - Original Article: https://github.com/lsernau/grh-lean
 

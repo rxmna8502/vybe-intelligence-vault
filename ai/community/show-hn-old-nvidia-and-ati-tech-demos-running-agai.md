@@ -13,13 +13,14 @@ collected_at: '2026-11-26T06:03:02.932386+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-old-nvidia-and-ati-tech-demos-running-agai
 first_seen: '2026-11-25T20:06:15.615703+05:30'
 last_seen: '2026-11-26T06:03:02.932386+05:30'
 last_checked: '2026-11-26T06:03:02.932386+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Old Nvidia and ATI tech demos, running again in the browser
 

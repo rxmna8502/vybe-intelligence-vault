@@ -38,13 +38,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-27144.md))
 - [Building Agentic Retrieval with LlamaParse Index](https://landing.llamaindex.ai/retrieval-harness) (Tier: `essential` | [`Local File`](../../ai/rag/building-agentic-retrieval-with-llamaparse-index.md))
 - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (Tier: `essential` | [`Local File`](../../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md))
+- [Evaluating Large Language Models on Iranian Doctoral Entrance Exams in Electrical and Computer Engineering](https://arxiv.org/abs/2611.31263) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2611-31263.md))
 - [Reliable Virtual Sensing: A Multi-Domain Benchmark for Robustness Under Sensor Failures](https://arxiv.org/abs/2609.18396) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-18396.md))
 - [Routes of Reasoning: Reading and Reshaping Test-Time Compute in MoE Models](https://arxiv.org/abs/2611.05919) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2611-05919.md))
 - [Uncertainty of Vision Medical Foundation Models](https://arxiv.org/abs/2608.30390) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2608-30390.md))
 - [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-39601.md))
 - [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2610-21055.md))
 - [Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles](https://arxiv.org/abs/2609.22220) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-22220.md))
-- [GARLIC: Graph Attention-based Relational Learning of Multivariate Time Series in Intensive Care](https://arxiv.org/abs/2608.10969) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-10969.md))
 
 ## FRAMEWORK
 
@@ -138,7 +138,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## TOOL
 
+- [malonge/RaGOO](https://github.com/malonge/RaGOO) (Tier: `essential` | [`Local File`](../../ai/rag/malonge-ragoo.md))
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (Tier: `useful` | [`Local File`](../../ai/agents/hoodini-ai-agents-skills.md))
+- [malonge/RaGOO](https://github.com/malonge/RaGOO) (Tier: `essential` | [`Local File`](../../ai/rag/malonge-ragoo.md))
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md))
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (Tier: `useful` | [`Local File`](../../web-development/threejs/pixiv-three-vrm.md))
 - [spite/Wagner](https://github.com/spite/wagner) (Tier: `useful` | [`Local File`](../../web-development/threejs/spite-wagner.md))
@@ -148,8 +150,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [playcanvas/engine](https://github.com/playcanvas/engine) (Tier: `useful` | [`Local File`](../../web-development/webgpu/playcanvas-engine.md))
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) (Tier: `useful` | [`Local File`](../../ai/rag/michaelfeil-infinity.md))
 - [Mario343214420/Webgl-Data-Demo](https://github.com/mario343214420/webgl-data-demo) (Tier: `useful` | [`Local File`](../../web-development/threejs/mario343214420-webgl-data-demo.md))
-- [z2586300277/three-cesium-examples](https://github.com/z2586300277/three-cesium-examples) (Tier: `useful` | [`Local File`](../../web-development/threejs/z2586300277-three-cesium-examples.md))
-- [creativelifeform/three-nebula](https://github.com/creativelifeform/three-nebula) (Tier: `useful` | [`Local File`](../../web-development/threejs/creativelifeform-three-nebula.md))
 
 ## TUTORIAL
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 
 ---
-*Last updated: 2026-11-26 06:22 IST*
+*Last updated: 2026-11-26 20:00 IST*

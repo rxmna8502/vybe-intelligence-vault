@@ -13,13 +13,14 @@ collected_at: '2026-11-26T06:03:01.512441+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:porting-rockbox-to-an-undocumented-9-aliexpress-yp
 first_seen: '2026-11-26T06:03:01.512441+05:30'
 last_seen: '2026-11-26T06:03:01.512441+05:30'
 last_checked: '2026-11-26T06:03:01.512441+05:30'
 health_score: 100
 ---
+
 
 # Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs
 

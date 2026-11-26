@@ -93,23 +93,23 @@ This index groups curated resources by target developer skills.
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Tier: `essential` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
 - [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-12805.md))
+- [The Gradient Difference Induced by Detaching the Denominator in QK Normalization](https://arxiv.org/abs/2611.33887) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2611-33887.md))
 - [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2511-16717.md))
 - [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-27144.md))
 - [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2602-11139.md))
 - [ReSeg: Retraining-free segmentation of abdominal organs via generalizable semantic representation learning](https://arxiv.org/abs/2610.29090) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2610-29090.md))
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2407-18245.md))
-- [Role-Aware Morgan Fingerprints for Reaction Yield Prediction](https://arxiv.org/abs/2609.22167) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2609-22167.md))
 
 ## Data Engineering
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Tier: `essential` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
 - [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-12805.md))
+- [The Gradient Difference Induced by Detaching the Denominator in QK Normalization](https://arxiv.org/abs/2611.33887) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2611-33887.md))
 - [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2511-16717.md))
 - [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-27144.md))
 - [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2602-11139.md))
 - [ReSeg: Retraining-free segmentation of abdominal organs via generalizable semantic representation learning](https://arxiv.org/abs/2610.29090) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2610-29090.md))
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2407-18245.md))
-- [Role-Aware Morgan Fingerprints for Reaction Yield Prediction](https://arxiv.org/abs/2609.22167) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2609-22167.md))
 
 ## Data Redaction
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ---
-*Last updated: 2026-11-26 06:22 IST*
+*Last updated: 2026-11-26 20:00 IST*
