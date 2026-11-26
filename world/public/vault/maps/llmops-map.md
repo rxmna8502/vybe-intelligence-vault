@@ -10,11 +10,11 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
-*   [OpenTelemetry - DevStats](https://opentelemetry.devstats.cncf.io/d/8/dashboards?orgId=1&refresh=15m)
+*   [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
+*   [Time to First Byte (TTFB) | Articles | web.dev](https://web.dev/articles/ttfb)
 *   [[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
-*   [Pinecone - YouTube](https://www.youtube.com/@pinecone-io)
-*   [Google - YouTube](https://www.youtube.com/user/Google)
-*   [CSS Nesting | Chrome for Developers](https://developer.chrome.com/docs/css-ui/css-nesting)
+*   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
+*   [Debezium](https://debezium.io/)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.
