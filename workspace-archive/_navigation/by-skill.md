@@ -248,11 +248,11 @@ This index groups curated resources by target developer skills.
 - [JobMatchAI-An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI](https://arxiv.org/abs/2603.14558) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-14558.md))
 - [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (Tier: `useful` | [`Local File`](../../ai/resources/job-a-thon.md))
 - [Pro-AI Bias in Large Language Models](https://arxiv.org/abs/2601.13749) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-13749.md))
+- [Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market](https://arxiv.org/abs/2506.00058) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2506-00058.md))
 - [Counterfactual Bias Testing for Application Tracking System](https://arxiv.org/abs/2608.26899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-26899.md))
 - [AI evaluators favor job applications written by certain AI models, independent of candidate quality](https://arxiv.org/abs/2610.41866) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2610-41866.md))
 - [SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum](https://arxiv.org/abs/2608.26160) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-26160.md))
 - [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-16201.md))
-- [zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting](https://arxiv.org/abs/2608.16856) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16856.md))
 
 ## Model Optimization
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ---
-*Last updated: 2026-11-27 06:32 IST*
+*Last updated: 2026-11-27 19:56 IST*

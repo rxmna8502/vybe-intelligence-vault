@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-09-03T10:17:32.773457+05:30'
-published_at: '2026-08-25T03:15:58Z'
+collected_at: '2026-11-27T19:39:39.825479+05:30'
+published_at: '2026-11-25T20:50:00Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
-- workflows
-stars: 556
+stars: 560
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-09-03T10:17:32.773457+05:30'
-last_seen: '2026-09-03T10:17:32.773457+05:30'
-last_checked: '2026-09-03T10:17:32.773457+05:30'
+first_seen: '2026-11-27T19:39:39.825479+05:30'
+last_seen: '2026-11-27T19:39:39.825479+05:30'
+last_checked: '2026-11-27T19:39:39.825479+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI with MCP (Model Context Protocol) and LangGraph for agentic orchestration, enabling modular AI workflows with Python-based LangGraph.
-- **Observability & Storage**: Includes Prometheus/Grafana for monitoring, Langfuse for LLM evaluation, and Supabase/SQLModel for PostgreSQL-based data persistence.
-- **Deployment**: Pre-configured with Nginx for reverse proxy and supports scalable containerized deployment with community-driven tooling.
+*   Provides a template for scalable agentic orchestration leveraging LangGraph and MCP.
+*   Features
 
 ## Why It Matters
 
@@ -42,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NicholasGoh
-- Stars: 556
-- Forks: 86
+- Stars: 560
+- Forks: 87
 - Language: Python
 - Topics: compose, fastapi, grafana, langfuse, langgraph-python, mcp, nginx, prometheus, sqlmodel, supabase
-- Last Updated: 2026-08-25T03:15:58Z
+- Last Updated: 2026-11-25T20:50:00Z
 - License: MIT
 - Archived: No
 - Created At: 2025-04-16T13:47:46Z

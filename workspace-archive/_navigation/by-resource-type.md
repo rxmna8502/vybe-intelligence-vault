@@ -140,6 +140,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (Tier: `useful` | [`Local File`](../../ai/agents/hoodini-ai-agents-skills.md))
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md))
+- [AgenticResourceRegistry/AgenticResourceRegistry](https://github.com/AgenticResourceRegistry/AgenticResourceRegistry) (Tier: `useful` | [`Local File`](../../ai/agents/agenticresourceregistry-agenticresourceregistry.md))
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (Tier: `useful` | [`Local File`](../../web-development/threejs/pixiv-three-vrm.md))
 - [spite/Wagner](https://github.com/spite/wagner) (Tier: `useful` | [`Local File`](../../web-development/threejs/spite-wagner.md))
 - [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (Tier: `useful` | [`Local File`](../../web-development/threejs/luosijie-threejs-examples.md))
@@ -149,7 +150,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) (Tier: `useful` | [`Local File`](../../ai/rag/michaelfeil-infinity.md))
 - [Mario343214420/Webgl-Data-Demo](https://github.com/mario343214420/webgl-data-demo) (Tier: `useful` | [`Local File`](../../web-development/threejs/mario343214420-webgl-data-demo.md))
 - [z2586300277/three-cesium-examples](https://github.com/z2586300277/three-cesium-examples) (Tier: `useful` | [`Local File`](../../web-development/threejs/z2586300277-three-cesium-examples.md))
-- [creativelifeform/three-nebula](https://github.com/creativelifeform/three-nebula) (Tier: `useful` | [`Local File`](../../web-development/threejs/creativelifeform-three-nebula.md))
 
 ## TUTORIAL
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 
 ---
-*Last updated: 2026-11-27 06:32 IST*
+*Last updated: 2026-11-27 19:56 IST*

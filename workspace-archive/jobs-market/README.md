@@ -11,11 +11,11 @@ Aligning skill development with current hiring signals helps developers optimize
 - [JobMatchAI-An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI](https://arxiv.org/abs/2603.14558) (framework - USEFUL Tier)
 - [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (tutorial - USEFUL Tier)
 - [Pro-AI Bias in Large Language Models](https://arxiv.org/abs/2601.13749) (framework - USEFUL Tier)
+- [Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market](https://arxiv.org/abs/2506.00058) (framework - USEFUL Tier)
 - [Counterfactual Bias Testing for Application Tracking System](https://arxiv.org/abs/2608.26899) (prompt - USEFUL Tier)
 - [AI evaluators favor job applications written by certain AI models, independent of candidate quality](https://arxiv.org/abs/2610.41866) (framework - USEFUL Tier)
 - [SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum](https://arxiv.org/abs/2608.26160) (framework - USEFUL Tier)
 - [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (template - USEFUL Tier)
-- [zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting](https://arxiv.org/abs/2608.16856) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -35,4 +35,4 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ---
 
-*Last updated: 2026-11-27 06:32 IST*
+*Last updated: 2026-11-27 19:56 IST*

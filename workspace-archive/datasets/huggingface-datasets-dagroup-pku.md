@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: DAGroup-PKU/Open-HumanWAM-50K (Likes: 37, Downloads: 1563235)
+Trending Hugging Face dataset: DAGroup-PKU/Open-HumanWAM-50K (Likes: 38, Downloads: 1583238)
 
 ## Use Cases
 

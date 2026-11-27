@@ -4,25 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sickn33/agentic-awesome-skills
-collected_at: '2026-11-19T19:02:07.537959+05:30'
-published_at: '2026-11-19T12:47:17Z'
+collected_at: '2026-11-27T19:39:34.837792+05:30'
+published_at: '2026-11-27T13:53:24Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - python
 - workflows
-stars: 49984
+stars: 50438
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-01-14T17:48:09Z'
-pushed_at: '2026-11-19T08:59:53Z'
+pushed_at: '2026-11-26T18:59:39Z'
 resource_id: github:sickn33/agentic-awesome-skills
-first_seen: '2026-11-19T19:02:07.537959+05:30'
-last_seen: '2026-11-19T19:02:07.537959+05:30'
-last_checked: '2026-11-19T19:02:07.537959+05:30'
+first_seen: '2026-11-27T19:39:34.837792+05:30'
+last_seen: '2026-11-27T19:39:34.837792+05:30'
+last_checked: '2026-11-27T19:39:34.837792+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Offers 3,000+ reusable AI agent skills compatible with Claude Code, Codex, Cursor, and Gemini CLI.
-*   Integrates AAS Core for local skill catalog discovery, agent-owned selection, and plan preview capabilities.
-*   Features a modular architecture supporting CLI, MCP (Master Control Program), and plugin extensions for skill management.
+*   Provides a library of over 3,000 reusable AI agent skills compatible with Claude Code, Codex, Cursor, and Gemini CLI environments.
+*   AAS Core facilitates local skill catalog discovery, agent-owned skill selection, and pre-execution plan preview functionalities.
+*   Implemented in Python, featuring a CLI, a Master Control Program (MCP), and a plugin-based architecture for extensibility.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sickn33
-- Stars: 49984
-- Forks: 7244
+- Stars: 50438
+- Forks: 7312
 - Language: Python
 - Topics: agent-skills, agentic-skills, ai-agent-skills, ai-agents, ai-coding, ai-workflows, antigravity, antigravity-skills, claude-code, claude-code-skills, codex-cli, codex-skills, cursor, cursor-skills, developer-tools, gemini-cli, gemini-skills, kiro, mcp, skill-library
-- Last Updated: 2026-11-19T12:47:17Z
+- Last Updated: 2026-11-27T13:53:24Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-14T17:48:09Z
-- Pushed At: 2026-11-19T08:59:53Z
+- Pushed At: 2026-11-26T18:59:39Z
 
 ## Possible Use Cases
 

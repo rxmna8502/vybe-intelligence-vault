@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-may-be-in-cost-control-mode
 first_seen: '2026-11-27T06:13:09.363557+05:30'
 last_seen: '2026-11-27T06:13:09.363557+05:30'
 last_checked: '2026-11-27T06:13:09.363557+05:30'
 health_score: 100
 ---
+
 
 # OpenAI may be in cost control mode
 

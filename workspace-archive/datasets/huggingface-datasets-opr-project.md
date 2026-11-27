@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: OPR-Project/OxfordRobotCar_OpenPlaceRecognition (Likes: 11, Downloads: 1584221)
+Trending Hugging Face dataset: OPR-Project/OxfordRobotCar_OpenPlaceRecognition (Likes: 11, Downloads: 1564153)
 
 ## Use Cases
 
