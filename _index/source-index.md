@@ -43249,12 +43249,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI made self-hosting fun again](../ai/community/ai-made-self-hosting-fun-again.md)
   - [An algebraic quantization of gravity from the null cone](../ai/community/arxiv-2611-34924.md)
-  - [Much shorter version of GRH Lean verification from Anthropic](../ai/community/lsernau-grh-lean.md)
-  - [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](../ai/community/openai-cuts-gpt-6-2-usage-astra-hits-limits-40-fas.md)
-  - [Tell HN: Lots of Ask HNs again](../ai/community/tell-hn-lots-of-ask-hns-again.md)
-  - [The New York Times warns photographers not to update Photoshop over AI features](../ai/community/the-new-york-times-warns-photographers-not-to-upda.md)
-  - [Training on Documents About Monitoring Leads to Cot Obfuscation](../ai/community/arxiv-2605-15257.md)
+  - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](../ai/community/google-will-make-ai-agents-use-its-mcp-servers-the.md)
+  - [OpenAI may be in cost control mode](../ai/community/openai-may-be-in-cost-control-mode.md)
+  - [The USAID Files](../ai/community/the-usaid-files.md)
+  - [Top-cited AI scientists at four US companies compared](../ai/community/top-cited-ai-scientists-at-four-us-companies-compa.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -47184,4 +47184,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-26T19:56:11.599242+05:30*
+*Index generated on 2026-11-27T06:29:49.039067+05:30*

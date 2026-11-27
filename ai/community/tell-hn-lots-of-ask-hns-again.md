@@ -13,13 +13,14 @@ collected_at: '2026-11-26T19:34:05.742617+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tell-hn-lots-of-ask-hns-again
 first_seen: '2026-11-26T19:34:05.742617+05:30'
 last_seen: '2026-11-26T19:34:05.742617+05:30'
 last_checked: '2026-11-26T19:34:05.742617+05:30'
 health_score: 100
 ---
+
 
 # Tell HN: Lots of Ask HNs again
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-cuts-gpt-6-2-usage-astra-hits-limits-40-fas
 first_seen: '2026-11-26T19:34:06.756698+05:30'
 last_seen: '2026-11-26T19:34:06.756698+05:30'
 last_checked: '2026-11-26T19:34:06.756698+05:30'
 health_score: 100
 ---
+
 
 # OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
 

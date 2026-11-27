@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-26T23:43:58.286993+05:30`
+Generated at: `2026-11-27T06:33:59.323620+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,38 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
+- **OpenAI may be in cost control mode** - Score: `252` in category `ai/community` ([Link](https://micjm.com/blog/openai-is-in-cost-control-mode)) ([File](../ai/community/openai-may-be-in-cost-control-mode.md))
+- **AI made self-hosting fun again** - Score: `231` in category `ai/community` ([Link](https://janlukas.blog/posts/ai-self-hosting)) ([File](../ai/community/ai-made-self-hosting-fun-again.md))
+- **Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email** - Score: `218` in category `ai/community` ([Link](https://techstackups.com/articles/google-workspace-ai-agents-mcp)) ([File](../ai/community/google-will-make-ai-agents-use-its-mcp-servers-the.md))
+- **The USAID Files** - Score: `106` in category `ai/community` ([Link](https://reclaimthenet.org/usaid-files)) ([File](../ai/community/the-usaid-files.md))
+- **Top-cited AI scientists at four US companies compared** - Score: `27` in category `ai/community` ([Link](https://topcitedscientists.com/figures/ai-at-four-us-companies)) ([File](../ai/community/top-cited-ai-scientists-at-four-us-companies-compa.md))
 - **Parameter-Free Dynamic Regret under Heavy-Tailed Noise** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2607.27073)) ([File](../ai/research/arxiv-2607-27073.md))
-- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
 
 ## Top Trending Resources
 
-- **Reinforcing Diffusion Models by Instantaneous Trajectory Distribution Matching** - Score: `0` (0), Rank Change: `+35` ([File](../ai/research/arxiv-2611-30986.md))
-- **RoboInF: A Benchmark for Instruction Fidelity in Robotic Manipulation** - Score: `0` (0), Rank Change: `+35` ([File](../ai/agents/arxiv-2611-30555.md))
-- **De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns** - Score: `0` (0), Rank Change: `+35` ([File](../ai/research/arxiv-2611-30509.md))
-- **PixelOne: From Options to Pixels in a Single Forward for GUI Grounding** - Score: `0` (0), Rank Change: `+35` ([File](../ai/rag/arxiv-2611-30235.md))
-- **Seeing vs. Knowing: Counterfactual Supervision and Correction for 3D-Aware Object Editing** - Score: `0` (0), Rank Change: `+35` ([File](../ai/research/arxiv-2611-29542.md))
-- **Grammar-as-a-Drafter: More Tokens per Speculative Decoding Step on Grammar-Constrained Structured Outputs** - Score: `0` (0), Rank Change: `+35` ([File](../ai/rag/arxiv-2611-28349.md))
-- **Social sycophancy differs across access modes of large language models** - Score: `0` (0), Rank Change: `+35` ([File](../ai/research/arxiv-2611-28012.md))
-- **Bradley-Terry Training Can Distort Outcome Probabilities of Initially Accurate Language World Models** - Score: `0` (0), Rank Change: `+35` ([File](../ai/rag/arxiv-2611-25594.md))
-- **On-policy distillation as a Backdoor Propagation Channel** - Score: `0` (0), Rank Change: `+35` ([File](../ai/rag/arxiv-2611-19207.md))
-- **Editable Video Context: Mid-Context KV-Cache Reuse for Context-Managing Video LLMs** - Score: `0` (0), Rank Change: `+35` ([File](../ai/rag/arxiv-2611-18718.md))
+- **An algebraic quantization of gravity from the null cone** - Score: `205` (+121), Rank Change: `+1` ([File](../ai/community/arxiv-2611-34924.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1738` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+11` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/malonge-ragoo.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-language-technologies.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+28062`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **stanford-oval/storm** - (Rank Change: `+17205`) ([File](../ai/rag/stanford-oval-storm.md))
-- **snyk/agent-scan** - (Rank Change: `+1074`) ([File](../ai/agents/snyk-agent-scan.md))
-- **sierra-research/tau2-bench** - (Rank Change: `+1074`) ([File](../ai/agents/sierra-research-tau2-bench.md))
-- **amitshekhariitbhu/ai-agents-tutorial** - (Rank Change: `+1074`) ([File](../ai/agents/amitshekhariitbhu-ai-agents-tutorial.md))
-- **Cinnamon/kotaemon** - (Rank Change: `+1074`) ([File](../ai/rag/cinnamon-kotaemon.md))
-- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - (Rank Change: `+1074`) ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
-- **stackitcloud/rag-template** - (Rank Change: `+1074`) ([File](../ai/rag/stackitcloud-rag-template.md))
-- **Shubhamsaboo/awesome-llm-apps** - (Rank Change: `+1074`) ([File](../ai/rag/shubhamsaboo-awesome-llm-apps.md))
-- **vercel-labs/ai-sdk-preview-rag** - (Rank Change: `+1074`) ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1738`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+644`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **openai-community/gpt2** - (Rank Change: `+644`) ([File](../ai/models/huggingface-openai-community-gpt2.md))
+- **google-bert/bert-base-uncased** - (Rank Change: `+644`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
+- **Comfy-Org/MiniMax-H3** - (Rank Change: `+644`) ([File](../ai/models/huggingface-comfy-org-minimax-h3.md))
+- **BAAI/bge-m3** - (Rank Change: `+644`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+644`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+644`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
+- **autogluon/chronos-2** - (Rank Change: `+644`) ([File](../ai/models/huggingface-autogluon-chronos-2.md))
+- **argmaxinc/whisperkit-coreml** - (Rank Change: `+644`) ([File](../ai/models/huggingface-argmaxinc-whisperkit-coreml.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +50,8 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Much shorter version of GRH Lean verification from Anthropic** (Category: `ai/community`) ([File](../ai/community/lsernau-grh-lean.md))
+- **The New York Times warns photographers not to update Photoshop over AI features** (Category: `ai/community`) ([File](../ai/community/the-new-york-times-warns-photographers-not-to-upda.md))
+- **OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster** (Category: `ai/community`) ([File](../ai/community/openai-cuts-gpt-6-2-usage-astra-hits-limits-40-fas.md))
+- **Tell HN: Lots of Ask HNs again** (Category: `ai/community`) ([File](../ai/community/tell-hn-lots-of-ask-hns-again.md))
+- **Training on Documents About Monitoring Leads to Cot Obfuscation** (Category: `ai/community`) ([File](../ai/community/arxiv-2605-15257.md))

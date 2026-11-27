@@ -13,13 +13,14 @@ collected_at: '2026-11-26T19:34:05.974708+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: github:lsernau/grh-lean
 first_seen: '2026-11-26T06:02:59.542711+05:30'
 last_seen: '2026-11-26T19:34:05.974708+05:30'
 last_checked: '2026-11-26T19:34:05.974708+05:30'
 health_score: 100
 ---
+
 
 # Much shorter version of GRH Lean verification from Anthropic
 
