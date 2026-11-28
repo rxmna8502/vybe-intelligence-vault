@@ -1,31 +1,19 @@
 ---
-title: extentos/mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-11-28
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Android SDK
-- iOS SDK
-- WebSocket
-- npm
+title: "extentos/mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Android SDK", "iOS SDK", "WebSocket", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- smart-glasses
-- MCP server
-- AI agent tools
-- mobile SDK
-- simulation
-source: https://github.com/extentos/mcp-server
+deployment_complexity: "Medium"
+tags: ["smart-glasses", "MCP server", "AI agent tools", "mobile SDK", "simulation"]
+source: "https://github.com/extentos/mcp-server"
 stars: 1
-language: None
-last_updated: '2026-08-01T08:47:23Z'
-discovered_at: '2026-08-01T09:06:47Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-01T08:47:23Z"
+discovered_at: "2026-08-01T09:06:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
