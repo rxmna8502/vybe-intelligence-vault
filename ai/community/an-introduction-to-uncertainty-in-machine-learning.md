@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - machine learning
-status: active
+status: inactive
 resource_id: hackernews:an-introduction-to-uncertainty-in-machine-learning
 first_seen: '2026-11-27T19:32:52.442376+05:30'
 last_seen: '2026-11-27T19:32:52.442376+05:30'
 last_checked: '2026-11-27T19:32:52.442376+05:30'
 health_score: 100
 ---
+
 
 # An introduction to uncertainty in machine learning
 

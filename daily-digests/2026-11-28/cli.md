@@ -1,19 +1,32 @@
 ---
-title: "flurryport/cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "Webhook", "HTTP", "HMAC", "JSONata"]
+title: flurryport/cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-11-28
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- Webhook
+- HTTP
+- HMAC
+- JSONata
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["webhook capture", "MCP server", "replay", "AI agent integration", "deterministic testing"]
-source: "https://github.com/flurryport/cli"
+deployment_complexity: Low
+tags:
+- webhook capture
+- MCP server
+- replay
+- AI agent integration
+- deterministic testing
+source: https://github.com/flurryport/cli
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:42:28Z"
-discovered_at: "2026-09-01T02:53:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:42:28Z'
+discovered_at: '2026-09-01T02:53:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-will-make-ai-agents-use-its-mcp-servers-the
 first_seen: '2026-11-27T06:13:09.298260+05:30'
 last_seen: '2026-11-27T19:32:52.289471+05:30'
 last_checked: '2026-11-27T19:32:52.289471+05:30'
 health_score: 100
 ---
+
 
 # Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email
 

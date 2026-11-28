@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pizza-history-ai-agent-s-cardless-purchase-is-a-fi
 first_seen: '2026-11-27T19:32:52.719460+05:30'
 last_seen: '2026-11-27T19:32:52.719460+05:30'
 last_checked: '2026-11-27T19:32:52.719460+05:30'
 health_score: 100
 ---
+
 
 # Pizza history: AI agent's cardless purchase is a first for UK
 

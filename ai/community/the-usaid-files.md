@@ -13,13 +13,14 @@ collected_at: '2026-11-27T19:32:54.293327+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-usaid-files
 first_seen: '2026-11-27T06:13:09.939966+05:30'
 last_seen: '2026-11-27T19:32:54.293327+05:30'
 last_checked: '2026-11-27T19:32:54.293327+05:30'
 health_score: 100
 ---
+
 
 # The USAID Files
 

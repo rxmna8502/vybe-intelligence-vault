@@ -43504,15 +43504,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI made self-hosting fun again](../ai/community/ai-made-self-hosting-fun-again.md)
-  - [An algebraic quantization of gravity from the null cone](../ai/community/arxiv-2611-34924.md)
-  - [An introduction to uncertainty in machine learning](../ai/community/an-introduction-to-uncertainty-in-machine-learning.md)
-  - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](../ai/community/google-will-make-ai-agents-use-its-mcp-servers-the.md)
-  - [Pizza history: AI agent's cardless purchase is a first for UK](../ai/community/pizza-history-ai-agent-s-cardless-purchase-is-a-fi.md)
-  - [The USAID Files](../ai/community/the-usaid-files.md)
-  - [The group chat where your AI talks behind your back](../ai/community/the-group-chat-where-your-ai-talks-behind-your-bac.md)
+  - [Prospero: Bloat-free, native AI coding harness with ImGui](../ai/community/skeeto-prospero.md)
+  - [Show HN: DragDropMath – Learn math by feel](../ai/community/show-hn-dragdropmath-learn-math-by-feel.md)
+  - [Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10](../ai/community/show-hn-getting-101-tok-s-from-inkling-2-mini-in-v.md)
   - [The need for a formally verifiable mainstream programming language](../ai/community/the-need-for-a-formally-verifiable-mainstream-prog.md)
-  - [US Air Force's cloud computing platform hacked](../ai/community/us-air-force-s-cloud-computing-platform-hacked.md)
+  - [Why drivers want cheap, dumb cars again](../ai/community/why-drivers-want-cheap-dumb-cars-again.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -47443,4 +47439,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-27T19:51:58.753979+05:30*
+*Index generated on 2026-11-28T05:56:37.155815+05:30*

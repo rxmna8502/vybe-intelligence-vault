@@ -4425,7 +4425,6 @@ Resources organized by keyword tags.
   - [Google Play Terms of Service](../ai/rag/google-play-terms-of-service.md)
   - [Google Research - Explore Our Latest Research in Science and AI](../ai/rag/google-research-explore-our-latest-research-in-sci.md)
   - [Google Store Terms of Sale for Devices](../ai/rag/google-store-terms-of-sale-for-devices.md)
-  - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](../ai/community/google-will-make-ai-agents-use-its-mcp-servers-the.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
   - [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md)
   - [Governance at the Boundary: How Agent Decomposition Degrades Policy Compliance](../ai/agents/arxiv-2608-16055.md)
@@ -7075,7 +7074,6 @@ Resources organized by keyword tags.
   - [Pix2Fact: When Vision Is Not Enough -- Benchmarking Fine-Grained VQA with Web Verification on High-Resolution Real-World Scenes](../ai/rag/arxiv-2602-00593.md)
   - [PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](../ai/rag/arxiv-2606-24081.md)
   - [Pixels to Keys: Exploring Spatial and Motion Cues in Gameplay Inverse Dynamics](../ai/agents/arxiv-2609-37907.md)
-  - [Pizza history: AI agent's cardless purchase is a first for UK](../ai/community/pizza-history-ai-agent-s-cardless-purchase-is-a-fi.md)
   - [PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking](../ai/agents/arxiv-2609-21263.md)
   - [Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines](../ai/agents/arxiv-2611-13413.md)
   - [Plan Before You Trade: Inference-Time Optimization for RL Trading Agents](../ai/agents/arxiv-2605-12653.md)
@@ -11014,15 +11012,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI made self-hosting fun again](../ai/community/ai-made-self-hosting-fun-again.md)
-  - [An algebraic quantization of gravity from the null cone](../ai/community/arxiv-2611-34924.md)
-  - [An introduction to uncertainty in machine learning](../ai/community/an-introduction-to-uncertainty-in-machine-learning.md)
-  - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](../ai/community/google-will-make-ai-agents-use-its-mcp-servers-the.md)
-  - [Pizza history: AI agent's cardless purchase is a first for UK](../ai/community/pizza-history-ai-agent-s-cardless-purchase-is-a-fi.md)
-  - [The USAID Files](../ai/community/the-usaid-files.md)
-  - [The group chat where your AI talks behind your back](../ai/community/the-group-chat-where-your-ai-talks-behind-your-bac.md)
+  - [Prospero: Bloat-free, native AI coding harness with ImGui](../ai/community/skeeto-prospero.md)
   - [The need for a formally verifiable mainstream programming language](../ai/community/the-need-for-a-formally-verifiable-mainstream-prog.md)
-  - [US Air Force's cloud computing platform hacked](../ai/community/us-air-force-s-cloud-computing-platform-hacked.md)
+  - [Why drivers want cheap, dumb cars again](../ai/community/why-drivers-want-cheap-dumb-cars-again.md)
 
 ## animation
 
@@ -43210,7 +43202,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI made self-hosting fun again](../ai/community/ai-made-self-hosting-fun-again.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -43423,10 +43414,8 @@ Resources organized by keyword tags.
   - [An Optimal Control Approach To Transformer Training](../ai/research/arxiv-2603-09571.md)
   - [An Uncertainty-Guided Digital Twin Framework for Online Adaptive Proton Therapy in Head and Neck Cancer: A Feasibility Study](../ai/research/arxiv-2609-39010.md)
   - [An Unreasonably Deep Dive Into Project Euler Problem 4 - Adam Drake](../ai/rag/an-unreasonably-deep-dive-into-project-euler-probl.md)
-  - [An algebraic quantization of gravity from the null cone](../ai/community/arxiv-2611-34924.md)
   - [An emancipatory vision for designing (generative) AI for learner flourishing](../ai/agents/arxiv-2609-07715.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
-  - [An introduction to uncertainty in machine learning](../ai/community/an-introduction-to-uncertainty-in-machine-learning.md)
   - [An ontology for cross-sectoral crisis management: core and public health modules](../ai/research/arxiv-2610-01326.md)
   - [An operator splitting analysis of Wasserstein--Fisher--Rao gradient flows](../ai/research/arxiv-2511-18060.md)
   - [An overview of machine learning-enhanced iterative methods for systems of linear and nonlinear equations](../ai/research/arxiv-2610-07211.md)
@@ -44948,7 +44937,6 @@ Resources organized by keyword tags.
   - [Google Store Terms of Sale for Devices](../ai/rag/google-store-terms-of-sale-for-devices.md)
   - [Google Sustainability](../ai/rag/google-sustainability.md)
   - [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md)
-  - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](../ai/community/google-will-make-ai-agents-use-its-mcp-servers-the.md)
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
@@ -46194,7 +46182,6 @@ Resources organized by keyword tags.
   - [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](../ai/research/arxiv-2609-15919.md)
   - [Pinecone - YouTube](../ai/resources/pinecone-youtube.md)
   - [PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](../ai/rag/arxiv-2606-24081.md)
-  - [Pizza history: AI agent's cardless purchase is a first for UK](../ai/community/pizza-history-ai-agent-s-cardless-purchase-is-a-fi.md)
   - [PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking](../ai/agents/arxiv-2609-21263.md)
   - [Plain Transformers are Surprisingly Powerful Link Predictors](../ai/rag/arxiv-2602-01553.md)
   - [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](../ai/rag/arxiv-2608-26088.md)
@@ -46336,6 +46323,7 @@ Resources organized by keyword tags.
   - [Propaganda Forensics: Recovering the Generation Pipeline of an AI-Driven Influence Campaign](../ai/research/arxiv-2608-15746.md)
   - [Property Estimation in Geotechnical Databases Using Labeled Random Finite Sets](../ai/rag/arxiv-2410-22659.md)
   - [Property-driven Causal Abstractions for Markov Decision Processes](../ai/research/arxiv-2607-26787.md)
+  - [Prospero: Bloat-free, native AI coding harness with ImGui](../ai/community/skeeto-prospero.md)
   - [ProtScape: A molecular structure and energy-aware representation for protein conformation generation](../ai/research/arxiv-2410-20317.md)
   - [Protect the Brain When Treating the Heart: Feasibility of 2.5D U-Net for Real-Time Gaseous Microemboli Detection](../ai/rag/arxiv-2604-22258.md)
   - [Protecting Confidentiality, Privacy and Integrity in Collaborative Learning](../ai/research/arxiv-2412-08534.md)
@@ -46811,6 +46799,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: DragDropMath – Learn math by feel](../ai/community/show-hn-dragdropmath-learn-math-by-feel.md)
+  - [Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10](../ai/community/show-hn-getting-101-tok-s-from-inkling-2-mini-in-v.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -47221,7 +47211,6 @@ Resources organized by keyword tags.
   - [The Tamed Subgradient Unadjusted Langevin Algorithm beyond Convexity](../ai/research/arxiv-2608-06283.md)
   - [The Technology Behind BLOOM Training](../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
   - [The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence](../ai/agents/arxiv-2604-06621.md)
-  - [The USAID Files](../ai/community/the-usaid-files.md)
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Urysohn Ladder: Recursive Metric Contraction for Scalable Continual Learning](../ai/research/arxiv-2512-18471.md)
   - [The Utility and Complexity of in- and out-of-Distribution Machine Unlearning](../ai/research/arxiv-2412-09119.md)
@@ -47232,7 +47221,6 @@ Resources organized by keyword tags.
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The geometry of neural network decision boundaries](../ai/research/arxiv-2611-24557.md)
-  - [The group chat where your AI talks behind your back](../ai/community/the-group-chat-where-your-ai-talks-behind-your-bac.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The need for a formally verifiable mainstream programming language](../ai/community/the-need-for-a-formally-verifiable-mainstream-prog.md)
@@ -47409,7 +47397,6 @@ Resources organized by keyword tags.
   - [UPPAAi: Towards LLM-Assisted Modeling, Verification, Analysis and Synthesis](../ai/research/arxiv-2610-40042.md)
   - [URL Pattern Standard](../ai/rag/url-pattern-standard.md)
   - [URL Standard](../ai/rag/url-standard.md)
-  - [US Air Force's cloud computing platform hacked](../ai/community/us-air-force-s-cloud-computing-platform-hacked.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [UT Austin Computer Science](../ai/rag/ut-austin-computer-science.md)
   - [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md)
@@ -47660,6 +47647,7 @@ Resources organized by keyword tags.
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](../ai/research/arxiv-2608-26182.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
+  - [Why drivers want cheap, dumb cars again](../ai/community/why-drivers-want-cheap-dumb-cars-again.md)
   - [Why not to use the Gaussian kernel](../ai/research/arxiv-2608-26974.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
@@ -48683,9 +48671,9 @@ Resources organized by keyword tags.
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
 
-## machine learning
+## llm
 
-  - [An introduction to uncertainty in machine learning](../ai/community/an-introduction-to-uncertainty-in-machine-learning.md)
+  - [Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10](../ai/community/show-hn-getting-101-tok-s-from-inkling-2-mini-in-v.md)
 
 ## mdx
 
@@ -50924,7 +50912,6 @@ Resources organized by keyword tags.
   - [An actively trained neural operator for near-explicit atmospheric chemistry](../ai/research/arxiv-2610-33771.md)
   - [An adaptive and evolvable deep reinforcement learning framework for weather prediction](../ai/rag/arxiv-2608-09948.md)
   - [An adaptive multi-fuzzy logic model for diagnosing transformer faults using dynamic weight optimization](../ai/research/arxiv-2607-23486.md)
-  - [An algebraic quantization of gravity from the null cone](../ai/community/arxiv-2611-34924.md)
   - [An optimal control approach for neural network architecture adaptation with a posteriori error estimation](../ai/rag/arxiv-2607-07637.md)
   - [Analog RF Computing for Integrated Data and AI Flows Over Wireless Networks](../ai/research/arxiv-2610-20841.md)
   - [Analysing Moral Bias in Finetuned LLMs through Mechanistic Interpretability](../ai/research/arxiv-2510-12229.md)
@@ -79899,6 +79886,7 @@ Resources organized by keyword tags.
   - [Shortcut Sensitivity in Agent-Safety Evaluations](../ai/rag/arxiv-2610-22243.md)
   - [Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../ai/rag/arxiv-2610-29508.md)
   - [Should Pseudo-Labels Share Mini-Batches with Labeled Examples? Semi-Supervised Continual Active Learning with Limited Training Cost](../ai/rag/arxiv-2610-35345.md)
+  - [Show HN: DragDropMath – Learn math by feel](../ai/community/show-hn-dragdropmath-learn-math-by-feel.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shrinkage priors for Bayesian Substitute Confounders](../ai/rag/arxiv-2606-18535.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -95931,4 +95919,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-27T19:51:58.163884+05:30*
+*Index generated on 2026-11-28T05:56:36.691546+05:30*

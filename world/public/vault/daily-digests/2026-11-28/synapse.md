@@ -1,19 +1,34 @@
 ---
-title: "dinglebear-ai/synapse"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "Docker", "Docker Compose", "SSH", "ZFS", "CLI", "REST", "OAuth", "Python"]
+title: dinglebear-ai/synapse
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-11-28
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- Docker
+- Docker Compose
+- SSH
+- ZFS
+- CLI
+- REST
+- OAuth
+- Python
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "container orchestration", "host management", "Docker control", "SSH automation"]
-source: "https://github.com/dinglebear-ai/synapse"
+deployment_complexity: Medium
+tags:
+- MCP server
+- container orchestration
+- host management
+- Docker control
+- SSH automation
+source: https://github.com/dinglebear-ai/synapse
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T03:36:55Z"
-discovered_at: "2026-08-01T03:44:07Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:36:55Z'
+discovered_at: '2026-08-01T03:44:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
