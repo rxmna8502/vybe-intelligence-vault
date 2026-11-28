@@ -9,13 +9,13 @@ Aligning skill development with current hiring signals helps developers optimize
 ## Top Matched Resources
 
 - [JobMatchAI-An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI](https://arxiv.org/abs/2603.14558) (framework - USEFUL Tier)
-- [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (tutorial - USEFUL Tier)
 - [Pro-AI Bias in Large Language Models](https://arxiv.org/abs/2601.13749) (framework - USEFUL Tier)
-- [Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market](https://arxiv.org/abs/2506.00058) (framework - USEFUL Tier)
-- [Counterfactual Bias Testing for Application Tracking System](https://arxiv.org/abs/2608.26899) (prompt - USEFUL Tier)
-- [AI evaluators favor job applications written by certain AI models, independent of candidate quality](https://arxiv.org/abs/2610.41866) (framework - USEFUL Tier)
-- [SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum](https://arxiv.org/abs/2608.26160) (framework - USEFUL Tier)
-- [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (template - USEFUL Tier)
+- [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (tutorial - USEFUL Tier)
+- [Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring](https://arxiv.org/abs/2604.19984) (framework - USEFUL Tier)
+- [Semantic Candidate-Job Matching: A Comparative Evaluation of Dense Embedding Models in Hybrid Retrieval](https://arxiv.org/abs/2609.23307) (framework - USEFUL Tier)
+- [Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval](https://arxiv.org/abs/2407.20371) (framework - USEFUL Tier)
+- [Lost in Phonation: Voice Quality Variation as an Evaluation Dimension for Speech Foundation Models](https://arxiv.org/abs/2510.25577) (framework - USEFUL Tier)
+- [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -35,4 +35,4 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ---
 
-*Last updated: 2026-11-28 05:59 IST*
+*Last updated: 2026-11-28 13:50 IST*

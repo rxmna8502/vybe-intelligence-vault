@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://dragdropmath.com
 hn_url: https://news.ycombinator.com/item?id=50669673
-score: 82
+score: 127
 author: ziofill
-comments_count: 22
+comments_count: 37
 published_at: '2026-11-27T23:26:28+05:30'
-collected_at: '2026-11-28T05:39:41.174101+05:30'
+collected_at: '2026-11-28T13:31:55.147953+05:30'
 tags:
 - hackernews
 - rag
 status: active
 resource_id: hackernews:show-hn-dragdropmath-learn-math-by-feel
 first_seen: '2026-11-28T05:39:41.174101+05:30'
-last_seen: '2026-11-28T05:39:41.174101+05:30'
-last_checked: '2026-11-28T05:39:41.174101+05:30'
+last_seen: '2026-11-28T13:31:55.147953+05:30'
+last_checked: '2026-11-28T13:31:55.147953+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ziofill. Score: 82, Comments: 22.
+Hacker News story by ziofill. Score: 127, Comments: 37.
 Original Link: https://dragdropmath.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ziofill
-- Score: 82 Upvotes
-- Comments: 22 Discussions
+- Score: 127 Upvotes
+- Comments: 37 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50669673
 - Original Article: https://dragdropmath.com
 

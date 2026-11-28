@@ -6,18 +6,18 @@ Curated highlights from the current week's collection, representing high-quality
 
 *   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
 *   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Curriculum-Adapted Robust Reinforcement Learning for UAV Deconfliction in Adversarial Environments](https://arxiv.org/abs/2506.21129) (Score: 70) - Category: `ai-coding-agents/`
-*   [Autonomous Droplet Navigation via Model-Based Reinforcement Learning: Zero-Shot Transfer and Emergent Dynamics](https://arxiv.org/abs/2610.08852) (Score: 70) - Category: `ai-coding-agents/`
-*   [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) (Score: 70) - Category: `ai-coding-agents/`
-*   [Can LLMs Imagine Moral Alternatives Beyond Binary Dilemmas?](https://arxiv.org/abs/2606.31213) (Score: 70) - Category: `ai-coding-agents/`
-*   [Audit the Scaffold, Not the Checkpoint: A Stationarity Dichotomy for Recursive Self-Improvement in Agentic Coding](https://arxiv.org/abs/2609.34924) (Score: 70) - Category: `ai-coding-agents/`
-*   [The Language of Bargaining: Linguistic Effects in LLM Negotiations](https://arxiv.org/abs/2601.04387) (Score: 70) - Category: `ai-coding-agents/`
-*   [Sensory Precision Inference for Multimodal Arbitration under Uncertainty](https://arxiv.org/abs/2609.15065) (Score: 70) - Category: `ai-coding-agents/`
-*   [Evaluating Agentic Code Repair Capabilities in Distributed Systems](https://arxiv.org/abs/2608.14863) (Score: 70) - Category: `ai-coding-agents/`
-*   [Governing the Edge: Automating Commercial Property and Casualty Insurance Underwriting via a Hybrid Local-Cloud Multi-Agent Framework](https://arxiv.org/abs/2609.37454) (Score: 70) - Category: `ai-coding-agents/`
-*   [Object-Centric World Models for Causality-Aware Reinforcement Learning](https://arxiv.org/abs/2511.14262) (Score: 70) - Category: `ai-coding-agents/`
-*   [Fundamental limits of distributed multiclass classification from simple binary decisions](https://arxiv.org/abs/2607.19334) (Score: 70) - Category: `ai-coding-agents/`
-*   [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) (Score: 70) - Category: `ai-coding-agents/`
-*   [CastFlow: Bridging Evidence Acquisition and Accurate Prediction in Agentic Time Series Forecasting](https://arxiv.org/abs/2604.27840) (Score: 70) - Category: `ai-coding-agents/`
+*   [Writing Weights or Training Them? Spatial Reasoning through Weight-Space Programming and Low-Rank Adaptation](https://arxiv.org/abs/2611.27089) (Score: 70) - Category: `ai-coding-agents/`
+*   [FAIDER: Fairness-Aware Item-Level Decoding for Large Language Model Recommenders](https://arxiv.org/abs/2611.10285) (Score: 70) - Category: `ai-coding-agents/`
+*   [LoRA as Oracle](https://arxiv.org/abs/2601.11207) (Score: 70) - Category: `ai-coding-agents/`
+*   [SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding](https://arxiv.org/abs/2607.10400) (Score: 70) - Category: `ai-coding-agents/`
+*   [Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models](https://arxiv.org/abs/2608.07890) (Score: 70) - Category: `ai-coding-agents/`
+*   [Authority-Preserving Evaluation of Medical Vision-Language Assistants](https://arxiv.org/abs/2609.22302) (Score: 70) - Category: `ai-coding-agents/`
+*   [The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI](https://arxiv.org/abs/2609.36069) (Score: 70) - Category: `ai-coding-agents/`
+*   [Weather Emulators at the Frontier of Heat Extremes Predictability](https://arxiv.org/abs/2607.28220) (Score: 70) - Category: `ai-coding-agents/`
+*   [Configurable Multi-Stage Vision Pipeline for Crop Disease and Pest Diagnosis](https://arxiv.org/abs/2609.21651) (Score: 70) - Category: `ai-coding-agents/`
+*   [Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study](https://arxiv.org/abs/2609.13494) (Score: 70) - Category: `ai-coding-agents/`
+*   [AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data](https://arxiv.org/abs/2611.21691) (Score: 70) - Category: `ai-coding-agents/`
+*   [AI Psychosis: Does Conversational AI Amplify Delusion-Related Language?](https://arxiv.org/abs/2603.19574) (Score: 70) - Category: `ai-coding-agents/`
+*   [TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs](https://arxiv.org/abs/2606.26029) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

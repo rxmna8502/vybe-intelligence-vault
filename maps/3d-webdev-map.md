@@ -11,10 +11,10 @@ Three.js, React Three Fiber (R3F), GSAP, WebGPU, Spline.
 
 ## Recommended Resources from the Vault
 *   [idflood/ThreeNodes.js](https://github.com/idflood/threenodes.js)
-*   [Mario343214420/Webgl-Data-Demo](https://github.com/mario343214420/webgl-data-demo)
-*   [z2586300277/three-cesium-examples](https://github.com/z2586300277/three-cesium-examples)
-*   [creativelifeform/three-nebula](https://github.com/creativelifeform/three-nebula)
-*   [mkkellogg/GaussianSplats3D](https://github.com/mkkellogg/gaussiansplats3d)
+*   [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu)
+*   [playcanvas/engine](https://github.com/playcanvas/engine)
+*   [webgpu/webgpu-samples](https://github.com/webgpu/webgpu-samples)
+*   [gnikoloff/webgpu-sponza-demo](https://github.com/gnikoloff/webgpu-sponza-demo)
 
 ## Project Ideas
 *   Interactive 3D landing landing page using React Three Fiber and GSAP.

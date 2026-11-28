@@ -13,13 +13,14 @@ collected_at: '2026-11-28T05:39:42.182518+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:show-hn-getting-101-tok-s-from-inkling-2-mini-in-v
 first_seen: '2026-11-28T05:39:42.182518+05:30'
 last_seen: '2026-11-28T05:39:42.182518+05:30'
 last_checked: '2026-11-28T05:39:42.182518+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10
 

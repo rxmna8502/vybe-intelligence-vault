@@ -9,21 +9,21 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 ## Top Matched Resources
 
 - [KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887) (framework - USEFUL Tier)
-- [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (prompt - USEFUL Tier)
-- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
-- [Probing agent overeagerness in realistic settings with continuation audits](https://arxiv.org/abs/2611.24491) (framework - USEFUL Tier)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
+- [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (prompt - USEFUL Tier)
+- [Test-Time Symmetrization: Scaling Laws for Model-Agnostic Learning under Structure](https://arxiv.org/abs/2611.24032) (prompt - USEFUL Tier)
 - [A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach](https://arxiv.org/abs/2609.24348) (framework - USEFUL Tier)
+- [Self-Evolving Coding Rules for AI Coding Agents](https://arxiv.org/abs/2610.00650) (framework - USEFUL Tier)
 - [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (framework - USEFUL Tier)
-- [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/cursor-rules (Cursor Rules Community)
 https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
-- [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md)
-- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli)
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli)
+- [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-11-28 05:57 IST*
+*Last updated: 2026-11-28 13:49 IST*

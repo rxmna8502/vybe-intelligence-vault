@@ -13,13 +13,14 @@ collected_at: '2026-11-28T05:39:42.300514+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-need-for-a-formally-verifiable-mainstream-prog
 first_seen: '2026-11-27T19:32:52.363423+05:30'
 last_seen: '2026-11-28T05:39:42.300514+05:30'
 last_checked: '2026-11-28T05:39:42.300514+05:30'
 health_score: 100
 ---
+
 
 # The need for a formally verifiable mainstream programming language
 

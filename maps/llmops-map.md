@@ -11,10 +11,10 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
 *   [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
-*   [Time to First Byte (TTFB) | Articles | web.dev](https://web.dev/articles/ttfb)
-*   [[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
-*   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
-*   [Debezium](https://debezium.io/)
+*   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
+*   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
+*   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
+*   [Sierra - YouTube](https://www.youtube.com/@Sierra-Platform)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

@@ -8,24 +8,24 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 ## Top Matched Resources
 
-- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
-- [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (framework - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
+- [neuml/txtai](https://github.com/neuml/txtai) (framework - ESSENTIAL Tier)
+- [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
+- [explosion/spaCy](https://github.com/explosion/spaCy) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
-- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
-- [ElevenLabs · GitHub](https://github.com/elevenlabs)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [neuml/txtai](https://github.com/neuml/txtai)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-11-28 05:59 IST*
+*Last updated: 2026-11-28 13:50 IST*

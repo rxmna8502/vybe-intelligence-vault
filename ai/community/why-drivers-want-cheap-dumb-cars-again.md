@@ -13,13 +13,14 @@ collected_at: '2026-11-28T05:39:40.146109+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-drivers-want-cheap-dumb-cars-again
 first_seen: '2026-11-28T05:39:40.146109+05:30'
 last_seen: '2026-11-28T05:39:40.146109+05:30'
 last_checked: '2026-11-28T05:39:40.146109+05:30'
 health_score: 100
 ---
+
 
 # Why drivers want cheap, dumb cars again
 
